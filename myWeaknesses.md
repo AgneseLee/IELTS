@@ -190,3 +190,76 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - [ ] `respectively` 有没有被需要
 - [ ] `in stark contrast` 用了几次
 - [ ] 每个程度副词：变化幅度超过15%了吗？超过就不能用 `slightly` / `marginally`
+
+---
+
+## 审题陷阱：读懂 y 轴
+
+写第一句前先看清 y 轴标签，再决定用什么词。
+
+| y 轴含义 | 正确描述 | 常见错误 |
+|---|---|---|
+| 绝对数量 | `rose to 500` | — |
+| 百分比份额 | `accounted for 30%` / `the proportion rose` | ✗ `the figure rose to 30%` |
+| 与上月相比的变化率 | `the rate of change rose to 3%` | ✗ `the price rose to 3%` |
+
+**口诀：** y 轴写的是什么，你就描述什么，不要描述它背后推算出来的东西。
+
+---
+
+## 常见语法错误补充
+
+### 比较结构
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `became slower than they were` | `decelerated compared to their X levels` | `slower than` 后须接同类比较对象 |
+| `throughout the most of` | `throughout most of` | `most of` 前无冠词 |
+
+### 冗余动词堆叠
+
+同义动词不要连用：
+
+- ✗ `saw a dramatic decline and plummeted` — 两者都表剧降
+- ✓ `declined dramatically, plummeting to -3%` — 分词短语补细节
+
+---
+
+## 实用句型：线图专项
+
+### 变化率专用名词（y 轴为 % change 时）
+
+| 词 | 用法 |
+|---|---|
+| `rate of change` | 最通用，替换 price/figure |
+| `percentage change` | 强调单位 |
+| `growth rate` | 仅用于正值区间 |
+
+### 峰谷与稳定
+
+| 句型 | 例句 |
+|---|---|
+| `having peaked at X in [month], ...` | `Zinc followed a similar pattern, having peaked at 3% in February.` |
+| `stabilised at around X%` | `Its rate of change stabilised at around -1% between July and October.` |
+| `declined dramatically, plummeting to X` | `Nickel declined dramatically, plummeting to -3% in June.` |
+
+### 比较与收敛
+
+| 句型 | 例句 |
+|---|---|
+| `a level comparable to X and Y` | `...recovering to 1% by December — a level comparable to Zinc and Copper.` |
+| `followed a broadly similar pattern` | `Zinc's rate of change followed a broadly similar pattern.` |
+| `decelerated compared to their X levels` | `The rates of change decelerated compared to their January levels.` |
+| `converged at approximately X%` | `By December, all three metals converged at approximately 1–2%.` |
+
+---
+
+## 多线图分组原则
+
+按**行为模式**分组，不按系列顺序：
+
+- 稳定组（如 Copper）→ 段2
+- 波动组（如 Nickel + Zinc）→ 段3，内部再比较
+
+✗ 错误做法：Copper 段、Nickel 段、Zinc 段（三段各自描述，缺比较）
+✓ 正确做法：Copper 段（稳定）+ Nickel & Zinc 段（波动 + 对比）

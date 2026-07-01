@@ -190,4 +190,3 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - [ ] `respectively` 有没有被需要
 - [ ] `in stark contrast` 用了几次
 - [ ] 每个程度副词：变化幅度超过15%了吗？超过就不能用 `slightly` / `marginally`
-

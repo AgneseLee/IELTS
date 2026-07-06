@@ -3,11 +3,14 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking Band 7 的 20 天备考计划与学习笔记
+- 新增仓库级 IELTS 作文批改、技能编写和代码交付技能
 - 将所有文件整理至 `speaking/` 和 `writing/` 子目录，按技能分类管理
 - `writing/` 下新增四个子目录：`dataChart/`、`mapTask/`、`processTask/`、`task2/`
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将口语题库重命名为 `speaking/topics.md`，简化文件名
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除

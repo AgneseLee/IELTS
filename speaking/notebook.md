@@ -525,3 +525,168 @@ During tomorrow's speaking practice, don't worry about learning new vocabulary. 
 * Overall...
 
 If you can use these expressions naturally, your speaking will sound noticeably more coherent and mature, which is exactly what IELTS examiners look for in **Band 7 Fluency & Coherence**. I think these will have a much bigger impact on your score than memorizing difficult vocabulary.
+
+
+---
+
+# 📅 Day 2 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---------|---------|----------|---------------|---------|
+| 7.0 | 7.0 | 6.5 | 7.0 | **7.0** |
+
+---
+
+## ✅ What I Did Today
+
+### Part 1
+Topics practised:
+- Morning Time
+- Work or Studies
+- Hobby
+
+### Band 7 Toolbox Used
+- Personally speaking,...
+- On top of that,...
+- As long as...
+- Take myself as an example.
+- That being said...
+- What appeals to me most is...
+- One thing I really appreciate is...
+
+### Part 2 Story Bank
+
+**Topic:** Describe a friend who has influenced you.
+
+**Who**
+- Stella
+- Former colleague
+- Met after moving to Beijing
+- Worked on the same project
+- Became close friends
+- Travelled to Malaysia together
+
+**Personality**
+- Extroverted
+- Open-minded
+- Thoughtful
+- Positive mindset
+
+**Main Event**
+- Bought lottery tickets in Malaysia
+- Neither of us won
+- I felt disappointed
+- Stella joked: "We just spent 10 RMB buying back our luck."
+- Everyone laughed and my disappointment disappeared.
+
+**Reflection**
+- She always sees the positive side.
+- She inspires me to stay optimistic when facing difficulties.
+- Spending time with her has helped me become more proactive and courageous.
+
+---
+
+## ⭐ Best Sentences Today
+
+> One thing I really appreciate about Stella is her ability to stay positive even in disappointing situations.
+
+> What appeals to me most is that she encourages me to keep learning and stay positive.
+
+---
+
+## 🔧 Three Grammar Mistakes
+
+❌ I've always got motivated by her energy.
+
+✅ I've always been motivated by her positive energy.
+
+---
+
+❌ I often inspired by her.
+
+✅ I am often inspired by her.
+
+---
+
+❌ Both of us neither won.
+
+✅ Neither of us won.
+
+---
+
+## 🚀 Vocabulary Upgrade
+
+Instead of...
+
+- appreciated friend → one of my closest friends
+- have same opinion → share similar opinions / be on the same wavelength
+- chat 得来 → we can talk for hours / conversation flows naturally
+- disappointed → dwell on the disappointment (advanced collocation)
+
+---
+
+# ⭐ Expressions to Master (Priority)
+
+## 1. What appeals to me most is...
+
+Use when explaining preferences.
+
+Example:
+> What appeals to me most is the opportunity to learn cutting-edge AI technologies.
+
+---
+
+## 2. One thing I really appreciate is...
+
+Use when describing people or things you admire.
+
+Example:
+> One thing I really appreciate about Stella is her positive attitude.
+
+---
+
+## 3. That being said...
+
+Use after presenting your main opinion, then add a balanced point.
+
+Pattern:
+Opinion.
+That being said...
+Exception.
+
+Example:
+> I prefer working alone. That being said, I still enjoy teamwork when brainstorming ideas.
+
+---
+
+## 4. Rather than...
+
+Use to express preference, NOT like "however".
+
+Pattern:
+I'd rather A rather than B.
+
+Example:
+> I'd rather choose a job with more learning opportunities rather than one with a higher salary.
+
+---
+
+## 5. Even though...
+
+Pattern:
+Even though + difficulty, result.
+
+Example:
+> Even though I was disappointed, Stella's words immediately cheered me up.
+
+---
+
+## 🎯 Focus for Day 3
+
+- Reduce hesitation before complex sentences.
+- Finish sentences confidently.
+- Use "That being said" naturally.
+- Use "Rather than" only when comparing two choices.
+- Add one specific example in every Part 3 answer.

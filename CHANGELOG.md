@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Writing Task 1 sugar cane process diagram 批改与 Band 7.5 范文
+- 新增 IELTS Speaking Day 2 练习总结、故事素材和表达复盘
 - 新增 IELTS Speaking Band 7 的 20 天备考计划与学习笔记
 - 新增仓库级 IELTS 作文批改、技能编写和代码交付技能
 - 将所有文件整理至 `speaking/` 和 `writing/` 子目录，按技能分类管理

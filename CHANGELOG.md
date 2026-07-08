@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Writing Task 1 public library map 批改、Band 7.0-7.5 范文和地图题提分清单
 - 新增 IELTS Writing Task 1 sugar cane process diagram 批改与 Band 7.5 范文
 - 新增 IELTS Speaking Day 2 练习总结、故事素材和表达复盘
 - 新增 IELTS Speaking Band 7 的 20 天备考计划与学习笔记

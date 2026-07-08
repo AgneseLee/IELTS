@@ -594,6 +594,8 @@ Topics practised:
 
 > What appeals to me most is that she encourages me to keep learning and stay positive.
 
+> She taught me that even disappointing things can be viewed from a different perspective.
+
 ---
 
 ## 🔧 Three Grammar Mistakes
@@ -680,6 +682,23 @@ Even though + difficulty, result.
 
 Example:
 > Even though I was disappointed, Stella's words immediately cheered me up.
+
+---
+
+## 6. ... can be viewed from a different perspective
+
+Use this when explaining how someone changed your mindset or helped you see a situation differently.
+
+Pattern:
+Someone taught me that even + negative situation + can be viewed from a different perspective.
+
+Example:
+> She taught me that even disappointing things can be viewed from a different perspective.
+
+More examples:
+> My manager taught me that even criticism can be viewed from a different perspective.
+
+> This experience taught me that even failure can be viewed from a different perspective.
 
 ---
 

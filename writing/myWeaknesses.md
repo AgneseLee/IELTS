@@ -193,6 +193,36 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ---
 
+## 地图题新增薄弱项
+
+### Overview 不要编造图中没有的信息
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `demolished to make way for accessibility for people` | `removed to create a more open central area` | 图中只显示桌椅被移除，没有直接体现 accessibility |
+| `digital media room` | `CDs, videos and computer games area` | 不要把旧设施过度概括成图中未写明的功能 |
+
+### 地图题时态与被动结构
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `has been undergone` | `has undergone` / `has been modernised` | `undergo` 是及物动词，不用于 `be undergone` 描述地点变化 |
+| `the seating area situated` | `the seating area was situated` | `situated` 作形容词/过去分词时需要 be 动词 |
+| `A computer room is constructed in where the reading room was` | `A computer room has been created where the reading room was` | `where` 已含地点含义，前面不加 `in` |
+
+### 地图题高分搭配
+
+| 功能 | 推荐表达 |
+|---|---|
+| 描述保留 | `maintained its original position` |
+| 描述改造 | `has been transformed into...` |
+| 描述替换 | `has been replaced by...` |
+| 描述邻近 | `adjacent to...` / `immediately to the east/west of...` |
+| 描述边缘位置 | `along the northern/southern edge of...` |
+| 描述两侧分布 | `flanking the central space` / `positioned on either side of...` |
+
+---
+
 ## 审题陷阱：读懂 y 轴
 
 写第一句前先看清 y 轴标签，再决定用什么词。

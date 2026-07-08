@@ -709,3 +709,253 @@ More examples:
 - Use "That being said" naturally.
 - Use "Rather than" only when comparing two choices.
 - Add one specific example in every Part 3 answer.
+
+---
+
+# 📅 Day 3 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+| ------- | ------- | ------- | ------------- | ------- |
+| 7.0–7.5 | 7.0     | 6.5     | 7.0           | **7.0** |
+
+---
+
+## ✅ What I Did Today
+
+### Part 1
+
+Topics practised:
+
+* Food
+* Walking
+* Pets & Animals
+
+### Band 7 Toolbox Used
+
+* What stands out most about...
+* Take ... as an example.
+* Thanks to...
+* Personally speaking,...
+* On the other hand,...
+* What I admire most is...
+* Spending time with her has taught me...
+* Things don't go as planned.
+
+---
+
+## 📚 Part 2 Story Bank (Story Migration)
+
+### Topic 1
+
+**Describe a person who makes plans a lot.**
+
+**Focus**
+
+* Stella always plans well in advance.
+* Started planning the Malaysia trip six months ahead.
+* Booked flights and hotels early.
+* Prepared a detailed itinerary.
+* Saved money.
+* Trip went smoothly.
+
+---
+
+### Topic 2
+
+**Describe a creative person you admire.**
+
+**Focus**
+
+* Creative mindset.
+* Looked at disappointment differently.
+* Lottery story.
+* "We're just buying back our luck."
+* Changed the atmosphere immediately.
+* Creativity is reflected in her way of thinking.
+
+---
+
+### Topic 3
+
+**Describe a friend you are proud of.**
+
+**Focus**
+
+* Hardworking.
+* Reliable.
+* Positive attitude.
+* Gives her best at work.
+* Inspires people around her.
+* Taught me to stay proactive and optimistic.
+
+---
+
+## ⭐ Best Sentences Today
+
+> What stands out most about her is her ability to stay optimistic.
+
+> Thanks to her careful planning, our trip went smoothly.
+
+> Spending time with her has taught me to be more proactive and optimistic.
+
+> She always plans everything well in advance.
+
+> She has a creative way of looking at disappointing situations.
+
+> Things don't go as planned.
+
+---
+
+## 🔧 Three Grammar Mistakes
+
+❌ reminds me that...
+
+✅ reminds me **of**...
+
+---
+
+❌ put effort on work
+
+✅ put effort **into** work
+
+---
+
+❌ alleviate the atmosphere
+
+✅ lighten the mood / lift everyone's spirits
+
+---
+
+## 🚀 Vocabulary Upgrade
+
+Instead of...
+
+* best friends → close friends
+* same opinions → share similar views
+* booked flight tickets → booked our flights
+* disappointed about that → disappointed that we didn't win
+* capability → ability
+* creative way to view → creative way of looking at
+
+---
+
+# ⭐ Expressions to Master (Priority)
+
+## 1. What stands out most about...
+
+Use this when introducing someone's strongest quality.
+
+Example:
+
+> What stands out most about her is her ability to stay optimistic.
+
+---
+
+## 2. Thanks to...
+
+Use this to explain positive results.
+
+Example:
+
+> Thanks to her careful planning, our trip went smoothly.
+
+---
+
+## 3. Plan well in advance
+
+Use this when describing organised people.
+
+Example:
+
+> She always plans everything well in advance.
+
+---
+
+## 4. Have a lot in common
+
+Use this when talking about friends.
+
+Example:
+
+> We have a lot in common, so we became close friends quickly.
+
+---
+
+## 5. Look at things from a different perspective
+
+Use this when describing positive or creative people.
+
+Example:
+
+> She taught me to look at disappointing situations from a different perspective.
+
+---
+
+## 6. Lighten the mood
+
+Use this instead of "make the atmosphere better."
+
+Example:
+
+> Her joke immediately lightened the mood.
+
+---
+
+## 7. Keep everyone's spirits up
+
+A more natural way to describe someone who encourages others.
+
+Example:
+
+> She always keeps everyone's spirits up when things don't go as planned.
+
+---
+
+## 🎯 Focus for Day 4
+
+* Reduce tense mistakes when telling stories.
+* Replace Chinese-style expressions with natural collocations.
+* Avoid repeating **"That's why..."** too often.
+* Continue ending Part 2 answers with a personal reflection.
+* Reuse the same story for different cue cards without memorising scripts.
+
+---
+
+## ⭐ Today's Biggest Improvement
+
+Today was the first time you successfully **reused one real story to answer three completely different Part 2 topics**:
+
+* Organized person ✅
+* Creative person ✅
+* Friend I'm proud of ✅
+
+This is exactly the skill that strong IELTS candidates use. Instead of memorizing dozens of answers, you're learning to **change the focus while keeping the same authentic experience**, making your speaking sound much more natural and flexible.
+
+---
+
+我建议从 **Day 3** 开始，我们再增加一个固定栏目：
+
+## ⭐ Native Collocations of the Day
+
+因为这是你目前从 **Band 7 → Band 7.5** 提升最快的地方。
+
+例如今天的：
+
+* bring back happy memories
+* clear my head
+* help me unwind
+* plan well in advance
+* months in advance
+* careful planning
+* detailed itinerary
+* share similar views
+* have a lot in common
+* look at things from a different perspective
+* things don't go as planned
+* lighten the mood
+* keep everyone's spirits up
+* put effort into one's work
+
+这些比背高级单词更有价值，也更符合你目前的提升阶段。

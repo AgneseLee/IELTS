@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking Day 3 练习总结、故事迁移素材、语法复盘和地道搭配清单
 - 新增 IELTS Writing Task 1 public library map 批改、Band 7.0-7.5 范文和地图题提分清单
 - 新增 IELTS Writing Task 1 sugar cane process diagram 批改与 Band 7.5 范文
 - 新增 IELTS Speaking Day 2 练习总结、故事素材和表达复盘

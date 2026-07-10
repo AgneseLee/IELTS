@@ -255,6 +255,58 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ---
 
+## Task 2 新增薄弱项
+
+### 讨论型作文：两边都要写清楚，但观点要更稳
+
+题目如果是 `Discuss both views and give your own opinion`，结构要清楚：
+
+- 第一段：改写题目 + 表明自己的平衡立场
+- 主体段 1：解释第一方观点
+- 主体段 2：解释第二方观点
+- 主体段 3 或结尾：给出自己的判断
+
+推荐句型：
+
+| 功能 | 推荐表达 |
+|---|---|
+| 引入讨论 | `People hold different views about whether...` |
+| 表明平衡观点 | `While A is certainly important, I believe B is also valuable.` |
+| 支持一方 | `One key strength of this approach is that...` |
+| 承认另一方 | `It is understandable why some people believe...` |
+| 平衡限制 | `This should not come at the expense of...` |
+
+### 不要编造调查数据
+
+Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信。
+
+| 问题写法 | 更稳写法 |
+|---|---|
+| `According to a survey in 2025, 60% of top companies...` | `For example, a student majoring in computer science may benefit from studying psychology or design...` |
+
+### 常见搭配错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `interested with` | `interested in` | 固定搭配是 `be interested in` |
+| `off-classes subjects` | `other subjects` / `optional subjects` | 前者不是自然表达 |
+| `main curriculums` | `main subjects` / `main course` | IELTS 题目语境下用 `subjects` 更自然 |
+| `curriculum projects` | `degree programme` / `main course` | `project` 不适合指大学课程体系 |
+| `artificial intelligent` | `artificial intelligence` | 名词形式是 `intelligence` |
+| `from the bottom of hearts` | `genuinely` / `what they truly enjoy` | 原表达不适合作文学术语境 |
+| `otherwise` | `as well` / `also` | `otherwise` 表示“否则”，不能表示“也” |
+
+### 避免过度绝对化
+
+| 过度表达 | 更稳表达 |
+|---|---|
+| `employers always get higher salaries` | `graduates with specialist knowledge may have better career prospects` |
+| `the depth of techniques is no longer significant` | `specialist knowledge remains important, but it is not always sufficient` |
+
+口诀：Task 2 里少用 `always`、`impossible`、`no longer significant` 这种绝对表达，改成 `may`、`can`、`not always sufficient` 更稳。
+
+---
+
 ## 实用句型：线图专项
 
 ### 变化率专用名词（y 轴为 % change 时）

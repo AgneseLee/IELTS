@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 18 Writing Task 2 批改、最小改动版、模板版和 Band 7-7.5 范文
+- 新增 IELTS Speaking Day 5 练习总结、故事转换素材和表达复盘
 - 新增 IELTS Writing Task 2 范文学习版、表达库，并补充 Speaking Day 4 练习总结
 - 新增 IELTS Writing Task 1 和 Task 2 写作模板整理文档
 - 新增 IELTS Speaking Day 3 练习总结、故事迁移素材、语法复盘和地道搭配清单
@@ -16,6 +18,8 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 Task 2 范文、模板和表达库移动至 `writing/task2/` 目录统一管理
+- 补充 Task 2 讨论型作文结构、搭配错误和论证风险复盘
 - 将口语题库重命名为 `speaking/topics.md`，简化文件名
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 

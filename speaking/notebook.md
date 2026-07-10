@@ -1126,3 +1126,160 @@ Instead of...
 ## ⭐ Today's Biggest Improvement
 
 Today you successfully reused **one real story** to answer four different Part 2 topics without sounding repetitive. Your reflections were much more personal than previous days, and your answers now sound like sharing real experiences instead of reciting memorized content. The next milestone is improving grammar consistency to make your Band 7 performance more stable.
+
+
+
+# 📅 Day 5 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---------|---------|----------|---------------|---------|
+| **7.5** | **7.0–7.5** | **7.0** | **7.0** | **7.0–7.5** |
+
+---
+
+## ✅ What I Did Today
+
+### Part 1
+- Gifts
+- Sports Teams
+- Sharing
+
+### Band 7 Toolbox Used
+- What impressed me most was...
+- Ever since then,...
+- Rather than...
+- On top of that,...
+- Personally speaking,...
+
+---
+
+## 📚 Story Bank Update
+
+### Describe a difficult period in your life
+- Laid off one month ago
+- Questioned my abilities after 8 years as a software engineer
+- Read *Counselling for Toads*
+- Learned to face emotions rather than avoid them
+- Gradually became calmer and more at peace
+
+可以。这个 cue card 的 **Impact** 部分其实是 Part 2 得分的关键，需要体现：
+
+**短期变化 → 长期习惯 → 思维改变 → 未来影响**
+
+你现在的 3 条偏“结果”，可以扩展成更完整的故事逻辑：
+
+---
+
+## Describe a piece of advice that had a positive impact on you
+
+### Advice:
+
+**Face your emotions instead of avoiding them.**
+
+### Impact:
+
+* **Pause and reflect before reacting**
+
+  * When I feel frustrated or overwhelmed, I have learned to take a step back and understand my emotions instead of reacting immediately.
+  * 学会在情绪爆发前停下来思考，而不是被情绪控制。
+
+* **Process my emotions in a healthier way**
+
+  * I became more willing to acknowledge negative feelings and figure out where they come from, rather than simply suppressing them.
+  * 不再逃避负面情绪，而是分析原因并接受它们。
+
+* **Avoid blaming others for things beyond their control**
+
+  * I gradually realized that blaming others rarely solves problems, and it is more helpful to focus on what I can control.
+  * 学会区分“我能控制的事情”和“我无法控制的事情”。
+
+* **Approach my goals with more clarity and patience**
+
+  * By understanding myself better, I can make decisions more calmly and focus on my future goals with a clearer mindset.
+  * 思考更清晰，面对未来更有耐心。
+
+* **Become more emotionally resilient**
+
+  * This experience helped me become stronger mentally and better prepared to deal with setbacks in the future.
+  * 提升面对挫折的恢复能力。
+
+* **Build a habit of self-reflection**
+
+  * Ever since then, I have made it a habit to pause and reflect whenever I face difficulties.
+  * 形成长期习惯，而不是只解决一次问题。
+
+---
+
+这样你的 Part 2 结构会更完整：
+
+**Advice**
+→ Face emotions rather than avoid them.
+
+**Immediate impact**
+→ Pause and reflect before reacting.
+
+**Behavior change**
+→ Process emotions, stop blaming others.
+
+**Long-term impact**
+→ More clarity, patience, resilience.
+
+这个版本和你的真实经历（被裁员、读《蛤蟆先生去看心理医生》、重新调整心态）高度匹配，也更容易自然讲到 **90–120 秒**。
+
+
+---
+
+## ⭐ Best Sentences Today
+
+> Their perspectives can make it easier to stay on track.
+
+> Ever since then, I've made it a habit to pause and reflect whenever I feel overwhelmed.
+
+> It has helped me approach my goals with more clarity and patience.
+
+> Gradually, I recovered, feeling calmer and more at peace most of the time.
+
+---
+
+## 🔧 Three Grammar Mistakes
+
+❌ letting others celebrating with you
+
+✅ letting others celebrate with you
+
+❌ face my emotion
+
+✅ face my emotions
+
+❌ out of people control
+
+✅ out of their control
+
+---
+
+## 🚀 Expressions & Collocations
+
+- stay on track
+- process my emotions
+- pause and reflect
+- make it a habit to...
+- approach my goals with more clarity and patience
+- feel calmer and more at peace
+- out of someone's control
+
+---
+
+## 🎯 Focus for Day 6
+
+- Improve tense consistency.
+- Reduce self-corrections.
+- Continue adapting one story to multiple cue cards.
+- End every Part 2 answer with a personal reflection.
+
+---
+
+## ⭐ Today's Biggest Improvement
+
+Today you moved from **story migration** to **story transformation**. You successfully adapted the same real experience to different cue cards while keeping the story authentic and personal.

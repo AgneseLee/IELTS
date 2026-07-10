@@ -1,7 +1,25 @@
-下面按你这 5 类功能扩展成“可背、可替换、可组合”的表达库。你可以把 `A / B / C` 当作变量，考场上直接换成题目关键词。
+# IELTS Writing Task 2 Expression Bank
 
-**1. 正向：说明好处**
-用途：写优点、支持某个做法、说明某事值得鼓励。
+下面按 5 类功能整理成“可背、可替换、可组合”的表达库。你可以把 `A / B / C` 当作变量，考场上直接换成题目关键词。
+
+## Quick Index
+
+| No. | Function | Use it when you need to... | Link |
+|---|---|---|---|
+| 1 | 正向 | 说明好处、支持做法 | [说明好处](#1-正向说明好处) |
+| 2 | 负向 | 说明坏处、指出风险 | [说明坏处](#2-负向说明坏处) |
+| 3 | 让步反驳 | 先承认，再否定 | [让步反驳](#3-让步反驳先承认再否定) |
+| 4 | 措施 | 提出解决办法 | [提出解决办法](#4-措施提出解决办法) |
+| 5 | 原因 | 分析为什么 | [分析原因](#5-原因分析为什么) |
+| 6 | 组合模板 | 快速组合主体段 | [组合模板](#6-最实用组合模板) |
+
+## 1. 正向：说明好处
+
+| Item | Notes |
+|---|---|
+| 用途 | 写优点、支持某个做法、说明某事值得鼓励 |
+| 常见位置 | 主体段主题句或解释句 |
+| 核心逻辑 | `A` 带来好处，并改善 `B` |
 
 | 可记忆句型 | 中文含义 |
 |---|---|
@@ -17,14 +35,18 @@
 | `This practice can lead to more sustainable and desirable outcomes.` | 这种做法能带来更可持续、更理想的结果。 |
 
 **万能替换例子**
-```text
-Better education brings substantial benefits.
-Public transport can generate positive outcomes for urban residents.
-Allowing children to make mistakes contributes to their long-term development.
-```
 
-**2. 负向：说明坏处**
-用途：写弊端、反对某个做法、说明风险。
+- Better education brings substantial benefits.
+- Public transport can generate positive outcomes for urban residents.
+- Allowing children to make mistakes contributes to their long-term development.
+
+## 2. 负向：说明坏处
+
+| Item | Notes |
+|---|---|
+| 用途 | 写弊端、反对某个做法、说明风险 |
+| 常见位置 | 主体段主题句或结果句 |
+| 核心逻辑 | `A` 带来问题，并损害 `B` |
 
 | 可记忆句型 | 中文含义 |
 |---|---|
@@ -40,14 +62,18 @@ Allowing children to make mistakes contributes to their long-term development.
 | `A may bring short-term convenience, but it creates long-term costs.` | A 可能带来短期便利，但会造成长期代价。 |
 
 **万能替换例子**
-```text
-Overusing private cars can produce harmful effects on the environment.
-Strict protection may weaken children's independence in the long run.
-Oil exploration can increase the risk of environmental damage.
-```
 
-**3. 让步反驳：先承认再否定**
-用途：写“虽然有道理，但我不完全同意”；特别适合讨论型、利弊型、观点型。
+- Overusing private cars can produce harmful effects on the environment.
+- Strict protection may weaken children's independence in the long run.
+- Oil exploration can increase the risk of environmental damage.
+
+## 3. 让步反驳：先承认再否定
+
+| Item | Notes |
+|---|---|
+| 用途 | 写“虽然有道理，但我不完全同意” |
+| 常见题型 | 讨论型、利弊型、观点型 |
+| 核心逻辑 | 先承认 `A` 有一定好处，再指出它有限或有代价 |
 
 | 可记忆句型 | 中文含义 |
 |---|---|
@@ -63,14 +89,18 @@ Oil exploration can increase the risk of environmental damage.
 | `For this reason, the positive side of A should not be overstated.` | 因此，A 的积极面不应被夸大。 |
 
 **万能替换例子**
-```text
-Although accepting a bad situation may reduce stress, this benefit is limited.
-While fossil fuel exploration may seem beneficial at first, its long-term effects are questionable.
-Even if strict rules bring order, they should not come at the expense of personal freedom.
-```
 
-**4. 措施：提出解决办法**
-用途：原因解决型、问题类作文、政府/学校/个人应该怎么做。
+- Although accepting a bad situation may reduce stress, this benefit is limited.
+- While fossil fuel exploration may seem beneficial at first, its long-term effects are questionable.
+- Even if strict rules bring order, they should not come at the expense of personal freedom.
+
+## 4. 措施：提出解决办法
+
+| Item | Notes |
+|---|---|
+| 用途 | 原因解决型、问题类作文、政府/学校/个人应该怎么做 |
+| 常见位置 | 解决方案段主题句或解释句 |
+| 核心逻辑 | 某个主体采取行动，以减少 `B` |
 
 | 可记忆句型 | 中文含义 |
 |---|---|
@@ -86,14 +116,18 @@ Even if strict rules bring order, they should not come at the expense of persona
 | `If this measure is implemented properly, it can reduce B significantly.` | 如果这一措施执行得当，可以显著减少 B。 |
 
 **万能替换例子**
-```text
-One practical measure is to improve public transport.
-Governments should take steps to reduce the use of fossil fuels.
-Schools should provide better support for students who struggle academically.
-```
 
-**5. 原因：分析为什么**
-用途：解释现象、分析问题根源、展开观点。
+- One practical measure is to improve public transport.
+- Governments should take steps to reduce the use of fossil fuels.
+- Schools should provide better support for students who struggle academically.
+
+## 5. 原因：分析为什么
+
+| Item | Notes |
+|---|---|
+| 用途 | 解释现象、分析问题根源、展开观点 |
+| 常见位置 | 原因段主题句或解释句 |
+| 核心逻辑 | `A` 的发生由 `B` 导致，背后还有更深层问题 |
 
 | 可记忆句型 | 中文含义 |
 |---|---|
@@ -109,44 +143,42 @@ Schools should provide better support for students who struggle academically.
 | `This situation reflects a deeper problem: B.` | 这种情况反映了一个更深层的问题：B。 |
 
 **万能替换例子**
-```text
-One major reason is that many people rely too heavily on private cars.
-This problem is partly caused by poor urban planning.
-A key factor behind this is the lack of practical education.
-```
 
-**最实用组合模板**
+- One major reason is that many people rely too heavily on private cars.
+- This problem is partly caused by poor urban planning.
+- A key factor behind this is the lack of practical education.
+
+## 6. 最实用组合模板
+
 你可以把 5 类句子组合成主体段。
 
-**正向段：**
-```text
-One key strength of A is its ability to improve B. This is mainly because A provides people with more opportunities to C. As a result, A not only brings immediate benefits but also creates long-term value.
-```
+### 正向段
 
-**负向段：**
-```text
-One major drawback of A is that it can produce harmful effects on B. This problem is partly caused by C. If this continues, A may create long-term costs that should not be underestimated.
-```
+One key strength of `A` is its ability to improve `B`. This is mainly because `A` provides people with more opportunities to `C`. As a result, `A` not only brings immediate benefits but also creates long-term value.
 
-**让步反驳段：**
-```text
-Admittedly, A has certain advantages, but these benefits are limited. While A may seem useful at first, its long-term effects are questionable. For this reason, the positive side of A should not be overstated.
-```
+### 负向段
 
-**措施段：**
-```text
-One practical measure is to improve A. Governments should take steps to provide better support for B. If this measure is implemented properly, it can reduce C significantly.
-```
+One major drawback of `A` is that it can produce harmful effects on `B`. This problem is partly caused by `C`. If this continues, `A` may create long-term costs that should not be underestimated.
 
-**原因段：**
-```text
-One major reason is that A has become increasingly common. Another contributing factor is B. This situation reflects a deeper problem: C.
-```
+### 让步反驳段
+
+Admittedly, `A` has certain advantages, but these benefits are limited. While `A` may seem useful at first, its long-term effects are questionable. For this reason, the positive side of `A` should not be overstated.
+
+### 措施段
+
+One practical measure is to improve `A`. Governments should take steps to provide better support for `B`. If this measure is implemented properly, it can reduce `C` significantly.
+
+### 原因段
+
+One major reason is that `A` has become increasingly common. Another contributing factor is `B`. This situation reflects a deeper problem: `C`.
+
+## Exam Method
 
 **考场使用口诀**
-`先选功能，再换变量。`
 
-你只需要判断这一段要干什么：
+先选功能，再换变量。
+
+**第一步：判断这一段要干什么**
 
 - 讲好处：用 `正向`
 - 讲坏处：用 `负向`
@@ -154,12 +186,12 @@ One major reason is that A has become increasingly common. Another contributing 
 - 提办法：用 `措施`
 - 分析原因：用 `原因`
 
-然后替换：
+**第二步：替换变量**
 
-```text
-A = 题目中的行为/现象
-B = 影响对象
-C = 结果/原因/具体方式
-```
+| Variable | Meaning |
+|---|---|
+| `A` | 题目中的行为/现象 |
+| `B` | 影响对象 |
+| `C` | 结果/原因/具体方式 |
 
 这样你就能充分利用当前页面里的模板，又不会写得像硬套。

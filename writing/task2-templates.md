@@ -70,7 +70,7 @@ In summary, I totally agree / disagree / partly agree with [题干观点]. On th
 
 The debate surrounding [题干话题] has engaged a broad audience recently. While some people argue that [观点A有论述], others believe that [观点B有论述]. From my perspective, I am more convinced by the former / the latter, as it rests not only on more ample theory but also on stronger evidence.
 
-### 支持的观点
+### 总结段
 
 In conclusion, although both perspectives have their own merits, I am more convinced by [我支持的观点], because [我反对的观点] fails to fully address [某个关键问题，可加 that 从句]. By contrast, [我支持的观点] not only avoids this shortcoming but also offers a more comprehensive and convincing foundation.
 

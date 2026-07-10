@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Writing Task 2 范文学习版、表达库，并补充 Speaking Day 4 练习总结
 - 新增 IELTS Writing Task 1 和 Task 2 写作模板整理文档
 - 新增 IELTS Speaking Day 3 练习总结、故事迁移素材、语法复盘和地道搭配清单
 - 新增 IELTS Writing Task 1 public library map 批改、Band 7.0-7.5 范文和地图题提分清单

@@ -959,3 +959,170 @@ This is exactly the skill that strong IELTS candidates use. Instead of memorizin
 * put effort into one's work
 
 这些比背高级单词更有价值，也更符合你目前的提升阶段。
+
+
+
+# 📅 Day 4 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---------|---------|----------|---------------|---------|
+| 7.0 | 7.0 | 6.5–7.0 | 7.0 | **7.0** |
+
+---
+
+## ✅ What I Did Today
+
+### Part 1
+Topics practised:
+- Reading
+- Typing
+- Writing
+
+### Band 7 Toolbox Used
+- Personally speaking,...
+- On top of that,...
+- That being said,...
+- What impressed me most was...
+- Ever since then,...
+- Rather than...
+- I'd definitely recommend...
+
+---
+
+## 📚 Story Bank 2
+
+### Core Story
+**Book:** *Counselling for Toads: A Psychological Adventure*
+
+**Why I chose it**
+- Recommended online
+- Popular in bookstores
+- Wanted help understanding emotions
+
+**Main idea**
+- Mr. Toad struggles with depression
+- Therapist guides him through counselling
+- Learns to face rather than avoid emotions
+
+**Personal connection**
+- Read it after being laid off
+- Changed my perspective
+- Helped me deal with stress in a healthier way
+
+---
+
+## 🔄 Story Migration
+
+### 1. Useful Book
+Focus:
+- Why I chose it
+- Practical advice
+- Personal growth
+
+### 2. Story I Read Recently
+Focus:
+- Mr. Toad's emotional journey
+- Therapist's approach
+- Lesson learned
+
+### 3. Gift
+Focus:
+- Give it to Stella
+- Work pressure
+- Help her manage emotions
+
+### 4. Important Life Lesson
+Focus:
+- Being laid off
+- Emotional resilience
+- Facing emotions instead of avoiding them
+
+---
+
+## ⭐ Best Sentences Today
+
+> What impressed me most was the way the therapist treated Mr. Toad.
+
+> Ever since then, I've looked at difficult situations from a different perspective.
+
+> Rather than simply telling readers to stay positive, the book explains how to understand emotions.
+
+> I still refer back to some of the ideas whenever I go through a difficult time.
+
+---
+
+## 🔧 Three Grammar Mistakes
+
+❌ make me refreshed
+
+✅ make me feel refreshed
+
+---
+
+❌ typing by laptop
+
+✅ typing on a laptop
+
+---
+
+❌ he is always been avoiding...
+
+✅ he had been avoiding...
+
+---
+
+## 🚀 Vocabulary Upgrade
+
+Instead of...
+
+- super enjoy → really enjoy / absolutely enjoy
+- famous on the internet → widely recommended online
+- understand her emotions better → reflect on her emotions / manage her emotions
+- promotion of paperless workspace → the rise of paperless offices
+- endure negative emotions → deal with / cope with negative emotions
+
+---
+
+## ⭐ Expressions to Master
+
+- What impressed me most was...
+- Ever since then,...
+- refer back to...
+- deal with difficulties
+- reflect on one's emotions
+- cope with stress
+- look at things from a different perspective
+- face our feelings rather than avoid them
+
+---
+
+## ⭐ Native Collocations of the Day
+
+- broaden my horizons
+- leave me feeling refreshed
+- be under a lot of pressure
+- get frustrated easily
+- deal with difficulties
+- reflect on one's emotions
+- cope with stress
+- refer back to
+- remind someone of...
+- face one's feelings
+
+---
+
+## 🎯 Focus for Day 5
+
+- Reduce tense mistakes in storytelling.
+- Replace Chinese-style collocations with natural English.
+- Finish long sentences instead of restarting them.
+- Use shorter, accurate sentences when vocabulary is missing.
+- Reuse the same story naturally for different cue cards.
+
+---
+
+## ⭐ Today's Biggest Improvement
+
+Today you successfully reused **one real story** to answer four different Part 2 topics without sounding repetitive. Your reflections were much more personal than previous days, and your answers now sound like sharing real experiences instead of reciting memorized content. The next milestone is improving grammar consistency to make your Band 7 performance more stable.

@@ -305,6 +305,60 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 
 口诀：Task 2 里少用 `always`、`impossible`、`no longer significant` 这种绝对表达，改成 `may`、`can`、`not always sufficient` 更稳。
 
+### Task 2 主谓一致与句子结构
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `it increase pressure` | `it increases pressure` | 第三人称单数主语后动词加 `-s`。 |
+| `it take away young adults` | `it takes young adults away` | 同样是第三人称单数；`take away` 可拆开放宾语。 |
+| `economic benefits quickly fades` | `economic benefits quickly fade` | 主语 `benefits` 是复数，动词不用 `-s`。 |
+| `When numerous people pouring into the city` | `When large numbers of people pour into cities` | 时间状语从句需要完整谓语，不能只用现在分词。 |
+| `the city becomes overcrowding` | `cities become overcrowded` | `become` 后接形容词；`overcrowded` 描述状态。 |
+
+### Task 2 可数/不可数名词搭配
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `a large amount of migrants` | `a large number of migrants` | `migrants` 是可数名词复数，用 `number of`。 |
+| `much more passengers` | `far more passengers` / `many more passengers` | `passengers` 是可数名词复数，不能用 `much` 修饰。 |
+| `work labour` | `workers` / `labour` | `labour` 本身表示劳动力；这里用 `workers` 更自然。 |
+
+### Task 2 人口老龄化常见搭配
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `ageing population can produce...` | `an ageing population can produce...` | 单数可数名词短语前需要冠词。 |
+| `labour force status` | `the labour market` / `the workforce` | `status` 搭配生硬；谈就业和劳动力用 `labour market` 更自然。 |
+| `working-aged adults` | `working-age adults` | 固定搭配是形容词 `working-age`。 |
+| `raise elderly people` | `support elderly people` / `provide for elderly people` | `raise` 通常指抚养孩子，不用于老人。 |
+| `ageing rasing system` | `the pension system` / `elderly care system` | 拼写错误且表达不自然；按语境选择养老金或养老照护体系。 |
+| `ageing patiences` | `elderly patients` | `patients` 才是“病人”；`patience` 是“耐心”。 |
+| `other welfares` | `other welfare services` | `welfare` 多作不可数名词；具体服务用 `welfare services`。 |
+
+高分搭配：
+
+| 功能 | 推荐表达 |
+|---|---|
+| 政府财政压力 | `place a heavy financial burden on governments` |
+| 养老金和医疗 | `pensions and healthcare` |
+| 劳动力减少 | `a shrinking workforce` / `a decline in the working-age population` |
+| 年轻人负担 | `increase the tax burden on younger workers` |
+| 挤压其他公共服务 | `divert public funds away from education and other essential services` |
+
+### Task 2 城乡迁移高分搭配
+
+| 功能 | 推荐表达 |
+|---|---|
+| 话题改写 | `rural-to-urban migration` |
+| 城市压力 | `place pressure on urban infrastructure` |
+| 公共交通 | `public transport systems have to carry far more passengers` |
+| 交通拥堵 | `add more cars to already crowded roads and lead to serious traffic congestion` |
+| 房价上涨 | `push up property prices due to the growing demand for accommodation` |
+| 农村衰退 | `weaken rural communities` |
+| 劳动力减少 | `reduce the labour force in local economies` |
+| 留守老人 | `elderly people are left behind without sufficient daily care or emotional support` |
+| 让步反驳 | `This advantage is short-lived, as the initial economic benefits quickly fade once...` |
+
 ---
 
 ## 实用句型：线图专项

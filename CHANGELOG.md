@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking 题库 v2 和覆盖全题库的 20 天迁移训练计划 v2
 - 新增 IELTS Speaking Day 6 练习总结、Malaysia 旅行故事库和 Task 2 犯罪/政府类表达段落
 - 新增 IELTS 18 Test 4 老龄化 Task 2 批改记录、Band 7.0-7.5 完整范文和短版范文
 - 新增 IELTS 18 Writing Task 2 批改、最小改动版、模板版和 Band 7-7.5 范文

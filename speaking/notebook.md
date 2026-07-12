@@ -1127,159 +1127,296 @@ Instead of...
 
 Today you successfully reused **one real story** to answer four different Part 2 topics without sounding repetitive. Your reflections were much more personal than previous days, and your answers now sound like sharing real experiences instead of reciting memorized content. The next milestone is improving grammar consistency to make your Band 7 performance more stable.
 
+---
 
-
-# 📅 Day 5 Summary (Agnes)
+# 📅 Day 6 Summary (Agnes)
 
 ## 🎯 Band Tracker
 
 | Fluency | Lexical | Grammar | Pronunciation | Overall |
 |---------|---------|----------|---------------|---------|
-| **7.5** | **7.0–7.5** | **7.0** | **7.0** | **7.0–7.5** |
+| **6.5–7.0** | **7.0** | **6.5–7.0** | **7.0** | **7.0** |
+
+> **Note:** Your ideas, vocabulary range and prepared-story performance can reach Band 7 or above. However, spontaneous delivery is not yet consistently at Band 7.5 because you still restart sentences, repeat words and reorganize ideas while speaking.
 
 ---
 
 ## ✅ What I Did Today
 
-### Part 1
-- Gifts
-- Sports Teams
-- Sharing
+### Step 1 — Warm-up and Fluency Drill
 
-### Band 7 Toolbox Used
-- What impressed me most was...
-- Ever since then,...
-- Rather than...
-- On top of that,...
-- Personally speaking,...
+Topics practised:
 
----
+- Do you prefer working alone or with others?
+- Do you enjoy your current work?
+- What makes a good job?
+- Sentence expansion: working out, resilience and optimism
 
-## 📚 Story Bank Update
+Main focus:
 
-### Describe a difficult period in your life
-- Laid off one month ago
-- Questioned my abilities after 8 years as a software engineer
-- Read *Counselling for Toads*
-- Learned to face emotions rather than avoid them
-- Gradually became calmer and more at peace
-
-可以。这个 cue card 的 **Impact** 部分其实是 Part 2 得分的关键，需要体现：
-
-**短期变化 → 长期习惯 → 思维改变 → 未来影响**
-
-你现在的 3 条偏“结果”，可以扩展成更完整的故事逻辑：
+- Give a direct answer first
+- Add one clear reason
+- Extend the idea without restarting
+- Use shorter but complete sentences
 
 ---
 
-## Describe a piece of advice that had a positive impact on you
+### Step 2 — Part 3 Upgrade Training
 
-### Advice:
+Structure practised:
 
-**Face your emotions instead of avoiding them.**
+> Opinion → Reason → Example → Qualification
 
-### Impact:
+Questions practised:
 
-* **Pause and reflect before reacting**
+1. What factors should people consider when choosing a job?
+2. Will AI replace human workers in the future?
+3. Are there certain jobs that will always need humans?
+4. Is salary more important than job satisfaction?
 
-  * When I feel frustrated or overwhelmed, I have learned to take a step back and understand my emotions instead of reacting immediately.
-  * 学会在情绪爆发前停下来思考，而不是被情绪控制。
+Key ideas:
 
-* **Process my emotions in a healthier way**
-
-  * I became more willing to acknowledge negative feelings and figure out where they come from, rather than simply suppressing them.
-  * 不再逃避负面情绪，而是分析原因并接受它们。
-
-* **Avoid blaming others for things beyond their control**
-
-  * I gradually realized that blaming others rarely solves problems, and it is more helpful to focus on what I can control.
-  * 学会区分“我能控制的事情”和“我无法控制的事情”。
-
-* **Approach my goals with more clarity and patience**
-
-  * By understanding myself better, I can make decisions more calmly and focus on my future goals with a clearer mindset.
-  * 思考更清晰，面对未来更有耐心。
-
-* **Become more emotionally resilient**
-
-  * This experience helped me become stronger mentally and better prepared to deal with setbacks in the future.
-  * 提升面对挫折的恢复能力。
-
-* **Build a habit of self-reflection**
-
-  * Ever since then, I have made it a habit to pause and reflect whenever I face difficulties.
-  * 形成长期习惯，而不是只解决一次问题。
+- Salary should not be the only consideration.
+- Job satisfaction can come from meaningful work and personal growth.
+- AI can replace repetitive tasks but cannot fully replace human creativity, judgement and adaptability.
+- Healthcare and teaching will still require empathy and human connection.
+- Financial responsibilities may make salary more important at certain stages of life.
 
 ---
 
-这样你的 Part 2 结构会更完整：
+## 📚 Story Bank 3 — Malaysia Trip
 
-**Advice**
-→ Face emotions rather than avoid them.
+### Core Story
 
-**Immediate impact**
-→ Pause and reflect before reacting.
+**Where and when**
 
-**Behavior change**
-→ Process emotions, stop blaming others.
+- Malaysia
+- Last May
+- Mountains near Semporna
 
-**Long-term impact**
-→ More clarity, patience, resilience.
+**Who**
 
-这个版本和你的真实经历（被裁员、读《蛤蟆先生去看心理医生》、重新调整心态）高度匹配，也更容易自然讲到 **90–120 秒**。
+- Stella
+- One of my closest friends
+- Former colleague
+- Met after moving to Beijing three years ago
 
+**Why we went**
+
+- Vacation
+- Explore the mountains
+- Enjoy more flexibility by travelling by car
+
+**What went wrong**
+
+- Poor internet connection
+- Navigation app lost its signal
+- Took the wrong route
+- Got lost in the mountains
+
+**How we solved it**
+
+- Accidentally came across a hidden garden
+- Met other tourists there
+- Asked them for directions
+- Found the correct route to the temple
+
+**Feelings and lesson**
+
+- Felt frustrated and upset at first
+- Stella stayed calm and optimistic
+- Her words lightened the mood
+- Learned to remain calm when things do not go as planned
+
+---
+
+## 🔄 Story Migration
+
+The Malaysia story was adapted to cover:
+
+### 1. Describe a trip you enjoyed
+
+Focus:
+
+- Malaysian food
+- Local culture
+- Freediving for the first time
+- Lottery-ticket story
+- Meaningful time with Stella
+
+### 2. Describe a person who likes to plan things
+
+Focus:
+
+- Stella planned six months in advance
+- Booked flights and hotels early
+- Prepared a detailed itinerary
+- Considered budget and transportation
+- Trip went smoothly
+
+### 3. Describe a creative person you admire
+
+Focus:
+
+- Creative thinking in unexpected situations
+- Stayed positive after getting lost
+- Treated the wrong route as an unexpected journey
+- Discovered hidden scenery
+
+### 4. Describe a natural place / beautiful scenery
+
+Focus:
+
+- Hidden garden in the mountains
+- Vibrant green plants
+- Red and yellow flowers
+- Light floral fragrance
+- Peaceful atmosphere
+- White rabbits hopping on the lawn
+
+### 5. Describe a memorable car journey
+
+Focus:
+
+- Travelled by car for flexibility
+- GPS lost its signal
+- Took the wrong route
+- Found the garden and other tourists
+- Reached the destination as planned
+
+### 6. Describe an occasion when you got lost
+
+Focus:
+
+- Cause of getting lost
+- Emotional reaction
+- Stella’s encouragement
+- Asking other tourists for directions
+- Lesson about staying calm
 
 ---
 
 ## ⭐ Best Sentences Today
 
-> Their perspectives can make it easier to stay on track.
+> Personally speaking, I don’t believe income should be the only factor when choosing a job.
 
-> Ever since then, I've made it a habit to pause and reflect whenever I feel overwhelmed.
+> Job satisfaction goes beyond income; it comes from meaningful work and opportunities for personal growth.
 
-> It has helped me approach my goals with more clarity and patience.
+> Take myself as an example. After working as a software engineer for about eight years, I realized that AI tools can speed up basic tasks, but human judgement, creativity and adaptability are still irreplaceable.
 
-> Gradually, I recovered, feeling calmer and more at peace most of the time.
+> This balance of human empathy and technological support is what will keep these fields true to their essence.
 
----
+> What impressed me most was not only the beautiful hidden garden we accidentally came across, but also Stella’s optimistic attitude.
 
-## 🔧 Three Grammar Mistakes
-
-❌ letting others celebrating with you
-
-✅ letting others celebrate with you
-
-❌ face my emotion
-
-✅ face my emotions
-
-❌ out of people control
-
-✅ out of their control
+> Ever since then, I’ve tried to stay calm and optimistic, even when things don’t go as planned.
 
 ---
 
-## 🚀 Expressions & Collocations
+## 🔧 Three Priority Grammar Mistakes
 
-- stay on track
-- process my emotions
-- pause and reflect
-- make it a habit to...
-- approach my goals with more clarity and patience
-- feel calmer and more at peace
-- out of someone's control
+### 1. Past tense consistency
+
+❌ We drive there because we wanted more flexibility.
+
+✅ We drove there because we wanted more flexibility.
 
 ---
 
-## 🎯 Focus for Day 6
+### 2. Subject–verb agreement
 
-- Improve tense consistency.
-- Reduce self-corrections.
-- Continue adapting one story to multiple cue cards.
-- End every Part 2 answer with a personal reflection.
+❌ Coding make me feel engaged and motivated.
+
+✅ Coding makes me feel engaged and motivated.
 
 ---
 
-## ⭐ Today's Biggest Improvement
+### 3. Natural noun and collocation use
 
-Today you moved from **story migration** to **story transformation**. You successfully adapted the same real experience to different cue cards while keeping the story authentic and personal.
+❌ Income is not the only criteria.
+
+✅ Income is not the only criterion.
+
+❌ We wanted more flexible.
+
+✅ We wanted more flexibility.
+
+❌ They gave us many advices.
+
+✅ They gave us a lot of advice.
+
+---
+
+## 🚀 Vocabulary Upgrade
+
+Instead of...
+
+- only criteria → only criterion
+- more flexible → more flexibility
+- disappointed situation → disappointing situation
+- reach there as our plan → reach our destination as planned
+- because the poor connection → because of / due to the poor connection
+- place a lot of burden on people → place a heavy burden on people
+- put effort in creative things → focus on more creative work
+- the way how she handled it → the way she handled it
+
+---
+
+## ⭐ Expressions to Master
+
+Use only expressions already recorded in the notebook:
+
+- Personally speaking,...
+- The main reason is that...
+- Take myself as an example.
+- On top of that,...
+- That being said,...
+- What stands out most about...
+- What impressed me most was...
+- Thanks to...
+- Rather than...
+- Even when things don’t go as planned,...
+- Ever since then,...
+- Overall,...
+
+---
+
+## ⭐ Native Collocations of the Day
+
+- job satisfaction
+- personal growth
+- financial responsibilities
+- meaningful work
+- stay competitive
+- repetitive tasks
+- human judgement
+- human connection
+- plan well in advance
+- prepare a detailed itinerary
+- poor internet connection
+- take the wrong route
+- reach the destination as planned
+- come across a hidden garden
+- light floral fragrance
+- peaceful atmosphere
+- lighten the mood
+- stay calm and optimistic
+
+---
+
+## 🎯 Focus for Day 7
+
+- Keep the main story tense consistently in the past.
+- Reduce repetitions such as “I think,” “for example,” and repeated sentence openings.
+- Complete each sentence before adding another idea.
+- Practise the Malaysia story without memorising the full script.
+- Use no more than 8–10 keywords during one-minute Part 2 preparation.
+- Continue travel-story migration into scenery, nature and geography topics.
+- Practise past-tense endings clearly: travelled, planned, decided, arrived and realised.
+
+---
+
+## ⭐ Today’s Biggest Improvement
+
+Today you built a complete third story bank and successfully migrated one real Malaysia experience across several cue cards. More importantly, you learned to change the focus of the same story: planning ability, creativity, scenery, a car journey and getting lost.
+
+Your strongest improvement was not learning more vocabulary. It was learning how to control one story and use it flexibly. The next milestone is delivering these ideas with fewer repeated starts and more stable grammar in spontaneous speech.

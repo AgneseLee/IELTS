@@ -1420,3 +1420,266 @@ Use only expressions already recorded in the notebook:
 Today you built a complete third story bank and successfully migrated one real Malaysia experience across several cue cards. More importantly, you learned to change the focus of the same story: planning ability, creativity, scenery, a car journey and getting lost.
 
 Your strongest improvement was not learning more vocabulary. It was learning how to control one story and use it flexibly. The next milestone is delivering these ideas with fewer repeated starts and more stable grammar in spontaneous speech.
+
+---
+
+# 📅 Day 7 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency     | Lexical | Grammar     | Pronunciation | Overall     |
+| ----------- | ------- | ----------- | ------------- | ----------- |
+| **7.0–7.5** | **7.5** | **6.5–7.0** | **7.0**       | **7.0–7.5** |
+
+> **Note:** Today your story flexibility improved significantly. You successfully reused the Malaysia story across multiple cue cards. Your main improvement area remains spontaneous grammar accuracy, especially tense consistency and sentence control.
+
+---
+
+# ✅ What I Did Today
+
+## Step 1 — Part 1 Warm-up
+
+Topics practised:
+
+* Scenery / Views
+* Plants
+* Parks
+
+Main focus:
+
+* Give direct answers
+* Add reasons naturally
+* Connect answers with personal experiences
+
+---
+
+## ⭐ Part 1 Best Answers
+
+### Scenery / Views
+
+> Personally, I really enjoy wandering through parks. The lush green plants and vibrant flowers, especially in summer, create a relaxing atmosphere that I admire.
+
+### Plants
+
+> Personally, I've always been fascinated by growing green plants in my room. Caring for them and seeing them thrive makes me feel relaxed and refreshed.
+
+### Parks
+
+> I don't visit parks very often, maybe once a month, but when I do, it gives me a peaceful break from my busy daily life. On top of that, it helps me unwind and recharge before diving back into work.
+
+---
+
+# 📚 Story Bank 3 — Malaysia Trip (Further Migration)
+
+Today the Malaysia story was expanded and adapted into more IELTS topics.
+
+---
+
+## 1. Describe a trip you enjoyed
+
+### Focus:
+
+* Malaysia trip with Stella
+* Car journey
+* Getting lost unexpectedly
+* Hidden garden discovery
+* Positive attitude
+
+Key lesson:
+
+> Things don't always go as planned.
+
+---
+
+## 2. Describe a problem you solved
+
+### Focus:
+
+* Navigation lost signal
+* Wrong route
+* Got lost in mountains
+* Asked tourists for directions
+* Successfully reached the temple
+
+Structure:
+
+**Problem → Reaction → Solution → Result → Lesson**
+
+---
+
+## 3. Describe a place with beautiful views
+
+### Focus:
+
+* Semporna scenery
+* Ocean and mountains
+* Freediving experience
+* Coral reefs and fish
+* Lush green mountains
+* Vibrant flowers
+
+---
+
+## 4. Describe a short stay abroad
+
+### Focus:
+
+* One-week stay in Malaysia
+* Different environment
+* Local food
+* Freediving experience
+* Broadened horizons
+* Stepped away from daily routine
+
+---
+
+# ⭐ Best Sentences Today
+
+> One experience that comes to my mind is a trip to Malaysia with one of my best friends, Stella, last year.
+
+> What impressed me most was not only the amazing scenery we discovered, but also Stella’s optimistic attitude.
+
+> Thanks to her encouragement, I gradually relaxed and started enjoying the experience.
+
+> I felt as if I had entered another world when I saw colourful coral reefs and different kinds of fish swimming around me.
+
+> Looking back, this short stay broadened my horizons and reminded me that life is more than just work.
+
+> Things don't always go as planned, but staying calm can help us turn unexpected problems into memorable experiences.
+
+---
+
+# 🔧 Three Priority Grammar Mistakes
+
+## 1. Past tense consistency
+
+❌ We drive there by car.
+
+✅ We drove there by car.
+
+---
+
+## 2. Correct verb form after "help"
+
+❌ It helped me to recharge myself by stepping away from routine to make my life beyond work.
+
+✅ It helped me recharge and step away from my daily routine.
+
+---
+
+## 3. Natural adjective + noun combinations
+
+❌ a cozy / peaceful atmosphere at all
+
+✅ a cozy and peaceful atmosphere
+
+---
+
+# 🚀 Vocabulary Upgrade
+
+| Instead of               | Use                                 |
+| ------------------------ | ----------------------------------- |
+| touring city             | tourist destination                 |
+| very amazing             | incredibly memorable / breathtaking |
+| many fishes              | different kinds of fish             |
+| green plants             | lush green plants                   |
+| beautiful flowers        | vibrant flowers                     |
+| relax myself             | unwind / recharge                   |
+| different culture        | different cultural background       |
+| special tourism business | distinctive tourism experience      |
+
+---
+
+# ⭐ New Expression Added
+
+## distinctive ⭐
+
+Meaning:
+
+> having a quality that makes something clearly different from others
+
+Examples:
+
+> Local communities can create distinctive tourism experiences by using their unique natural resources.
+
+> What makes Semporna distinctive is its combination of ocean scenery and mountain landscapes.
+
+Possible topics:
+
+* Tourism
+* Cities
+* Products
+* Businesses
+* Culture
+
+---
+
+# ⭐ Native Collocations of the Day
+
+* tourist destination
+* at our own pace
+* take a break from my routine
+* explore new experiences
+* broaden my horizons
+* step away from daily life
+* colourful coral reefs
+* fish swimming around me
+* lush green plants
+* vibrant flowers
+* create a peaceful atmosphere
+* unexpected adventure
+* turn challenges into memorable experiences
+* distinctive tourism experience
+* local natural resources
+
+---
+
+# 🗣️ Part 3 Practice Completed
+
+Questions practised:
+
+| Question                                        | Main Ideas                                                                        |
+| ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| Why do people travel abroad?                    | Take a break from routine + broaden horizons + experience cultures                |
+| What are disadvantages of tourism?              | Pressure on infrastructure + environmental pollution                              |
+| Will tourism continue to grow?                  | Domestic tourism may grow while overseas travel may slow due to economic pressure |
+| How can tourism become sustainable?             | Stable economy + easier visa policies                                             |
+| How can local communities benefit from tourism? | Develop businesses based on distinctive local resources                           |
+
+---
+
+# 🎯 Focus for Day 8
+
+* Build Story 4: Advice / Helping Others
+* Continue using:
+
+  * Opinion → Reason → Example → Reflection
+* Improve:
+
+  * Sentence completion
+  * Grammar accuracy
+  * Natural transitions
+* Reduce repeated fillers:
+
+  * "I think"
+  * "people"
+  * "sort of"
+
+---
+
+# ⭐ Today’s Biggest Improvement
+
+Today you achieved an important milestone:
+
+**One real experience → four different IELTS Part 2 answers**
+
+You successfully changed the focus of the same Malaysia story:
+
+✅ enjoyable trip
+✅ solving a problem
+✅ beautiful scenery
+✅ short stay abroad
+
+Your biggest improvement was not vocabulary. It was **story control and flexibility**, which is exactly what strong Band 7+ candidates need.
+
+---

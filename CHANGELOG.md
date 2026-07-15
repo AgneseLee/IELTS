@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 为交通拥堵 Task 2 批改新增全文错误标注附录
 - 新增交通拥堵 Task 2 批改记录、Band 7.0-7.5 范文，并补充交通拥堵高分搭配和错误复盘
 - 新增古代文化 Task 2 批改记录和 Speaking Day 8 练习总结
 - 新增 IELTS Speaking Day 7 练习总结、Malaysia 旅行故事迁移和 Part 3 旅游话题复盘

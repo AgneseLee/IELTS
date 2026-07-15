@@ -2009,3 +2009,372 @@ More importantly, you recognised when a story migration felt forced. Instead of 
 Your next milestone is to keep the same strong ideas while reducing repeated starts and improving grammar stability during spontaneous delivery.
 
 ---
+
+Based on your previous Day 1–8 notebook format and today’s practice, here is the **Day 9 Summary**. I kept the same structure: Band Tracker → What I Did → Story Bank → Best Sentences → Grammar → Vocabulary → Expressions → Focus. Previous records also emphasised story migration and reusable collocations, so I continued that format. 
+
+# 📅 Day 9 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency     | Lexical | Grammar     | Pronunciation | Overall     |
+| ----------- | ------- | ----------- | ------------- | ----------- |
+| **7.0–7.5** | **7.5** | **6.5–7.0** | **7.0**       | **7.0–7.5** |
+
+> **Note:** Today you continued showing strong story migration ability. You successfully used personal experiences to answer family, home and emotional-value topics. Your vocabulary and ideas were strong, while the main improvement area remains grammar accuracy during spontaneous speaking, especially sentence structure, word forms and self-correction.
+
+---
+
+# ✅ What I Did Today
+
+## Part 1
+
+Topics practised:
+
+* Home / Accommodation
+* Hometown
+* Housework
+* Tidiness
+
+Main focus:
+
+* Give direct answers first.
+* Add one personal detail.
+* Explain feelings or impact.
+* Avoid stopping after one sentence.
+
+---
+
+# ⭐ Part 1 Best Answers
+
+## Home / Accommodation
+
+> I currently live in an apartment. I moved in about a year ago, and one thing that really appeals to me is that it faces south. Thanks to that, I get plenty of sunlight in the living room, which creates a peaceful atmosphere.
+
+Key expressions:
+
+* one thing that really appeals to me is...
+* get plenty of sunlight
+* create a peaceful atmosphere
+
+---
+
+## Hometown
+
+> Personally speaking, what I love most about my hometown are the lush coconut trees along the coastline. With their big green leaves and clusters of coconuts, walking under them with the sea breeze always helps me feel refreshed and at peace.
+
+Key expressions:
+
+* lush green plants
+* along the coastline
+* feel refreshed and at peace
+
+---
+
+## Housework
+
+> Personally speaking, I usually handle cooking at home. Especially after I was laid off, I started cooking dinner every evening. It has become a new hobby because I enjoy finding recipes online and turning them into actual dishes.
+
+Key expressions:
+
+* develop a new hobby
+* turn something into reality
+* fun and fulfilling
+
+---
+
+## Tidiness
+
+> Personally speaking, I clean my apartment once a week to keep it tidy and organized. Every Saturday night, I sweep and mop the floor because living in a clean environment helps me relax and unwind.
+
+Key expressions:
+
+* keep something tidy and organized
+* clean environment
+* relax and unwind
+
+---
+
+# 📚 Story Bank 6 — Family Treasure / Family Relationship
+
+## Core Story:
+
+**An essay about my mother written in primary school**
+
+### Object
+
+* A handwritten essay
+* Written in primary school
+* About my mother
+* Kept by my family for almost two decades
+
+---
+
+## Background
+
+* The essay did not receive a high grade.
+* It was only around B or B+.
+* However, my family still kept it carefully.
+
+---
+
+## Why it matters
+
+* It captured my childhood thoughts and feelings.
+* It reminds me of my mother's support.
+* It represents my personal growth.
+
+---
+
+## Main Memory
+
+When I was in primary school:
+
+* I was quite introverted.
+* I found it difficult to open up to classmates.
+* I worried about other people's opinions.
+
+My mother:
+
+* listened carefully
+* did not criticise or blame me
+* gave practical advice based on her extensive life experience
+* encouraged me to share my thoughts
+
+---
+
+## Reflection
+
+> I couldn't control what other people thought of me, but I learned that disagreement did not necessarily mean rejection.
+
+Impact:
+
+* became more confident
+* became more open-minded
+* became more willing to communicate with others
+
+---
+
+# 🔄 Story Migration Completed
+
+## 1. Family Treasure
+
+Focus:
+
+* The essay itself
+* Childhood memories
+* Emotional value
+
+---
+
+## 2. Proud of a Family Member
+
+Focus:
+
+* Mother's patience
+* Emotional support
+* Practical advice
+* Positive influence
+
+---
+
+## 3. Place to Relax at Home
+
+Story:
+**My apartment living room**
+
+Focus:
+
+* South-facing apartment
+* Comfortable sofa
+* Green plants on windowsill
+* Sunshine through the window
+* Peaceful atmosphere
+
+---
+
+## 4. Birthday Celebration
+
+Story:
+**Birthday celebration with Stella and another close friend**
+
+Focus:
+
+* Dinner together
+* Sharing memories
+* Malaysia lottery story
+* Stella's positive attitude
+
+Reflection:
+
+> Her words taught me to stay calm and optimistic even when things don't go as planned.
+
+---
+
+# 🗣️ Part 3 Practice Completed
+
+## Question 1:
+
+**What things do families usually keep for a long time?**
+
+Main ideas:
+
+* Emotional value matters more than practical value.
+* Photos, letters and childhood objects preserve memories.
+* They remind people of important life periods.
+
+---
+
+## Question 2:
+
+**Why do people value old family objects?**
+
+Main ideas:
+
+* They carry emotional memories.
+* They connect different generations.
+* They represent family relationships.
+
+Example:
+
+* Old family photographs including grandparents, parents and children.
+
+---
+
+## Question 3:
+
+**Why is it difficult for modern people to relax?**
+
+Main ideas:
+
+* Financial responsibilities.
+* Multiple roles in life.
+* Work pressure and job insecurity.
+
+Useful idea:
+
+> People are often driven by fear rather than fulfillment.
+
+---
+
+## Question 4:
+
+**Should children help with housework?**
+
+Main ideas:
+
+* Builds responsibility.
+* Helps children understand family cooperation.
+* Develops independence.
+
+---
+
+# ⭐ Best Sentences Today
+
+> What makes me proud of her is not one big achievement, but the way she supported me when I was a child.
+
+> Instead of criticising me, she listened to me carefully and gave me practical advice based on her extensive life experience.
+
+> She helped me look at the situation from a different perspective.
+
+> Whenever I read the essay, it brings back warm memories of my childhood.
+
+> One thing that really appeals to me is that the whole apartment faces south.
+
+> The sunlight creates a warm, cozy and peaceful atmosphere.
+
+> Thanks to her encouragement, I gradually became more confident and willing to talk to others.
+
+---
+
+# 🔧 Three Grammar Mistakes
+
+## 1. Verb tense after "after"
+
+❌ After I was being laid off...
+
+✅ After I was laid off...
+
+---
+
+## 2. Subject-verb agreement
+
+❌ Those things my family kept is a family treasure.
+
+✅ Those things my family kept are family treasures.
+
+---
+
+## 3. Natural verb pattern
+
+❌ Helped me to improve my confidence.
+
+✅ Helped me build my confidence.
+
+---
+
+# 🚀 Vocabulary Upgrade
+
+| Instead of            | Use                           |
+| --------------------- | ----------------------------- |
+| very important        | highly meaningful             |
+| old things            | meaningful objects            |
+| remember my childhood | bring back childhood memories |
+| make me confident     | build my confidence           |
+| give me suggestions   | offer practical advice        |
+| clean and comfortable | cozy and peaceful             |
+| relax myself          | unwind and recharge           |
+
+---
+
+# ⭐ Native Collocations of the Day
+
+* emotional value
+* childhood memories
+* bring back warm memories
+* capture childhood thoughts and feelings
+* keep something for decades
+* practical advice
+* extensive life experience
+* build confidence
+* open up to others
+* share similar opinions
+* look at things from a different perspective
+* peaceful atmosphere
+* unwind and recharge
+* take a break from my daily routine
+* financial responsibilities
+* juggle multiple roles
+
+---
+
+# 🎯 Focus for Day 10
+
+* Continue improving spontaneous grammar accuracy.
+* Reduce repeated phrases such as:
+
+  * "I think"
+  * "people"
+  * "and then"
+* Practise technology vocabulary and Story 5.
+* Keep using the structure:
+
+Opinion → Reason → Example → Reflection
+
+---
+
+# ⭐ Today's Biggest Improvement
+
+Today you successfully completed another important milestone:
+
+**One family story → four different IELTS topics**
+
+You adapted the same personal experiences into:
+
+✅ Family Treasure
+✅ Proud Family Member
+✅ Place to Relax at Home
+✅ Birthday Celebration
+
+The biggest improvement was your ability to choose meaningful personal details instead of memorising generic answers. Your answers now sound more like real experiences, which helps both Fluency and Lexical Resource.
+
+The next improvement target is making these strong ideas come out with fewer grammar corrections and smoother sentence endings.

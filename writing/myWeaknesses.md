@@ -359,6 +359,61 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 | 留守老人 | `elderly people are left behind without sufficient daily care or emotional support` |
 | 让步反驳 | `This advantage is short-lived, as the initial economic benefits quickly fade once...` |
 
+### Task 2 交通拥堵常见错误与搭配
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `the lack of good public transportation network` | `the lack of a reliable public transport network` | 单数可数名词 `network` 前需要冠词；`reliable` 比 `good` 更学术。 |
+| `This shortage lead to citizens spend more time` | `This shortage leads citizens to spend more time` / `This shortage means citizens spend more time` | 第三人称单数加 `-s`；`lead someone to do something` 是固定结构。 |
+| `across different transportation tools` | `between different modes of transport` | `tools` 不用于公交、地铁等交通方式；用 `modes of transport`。 |
+| `Situation would become worse` | `The situation becomes worse` | 普通名词单数前需要冠词；分析一般现象用现在时。 |
+| `poor individual awareness deteriorate this trend` | `poor public awareness worsens this trend` | 主谓一致；`worsen` 比 `deteriorate` 更适合直接接宾语。 |
+| `release some regulations regarding promotion of public transportation` | `introduce regulations to encourage the use of public transport` | `release regulations` 和 `regarding promotion` 搭配生硬。 |
+| `This is effective because directly improve urban mobility` | `This would be effective because it directly improves urban mobility` | 原句缺主语；`it` 指代前面的措施。 |
+| `commuting costs less time` | `commuting takes less time` / `commuters spend less time travelling` | 英语中时间通常用 `take/spend`，不用 `cost`。 |
+| `citizen's awareness` | `citizens' awareness` / `public awareness` | 泛指市民整体时用复数所有格或直接用 `public awareness`。 |
+
+高分搭配：
+
+| 功能 | 推荐表达 |
+|---|---|
+| 交通拥堵 | `traffic congestion` / `heavy traffic` |
+| 公共交通网络 | `a reliable and well-connected public transport network` |
+| 私家车依赖 | `reliance on private cars` |
+| 高峰期限制 | `restrict private vehicles during peak hours` |
+| 道路压力 | `place additional pressure on already crowded roads` |
+| 城市通勤效率 | `improve urban mobility and commuting efficiency` |
+| 交通规则意识 | `raise public awareness of traffic rules` |
+| 事故减少 | `reduce traffic accidents and unnecessary delays` |
+
+### Task 2 古代文化/教育类常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `In my opinions` | `In my opinion` | 固定表达；`opinion` 用单数。 |
+| `studying ancient cultures still play` | `studying ancient cultures still plays` | 动名词短语作主语时按单数处理。 |
+| `allow students learn` | `allow students to learn` | `allow someone to do something` 是固定结构。 |
+| `political system, law and social value` | `political systems, laws and social values` | 泛指多个制度、法律和价值观时用复数。 |
+| `a society thrives and becomes bleak` | `a society prospers and declines` | 描述文明兴衰时用 `prosper/decline` 更自然。 |
+| `those bureaucratic` | `bureaucratic systems` | `bureaucratic` 是形容词，后面需要名词。 |
+| `make a negative impact on` | `have a negative impact on` | 固定搭配。 |
+| `reduction in national identity` | `weaken their sense of national identity` | 更自然地表达身份认同被削弱。 |
+
+高分搭配：
+
+| 功能 | 推荐表达 |
+|---|---|
+| 古代文化研究 | `ancient cultural studies` |
+| 现代社会根源 | `the roots of modern society` |
+| 历史视角 | `this historical perspective` |
+| 制度发展 | `how political systems, laws and social values have developed over time` |
+| 社会兴衰 | `why a society prospers, declines or reforms itself` |
+| 现代影响 | `still influence contemporary society` |
+| 教育目的 | `the aim of education should not be limited to professional skills` |
+| 思维能力 | `critical thinking, analytical ability and cultural awareness` |
+| 课程排除 | `be excluded from the curriculum` |
+| 身份认同 | `weaken their sense of national identity` |
+
 ---
 
 ## 实用句型：线图专项

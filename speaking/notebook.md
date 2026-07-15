@@ -1683,3 +1683,329 @@ You successfully changed the focus of the same Malaysia story:
 Your biggest improvement was not vocabulary. It was **story control and flexibility**, which is exactly what strong Band 7+ candidates need.
 
 ---
+
+# 📅 Day 8 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---|---|---|---|---|
+| **7.0–7.5** | **7.5** | **6.5–7.0** | **7.0** | **7.0–7.5** |
+
+> **Note:** Today you showed strong story control and idea development. Your vocabulary and answer structure were consistently at Band 7 level or above. The main issue remains spontaneous grammar accuracy, especially verb forms, tense consistency and repeated self-correction.
+
+---
+
+## ✅ What I Did Today
+
+### Step 1 — Part 1 Warm-up
+
+Topics practised:
+
+* Rules
+* Having a Break
+* Public Places
+* Teachers
+
+Main focus:
+
+* Give a direct answer first
+* Add one or two clear reasons
+* Use personal examples
+* Finish answers without restarting
+
+Useful expressions used:
+
+* Personally speaking,...
+* Take ... as an example.
+* That being said,...
+* On top of that,...
+* unwind and recharge
+* create a peaceful atmosphere
+* tackle challenges
+* the essence of learning
+
+---
+
+## 📚 Story Bank 4 — Advice, Helping Others and Important Decisions
+
+### Story 4A — Helping Stella With Work Stress
+
+**Who**
+
+* Stella
+* One of my closest friends
+* Former colleague
+* Still working at my previous company
+
+**Background**
+
+* The company underwent massive layoffs
+* Many employees left
+* Stella had to take on a heavier workload
+* She faced tighter deadlines than before
+
+**Problem**
+
+* Felt overwhelmed and burned out
+* Gradually lost motivation
+* Became impatient and easily frustrated
+* Sometimes blamed others when things did not go as planned
+
+**What I did**
+
+* Listened carefully before giving advice
+* Tried to understand her emotions
+* Recommended *Counselling for Toads: A Psychological Adventure*
+* Encouraged her to face negative emotions rather than avoid them
+* Suggested breaking problems into smaller steps
+* Encouraged her to build a healthier routine and make time to relax
+
+**Result**
+
+* Became calmer
+* Started getting up earlier
+* Made more time to relax
+* Looked at her situation from a different perspective
+
+**Reflection**
+
+> Sometimes people do not need immediate solutions; they need someone who can genuinely listen to them and help them see things from a different perspective.
+
+---
+
+## 🔄 Story Migration Completed
+
+### 1. Describe a time when you gave someone advice
+
+Focus:
+
+* Stella's work pressure
+* Recommended the book
+* Face emotions instead of avoiding them
+* Build a healthier lifestyle
+
+### 2. Describe a time when you helped someone solve a problem
+
+Focus:
+
+* Problem: burnout and work stress
+* Process: listen → understand → suggest → support
+* Result: healthier habits and a calmer mindset
+
+### 3. Describe an important conversation you had
+
+Focus:
+
+* Long and meaningful conversation with Stella
+* Emotional support
+* Shared personal experience after being laid off
+* Helped her reinterpret the situation
+
+---
+
+### Story 4B — Important Decision After Being Laid Off
+
+**Background**
+
+* Laid off about one month ago
+* Worked as a software engineer for around eight years
+* Layoff happened suddenly
+* Felt frustrated and questioned my abilities
+
+**Turning point**
+
+* Remembered the ideas from *Counselling for Toads*
+* Realised that avoiding negative emotions would not solve the problem
+* Understood that I could not control what had happened, but I could control my response
+
+**Decision**
+
+* Stop dwelling on frustration
+* Take control of my life
+* Focus on personal growth
+* Rebuild confidence
+* Prepare for future opportunities
+
+**Actions and result**
+
+* Started getting up earlier
+* Built a healthier routine
+* Spent more time learning new skills
+* Became more optimistic about future challenges
+* Viewed the layoff as an opportunity to reflect and grow
+
+**Best reflection**
+
+> I couldn't control what had already happened, but I could control how I responded to it.
+
+**Covers**
+
+* Important Decision
+* Difficult Experience
+* Life Change
+* Personal Growth
+
+---
+
+## 🗣️ Part 3 Practice — Advice and Decision Making
+
+| Question | Main ideas |
+|---|---|
+| Is it good to ask strangers online for advice? | Access to specialised advice, but privacy risks must be considered |
+| Why do people sometimes ignore advice? | They trust their own judgement, resist change and avoid leaving their comfort zones |
+| Should parents make decisions for children? | Parents should offer guidance, but children should make their own choices |
+| What kind of people are good at giving advice? | Good listeners with extensive life experience who can provide practical advice |
+
+---
+
+## ⭐ Best Part 3 Ideas
+
+> People do not have to accept every piece of advice, but they should at least consider it carefully before making their own decisions.
+
+> Parents still have valuable life experience and can offer guidance, but ultimately, children should be encouraged to make their own decisions.
+
+> People who are good at giving advice are usually good listeners with extensive life experience.
+
+---
+
+## 🔧 Three Priority Grammar Mistakes
+
+### 1. Past tense and passive voice
+
+❌ I was being laid off a month ago.
+
+✅ I was laid off a month ago.
+
+---
+
+### 2. Adjective form
+
+❌ She felt burnout.
+
+✅ She felt burned out.
+
+Remember:
+
+* **burnout** = noun
+* **burned out** = adjective
+
+---
+
+### 3. Advice is uncountable
+
+❌ accept them / many advices
+
+✅ accept it / some advice / a piece of advice
+
+---
+
+## 🚀 Vocabulary Upgrade
+
+| Instead of | Use |
+|---|---|
+| huge pressure | a great deal of pressure / intense pressure |
+| heavier workload than usual | a much heavier workload than before |
+| become loose | lose motivation |
+| solve her mental problems | help her manage work-related stress |
+| make time for relax | make time to relax |
+| personal notion | personal opinion |
+| plentiful life experience | extensive life experience / a wealth of life experience |
+| damage personal privacy | compromise personal privacy / pose a risk to privacy |
+
+---
+
+## ⭐ Expressions to Master
+
+* be under a lot of pressure
+* take on a heavier workload
+* feel overwhelmed by something
+* feel burned out
+* go through a difficult period
+* genuinely listen to someone
+* break a problem into smaller steps
+* deal with problems step by step
+* step out of one's comfort zone
+* impose opinions on someone
+* offer guidance
+* extensive life experience
+* practical advice
+* compromise personal privacy
+* take control of my life
+* look at things from a different perspective
+
+---
+
+## ⭐ Best Sentences Today
+
+> Rather than avoiding negative emotions, we should face them directly and understand where they come from.
+
+> Sometimes people don't need immediate solutions; they need someone who can genuinely listen to them.
+
+> I couldn't control what had already happened, but I could control how I responded to it.
+
+> An important decision does not always mean solving everything immediately; sometimes it means changing the way we think and moving forward step by step.
+
+---
+
+## ⭐ Native Collocations of the Day
+
+* work-related stress
+* massive layoffs
+* heavier workload
+* tight deadlines
+* lose motivation
+* feel overwhelmed
+* feel burned out
+* meaningful conversation
+* emotional support
+* practical advice
+* privacy risks
+* compromise personal privacy
+* resist change
+* step out of one's comfort zone
+* impose opinions on children
+* valuable life experience
+* take control of one's life
+* focus on personal growth
+* future opportunities
+
+---
+
+## 🎯 Focus for Day 9
+
+According to the plan, Day 9 will focus on:
+
+### Part 1
+
+* Home / Accommodation
+* Hometown
+* Housework
+* Tidiness
+
+### Story development
+
+* Family Treasure
+* Proud of a Family Member
+* Place to Relax at Home
+* Birthday Celebration
+
+Main improvement priorities:
+
+* Keep past and present tenses consistent
+* Complete one sentence before adding another idea
+* Reduce repeated words and self-correction loops
+* Use shorter, more accurate sentences during spontaneous answers
+* Keep Part 3 answers within the structure: Opinion → Reason → Example → Balance
+
+---
+
+## ⭐ Today’s Biggest Improvement
+
+Today you successfully built a fourth flexible story bank and adapted it naturally across advice, problem-solving, conversation and decision topics.
+
+More importantly, you recognised when a story migration felt forced. Instead of using the Stella story unnaturally for an important-decision cue card, you changed to your own layoff experience. This showed stronger topic judgement and made the final answer more authentic and convincing.
+
+Your next milestone is to keep the same strong ideas while reducing repeated starts and improving grammar stability during spontaneous delivery.
+
+---

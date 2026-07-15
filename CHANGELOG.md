@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增交通拥堵 Task 2 批改记录、Band 7.0-7.5 范文，并补充交通拥堵高分搭配和错误复盘
+- 新增古代文化 Task 2 批改记录和 Speaking Day 8 练习总结
 - 新增 IELTS Speaking Day 7 练习总结、Malaysia 旅行故事迁移和 Part 3 旅游话题复盘
 - 新增 IELTS Speaking 题库 v2 和覆盖全题库的 20 天迁移训练计划 v2
 - 新增 IELTS Speaking Day 6 练习总结、Malaysia 旅行故事库和 Task 2 犯罪/政府类表达段落

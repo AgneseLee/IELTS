@@ -2378,3 +2378,321 @@ You adapted the same personal experiences into:
 The biggest improvement was your ability to choose meaningful personal details instead of memorising generic answers. Your answers now sound more like real experiences, which helps both Fluency and Lexical Resource.
 
 The next improvement target is making these strong ideas come out with fewer grammar corrections and smoother sentence endings.
+
+
+---
+
+# 📅 Day 11 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---|---|---|---|---|
+| **7.0–7.5** | **7.5** | **6.5–7.0** | **7.0** | **7.0–7.5** |
+
+> **Note:** Today you showed strong control of technology, medical and business topics. Your biggest improvement was using personal experiences (Dr. Fan) and familiar knowledge (Elon Musk) to build convincing Part 2 answers. The main improvement area remains spontaneous grammar accuracy and avoiding small word-form mistakes.
+
+---
+
+# ✅ What I Did Today
+
+## Part 1
+
+Topics practised:
+
+* Science
+* Space
+* Machines
+* Headphones
+
+Main focus:
+
+* Give a direct answer first.
+* Add a clear reason.
+* Use personal examples.
+* Connect ideas with natural collocations.
+
+---
+
+## ⭐ Part 1 Best Answers
+
+### Science
+
+> Personally speaking, I do enjoy science, especially topics related to space. The main reason is that it allows people to understand how the universe works. What appeals to me most is that science can expand human knowledge and spark my curiosity about the world around us.
+
+Key expressions:
+
+* explore the unknown
+* expand human knowledge
+* spark my curiosity
+
+---
+
+### Space
+
+> Absolutely, I'm fascinated by space. What appeals to me most is how it expands human knowledge. For example, learning about the Big Bang Theory helps me understand the origin of the universe and how it continues to evolve.
+
+Key expressions:
+
+* be fascinated by...
+* the origin of the universe
+* continue to evolve
+
+---
+
+### Machines
+
+> From my perspective, machines like smartphones and kitchen appliances definitely play an important role in my life. For instance, my microwave helps me prepare meals quickly, and my smartphone significantly improves efficiency and makes my life more convenient.
+
+Key expressions:
+
+* play an important role in...
+* significantly improve efficiency
+
+---
+
+### Headphones
+
+> Personally speaking, I use headphones quite often because I'm easily distracted by background noise. Headphones help me block out background distractions and stay focused on my tasks.
+
+Key expressions:
+
+* block out background noise
+* stay focused on my tasks
+
+---
+
+# 📚 Story Bank 7 — Medical Field Person
+
+## Core Story
+
+**Person:** Dr. Fan, my dentist
+
+---
+
+## Background
+
+* Had a toothache.
+* Booked an appointment to check my teeth.
+* Met Dr. Fan last week.
+* She created a treatment plan for my gum disease.
+* Recommended scaling and root planing, a deep cleaning procedure.
+
+---
+
+## Main Event
+
+During the procedure:
+
+* The treatment was quite painful.
+* I told her I felt uncomfortable.
+* She immediately stopped.
+* She patiently explained the process.
+* She waited until I felt comfortable before continuing.
+
+---
+
+## Personality
+
+What stands out most about Dr. Fan:
+
+* Strong sense of responsibility.
+* Professional.
+* Empathetic.
+* Patient with her patients.
+
+---
+
+## Reflection
+
+> What I admire most about her is that even when she is under a lot of pressure, she can still remain patient and attentive to her patients.
+
+Key ideas:
+
+* Medical workers need both medical expertise and emotional support.
+* Good healthcare requires human connection.
+
+---
+
+# 📚 Story Bank 8 — Business Person
+
+## Core Story
+
+**Person:** Elon Musk
+
+---
+
+## Background
+
+* Famous entrepreneur in the 21st century.
+* Known for innovation and technology.
+
+---
+
+## Main Event
+
+* Founded SpaceX.
+* Developed reusable rockets.
+* Turned an ambitious idea into reality.
+* Reduced the cost of space exploration.
+
+---
+
+## Personality
+
+What stands out most:
+
+* Innovative mindset.
+* Willing to take calculated risks.
+* Persistent when facing difficulties.
+
+---
+
+## Reflection
+
+> His experience reminds me that failure is often an essential part of success.
+
+Key ideas:
+
+* Stay competitive.
+* Overcome difficulties.
+* Turn ideas into reality.
+
+---
+
+# 🗣️ Part 3 Practice Completed
+
+## 1. Will AI replace doctors in the future?
+
+Main ideas:
+
+* AI cannot completely replace doctors.
+* Doctors provide medical expertise.
+* They also provide emotional support and human connection.
+* Complex situations require human judgement and adaptability.
+
+Best sentence:
+
+> While AI can assist doctors, it cannot completely replace the human side of healthcare.
+
+---
+
+## 2. Why do some people start their own business?
+
+Main ideas:
+
+* Turn ideas into reality.
+* Pursue personal growth.
+* Follow their passions.
+* Take calculated risks.
+* No guaranteed income.
+
+Best sentence:
+
+> Starting a business often means taking calculated risks, but it can also provide opportunities for personal growth.
+
+---
+
+## 3. Should governments support innovation?
+
+Main ideas:
+
+* Innovation plays an important role in economic development.
+* Government support encourages technological advancement.
+* Innovation can solve real-world problems.
+* It creates business opportunities.
+
+Best sentence:
+
+> Supporting innovation can create a win-win outcome for both the economy and society.
+
+---
+
+# ⭐ Best Sentences Today
+
+> What appeals to me most is that science can expand human knowledge and spark my curiosity about the world around us.
+
+> What stands out most about Dr. Fan is her strong sense of responsibility and professionalism.
+
+> What I admire most about her is that even when she is under a lot of pressure, she can still remain patient and attentive to her patients.
+
+> He managed to turn an ambitious idea into reality, even though many people doubted whether it was possible.
+
+> Human judgement is crucial in complex situations where adaptability is needed.
+
+---
+
+# 🔧 Three Grammar Mistakes
+
+## 1. Universe expression
+
+❌ understand how the universe performs
+
+✅ understand how the universe works
+
+---
+
+## 2. Responsibility
+
+❌ a sense of responsibilities
+
+✅ a sense of responsibility
+
+---
+
+## 3. Business phrase
+
+❌ start one's own business is...
+
+✅ starting one's own business is...
+
+---
+
+# 🚀 Native Collocations of the Day
+
+* spark my curiosity
+* explore the unknown
+* expand human knowledge
+* significantly improve efficiency
+* block out background noise
+* a strong sense of responsibility
+* work under pressure
+* medical expertise
+* provide emotional support
+* human connection
+* human judgement
+* where adaptability is needed
+* innovative mindset
+* take calculated risks
+* turn ideas into reality
+* stay competitive
+* solve real-world problems
+* create business opportunities
+
+---
+
+# 🎯 Focus for Day 12
+
+* Continue Story Migration practice.
+* Build celebration and emotion-related stories.
+* Keep using:
+  * Opinion → Reason → Example → Reflection
+* Improve:
+  * sentence completion
+  * grammar stability
+  * natural transitions
+
+---
+
+# ⭐ Today’s Biggest Improvement
+
+Today you successfully expanded your story bank with two new high-value stories:
+
+✅ Medical Field Person → Dr. Fan  
+✅ Business Person → Elon Musk
+
+More importantly, you continued practising the key IELTS skill developed throughout previous days:
+
+**One idea → multiple questions**
+
+Your technology background, personal healthcare experience and interest in innovation can now support many future topics. The next milestone is delivering these ideas with fewer pauses and more automatic grammar control.

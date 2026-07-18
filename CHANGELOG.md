@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking Day 11 练习总结、医疗和商业人物故事库、Part 3 复盘与高频搭配
 - 新增 IELTS Speaking Day 9 练习总结、家庭故事迁移和 Part 3 家庭话题复盘
 - 为交通拥堵 Task 2 批改新增全文错误标注附录
 - 新增交通拥堵 Task 2 批改记录、Band 7.0-7.5 范文，并补充交通拥堵高分搭配和错误复盘

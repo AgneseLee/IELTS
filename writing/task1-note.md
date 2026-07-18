@@ -335,4 +335,42 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ## 流程图（Process Diagram）
 
-暂无记录。
+### Overview 与信息准确性
+
+- 说明流程是 `linear` 还是 `cyclical`，概括起点和终点。
+- 提及最显著的耗时、阶段或转化特征。
+- 只写图中明确展示的步骤；不补充运输、地点、原因或结果。
+
+### 时态与被动语态
+
+流程图通常使用一般现在时；原料或产品作主语时优先使用被动语态。
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `production for sugar` | `production of sugar` / `process used to produce sugar` | 固定搭配是 `production of` |
+| `7 key steps, which involves` | `seven stages, which involve` | 先行词 `stages` 为复数 |
+| `once sugar canes fully grown` | `once the sugar cane has fully grown` | 从句需要完整谓语 |
+| `before go crushing` | `before being crushed` / `is fed into a crusher` | 使用被动结构描述加工 |
+| `purifying juice` | `the purified juice` | 使用过去分词表示已净化状态 |
+| `through heated within an evaporator` | `is heated in an evaporator` | 被动语态及介词搭配 |
+| `a further step to centrifuge` | `is placed in a centrifuge` | `centrifuge` 在此为设备名词 |
+
+### 流程动词与搭配
+
+| 阶段 | 推荐表达 |
+|---|---|
+| 种植 | `the cultivation of the raw material` / `is grown` |
+| 收割 | `is harvested by machine or manually` |
+| 破碎 | `is fed into a crusher` / `is crushed to extract its juice` |
+| 过滤 | `is passed through a limestone filter` |
+| 蒸发 | `is heated in an evaporator` / `thickens into syrup` |
+| 分离 | `a centrifuge separates the sugar crystals from the liquid` |
+| 完成 | `the crystals are dried and cooled` |
+
+### 写作检查
+
+- [ ] 覆盖全部阶段，顺序准确。
+- [ ] Overview 不含具体过程细节。
+- [ ] 一般现在时、被动语态、主谓一致正确。
+- [ ] 顺序连接词清楚但不过量。
+- [ ] 未加入图中没有的信息。

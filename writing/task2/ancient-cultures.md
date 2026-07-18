@@ -49,7 +49,7 @@ Fix spelling, subject-verb agreement and `allow someone to do something`.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 **Word count: 292**
 
 Some people argue that the study of ancient cultures in no longer a relavant subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying anicient cultures still play a significant role in comprehensive personal growth for individuals.
@@ -62,7 +62,7 @@ In conclusion, although modern education increasingly focuses on pratical and te
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 **Word count: 280**
 
 Some people argue that the study of ancient cultures in no longer a relavant subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying anicient cultures still play a significant role in comprehensive personal growth for individuals.
@@ -75,7 +75,7 @@ In conclusion, although modern education increasingly focuses on pratical and te
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 **Word count: 278**
 
 Some people argue that the study of ancient cultures in no longer a **relevant** subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying **ancient cultural studies** still play a significant role in comprehensive personal growth for individuals.
@@ -88,7 +88,7 @@ In conclusion, although modern education increasingly focuses on **practical** a
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 **Word count: 278**
 
 Some people argue that the study of ancient cultures **is** no longer a relavant subject in modern education. **In my opinion**, I completely disagree with this view, since I believe that studying anicient cultures still **plays** a significant role in comprehensive personal growth for individuals.

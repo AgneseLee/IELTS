@@ -39,7 +39,7 @@ Fix missing `of`, adverbs, prepositions and past tense.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The bar chart illustrates how the distribution annual household income changed in the US in 2007, **2011** and 2015.
 
@@ -49,7 +49,7 @@ Looking at the figures of the highest level of annual income, it fluctuated over
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The bar chart illustrates how the distribution annual household income changed in the US in 2007, 2001 and 2015.
 
@@ -61,7 +61,7 @@ Overall, the proportion remained general steady over the 8-year period. The numb
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The bar chart illustrates how the **distribution of annual household income** changed in the US in 2007, 2001 and 2015.
 
@@ -71,7 +71,7 @@ Looking at the **figure for** the highest level of annual income, it fluctuated 
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The bar chart illustrates how the distribution **of** annual household income changed in the US in 2007, **2011** and 2015.
 

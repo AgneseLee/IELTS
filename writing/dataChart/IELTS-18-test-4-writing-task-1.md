@@ -39,7 +39,7 @@ Fix spelling and reduce overloaded relative clauses.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The line graph illustrates how the **average monthly percentage change in the price** of three different metals **changed throughout** 2014.
 
@@ -49,7 +49,7 @@ Regarding Copper, the **rate of change for Copper remained relatively stable** a
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The line graph illustrates how the average monthly prices changed of three different metals throught 2014.
 
@@ -61,7 +61,7 @@ Overall, there was a general downward trend in the change rates across all three
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The line graph illustrates how the **average monthly percentage change** of three different metals **changed throughout** 2014.
 
@@ -71,7 +71,7 @@ Regarding Copper, **its rate of change remained relatively stable** at approxima
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The line graph illustrates how the average monthly prices changed of three different metals **throughout** 2014.
 

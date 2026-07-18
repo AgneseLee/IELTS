@@ -44,7 +44,7 @@ Fix articles, plural nouns and spelling.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 **Word count: 267**
 
 **Although an ageing population may bring some social benefits, I believe its disadvantages outweigh its advantages.**
@@ -59,7 +59,7 @@ Another significannt drawback of this trend is its tendency to cause resource mi
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 **Word count: 184**
 
 It is important to recognize that ageing population can produce harmful effect on labour force status. A central problem is that it increases working pressure on working-aged adults, who have to earn more money in order to raise elderly people by paying more taxes than before. Without sufficient tax income, it would be impossible to fund ageing rasing system properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
@@ -68,7 +68,7 @@ It is important to recognize that ageing population can produce harmful effect o
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 **Word count: 180**
 
 It is important to recognize that **an ageing population** can produce harmful **effects** on **the labour market**. A central problem is that it increases **pressure** on **working-age adults**, who have to earn more money in order to **support elderly people** by paying more taxes than before. Without sufficient tax income, it would be impossible to fund **pension and elderly care systems** properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
@@ -77,7 +77,7 @@ Another significannt drawback of this trend is its tendency to cause **resource 
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 **Word count: 180**
 
 It is important to recognize that **an** ageing population can produce harmful **effects** on labour force status. A central problem is that it increases working pressure on working-aged adults, who have to earn more money in order to raise elderly people by paying more taxes than before. Without sufficient tax income, it would be impossible to fund ageing **raising** system properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.

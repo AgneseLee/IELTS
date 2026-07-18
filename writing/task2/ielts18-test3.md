@@ -44,7 +44,7 @@ Fix subject-verb agreement and participle clauses.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 **Word count: 311**
 
 The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
@@ -59,7 +59,7 @@ In conclusion, although rural-to-city migration may bring temporary economic gai
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 **Word count: 303**
 
 The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
@@ -74,7 +74,7 @@ In conclusion, although rural-to-city migration may bring temporary economic gai
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 **Word count: 303**
 
 The debate surrounding **rural-to-urban migration** has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
@@ -89,7 +89,7 @@ In conclusion, although rural-to-city migration may bring temporary economic gai
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 **Word count: 303**
 
 The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.

@@ -41,7 +41,7 @@ Fix `with predictions`, `figure for`, `climbed to`, and highest-superlative arti
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
 
@@ -53,7 +53,7 @@ In terms of prediction, all of the countries are predicted to maintain the upwar
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
 
@@ -65,7 +65,7 @@ Overall, there was a general upward trend in population living in cities for all
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The line graph illustrates how the **proportion of people living in cities** changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
 
@@ -77,7 +77,7 @@ In terms of **predictions**, all of the countries are predicted to maintain the 
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with **predictions** for the **upcoming** 20 years.
 

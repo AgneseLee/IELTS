@@ -41,7 +41,7 @@ Fix word forms and tense: `dramatic`, `accounted`, `dropped`, `climbed`.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
 
@@ -53,7 +53,7 @@ Conversely, the allocation for food, the most descreased one among all categorie
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
 
@@ -65,7 +65,7 @@ Overall, income spent on food saw a dramatical decline from 1968 to 2018, which 
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The bar chart illustrates the distribution of families' weekly **expenditure** in one country over a 50-year period.
 
@@ -77,7 +77,7 @@ Conversely, **spending on food, which saw the steepest decline among all categor
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
 

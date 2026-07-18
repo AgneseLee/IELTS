@@ -41,7 +41,7 @@ Use passive voice and present simple: `is grown`, `is harvested`, `is passed thr
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The diagram illustrates different stages of the production for sugar, starting with sugar canes growth and ending up with the final sugar product.
 
@@ -53,7 +53,7 @@ Subsequently, juice comes out when crushing material plants, which provides main
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The diagram illustrates different stages of the production for sugar, starting with sugar canes growth and ending up with the final sugar product.
 
@@ -65,7 +65,7 @@ Overfall, the progress consists of 7 key steps, which involves two main processe
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The diagram illustrates different stages of the **process used to produce sugar from sugar cane**, starting with sugar canes growth and ending up with the **finished sugar**.
 
@@ -77,7 +77,7 @@ Subsequently, juice comes out when crushing material plants, which provides main
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The diagram illustrates different stages of the production **of** sugar, starting with sugar **cane** growth and ending up with the final sugar product.
 

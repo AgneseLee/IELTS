@@ -39,7 +39,7 @@ Avoid dangling `which` clauses and fix subject-verb agreement.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The graph illustrates the number of shop closures and openings between 2011 and 2018.
 
@@ -49,7 +49,7 @@ Looking at the figures of shop closures, it underwent a complicated transformati
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The graph illustrates the number of shop closures and openings between 2011 and 2018.
 
@@ -61,7 +61,7 @@ Overall, there was a clear downward trend in both closures and openings througho
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The **line graph illustrates how the number of shop closures and openings changed** between 2011 and 2018.
 
@@ -71,7 +71,7 @@ Looking at **shop closures**, **the figure fluctuated sharply** during these yea
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The graph illustrates the number of shop closures and openings between 2011 and 2018.
 

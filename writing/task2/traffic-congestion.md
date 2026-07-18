@@ -63,7 +63,7 @@ Fix subject-verb agreement, missing subjects and plural nouns.
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 **Word count: 288**
 
 The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main cause of this issue and propose possible solution.
@@ -76,7 +76,7 @@ In conclusion, the emergence of urban traffic congestion can be traced back to s
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 **Word count: 274**
 
 The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main cause of this issue and propose possible solution.
@@ -89,7 +89,7 @@ In conclusion, the emergence of urban traffic congestion can be traced back to s
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 **Word count: 274**
 
 The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main **causes** of this issue and propose possible **solutions**.
@@ -102,7 +102,7 @@ In conclusion, the emergence of urban traffic congestion can be traced back to s
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 **Word count: 274**
 
 The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main **causes** of this issue and propose possible **solutions**.

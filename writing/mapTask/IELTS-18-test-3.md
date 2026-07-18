@@ -41,7 +41,7 @@ Fix passive structures and location clauses: `has undergone`, `was situated`, `h
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The map illustrates how a public library changed over a 20-year period.
 
@@ -53,7 +53,7 @@ In stark contrast, nowadays, the library experienced a significant development. 
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The map illustrates how a public library changed over a 20-year period.
 
@@ -65,7 +65,7 @@ Overall, the central library has been undergone a thorough renovation over the p
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The **diagrams compare the layout** of a public library **20 years ago with its current floor plan**.
 
@@ -77,7 +77,7 @@ Overall, the central library has been undergone a thorough renovation over the p
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The map illustrates how a public library changed over a 20-year period.
 

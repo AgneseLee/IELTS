@@ -39,7 +39,7 @@ Fix subject-verb agreement, articles and prepositions: `changes occurred`, `rose
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018. Overall, **the total budget increased slightly, the National Government remained the largest source of income, and salaries still took the largest share of expenditure despite a decline.**
 
@@ -49,7 +49,7 @@ In terms of consumption aspects, Salaries of officers and staff still rank first
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018.
 
@@ -61,7 +61,7 @@ The table and charts illustrate the transformation of police budget income and e
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The table and charts illustrate the **sources of police funding and the distribution of expenditure** from 2017 to 2018. Overall, slightly changes occur in this year in income, which gain more 14.1m with total income of 318.6m, in 2018.
 
@@ -71,7 +71,7 @@ In terms of **expenditure**, Salaries of officers and staff still rank first tho
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018. Overall, **slight changes occurred** in this year in income, which **gained** more 14.1m with total income of 318.6m in 2018.
 

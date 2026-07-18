@@ -47,7 +47,7 @@ Use present simple for general debate and fix verb patterns: `be interested in`,
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 People held different opinions on whether university students spend time on other subjects besides main curriculums. Some suppose students should learn about those off-classes subjects they are really interested with, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, **although students should not let extra subjects damage their progress in their main qualification.**
 
@@ -59,7 +59,7 @@ In conclusion, although learning about compulsory subjects is necessary and esse
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 People held different opinions on whether university students spend time on other subjects besides main curriculums. Some suppose students should learn about those off-classes subjects they are really interested with, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
 
@@ -71,7 +71,7 @@ People held different opinions on whether university students spend time on othe
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 People held different opinions on whether university students spend time on other subjects besides **their main subjects**. Some suppose students should learn about those **optional subjects** they are really **interested in**, while others argue that they should concentrate on compulsory subjects and become qualified in their **field**. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
 
@@ -83,7 +83,7 @@ In conclusion, although learning about compulsory subjects is necessary and esse
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 People **hold** different opinions on whether university students **should spend** time on other subjects besides **their** main curriculums. Some suppose students should learn about those off-classes subjects they are really interested **in**, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
 

@@ -41,7 +41,7 @@ Fix spelling, participles and prepositions: `occurred`, `bottoming out`, `rose t
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version (+0.5–1.0 in Task Achievement)
 
 The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
 
@@ -53,7 +53,7 @@ In stark contrast, families' weekly time spent doing housework decreased modestl
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version (+0.5–1.0 in Coherence and Cohesion)
 
 The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
 
@@ -65,7 +65,7 @@ Overall, there was a clear upward trend in the usage of various electrical appli
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version (+0.5–1.0 in Lexical Resource)
 
 The line graphs illustrate the **proportion of households that owned electrical appliances** and weekly time spent on housework in a specific country between 1920 and 2019.
 
@@ -77,7 +77,7 @@ In stark contrast, families' weekly time spent doing **domestic chores** decreas
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version (+0.5–1.0 in Grammatical Range and Accuracy)
 
 The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
 

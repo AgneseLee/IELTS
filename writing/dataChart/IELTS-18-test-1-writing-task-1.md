@@ -13,7 +13,83 @@ In terms of prediction, all of the countries are predicted to maintain the upwar
 
 ---
 
-## Final Version (7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Several data points and forecast details are inaccurate. |
+| Coherence and Cohesion | 6.5 | Chronology is clear, but historical and forecast data need cleaner separation. |
+| Lexical Resource | 6.0 | Some country and urbanisation phrases are unnatural. |
+| Grammatical Range and Accuracy | 6.0 | Article, preposition and clause errors recur. |
+| Overall | 6.0–6.5 | Strong trend control with data accuracy issues. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Correct the Philippines, Indonesia and Thailand figures; mention Malaysia remains highest in the forecast.
+
+### Coherence and Cohesion
+Separate past trends from predictions.
+
+### Lexical Resource
+Use `the Philippines`, `most urbanised country`, `followed a similar trend to`, and `Thailand's figure`.
+
+### Grammatical Range and Accuracy
+Fix `with predictions`, `figure for`, `climbed to`, and highest-superlative articles.
+
+---
+
+## Task Achievement-only Version
+
+The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
+
+Overall, there was a general upward trend in population living in cities for all countries. While Philippines accounted for the lion's share in 1970, Malaysia surpassed it and became the largest urbanization country in 2020, which saw a sharp increase over the past 50 years.
+
+Looking at the graph, the figure of Philippines fluctuated for the first 4 decades, once having peaked at roughly 50% in 1990 but subsequently dropped to **46% in 2000**. However, it climbed marginally at **50% by 2020**, which stood in stark contrast to Malaysia's sharp surge from 30% to roughly 75% within the same period. As for Indonesia, it shared a similar upward trend as Malaysia and climbed up to the second position in 2020 with a figure of approximately **57%**, whereas the number of Thailand remained relatively stable at 30% between 1990 and 2020.
+
+In terms of prediction, all of the countries are predicted to maintain the upward trend in the next 20 years, continuing to increase in urbanization with a considerable rate of change. Particularly, **Thailand is predicted to climb from about 35% to 50%, while Malaysia is still expected to rank first at around 85% by 2040.**
+
+---
+
+## Coherence and Cohesion-only Version
+
+The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
+
+Overall, there was a general upward trend in population living in cities for all countries. While Philippines accounted for the lion's share in 1970, Malaysia surpassed it and became the largest urbanization country in 2020, which saw a sharp increase over the past 50 years.
+
+**For the historical period,** looking at the graph, the figure of Philippines fluctuated for the first 4 decades, once having peaked at roughly 50% in 1990 but subsequently dropped to 40% in 2000. However, it climbed marginally at 45% by 2020, which stood in stark contrast to Malaysia's sharp surge from 30% to roughly 75% within the same period. As for Indonesia, it shared a similar upward trend as Malaysia and climbed up to the second position in 2020 with a figure of approximately 50%, whereas the number of Thailand remained relatively stable at 30% between 1990 and 2020.
+
+**For the forecast period,** all of the countries are predicted to maintain the upward trend in the next 20 years, continuing to increase in urbanization with a considerable rate of change. Particularly, Thailand has the highest predicted rate of change among the four countries, with a figure of 33% per year.
+
+---
+
+## Lexical Resource-only Version
+
+The line graph illustrates how the **proportion of people living in cities** changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
+
+Overall, there was a general upward trend in **urban populations** for all countries. While **the Philippines** accounted for the lion's share in 1970, Malaysia surpassed it and became the **most urbanised country** in 2020, which saw a sharp increase over the past 50 years.
+
+Looking at the graph, the **figure for the Philippines** fluctuated for the first 4 decades, once having peaked at roughly 50% in 1990 but subsequently dropped to 40% in 2000. However, it climbed marginally at 45% by 2020, which stood in stark contrast to Malaysia's surge from 30% to roughly 75% within the same period. As for Indonesia, it **followed a similar upward trend to** Malaysia and climbed up to the second position in 2020 with a figure of approximately 50%, whereas **Thailand's figure** remained relatively stable at 30% between 1990 and 2020.
+
+In terms of **predictions**, all of the countries are predicted to maintain the upward trend in the next 20 years, continuing to increase in **urbanisation** with a considerable rate of change. Particularly, Thailand has the highest predicted rate of change among the four countries, with a figure of 33% per year.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with **predictions** for the **upcoming** 20 years.
+
+Overall, there was a general upward trend in population living in cities for all countries. While **the** Philippines accounted for the lion's share in 1970, Malaysia surpassed it and became the largest urbanization country in 2020, which saw a sharp increase over the past 50 years.
+
+Looking at the graph, the figure **for the** Philippines fluctuated for the first 4 decades, **peaking** at roughly 50% in 1990 **before** subsequently **dropping** to 40% in 2000. However, it climbed marginally **to** 45% by 2020, which stood in stark contrast to Malaysia's sharp surge from 30% to roughly 75% within the same period. As for Indonesia, it shared a similar upward trend as Malaysia and climbed to the second position in 2020 with a figure of approximately 50%, whereas the number of Thailand remained relatively stable at 30% between 1990 and 2020.
+
+In terms of prediction, all of the countries are predicted to maintain the upward trend in the next 20 years, continuing to increase in urbanization with a considerable rate of change. Particularly, Thailand has **the** highest predicted rate of change among the four countries, with a figure of 33% per year.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with predictions for the upcoming 20 years.
 

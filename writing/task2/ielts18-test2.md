@@ -1,4 +1,5 @@
 # IELTS 18 Writing Task 2
+*2026-07-18*
 
 ## Prompt
 
@@ -6,7 +7,7 @@ Some university students want to learn about other subjects in addition to their
 
 Discuss both these views and give your own opinion.
 
-## Original Essay
+## Original Draft
 
 People held different opinions on whether university students spend time on other subjects besides main curriculums. Some suppose students should learn about those off-classes subjects they are really interested with, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
 
@@ -15,6 +16,96 @@ Those who support studying extra subjects believe that it provides students with
 However, others argue that students should focus on subjects already planned in curriculum projects. This idea is correct to some extent. Because employers always get higher salaries if they possess deeper knowledge than others, which is a common market rule. Nevertheless, the rule confronts with a big challenge currently — artificial intelligent, a game changer in the next 20 years. AI can tackle problems that even experienced people struggle with. Therefore, the depth of techniques seems no longer significant as they used to be. Instead, grasping comprehensive knowledge is more efficient and effective as people can synthesize them in a creative way  via AI and make things different.
 
 In conclusion, although learning about compulsory subjects is necessary and essential, I believe university students should have the freedom to learn other subjects otherwise.
+
+---
+
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Both views and opinion are present, but evidence is weak and AI argument is overextended. |
+| Coherence and Cohesion | 6.0 | Discussion structure is clear, but logic jumps in body 2. |
+| Lexical Resource | 5.5 | Several collocations are unnatural. |
+| Grammatical Range and Accuracy | 5.5 | Tense, agreement and sentence structure errors recur. |
+| Overall | 5.5–6.0 | Clear position, but language and evidence weaken the essay. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Use safer examples instead of invented statistics. Keep a balanced opinion: extra subjects are useful, but qualification remains important.
+
+### Coherence and Cohesion
+Use one paragraph for extra subjects, one for qualification focus, and one short opinion/balance paragraph.
+
+### Lexical Resource
+Use `main subjects`, `optional subjects`, `broader knowledge base`, `specialist knowledge`, and `come at the expense of`.
+
+### Grammatical Range and Accuracy
+Use present simple for general debate and fix verb patterns: `be interested in`, `help students`, `students should`.
+
+---
+
+## Task Achievement-only Version
+
+People held different opinions on whether university students spend time on other subjects besides main curriculums. Some suppose students should learn about those off-classes subjects they are really interested with, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, **although students should not let extra subjects damage their progress in their main qualification.**
+
+Those who support studying extra subjects believe that it provides students with various opportunities to explore themselves, which subjects they are not interested in are impossible to manage it. Meanwhile, subjects interested by students helps them broaden their horizons, thereby making them more likely to build a meaningful career about what they truly love from the bottom of hearts. **For example, a computer science student may benefit from learning design or psychology, because this wider knowledge can help them create more practical products.** From this perspective, it is important to form knowledge base as wide as possible.
+
+However, others argue that students should focus on subjects already planned in curriculum projects. This idea is correct to some extent. Because employers always get higher salaries if they possess deeper knowledge than others, which is a common market rule. **This is especially true in fields such as medicine, law and engineering, where specialist knowledge is essential.** Nevertheless, the rule confronts with a big challenge currently — artificial intelligent, a game changer in the next 20 years. AI can tackle problems that even experienced people struggle with. Therefore, the depth of techniques seems no longer significant as they used to be. Instead, grasping comprehensive knowledge is more efficient and effective as people can synthesize them in a creative way via AI and make things different.
+
+In conclusion, although learning about compulsory subjects is necessary and essential, I believe university students should have the freedom to learn other subjects otherwise.
+
+---
+
+## Coherence and Cohesion-only Version
+
+People held different opinions on whether university students spend time on other subjects besides main curriculums. Some suppose students should learn about those off-classes subjects they are really interested with, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
+
+**On the one hand, extra subjects can help students explore wider interests.** Those who support studying extra subjects believe that it provides students with various opportunities to explore themselves, which subjects they are not interested in are impossible to manage it. Meanwhile, subjects interested by students helps them broaden their horizons, thereby making them more likely to build a meaningful career about what they truly love from the bottom of hearts. According to a survey n 2025, it reported that about 60% of those top 100 technical companies in a country were built by people with comprehensive knowledge base and pure interests. From this perspective, it is important to form knowledge base as wide as possible.
+
+**On the other hand, focusing on the main qualification also has value.** However, others argue that students should focus on subjects already planned in curriculum projects. This idea is correct to some extent. Because employers always get higher salaries if they possess deeper knowledge than others, which is a common market rule. Nevertheless, the rule confronts with a big challenge currently — artificial intelligent, a game changer in the next 20 years. AI can tackle problems that even experienced people struggle with. Therefore, the depth of techniques seems no longer significant as they used to be. Instead, grasping comprehensive knowledge is more efficient and effective as people can synthesize them in a creative way via AI and make things different.
+
+**Overall, I believe a balanced approach is best.** In conclusion, although learning about compulsory subjects is necessary and essential, I believe university students should have the freedom to learn other subjects otherwise.
+
+---
+
+## Lexical Resource-only Version
+
+People held different opinions on whether university students spend time on other subjects besides **their main subjects**. Some suppose students should learn about those **optional subjects** they are really **interested in**, while others argue that they should concentrate on compulsory subjects and become qualified in their **field**. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
+
+Those who support studying extra subjects believe that it provides students with various opportunities to explore **their interests**, which subjects they are not interested in are impossible to manage it. Meanwhile, subjects interested by students helps them **broaden their horizons**, thereby making them more likely to build a meaningful career **based on what they truly love**. According to a survey n 2025, it reported that about 60% of those top 100 technical companies in a country were built by people with **a broad knowledge base** and pure interests. From this perspective, it is important to form **as wide a knowledge base as possible**.
+
+However, others argue that students should focus on subjects already planned in **their degree programmes**. This idea is correct to some extent. Because **graduates may earn higher salaries** if they possess deeper knowledge than others, which is a common market rule. Nevertheless, the rule confronts with a big challenge currently — **artificial intelligence**, a game changer in the next 20 years. AI can tackle problems that even experienced people struggle with. Therefore, **specialist knowledge remains important, but it is not always sufficient**. Instead, grasping comprehensive knowledge is more efficient and effective as people can synthesize them in a creative way via AI and make things different.
+
+In conclusion, although learning about compulsory subjects is necessary and essential, I believe university students should have the freedom to learn other subjects **as well**.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+People **hold** different opinions on whether university students **should spend** time on other subjects besides **their** main curriculums. Some suppose students should learn about those off-classes subjects they are really interested **in**, while others argue that they should concentrate on compulsory subjects and become qualified in their sphere. In my view, I agree more with the former, as it rests not only on more ample theory but also on stronger evidence.
+
+Those who support studying extra subjects believe that it provides students with various opportunities to explore themselves, **especially when** subjects they are not interested in are impossible to manage. Meanwhile, subjects **that students are interested in help** them broaden their horizons, thereby making them more likely to build a meaningful career about what they truly love from the bottom of **their** hearts. According to a survey **in** 2025, it reported that about 60% of those top 100 technical companies in a country were built by people with **a** comprehensive knowledge base and pure interests. From this perspective, it is important to form **a** knowledge base as wide as possible.
+
+However, others argue that students should focus on subjects already planned in curriculum projects. This idea is correct to some extent, **because** employers always get higher salaries if they possess deeper knowledge than others, which is a common market rule. Nevertheless, the rule **is confronting** a big challenge currently — artificial intelligent, a game changer in the next 20 years. AI can tackle problems that even experienced people struggle with. Therefore, the depth of techniques seems no longer **as significant as it used to be**. Instead, grasping comprehensive knowledge is more efficient and effective as people can synthesize **it** in a creative way via AI and make things different.
+
+In conclusion, although learning about compulsory subjects is necessary and essential, I believe university students should have the freedom to learn other subjects otherwise.
+
+---
+
+## Final Integrated Version (7.0–7.5)
+
+People hold different views about whether university students should study subjects beyond their main field, or whether they should devote all their time to obtaining a qualification. While concentrating on a degree is certainly important, I believe students should also be allowed to explore other subjects, provided that this does not damage their progress in their main course.
+
+On the one hand, learning additional subjects can bring substantial benefits. One key strength of this approach is that it provides students with more opportunities to develop a broader knowledge base. This is especially valuable because many real-world problems cannot be solved through one discipline alone. For example, a student majoring in computer science may benefit from studying psychology or design, as these subjects can help them understand users and create more practical products. In this way, studying outside one's main field not only broadens students' horizons but also contributes to their long-term development.
+
+On the other hand, it is understandable why some people believe students should focus on their main qualification. University courses are often demanding, and students need to build a firm basis for their future careers. If they spend too much time on unrelated subjects, they may place additional pressure on themselves and perform poorly in their core modules. This would be particularly risky for students in fields such as medicine, law or engineering, where specialist knowledge and professional standards are essential.
+
+In my view, however, these two aims do not have to conflict. Students should give priority to their main subject, but universities can still allow them to take a limited number of optional courses. If this balance is managed properly, students can gain wider knowledge while still meeting the requirements of their qualification.
+
+In conclusion, although studying for a qualification should remain the main responsibility of university students, I believe learning other subjects is also valuable. The best approach is to encourage broader learning without letting it come at the expense of academic performance.
 
 ## Estimated Band
 

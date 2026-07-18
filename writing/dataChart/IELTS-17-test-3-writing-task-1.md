@@ -13,7 +13,83 @@ Conversely, the allocation for food, the most descreased one among all categorie
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Main changes are attempted, but some categories and values are inaccurate. |
+| Coherence and Cohesion | 6.0 | The grouping is visible but sentences are overloaded. |
+| Lexical Resource | 5.5 | Several collocations are unnatural for household expenditure. |
+| Grammatical Range and Accuracy | 5.0 | Frequent word-form, spelling and agreement errors. |
+| Overall | 5.5–6.0 | Ideas are relevant, but language accuracy lowers the score. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Show the clearest contrast: food fell sharply, leisure became largest, household goods stayed stable.
+
+### Coherence and Cohesion
+Group rising categories together and falling categories together.
+
+### Lexical Resource
+Use `spending on`, `household expenditure`, `more than doubled`, and `saw the steepest decline`.
+
+### Grammatical Range and Accuracy
+Fix word forms and tense: `dramatic`, `accounted`, `dropped`, `climbed`.
+
+---
+
+## Task Achievement-only Version
+
+The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
+
+Overall, income spent on food saw a dramatical decline from 1968 to 2018, which stood in stark contrast to leisure soared almost triple over the period. **By 2018, leisure had become the largest category, while household goods stayed almost unchanged.**
+
+Regarding the categories with upward trending, such as leisure, housing, and transport, all of them rose considerably from 9% to 22%, 10% to 19%, and 8% to 14%, respectively.
+
+Conversely, the allocation for food, the most descreased one among all categories, drop substantially from 35% to approximately 17% over the course of period. This was followed by clothing and fuel, falling maginally by 5% and neligibly by 3%, respectively. Furthermore, household goods maintained its original share throughout the period.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
+
+Overall, income spent on food saw a dramatical decline from 1968 to 2018, which stood in stark contrast to leisure soared almost triple over the period. Consequently, the proportion of leisure account for the lion's share by replacing food expenditure by 2018.
+
+**Regarding the categories that increased,** leisure, housing, and transport rose considerably from 9% to 22%, 10% to 19%, and 8% to 14%, respectively.
+
+**Conversely, among the categories that declined,** the allocation for food, the most descreased one among all categories, drop substantially from 35% to approximately 17% over the course of period. This was followed by clothing and fuel, falling maginally by 5% and neligibly by 3%, respectively. Furthermore, household goods maintained its original share throughout the period.
+
+---
+
+## Lexical Resource-only Version
+
+The bar chart illustrates the distribution of families' weekly **expenditure** in one country over a 50-year period.
+
+Overall, **spending on food** saw a **dramatic** decline from 1968 to 2018, which stood in stark contrast to leisure, which **more than doubled** over the period. Consequently, leisure **became the largest category** by replacing food expenditure by 2018.
+
+Regarding the categories with **an upward trend**, such as leisure, housing, and transport, all of them rose considerably from 9% to 22%, 10% to 19%, and 8% to 14%, respectively.
+
+Conversely, **spending on food, which saw the steepest decline among all categories,** drop substantially from 35% to approximately 17% over the course of period. This was followed by clothing and fuel, falling maginally by 5% and neligibly by 3%, respectively. Furthermore, household goods maintained its original share throughout the period.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
+
+Overall, income spent on food saw a **dramatic** decline from 1968 to 2018, which stood in stark contrast to leisure, **which soared** almost triple over the period. Consequently, the proportion of leisure **accounted** for the lion's share by replacing food expenditure by 2018.
+
+Regarding the categories with **an upward trend**, such as leisure, housing, and transport, all of them rose considerably from 9% to 22%, 10% to 19%, and 8% to 14%, respectively.
+
+Conversely, the allocation for food, the most **decreased** one among all categories, **dropped** substantially from 35% to approximately 17% over the course of **the** period. This was followed by clothing and fuel, falling **marginally** by 5% and **negligibly** by 3%, respectively. Furthermore, household goods maintained its original share throughout the period.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The bar chart illustrates the distribution of families' weekly expenditure in one country over a 50-year period.
 

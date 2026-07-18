@@ -13,7 +13,7 @@ Subsequently, juice comes out when crushing material plants, which provides main
 
 ---
 
-## Estimated Band Score
+## Band Scores
 
 | Criterion | Estimated band | Main issue |
 |---|---:|---|
@@ -25,7 +25,71 @@ Subsequently, juice comes out when crushing material plants, which provides main
 
 ---
 
-## Final Version (7.5)
+## Revision Advice
+
+### Task Achievement
+Do not add transport or factory details not shown in the diagram. Mention the linear process and 12-18 month growth stage.
+
+### Coherence and Cohesion
+Use chronological stages: cultivation, harvesting/crushing, filtering/evaporation, centrifuge/drying.
+
+### Lexical Resource
+Use process vocabulary: `cultivation`, `harvested`, `crushed`, `filtered`, `evaporator`, `centrifuge`.
+
+### Grammatical Range and Accuracy
+Use passive voice and present simple: `is grown`, `is harvested`, `is passed through`.
+
+---
+
+## Task Achievement-only Version
+
+The diagram illustrates different stages of the production for sugar, starting with sugar canes growth and ending up with the final sugar product.
+
+Overfall, the progress consists of 7 key steps, which involves two main processes, original material growth and industrial processing. **The process is linear, beginning with the cultivation of sugar cane and ending with drying and cooling. The growth stage takes 12 to 18 months, which is the longest stage.**
+
+Firstly, once sugar canes fully grown, they undergo harvest by tractors or by farmers manually, then being transported to industry before go crushing. **After harvesting, the cane is crushed to extract juice.**
+
+Subsequently, juice comes out when crushing material plants, which provides main resources for limestone filter in purifying step. After that, purifying juice converts into syrup through heated within an evaporator, followed by a further step to centrifuge, separating sugar crystals from syrup. In the final stage, sugar is extracted after drying and cooling.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The diagram illustrates different stages of the production for sugar, starting with sugar canes growth and ending up with the final sugar product.
+
+Overfall, the progress consists of 7 key steps, which involves two main processes, original material growth and industrial processing. It is noticeable that it takes roughly 12 to 18 months to grow sugar canes, significantly longer than the proceeding other five steps of manufacturing process.
+
+**Initially,** once sugar canes fully grown, they undergo harvest by tractors or by farmers manually, then being transported to industry before go crushing. Crushing implies the starting point of industrial production and refinement.
+
+**Following this,** juice comes out when crushing material plants, which provides main resources for limestone filter in purifying step. **After filtration,** purifying juice converts into syrup through heated within an evaporator, followed by a further step to centrifuge, separating sugar crystals from syrup. **Finally,** sugar is extracted after drying and cooling.
+
+---
+
+## Lexical Resource-only Version
+
+The diagram illustrates different stages of the **process used to produce sugar from sugar cane**, starting with sugar canes growth and ending up with the **finished sugar**.
+
+Overfall, the **process** consists of 7 key steps, which involves two main processes, **cultivation of the raw material** and industrial processing. It is noticeable that it takes roughly 12 to 18 months to grow **sugar cane**, significantly longer than the **remaining stages** of manufacturing process.
+
+Firstly, once sugar canes fully grown, they **are harvested** by **a harvesting machine** or by farmers manually, then being transported to industry before go crushing. Crushing **marks** the starting point of industrial production and refinement.
+
+Subsequently, juice comes out when crushing material plants, which provides main resources for limestone filter in purifying step. After that, **the purified juice thickens into syrup** through heated within an evaporator, followed by a further step to centrifuge, separating sugar crystals from syrup. In the final stage, sugar is extracted after drying and cooling.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The diagram illustrates different stages of the production **of** sugar, starting with sugar **cane** growth and ending up with the final sugar product.
+
+**Overall**, the **process** consists of 7 key steps, which **involve** two main processes, original material growth and industrial processing. It is noticeable that it takes roughly 12 to 18 months to grow sugar **cane**, significantly longer than the proceeding other five steps of **the** manufacturing process.
+
+Firstly, once sugar **cane has fully grown**, **it is harvested** by tractors or by farmers manually, then **transported** to industry before **being crushed**. Crushing implies the starting point of industrial production and refinement.
+
+Subsequently, juice comes out when crushing material plants, which provides main resources for limestone filter in purifying step. After that, **purified juice is converted** into syrup through **heating** within an evaporator, followed by a further step to centrifuge, separating sugar crystals from syrup. In the final stage, sugar is extracted after drying and cooling.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The diagram illustrates the seven-stage process used to produce sugar from sugar cane.
 

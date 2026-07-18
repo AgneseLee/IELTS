@@ -26,13 +26,22 @@ Output: table of estimated band per criterion + bullet list of errors, each tagg
 
 Cross-check errors against `myWeaknesses.md` — flag recurring mistakes with `⚠ recurring`.
 
-### Phase 2 — Revised 7.5 Version
+### Phase 2 — Revised Versions
 
-Rewrite the essay to band 7.5 standard:
-- Apply fixes from Phase 1
-- Substitute vocabulary/phrases from `myWeaknesses.md` where a better option exists
-- Do not add new content the original essay didn't attempt to cover
-- Show the full revised essay, not a diff
+Produce five full versions:
+- `Task Achievement-only Version`
+- `Coherence and Cohesion-only Version`
+- `Lexical Resource-only Version`
+- `Grammatical Range and Accuracy-only Version`
+- `Final Integrated Version (7.0–7.5)`
+
+Rules:
+- In each single-criterion version, change only that criterion as much as possible.
+- Bold every changed phrase/sentence in the four single-criterion versions.
+- Do not bold text in the final integrated version.
+- Substitute vocabulary/phrases from `myWeaknesses.md` where a better option exists.
+- Do not add new content the original essay did not attempt to cover.
+- Show each full version, not a diff.
 
 ### Phase 3 — Update myWeaknesses.md
 
@@ -56,8 +65,49 @@ If the user's essay came from a named file (e.g. `IELTS-18-test-4-writing-task-1
 
 ---
 
-## Final Version (7.0–7.5)
-<the revised essay from Phase 2>
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement |  |  |
+| Coherence and Cohesion |  |  |
+| Lexical Resource |  |  |
+| Grammatical Range and Accuracy |  |  |
+| Overall |  |  |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+### Coherence and Cohesion
+### Lexical Resource
+### Grammatical Range and Accuracy
+
+---
+
+## Task Achievement-only Version
+<full essay; bold only changed text>
+
+---
+
+## Coherence and Cohesion-only Version
+<full essay; bold only changed text>
+
+---
+
+## Lexical Resource-only Version
+<full essay; bold only changed text>
+
+---
+
+## Grammatical Range and Accuracy-only Version
+<full essay; bold only changed text>
+
+---
+
+## Final Integrated Version (7.0–7.5)
+<full essay combining all four dimensions; no bold>
 
 ---
 

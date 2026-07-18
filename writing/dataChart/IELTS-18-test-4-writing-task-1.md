@@ -11,7 +11,77 @@ Regarding Copper, the price of Copper rose gradually with a relatively steady gr
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | The y-axis is misread as price, not percentage change. |
+| Coherence and Cohesion | 6.5 | Good grouping idea, but Copper/Nickel/Zinc are crowded. |
+| Lexical Resource | 6.0 | Useful trend vocabulary, with some wrong collocations. |
+| Grammatical Range and Accuracy | 5.5 | Spelling and clause errors are frequent. |
+| Overall | 6.0 | Main issue is data interpretation. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Describe `percentage change in price`, not actual prices.
+
+### Coherence and Cohesion
+Keep Copper separate as the stable series; group Nickel and Zinc as volatile series.
+
+### Lexical Resource
+Use `rate of change`, `decelerated`, `stabilised`, and `followed a broadly similar pattern`.
+
+### Grammatical Range and Accuracy
+Fix spelling and reduce overloaded relative clauses.
+
+---
+
+## Task Achievement-only Version
+
+The line graph illustrates how the **average monthly percentage change in the price** of three different metals **changed throughout** 2014.
+
+Overall, there was a general downward trend in the change rates across all three categories. While Nickel began with the highest rise rate in Januaray, it saw a dramatic decline and plummeted to the lowest point in June, which was surpassed by Zinc and Copper by the end of the year. Similarly, the **rates of change for Copper and Zinc also became lower than at the beginning of the year.**
+
+Regarding Copper, the **rate of change for Copper remained relatively stable** at approximately 1%-2% during the whole year, except for May and June when it experienced a slight drop. The figure of Nickel stood in stark contrast to it, which peaked at 6% in January but plummeted to -3% in June. However, Nickel's **rate of change** continued to dip between July and October before it rebounded to a higher level of 1% at the end of the year. Zinc's **rate of change** depicted a similar trend to Nickel's while it onced soar with a high rate of 3% in February.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The line graph illustrates how the average monthly prices changed of three different metals throught 2014.
+
+Overall, there was a general downward trend in the change rates across all three categories. While Nickel began with the highest rise rate in Januaray, it saw a dramatic decline and plummeted to the lowest point in June, which was surpassed by Zinc and Copper by the end of the year. Similarly, the price of Copper and Zinc also became slower than they were at the beginning of the year.
+
+**Regarding Copper,** the price of Copper rose gradually with a relatively steady growth rate of approximately 1%-2% during the whole year, except for May and June when it experienced a slight drop.
+
+**By contrast, Nickel and Zinc were more volatile.** The figure of Nickel stood in stark contrast to it, which peaked at 6% in January but plummeted to -3% in June. However, Nickel's price continued to dip between July and October before it rebounded to a higher level of 1% at the end of the year. Zinc's price depicted a similar trend to Nickel's while it onced soar with a high rate of 3% in February.
+
+---
+
+## Lexical Resource-only Version
+
+The line graph illustrates how the **average monthly percentage change** of three different metals **changed throughout** 2014.
+
+Overall, there was a general downward trend in the **rates of change** across all three categories. While Nickel began with the highest **growth rate** in Januaray, it **declined dramatically, plummeting** to the lowest point in June, which was surpassed by Zinc and Copper by the end of the year. Similarly, the **rates of change of Copper and Zinc decelerated** compared to the beginning of the year.
+
+Regarding Copper, **its rate of change remained relatively stable** at approximately 1%-2% during the whole year, except for May and June when it experienced a slight drop. **In stark contrast, Nickel** peaked at 6% in January but plummeted to -3% in June. However, Nickel's **rate of change stabilised** between July and October before it rebounded to a higher level of 1% at the end of the year. Zinc's **rate of change followed a broadly similar pattern** to Nickel's while it onced soar with a high rate of 3% in February.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The line graph illustrates how the average monthly prices changed of three different metals **throughout** 2014.
+
+Overall, there was a general downward trend in the change rates across all three categories. While Nickel began with the highest rise rate in **January**, it saw a dramatic decline and plummeted to the lowest point in June, which was surpassed by Zinc and Copper by the end of the year. Similarly, the price of Copper and Zinc also **became lower than they were** at the beginning of the year.
+
+Regarding Copper, the price of Copper rose gradually with a relatively steady growth rate of approximately 1%-2% during the whole year, except for May and June when it experienced a slight drop. The figure of Nickel stood in stark contrast to it, **peaking** at 6% in January but **plummeting** to -3% in June. However, Nickel's price continued to dip between July and October before it rebounded to a higher level of 1% at the end of the year. Zinc's price depicted a similar trend to Nickel's while it **once soared** with a high rate of 3% in February.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The line graph illustrates the average monthly percentage change in the price of three metals throughout 2014.
 

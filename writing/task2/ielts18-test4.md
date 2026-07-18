@@ -16,7 +16,77 @@ Another significannt drawback of this trend is its tendency to cause resource mi
 
 ---
 
-## Final Version (7.0-7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Disadvantages are relevant, but the original lacks concession and conclusion. |
+| Coherence and Cohesion | 6.5 | Two problem paragraphs are clear. |
+| Lexical Resource | 6.0 | Good topic vocabulary, but several collocations are inaccurate. |
+| Grammatical Range and Accuracy | 6.0 | Articles, plurals and spelling need control. |
+| Overall | 6.0 | Argument is usable but incomplete. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Add a clear introduction, a concession about benefits, and a conclusion.
+
+### Coherence and Cohesion
+Keep workforce and public-service pressure as two separate body paragraphs.
+
+### Lexical Resource
+Use `an ageing population`, `labour market`, `pension and elderly care systems`, and `public finances`.
+
+### Grammatical Range and Accuracy
+Fix articles, plural nouns and spelling.
+
+---
+
+## Task Achievement-only Version
+**Word count: 267**
+
+**Although an ageing population may bring some social benefits, I believe its disadvantages outweigh its advantages.**
+
+It is important to recognize that ageing population can produce harmful effect on labour force status. A central problem is that it increases working pressure on working-aged adults, who have to earn more money in order to raise elderly people by paying more taxes than before. Without sufficient tax income, it would be impossible to fund ageing rasing system properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
+
+Another significannt drawback of this trend is its tendency to cause resource misallocation by government. The main reason is that it forces government to divert limited money in public services, especially in terms of healthcare and pensions, thereby reducing investment in education and other welfares. On one hand, it places additional burden on medical system to deal with a large number of ageing patiences. On the other hand, education for young people may deteriorate due to a lack of fund. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
+
+**Admittedly, elderly people may contribute experience, advice and family support. However, these benefits are limited because many older people also need medical and financial support.**
+
+**In conclusion, the disadvantages are greater because this trend pressures the workforce, public finances and essential services.**
+
+---
+
+## Coherence and Cohesion-only Version
+**Word count: 184**
+
+It is important to recognize that ageing population can produce harmful effect on labour force status. A central problem is that it increases working pressure on working-aged adults, who have to earn more money in order to raise elderly people by paying more taxes than before. Without sufficient tax income, it would be impossible to fund ageing rasing system properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
+
+**Another problem concerns government spending.** Another significannt drawback of this trend is its tendency to cause resource misallocation by government. The main reason is that it forces government to divert limited money in public services, especially in terms of healthcare and pensions, thereby reducing investment in education and other welfares. **For example,** it places additional burden on medical system to deal with a large number of ageing patiences. **At the same time,** education for young people may deteriorate due to a lack of fund. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
+
+---
+
+## Lexical Resource-only Version
+**Word count: 180**
+
+It is important to recognize that **an ageing population** can produce harmful **effects** on **the labour market**. A central problem is that it increases **pressure** on **working-age adults**, who have to earn more money in order to **support elderly people** by paying more taxes than before. Without sufficient tax income, it would be impossible to fund **pension and elderly care systems** properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
+
+Another significannt drawback of this trend is its tendency to cause **resource misallocation by governments**. The main reason is that it forces government to **divert limited money away from other public services**, especially in terms of healthcare and pensions, thereby reducing investment in education and other **welfare services**. On one hand, it places additional burden on medical system to deal with a large number of **elderly patients**. On the other hand, education for young people may deteriorate due to a lack of fund. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+**Word count: 180**
+
+It is important to recognize that **an** ageing population can produce harmful **effects** on labour force status. A central problem is that it increases working pressure on working-aged adults, who have to earn more money in order to raise elderly people by paying more taxes than before. Without sufficient tax income, it would be impossible to fund ageing **raising** system properly. In addition, due to a lack of sufficient young workers, companies may struggle to operate efficiently and effectively, and countries' tax revenue may decline accordingly.
+
+Another **significant** drawback of this trend is its tendency to cause resource misallocation by **governments**. The main reason is that it forces **governments** to divert limited money in public services, especially in terms of healthcare and pensions, thereby reducing investment in education and other welfares. **On the one hand**, it places **an** additional burden on **the** medical system to deal with a large number of ageing **patients**. On the other hand, education for young people may deteriorate due to a lack of **funding**. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
+
+---
+
+## Final Integrated Version (7.0-7.5)
 **Word count: 336**
 
 The debate surrounding an ageing population has engaged a broad audience recently. Although having more elderly people may bring some social benefits, its negative effects are more serious and long-lasting. Therefore, I believe that the disadvantages of this trend outweigh its advantages.

@@ -11,7 +11,77 @@ Looking at the figures of the highest level of annual income, it fluctuated over
 
 ---
 
-## Final Version (7–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Main income groups are covered, but year and data errors affect accuracy. |
+| Coherence and Cohesion | 6.0 | Structure is usable, but the body paragraph is too dense. |
+| Lexical Resource | 5.5 | Income-bracket vocabulary needs control. |
+| Grammatical Range and Accuracy | 5.5 | Articles, prepositions and tense errors recur. |
+| Overall | 5.5–6.0 | Relevant answer with notable accuracy issues. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Correct `2011`, the $100k+ figure, and the unit: households in millions, not percentages.
+
+### Coherence and Cohesion
+Separate the highest bracket from the lower and middle brackets.
+
+### Lexical Resource
+Use `income bracket`, `households with an annual income of`, `recorded peaks`, and `remained stable`.
+
+### Grammatical Range and Accuracy
+Fix missing `of`, adverbs, prepositions and past tense.
+
+---
+
+## Task Achievement-only Version
+
+The bar chart illustrates how the distribution annual household income changed in the US in 2007, **2011** and 2015.
+
+Overall, the proportion remained general steady over the 8-year period. The number of households with over 100,000 dollars on annual income accounted for the lion's share in both 2007 and 2015, having been surpassed by the level of income between $25,000 and $49,999 in 2011 though.
+
+Looking at the figures of the highest level of annual income, it fluctuated over the course of 8 years, plummeting at roughly **28m** in 2011 before peaking at 33m by 2015. Meanwhile, the lowest two income levels, which are one less than $25,000 and the other between $25,000 and $49,999 stood in stark contrast to it, occupied the largest 2 proportions with a high of 28m and 30m in 2011 and dropped slightly by **about 1-2 million households** in 2015, respectively. Furthermore, the numbers of households with medium income level accounting for the remaining amount remained steady throughout the period.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The bar chart illustrates how the distribution annual household income changed in the US in 2007, 2001 and 2015.
+
+Overall, the proportion remained general steady over the 8-year period. The number of households with over 100,000 dollars on annual income accounted for the lion's share in both 2007 and 2015, having been surpassed by the level of income between $25,000 and $49,999 in 2011 though.
+
+**Regarding the highest income group,** looking at the figures of the highest level of annual income, it fluctuated over the course of 8 years, plummeting at roughly 23m in 2011 before peaking at 33m by 2015.
+
+**By contrast, the lower and middle income groups showed smaller changes.** Meanwhile, the lowest two income levels, which are one less than $25,000 and the other between $25,000 and $49,999 stood in stark contrast to it, occupied the largest 2 proportions with a high of 28m and 30m in 2011 and dropped slightly by 1% to 3% in 2015, respectively. Furthermore, the numbers of households with medium income level accounting for the remaining amount remained steady throughout the period.
+
+---
+
+## Lexical Resource-only Version
+
+The bar chart illustrates how the **distribution of annual household income** changed in the US in 2007, 2001 and 2015.
+
+Overall, the proportion remained general steady over the 8-year period. The number of households **with an annual income of over $100,000** accounted for the lion's share in both 2007 and 2015, having been surpassed by the **$25,000-$49,999 bracket** in 2011 though.
+
+Looking at the **figure for** the highest level of annual income, it fluctuated over the course of 8 years, plummeting at roughly 23m in 2011 before peaking at 33m by 2015. Meanwhile, the lowest two **income brackets**, which are **below $25,000** and between $25,000 and $49,999 stood in stark contrast to it, **recorded peaks** of 28m and 30m in 2011 and dropped slightly by 1% to 3% in 2015, respectively. Furthermore, the **two middle brackets** accounting for the remaining amount remained steady throughout the period.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The bar chart illustrates how the distribution **of** annual household income changed in the US in 2007, **2011** and 2015.
+
+Overall, the proportion remained **generally** steady over the 8-year period. The number of households with over 100,000 dollars on annual income accounted for the lion's share in both 2007 and 2015, **although it was** surpassed by the level of income between $25,000 and $49,999 in 2011.
+
+Looking at the figures of the highest level of annual income, it fluctuated over the course of 8 years, plummeting **to** roughly 23m in 2011 before peaking at 33m **in** 2015. Meanwhile, the lowest two income levels, which **were** one less than $25,000 and the other between $25,000 and $49,999, stood in stark contrast to it, **occupying** the largest 2 proportions with a high of 28m and 30m in 2011 and **dropping** slightly by 1% to 3% in 2015, respectively. Furthermore, the numbers of households with medium income level accounting for the remaining amount remained steady throughout the period.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The bar chart illustrates how the distribution of annual household income changed in the US in 2007, 2011 and 2015.
 

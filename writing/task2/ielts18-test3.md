@@ -16,7 +16,95 @@ In conclusion, although rural-to-city migration may bring temporary economic gai
 
 ---
 
-## Final Version (7.0-7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 7.0 | Clear position and relevant concession. |
+| Coherence and Cohesion | 6.5 | Strong paragraphing, but some links are weakened by language errors. |
+| Lexical Resource | 6.0 | Topic vocabulary is useful, with several unnatural collocations. |
+| Grammatical Range and Accuracy | 5.5 | Agreement and clause errors are frequent. |
+| Overall | 6.0–6.5 | Good argument, grammar limits score. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Keep the negative position and concession, but make the city and rural impacts explicit.
+
+### Coherence and Cohesion
+Keep two negative body paragraphs plus a short concession.
+
+### Lexical Resource
+Use `rural-to-urban migration`, `urban infrastructure`, `property prices`, and `rural communities`.
+
+### Grammatical Range and Accuracy
+Fix subject-verb agreement and participle clauses.
+
+---
+
+## Task Achievement-only Version
+**Word count: 311**
+
+The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
+
+It is important to recognize that this migration trend can produce harmful effects on city residents. A central problem is that it increase pressure on urban infrastructure, especially public transport and roads. **This can create overcrowded transport systems, heavier traffic and higher housing costs.** When numerous people pouring into the city, buses, railways, and subway systems have to transport much more passengers than before. This situation worsens if some of newcomers drive their private vehicles. In addition, a large amount of migrants would push up estate prices locally due to the growing demand for accommodation, especially in the central part of the city. As a consequence, many residents may face higher living costs while their living standards deteriorate.
+
+Another significant drawback of this trend is its tendency to weaken rural communities. The main reason is that it take away young adults from the countryside, thereby reducing the workforce for local economy. Because lacking of workable adults, small businesses may struggle to operate efficiently, and rural areas probably become poorer over time. More importantly, elderly people are left behind because their children move to big cities for better opportunities. As a result, they may lack proper daily care and emotional support.
+
+Admittedly, the rural-to-city migration can boost cities’ economic environment and employment status in short term by providing numerous work labour. Nevertheless, this advantage is short-lived, as the initial economic benefits quickly fades once the city becomes overcrowding and the rural areas continue to decline.
+
+In conclusion, although rural-to-city migration may bring temporary economic gains, I believe that it is a main negative trend because pursuing national well-being should not come at the expense of rural one.
+
+---
+
+## Coherence and Cohesion-only Version
+**Word count: 303**
+
+The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
+
+**First, this migration can harm city residents.** It is important to recognize that this migration trend can produce harmful effects on city residents. A central problem is that it increase pressure on urban infrastructure, especially public transport and roads. When numerous people pouring into the city, buses, railways, and subway systems have to transport much more passengers than before. This situation worsens if some of newcomers drive their private vehicles. In addition, a large amount of migrants would push up estate prices locally due to the growing demand for accommodation, especially in the central part of the city. As a consequence, many residents may face higher living costs while their living standards deteriorate.
+
+**Second, it can weaken rural communities.** Another significant drawback of this trend is its tendency to weaken rural communities. The main reason is that it take away young adults from the countryside, thereby reducing the workforce for local economy. Because lacking of workable adults, small businesses may struggle to operate efficiently, and rural areas probably become poorer over time. More importantly, elderly people are left behind because their children move to big cities for better opportunities. As a result, they may lack proper daily care and emotional support.
+
+Admittedly, the rural-to-city migration can boost cities’ economic environment and employment status in short term by providing numerous work labour. Nevertheless, this advantage is short-lived, as the initial economic benefits quickly fades once the city becomes overcrowding and the rural areas continue to decline.
+
+In conclusion, although rural-to-city migration may bring temporary economic gains, I believe that it is a main negative trend because pursuing national well-being should not come at the expense of rural one.
+
+---
+
+## Lexical Resource-only Version
+**Word count: 303**
+
+The debate surrounding **rural-to-urban migration** has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
+
+It is important to recognize that this migration trend can produce harmful effects on city residents. A central problem is that it increase pressure on **urban infrastructure**, especially public transport and roads. When numerous people pouring into the city, buses, railways, and subway systems have to **carry far more passengers** than before. This situation worsens if some of newcomers drive private vehicles. In addition, a large **number** of migrants would push up **property prices** locally due to the growing demand for accommodation, especially in central parts of cities. As a consequence, many residents may face higher living costs while their living standards deteriorate.
+
+Another significant drawback of this trend is its tendency to weaken **rural communities**. The main reason is that it take away young adults from the countryside, thereby reducing the **labour force in local economies**. Because lacking of **working-age adults**, small businesses may struggle to operate efficiently, and rural areas probably become poorer over time. More importantly, elderly people are left behind because their children move to big cities for better opportunities. As a result, they may lack proper daily care and emotional support.
+
+Admittedly, the rural-to-city migration can boost cities’ economic environment and employment status **in the short term** by providing numerous **workers**. Nevertheless, this advantage is short-lived, as the initial economic benefits quickly fades once the city becomes overcrowding and the rural areas continue to decline.
+
+In conclusion, although rural-to-city migration may bring temporary economic gains, I believe that it is **mainly** a negative trend because pursuing national well-being should not come at the expense of **rural communities**.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+**Word count: 303**
+
+The debate surrounding rural-to-city migration has engaged a broad audience recently. Although moving to cities brings short-term economic benefits to cities, its negative effects are far more pronounced and long-lasting. Therefore, I believe this is an overall negative development.
+
+It is important to recognize that this migration trend can produce harmful effects on city residents. A central problem is that it **increases** pressure on urban infrastructure, especially public transport and roads. When numerous people **pour** into the city, buses, railways, and subway systems have to transport **many more** passengers than before. This situation worsens if some **newcomers** drive their private vehicles. In addition, a large amount of migrants would push up estate prices locally due to the growing demand for accommodation, especially in the central part of the city. As a consequence, many residents may face higher living costs while their living standards deteriorate.
+
+Another significant drawback of this trend is its tendency to weaken rural communities. The main reason is that it **takes** young adults **away** from the countryside, thereby reducing the workforce for local economy. **Due to a lack of** workable adults, small businesses may struggle to operate efficiently, and rural areas **may** become poorer over time. More importantly, elderly people are left behind because their children move to big cities for better opportunities. As a result, they may lack proper daily care and emotional support.
+
+Admittedly, the rural-to-city migration can boost cities’ economic environment and employment status in short term by providing numerous work labour. Nevertheless, this advantage is short-lived, as the initial economic benefits quickly **fade** once the city becomes **overcrowded** and the rural areas continue to decline.
+
+In conclusion, although rural-to-city migration may bring temporary economic gains, I believe that it is a main negative trend because pursuing national well-being should not come at the expense of rural one.
+
+---
+
+## Final Integrated Version (7.0-7.5)
 **Word count: 318**
 
 The debate surrounding rural-to-urban migration has engaged a broad audience recently. Although this trend may bring short-term economic benefits to cities, its negative effects are more serious and long-lasting. Therefore, I believe that overall this is a negative development.

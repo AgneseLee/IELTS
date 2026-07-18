@@ -35,7 +35,87 @@ In conclusion, the emergence of urban traffic congestion can be traced back to s
 
 ---
 
-## Final Version (7.0-7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.5 | Both causes and solutions are covered; second cause needs more development. |
+| Coherence and Cohesion | 6.5 | Clear causes-solutions structure. |
+| Lexical Resource | 6.0 | Several transport collocations are unnatural. |
+| Grammatical Range and Accuracy | 5.5 | Missing subjects and agreement errors recur. |
+| Overall | 6.0–6.5 | Clear response with sentence-level errors. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Develop poor awareness by linking it to accidents, delays and lower road efficiency.
+
+### Coherence and Cohesion
+Keep one causes paragraph and one solutions paragraph, but make each logic chain explicit.
+
+### Lexical Resource
+Use `public transport network`, `modes of transport`, `urban mobility`, and `traffic congestion`.
+
+### Grammatical Range and Accuracy
+Fix subject-verb agreement, missing subjects and plural nouns.
+
+---
+
+## Task Achievement-only Version
+**Word count: 288**
+
+The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main cause of this issue and propose possible solution.
+
+One major reason behind traffic congestion in cities is the lack of good public transportation network. This shortage lead to citizens spend more time on their commute with more transfer time across different transportation tools, such as subways and buses. 而且, Situation would become worse if they commute by their private vehicles, which places additional pressure on cities’ roads and eventually reinforce the negative pattern that is difficult to change. Meanwhile, poor individual awareness deteriorate this trend further **because careless driving, illegal parking and ignoring traffic signals can cause accidents and unnecessary delays.**
+
+Nevertheless, although the problem appears severe, it is far from unsolvable. One practical approach to addressing this issue is to promote the use of public transportation. Governments could release some regulations regarding promotion of public transportation by limiting non-local cars on main roads during peak hours. This is effective because directly improve urban mobility and efficiency, ensuring commuting costs less time than before. Another important step in tackling traffic jam is to strengthen citizen’s awareness of adhering to traffic rules. The key reason is that it not only promotes road safety but also enhance the efficiency of city roads with less traffic accidents. As a result, this strategy might ensure more lasting and comprehensive outcomes.
+
+In conclusion, the emergence of urban traffic congestion can be traced back to several causes, such as insufficient public transportation and poor individual awareness. Nevertheless, by adopting effective measures at both governmental and individual levels, including promoting public transport and improving people’s awareness, its negative impact can be mitigated and the situation can be improved in the long run.
+
+---
+
+## Coherence and Cohesion-only Version
+**Word count: 274**
+
+The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main cause of this issue and propose possible solution.
+
+**One major cause is poor public transport.** One major reason behind traffic congestion in cities is the lack of good public transportation network. This shortage lead to citizens spend more time on their commute with more transfer time across different transportation tools, such as subways and buses. 而且, Situation would become worse if they commute by their private vehicles, which places additional pressure on cities’ roads and eventually reinforce the negative pattern that is difficult to change. **Another cause is poor public awareness.** Meanwhile, poor individual awareness deteriorate this trend further.
+
+Nevertheless, although the problem appears severe, it is far from unsolvable. **The first solution is to promote public transport.** One practical approach to addressing this issue is to promote the use of public transportation. Governments could release some regulations regarding promotion of public transportation by limiting non-local cars on main roads during peak hours. This is effective because directly improve urban mobility and efficiency, ensuring commuting costs less time than before. **The second solution is to improve traffic-rule awareness.** Another important step in tackling traffic jam is to strengthen citizen’s awareness of adhering to traffic rules. The key reason is that it not only promotes road safety but also enhance the efficiency of city roads with less traffic accidents. As a result, this strategy might ensure more lasting and comprehensive outcomes.
+
+In conclusion, the emergence of urban traffic congestion can be traced back to several causes, such as insufficient public transportation and poor individual awareness. Nevertheless, by adopting effective measures at both governmental and individual levels, including promoting public transport and improving people’s awareness, its negative impact can be mitigated and the situation can be improved in the long run.
+
+---
+
+## Lexical Resource-only Version
+**Word count: 274**
+
+The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main **causes** of this issue and propose possible **solutions**.
+
+One major reason behind traffic congestion in cities is the lack of **a reliable public transport network**. This shortage lead to citizens spend more time on their commute with more transfer time across different **modes of transport**, such as subways and buses. Moreover, Situation would become worse if they **drive private vehicles**, which places additional pressure on cities’ roads and eventually reinforce the negative pattern that is difficult to change. Meanwhile, poor **public awareness** deteriorate this trend further.
+
+Nevertheless, although the problem appears severe, it is far from unsolvable. One practical approach to addressing this issue is to promote the use of public transportation. Governments could **introduce regulations to encourage the use of public transport** by limiting non-local cars on main roads during peak hours. This is effective because directly improve **urban mobility and commuting efficiency**, ensuring **commuters spend less time travelling** than before. Another important step in tackling **traffic congestion** is to strengthen **public awareness** of adhering to traffic rules. The key reason is that it not only promotes road safety but also enhance the efficiency of city roads with **fewer traffic accidents**. As a result, this strategy might ensure more lasting and comprehensive outcomes.
+
+In conclusion, the emergence of urban traffic congestion can be traced back to several causes, such as insufficient public transportation and poor individual awareness. Nevertheless, by adopting effective measures at both governmental and individual levels, including promoting public transport and improving people’s awareness, its negative impact can be mitigated and the situation can be improved in the long run.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+**Word count: 274**
+
+The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and governments and individuals can take actions to alleviate it. This essay will examine the main **causes** of this issue and propose possible **solutions**.
+
+One major reason behind traffic congestion in cities is the lack of **a** good public transportation network. This shortage **leads citizens to spend** more time on their commute with more transfer time across different transportation tools, such as subways and buses. **Moreover, the situation becomes worse** if they commute by their private vehicles, which places additional pressure on cities’ roads and eventually **reinforces** the negative pattern that is difficult to change. Meanwhile, poor individual awareness **deteriorates** this trend further.
+
+Nevertheless, although the problem appears severe, it is far from unsolvable. One practical approach to addressing this issue is to promote the use of public transportation. Governments could release some regulations regarding promotion of public transportation by limiting non-local cars on main roads during peak hours. This is effective because **it directly improves** urban mobility and efficiency, ensuring commuting costs less time than before. Another important step in tackling traffic jam is to strengthen **citizens'** awareness of adhering to traffic rules. The key reason is that it not only promotes road safety but also **enhances** the efficiency of city roads with **fewer** traffic accidents. As a result, this strategy might ensure more lasting and comprehensive outcomes.
+
+In conclusion, the emergence of urban traffic congestion can be traced back to several causes, such as insufficient public transportation and poor individual awareness. Nevertheless, by adopting effective measures at both governmental and individual levels, including promoting public transport and improving people’s awareness, its negative impact can be mitigated and the situation can be improved in the long run.
+
+---
+
+## Final Integrated Version (7.0-7.5)
 **Word count: 307**
 
 The debate surrounding traffic congestion has engaged a broad audience recently. This problem can be attributed to multiple causes, and both governments and individuals can take feasible steps to alleviate it. This essay will examine the main causes of this issue and propose possible solutions.

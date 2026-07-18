@@ -21,7 +21,87 @@ In conclusion, although modern education increasingly focuses on pratical and te
 
 ---
 
-## Final Version (7.0-7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Position is clear, but one body paragraph is incomplete. |
+| Coherence and Cohesion | 6.0 | Structure is logical, but unfinished references weaken flow. |
+| Lexical Resource | 5.5 | Many academic words are attempted, with spelling and collocation errors. |
+| Grammatical Range and Accuracy | 5.5 | Main issues are agreement, plurals and verb patterns. |
+| Overall | 5.5–6.0 | Clear view, but development and accuracy need work. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Complete the second body paragraph and explain why ancient cultures still matter in education.
+
+### Coherence and Cohesion
+Use two clear reasons: understanding modern society; developing thinking and cultural awareness.
+
+### Lexical Resource
+Use `ancient cultural studies`, `historical perspective`, `contemporary society`, and `sense of national identity`.
+
+### Grammatical Range and Accuracy
+Fix spelling, subject-verb agreement and `allow someone to do something`.
+
+---
+
+## Task Achievement-only Version
+**Word count: 292**
+
+Some people argue that the study of ancient cultures in no longer a relavant subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying anicient cultures still play a significant role in comprehensive personal growth for individuals.
+
+First of all, the study of ancient cultures undoubtedly brings substantial benefits for students regardless of whether in modern education or in old-school education. One key strength is its ability to allow students learn how political system, law and social value develop over time, thereby building a firm basis of overall personal growth. For instance, studying ancient Chinese history, such as Tang and Han dynasties, helps students understand the complicated reasons why a society thrives and becomes bleak and how those bereaucratic still influence current society. Without this historical perspective, it would be difficult to recognize how current society operates. Therefore, ancient cutural studies contribute significantly to a deeper and meaningful understanding of comtemporary life.
+
+More over, the aim of education is not only for professional skills, but also for abstract mental skills, such as critical thinking, analitical ability, and cultral awareness. **If ancient cultures were removed from schools, students would lose the opportunity to understand how societies developed and why different civilizations made different choices. This would make modern education narrower and less complete.** This would make a negative impact on their overall intellectual development, which may eventually lead to reduction in national identity. As a result, **excluding ancient cultures from the curriculum would be a mistake.**
+
+In conclusion, although modern education increasingly focuses on pratical and technical skill, the study of ancient cultures remains essential. It helps students understand the roots of modern society and develop intellectural abilities. For these reasons, I strongly disagree with the view that the study of ancient cultures is no longer a relavant subject in modern education.
+
+---
+
+## Coherence and Cohesion-only Version
+**Word count: 280**
+
+Some people argue that the study of ancient cultures in no longer a relavant subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying anicient cultures still play a significant role in comprehensive personal growth for individuals.
+
+**First, ancient cultures help students understand modern society.** The study of ancient cultures undoubtedly brings substantial benefits for students regardless of whether in modern education or in old-school education. One key strength is its ability to allow students learn how political system, law and social value develop over time, thereby building a firm basis of overall personal growth. For instance, studying ancient Chinese history, such as Tang and Han dynasties, helps students understand the complicated reasons why a society thrives and becomes bleak and how those bereaucratic still influence current society. Without this historical perspective, it would be difficult to recognize how current society operates. Therefore, ancient cutural studies contribute significantly to a deeper and meaningful understanding of comtemporary life.
+
+**Second, this subject also supports students' wider intellectual development.** More over, the aim of education is not only for professional skills, but also for abstract mental skills, such as critical thinking, analitical ability, and cultral awareness. If students would lose the opportunity to explore how society evolve in that way. This would make a negative impact on their overall intellectual development, which may eventually lead to reduction in national identity.
+
+In conclusion, although modern education increasingly focuses on pratical and technical skill, the study of ancient cultures remains essential. It helps students understand the roots of modern society and develop intellectural abilities. For these reasons, I strongly disagree with the view that the study of ancient cultures is no longer a relavant subject in modern education.
+
+---
+
+## Lexical Resource-only Version
+**Word count: 278**
+
+Some people argue that the study of ancient cultures in no longer a **relevant** subject in modern education. In my opinions, I completely disagree with this view, since I believe that studying **ancient cultural studies** still play a significant role in comprehensive personal growth for individuals.
+
+First of all, the study of ancient cultures undoubtedly brings substantial benefits **to** students regardless of whether in modern education or in **traditional education**. One key strength is its ability to allow students learn how **political systems, laws and social values** develop over time, thereby building a firm basis of overall personal growth. For instance, studying ancient Chinese history, such as Tang and Han dynasties, helps students understand the complicated reasons why a society **prospers and declines** and how those **bureaucratic systems** still influence **contemporary society**. Without this **historical perspective**, it would be difficult to recognize how current society operates. Therefore, ancient **cultural** studies contribute significantly to a deeper and meaningful understanding of **contemporary** life.
+
+More over, the aim of education is not only for professional skills, but also for abstract mental skills, such as critical thinking, **analytical ability**, and **cultural awareness**. If students would lose the opportunity to explore how society evolve in that way. This would **have** a negative impact on their overall intellectual development, which may eventually **weaken their sense of national identity**. As a result, exlcuding.
+
+In conclusion, although modern education increasingly focuses on **practical** and technical skill, the study of ancient cultures remains essential. It helps students understand the roots of modern society and develop **intellectual** abilities. For these reasons, I strongly disagree with the view that the study of ancient cultures is no longer a relevant subject in modern education.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+**Word count: 278**
+
+Some people argue that the study of ancient cultures **is** no longer a relavant subject in modern education. **In my opinion**, I completely disagree with this view, since I believe that studying anicient cultures still **plays** a significant role in comprehensive personal growth for individuals.
+
+First of all, the study of ancient cultures undoubtedly brings substantial benefits for students regardless of whether in modern education or in old-school education. One key strength is its ability to allow students **to learn** how political **systems, laws and social values develop** over time, thereby building a firm basis of overall personal growth. For instance, studying ancient Chinese history, such as Tang and Han dynasties, helps students understand the complicated reasons why a society thrives and becomes bleak and how those bereaucratic **systems** still influence current society. Without this historical perspective, it would be difficult to recognize how current society operates. Therefore, ancient cutural studies contribute significantly to a deeper and meaningful understanding of comtemporary life.
+
+**Moreover**, the aim of education is not only for professional skills, but also for abstract mental skills, such as critical thinking, analitical ability, and cultral awareness. If **students lost this subject, they** would lose the opportunity to explore how **societies evolve** in that way. This would make a negative impact on their overall intellectual development, which may eventually lead to **a** reduction in national identity. As a result, **excluding ancient cultures would be harmful**.
+
+In conclusion, although modern education increasingly focuses on pratical and technical **skills**, the study of ancient cultures remains essential. It helps students understand the roots of modern society and develop intellectural abilities. For these reasons, I strongly disagree with the view that the study of ancient cultures is no longer a relavant subject in modern education.
+
+---
+
+## Final Integrated Version (7.0-7.5)
 **Word count: 294**
 
 Some people argue that the study of ancient cultures is no longer a relevant subject in modern education. I completely disagree with this view, because ancient cultural studies still play a significant role in helping students understand modern society and develop important intellectual abilities.

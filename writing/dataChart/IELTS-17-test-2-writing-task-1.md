@@ -11,7 +11,77 @@ In terms of consumption aspects, Salaries of officers and staff still rank first
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Main categories are covered, but total increase and spending changes need clearer data. |
+| Coherence and Cohesion | 6.0 | Income and expenditure are separable, but the draft compresses overview into introduction. |
+| Lexical Resource | 5.5 | Budget vocabulary is often inaccurate. |
+| Grammatical Range and Accuracy | 5.5 | Frequent article, plural and verb-form errors. |
+| Overall | 5.5–6.0 | Relevant content, but expression limits clarity. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+State the total budget rose slightly, national government was the main source, and salaries stayed largest despite falling.
+
+### Coherence and Cohesion
+Use four paragraphs: introduction, overview, income, expenditure.
+
+### Lexical Resource
+Use `funding`, `expenditure`, `accounted for`, `allocation for technology`, and `remained stable`.
+
+### Grammatical Range and Accuracy
+Fix subject-verb agreement, articles and prepositions: `changes occurred`, `rose to`, `remained stable at`.
+
+---
+
+## Task Achievement-only Version
+
+The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018. Overall, **the total budget increased slightly, the National Government remained the largest source of income, and salaries still took the largest share of expenditure despite a decline.**
+
+As the table displays, the National Government occupied the largest portion of this part and the local taxes second, both with minimal rise of 2.3m and 11.1m, respectively. Other sources like grants took the leftover.
+
+In terms of consumption aspects, Salaries of officers and staff still rank first though it slightly dropped from 75% portion to 69%. Building and transport maintained its original share in 17% while technology transformed from a mere 8% to a more significant 14%.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018.
+
+**Overall, slightly changes occur in this year in income, which gain more 14.1m with total income of 318.6m, in 2018.**
+
+**Regarding income,** as the table displays, the National Government occupied the largest portion of this part and the local taxes second, both with minimal rise of 2.3m and 11.1m, respectively. Other sources like grants took the leftover.
+
+**In terms of expenditure,** Salaries of officers and staff still rank first though it slightly dropped from 75% portion to 69%. Building and transport maintained its original share in 17% while technology transformed from a mere 8% to a more significant 14%.
+
+---
+
+## Lexical Resource-only Version
+
+The table and charts illustrate the **sources of police funding and the distribution of expenditure** from 2017 to 2018. Overall, slightly changes occur in this year in income, which gain more 14.1m with total income of 318.6m, in 2018.
+
+As the table displays, the National Government occupied the largest portion of **income** and the local taxes second, both with minimal rise of 2.3m and 11.1m, respectively. Other sources like grants **accounted for the remaining amount**.
+
+In terms of **expenditure**, Salaries of officers and staff still rank first though it slightly dropped from 75% portion to 69%. Building and transport maintained its original share in 17% while technology **grew** from 8% to 14%.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018. Overall, **slight changes occurred** in this year in income, which **gained** more 14.1m with total income of 318.6m in 2018.
+
+As the table displays, the National Government occupied the largest portion of this part and the local taxes **ranked** second, both with **minimal rises** of 2.3m and 11.1m, respectively. Other sources like grants took the leftover.
+
+In terms of consumption aspects, **salaries** of officers and staff still **ranked** first though **they** slightly dropped from 75% portion to 69%. Building and transport maintained its original share **at** 17% while technology transformed from a mere 8% to a more significant 14%.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The table and pie charts show the sources of funding for the police budget in one area of Britain and how this money was spent in 2017 and 2018.
 

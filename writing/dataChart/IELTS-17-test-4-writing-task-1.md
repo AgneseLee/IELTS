@@ -11,7 +11,77 @@ Looking at the figures of shop closures, it underwent a complicated transformati
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.5 | Main trends are mostly covered, but overview misses the reversal clearly. |
+| Coherence and Cohesion | 6.0 | One long body paragraph weakens grouping. |
+| Lexical Resource | 5.5 | Some phrases are inaccurate for absolute numbers. |
+| Grammatical Range and Accuracy | 5.5 | Subject-reference and tense errors reduce control. |
+| Overall | 6.0 | Relevant answer with weak language control. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Highlight that openings started highest but ended below closures.
+
+### Coherence and Cohesion
+Separate openings and closures into two body paragraphs.
+
+### Lexical Resource
+Use `number of openings/closures`, `plateaued`, `rebounded`, `collapsed`, and `remained stable`.
+
+### Grammatical Range and Accuracy
+Avoid dangling `which` clauses and fix subject-verb agreement.
+
+---
+
+## Task Achievement-only Version
+
+The graph illustrates the number of shop closures and openings between 2011 and 2018.
+
+Overall, there was a clear downward trend in both closures and openings throughout the seven years, **with openings falling more consistently and ending below closures despite starting at the highest level.**
+
+Looking at the figures of shop closures, it underwent a complicated transformation during these years, which peaked at the highest position in 2013 and bottomed out in 2015 with a dramatic drop. However, it stopped fluctuating and rebounded to approximately 5,000 by 2018. In stark contrast, the openings figure constantly maintain downward trend from 2014 to 2018, although it once rose slightly from 4,000 to 6,000 between 2012 and 2014. But it continued dipping by 1000 shops by 2018.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The graph illustrates the number of shop closures and openings between 2011 and 2018.
+
+Overall, there was a clear downward trend in both closures and openings throughout the seven years, with the closing number remaining stable by 2018.
+
+**Regarding shop closures,** looking at the figures of shop closures, it underwent a complicated transformation during these years, which peaked at the highest position in 2013 and bottomed out in 2015 with a dramatic drop. However, it stopped fluctuating and rebounded to approximately 5,000 by 2018.
+
+**By contrast, shop openings** constantly maintain downward trend from 2014 to 2018, although it once rose slightly from 4,000 to 6,000 between 2012 and 2014. But it continued dipping by 1000 shops by 2018.
+
+---
+
+## Lexical Resource-only Version
+
+The **line graph illustrates how the number of shop closures and openings changed** between 2011 and 2018.
+
+Overall, there was a clear downward trend in both closures and openings throughout the seven years, with **the number of closures** remaining stable by 2018.
+
+Looking at **shop closures**, **the figure fluctuated sharply** during these years, **peaking at about 7,100** in 2013 and **collapsing** in 2015 with a dramatic drop. However, it **rebounded** to approximately 5,000 by 2018. In stark contrast, **the number of openings** constantly maintain downward trend from 2014 to 2018, although it once rose slightly from 4,000 to 6,000 between 2012 and 2014. But it continued **declining to 3,000** by 2018.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The graph illustrates the number of shop closures and openings between 2011 and 2018.
+
+Overall, there was a clear downward trend in both closures and openings throughout the seven years, with the closing number remaining stable by 2018.
+
+Looking at the figures of shop closures, **they underwent** a complicated transformation during these years, **peaking** at the highest position in 2013 and **bottoming out** in 2015 with a dramatic drop. However, **they stopped** fluctuating and rebounded to approximately 5,000 by 2018. In stark contrast, the openings figure constantly **maintained a** downward trend from 2014 to 2018, although it once rose slightly from 4,000 to 6,000 between 2012 and 2014. **It then** continued dipping by 1000 shops by 2018.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The line graph illustrates how the number of shop openings and closures changed in one country from 2011 to 2018.
 

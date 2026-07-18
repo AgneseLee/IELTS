@@ -13,7 +13,83 @@ In stark contrast, families' weekly time spent doing housework decreased modestl
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Main trends are identified, but overview misses washing-machine contrast and some data are imprecise. |
+| Coherence and Cohesion | 6.0 | Basic order is clear, but two graphs are mixed in long sentences. |
+| Lexical Resource | 5.5 | Frequent collocation errors: `figure of refrigerator`, `portion of vacuum cleaner`. |
+| Grammatical Range and Accuracy | 5.5 | Errors in verb forms, articles and prepositions. |
+| Overall | 5.5–6.0 | Clear attempt, but accuracy and data control need work. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Mention both main patterns: appliance ownership increased, while housework hours fell. Add that fridges and vacuum cleaners reached 100%, but washing machines rose less smoothly.
+
+### Coherence and Cohesion
+Use two body paragraphs: one for appliance ownership, one for housework time.
+
+### Lexical Resource
+Use `ownership`, `proportion of households`, `domestic chores`, and `remained at that level`.
+
+### Grammatical Range and Accuracy
+Fix spelling, participles and prepositions: `occurred`, `bottoming out`, `rose to`, `stood at`.
+
+---
+
+## Task Achievement-only Version
+
+The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
+
+Overall, there was a clear upward trend in the usage of various electrical appliances over the 100-year period, **while weekly housework hours fell substantially. Refrigerators and vacuum cleaners reached full household ownership, whereas washing machines increased more moderately.**
+
+While the figure of refrigerator began with zero, it rose sharply from 0% in 1920 to 100% in 2019. Meanwhile, a more constant increase by the end of 100% occured to the portion of vacuum cleaner. This was followed by the figure of washing machine, which fluctuated throughout the century, having bottom out at approximately at 62% in 1980 and peaking at 73% in 2019.
+
+In stark contrast, families' weekly time spent doing housework decreased modestly and constantly from a high of 50 hours from the beginning to 10 hours by the end, in favor of the prevalence of electrical appliances at homes.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
+
+Overall, there was a clear upward trend in the usage of various electrical appliances over the 100-year period.
+
+**Regarding appliance ownership,** while the figure of refrigerator began with zero, it rose sharply from 0% in 1920 to 100% in 2019. Meanwhile, a more constant increase by the end of 100% occured to the portion of vacuum cleaner. This was followed by the figure of washing machine, which fluctuated throughout the century, having bottom out at approximately at 62% in 1980 and peaking at 73% in 2019.
+
+**By contrast, the second graph shows that** families' weekly time spent doing housework decreased modestly and constantly from a high of 50 hours from the beginning to 10 hours by the end, in favor of the prevalence of electrical appliances at homes.
+
+---
+
+## Lexical Resource-only Version
+
+The line graphs illustrate the **proportion of households that owned electrical appliances** and weekly time spent on housework in a specific country between 1920 and 2019.
+
+Overall, there was a clear upward trend in the **ownership** of various electrical appliances over the 100-year period.
+
+While **refrigerator ownership** began **at zero**, it rose sharply from 0% in 1920 to 100% in 2019. Meanwhile, **vacuum cleaner ownership** saw a more constant increase **to 100% by the end of the period**. This was followed by **washing machine ownership**, which fluctuated throughout the century, having bottom out at approximately at 62% in 1980 and peaking at 73% in 2019.
+
+In stark contrast, families' weekly time spent doing **domestic chores** decreased modestly and constantly from a high of 50 hours from the beginning to 10 hours by the end, **as electrical appliances became more common** at homes.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
+
+Overall, there was a clear upward trend in the usage of various electrical appliances over the 100-year period.
+
+While the figure of **refrigerators** began with zero, it rose sharply from 0% in 1920 to 100% in 2019. Meanwhile, a more constant increase **to 100% by the end of the period occurred** to the portion of **vacuum cleaners**. This was followed by the figure of **washing machines**, which fluctuated throughout the century, **bottoming out** at approximately 62% in 1980 and peaking at 73% in 2019.
+
+In stark contrast, families' weekly time spent doing housework decreased modestly and constantly from a high of 50 hours **at the beginning** to 10 hours by the end, in favor of the prevalence of electrical appliances at homes.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The line graphs compare the percentages of households that owned three electrical appliances with the average number of hours spent on housework each week in one country from 1920 to 2019.
 

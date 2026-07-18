@@ -13,7 +13,83 @@ In stark contrast, nowadays, the library experienced a significant development. 
 
 ---
 
-## Final Version (7.0–7.5)
+## Band Scores
+
+| Criterion | Band | Notes |
+|---|---:|---|
+| Task Achievement | 6.0 | Most rooms are covered, but unsupported claims and misread labels appear. |
+| Coherence and Cohesion | 6.0 | Spatial order is attempted, but references are sometimes unclear. |
+| Lexical Resource | 5.5 | Several map collocations are inaccurate. |
+| Grammatical Range and Accuracy | 5.5 | Passive forms, articles and location phrases need control. |
+| Overall | 5.5–6.0 | Good coverage, weakened by map-language accuracy. |
+
+---
+
+## Revision Advice
+
+### Task Achievement
+Do not invent accessibility. Describe the shift from reading/book areas to modern service and activity spaces.
+
+### Coherence and Cohesion
+Use time-based paragraphs: twenty years ago, today. Within each, move by corners/sides.
+
+### Lexical Resource
+Use `transformed into`, `replaced by`, `adjacent to`, `along the northern edge`, and `maintained its original position`.
+
+### Grammatical Range and Accuracy
+Fix passive structures and location clauses: `has undergone`, `was situated`, `has been created where`.
+
+---
+
+## Task Achievement-only Version
+
+The map illustrates how a public library changed over a 20-year period.
+
+Overall, the central library has been undergone a thorough renovation over the past 20 years, being incorporated with a variety of modern and recreational facilities. **The most noticeable change is that many former book and reading areas have been replaced by specialised facilities, while the entrance has remained in the same position.**
+
+Before 20 years ago, the seating area situated at the center of the library. Immediately to its west and east, there were an adult fiction books area and an adult non-fiction books area. A media room was in the northwestern corner, across to the hall, with a reading room in the southwestern corner. Meanwhile, children book area and enquiry desk were positioned in the northeastern and southeastern corner of the library, respectively.
+
+In stark contrast, nowadays, the library experienced a significant development. The digital media room was replaced with a general children story room, surrounded by sofas and children’s fiction books. A computer room is constructed in where the reading room was, while a cafe and a lecture room located in southeastern and northeastern corner at present, respectively. The area of reference books and information desk flanked either side of the main hall, of which with the entrance remaining virtually unchanged at the end. Immediately to the north and west of information desk, there were areas of audit fiction books and self-service machines.
+
+---
+
+## Coherence and Cohesion-only Version
+
+The map illustrates how a public library changed over a 20-year period.
+
+Overall, the central library has been undergone a thorough renovation over the past 20 years, being incorporated with a variety of modern and recreational facilities. The most noticeable changes was the central tables and chairs area has been demolished to make way for accessibility for people.
+
+**Twenty years ago,** the seating area situated at the center of the library. Immediately to its west and east, there were an adult fiction books area and an adult non-fiction books area. A media room was in the northwestern corner, across to the hall, with a reading room in the southwestern corner. Meanwhile, children book area and enquiry desk were positioned in the northeastern and southeastern corner of the library, respectively.
+
+**Today,** the library experienced a significant development. The digital media room was replaced with a general children story room, surrounded by sofas and children’s fiction books. A computer room is constructed in where the reading room was, while a cafe and a lecture room located in southeastern and northeastern corner at present, respectively. The area of reference books and information desk flanked either side of the main hall, of which with the entrance remaining virtually unchanged at the end. Immediately to the north and west of information desk, there were areas of audit fiction books and self-service machines.
+
+---
+
+## Lexical Resource-only Version
+
+The **diagrams compare the layout** of a public library **20 years ago with its current floor plan**.
+
+Overall, the central library has been undergone a thorough renovation over the past 20 years, being **equipped with** a variety of modern and recreational facilities. The most noticeable changes was the central tables and chairs area has been **removed** to make way for **a more open central area**.
+
+**Twenty years ago**, the seating area situated at the center of the library. Immediately to its west and east, there were an adult fiction books area and an adult non-fiction books area. **A room for CDs, videos and computer games** was in the northwestern corner, **across the hall from** a reading room in the southwestern corner. Meanwhile, **the children's book area** and enquiry desk were positioned in the northeastern and southeastern corner of the library, respectively.
+
+**Today**, the library experienced a significant development. The **former media area has been transformed into a children's fiction area with sofas and a storytelling space**. A computer room is constructed in where the reading room was, while a cafe and a lecture room located in southeastern and northeastern corner at present, respectively. The area of reference books and information desk **are positioned on either side of** the main hall, of which with the entrance remaining virtually unchanged at the end. Immediately to the north and west of information desk, there were areas of **adult fiction books** and self-service machines.
+
+---
+
+## Grammatical Range and Accuracy-only Version
+
+The map illustrates how a public library changed over a 20-year period.
+
+Overall, the central library **has undergone** a thorough renovation over the past 20 years, being incorporated with a variety of modern and recreational facilities. The most noticeable **change was that** the central tables and chairs area **was** demolished to make way for accessibility for people.
+
+**Twenty years ago**, the seating area **was situated** at the center of the library. Immediately to its west and east, there were an adult fiction books area and an adult non-fiction books area. A media room was in the northwestern corner, across to the hall, with a reading room in the southwestern corner. Meanwhile, **the children's book area** and enquiry desk were positioned in the northeastern and southeastern **corners** of the library, respectively.
+
+In stark contrast, nowadays, the library **has experienced** a significant development. The digital media room was replaced with a general children story room, surrounded by sofas and children’s fiction books. A computer room **has been constructed where** the reading room was, while a cafe and a lecture room **are located** in **the** southeastern and northeastern **corners** at present, respectively. The area of reference books and information desk flanked either side of the main hall, **with** the entrance remaining virtually unchanged at the end. Immediately to the north and west of **the** information desk, there were areas of audit fiction books and self-service machines.
+
+---
+
+## Final Integrated Version (7.0–7.5)
 
 The diagrams compare the layout of a public library 20 years ago with its current floor plan.
 

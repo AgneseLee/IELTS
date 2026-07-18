@@ -28,18 +28,19 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 统一 Task 1 作文文件名为图表类型、主题与 IELTS 试题编号格式
 - 补充 Task 1 流程图的审题、语态、流程搭配与检查清单
 - 将写作薄弱项笔记拆分为 Task 1 与 Task 2，并按 Task 1 题型分类整理
 - 简化 IELTS review 技能的单维度版本标题，移除重复的预计提分标注
 - 更新 IELTS review 技能，要求按四项评分标准生成单维度加粗修改版和最终整合版
 - 将旧作文复盘文件改为五版本结构，保存四个单维度版本和最终整合版本
 - 按 IELTS review 规则复查图表作文迁移内容，补齐 7.0-7.5 修订版、错误总结和薄弱项记录
-- 将 `writing/myEssays.md` 中的图表作文迁移至 `writing/dataChart/` 并补充 IELTS 17 Test 3 历史版本
+- 将 `writing/myEssays.md` 中的图表作文迁移至 `writing/task1/` 并补充 IELTS 17 Test 3 历史版本
 - 将 Task 2 范文、模板和表达库移动至 `writing/task2/` 目录统一管理
 - 补充 Task 2 讨论型作文结构、搭配错误和论证风险复盘
 - 将口语题库重命名为 `speaking/topics.md`，简化文件名
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
-- 删除 `writing/myEssays.md`（内容已迁移至 `writing/dataChart/` 独立文档）
+- 删除 `writing/myEssays.md`（内容已迁移至 `writing/task1/` 独立文档）
 - 删除 `toolkitForData.md`（内容已完全收录于 `task1-note.md`，存在重复）

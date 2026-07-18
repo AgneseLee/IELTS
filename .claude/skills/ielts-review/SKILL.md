@@ -49,7 +49,7 @@ Do not duplicate existing entries. Add only what is genuinely new.
 
 ### Phase 4 — Update the essay document
 
-If the user's essay came from a named file (e.g. `IELTS-18-test-4-writing-task-1.md`), rewrite that file in this exact format (see `IELTS-18-test-2-writing-task-1.md` as the canonical example):
+If the user's essay came from a named file (e.g. `lineChart-metal-price-changes-ielts18-test4.md`), rewrite that file in this exact format (see `barChart-household-income-ielts18-test2.md` as the canonical example):
 
 ```
 # <filename>

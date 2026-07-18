@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 16 Test 1、IELTS 17 Test 2 和 IELTS 17 Test 4 图表作文独立复盘文档
 - 新增 IELTS Speaking Day 11 练习总结、医疗和商业人物故事库、Part 3 复盘与高频搭配
 - 新增 IELTS Speaking Day 9 练习总结、家庭故事迁移和 Part 3 家庭话题复盘
 - 为交通拥堵 Task 2 批改新增全文错误标注附录
@@ -27,10 +28,12 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 `writing/myEssays.md` 中的图表作文迁移至 `writing/dataChart/` 并补充 IELTS 17 Test 3 历史版本
 - 将 Task 2 范文、模板和表达库移动至 `writing/task2/` 目录统一管理
 - 补充 Task 2 讨论型作文结构、搭配错误和论证风险复盘
 - 将口语题库重命名为 `speaking/topics.md`，简化文件名
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
+- 删除 `writing/myEssays.md`（内容已迁移至 `writing/dataChart/` 独立文档）
 - 删除 `toolkitForData.md`（内容已完全收录于 `myWeaknesses.md`，存在重复）

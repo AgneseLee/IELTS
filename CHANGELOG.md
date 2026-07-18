@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 Task 1 Lexical Resource 与 Grammatical Range and Accuracy 综合错误复盘笔记
 - 新增 IELTS 16 Test 1、IELTS 17 Test 2 和 IELTS 17 Test 4 图表作文独立复盘文档
 - 新增 IELTS Speaking Day 11 练习总结、医疗和商业人物故事库、Part 3 复盘与高频搭配
 - 新增 IELTS Speaking Day 9 练习总结、家庭故事迁移和 Part 3 家庭话题复盘

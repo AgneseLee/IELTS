@@ -28,6 +28,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将写作薄弱项笔记拆分为 Task 1 与 Task 2，并按 Task 1 题型分类整理
 - 简化 IELTS review 技能的单维度版本标题，移除重复的预计提分标注
 - 更新 IELTS review 技能，要求按四项评分标准生成单维度加粗修改版和最终整合版
 - 将旧作文复盘文件改为五版本结构，保存四个单维度版本和最终整合版本
@@ -40,4 +41,4 @@
 
 ### 删除
 - 删除 `writing/myEssays.md`（内容已迁移至 `writing/dataChart/` 独立文档）
-- 删除 `toolkitForData.md`（内容已完全收录于 `myWeaknesses.md`，存在重复）
+- 删除 `toolkitForData.md`（内容已完全收录于 `task1-note.md`，存在重复）

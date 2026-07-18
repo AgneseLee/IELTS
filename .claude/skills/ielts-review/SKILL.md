@@ -1,6 +1,6 @@
 ---
 name: ielts-review
-description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, then produce a revised 7.5 band version using vocabulary and phrases from myWeaknesses.md where appropriate. Finally, update myWeaknesses.md with new errors and patterns found. Use when the user shares an essay and asks for feedback, correction, band score improvement, or critique.
+description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, then produce a revised 7.5 band version using vocabulary and phrases from the corresponding writing note where appropriate. Finally, update that note with new errors and patterns found. Use when the user shares an essay and asks for feedback, correction, band score improvement, or critique.
 ---
 
 # IELTS Essay Review
@@ -13,7 +13,11 @@ User shares an essay (inline or via @file). Run all three phases in order.
 
 ### Phase 1 — Assessment
 
-Read the essay and `myWeaknesses.md`. Score across four IELTS criteria:
+Read the essay and its corresponding note:
+- Task 1: `writing/task1-note.md`
+- Task 2: `writing/task2-note.md`
+
+Score across four IELTS criteria:
 
 | Criterion | What to check |
 |---|---|
@@ -24,19 +28,19 @@ Read the essay and `myWeaknesses.md`. Score across four IELTS criteria:
 
 Output: table of estimated band per criterion + bullet list of errors, each tagged `[TA]` `[CC]` `[LR]` `[GR]`.
 
-Cross-check errors against `myWeaknesses.md` — flag recurring mistakes with `⚠ recurring`.
+Cross-check errors against the corresponding note — flag recurring mistakes with `⚠ recurring`.
 
 ### Phase 2 — Revised 7.5 Version
 
 Rewrite the essay to band 7.5 standard:
 - Apply fixes from Phase 1
-- Substitute vocabulary/phrases from `myWeaknesses.md` where a better option exists
+- Substitute vocabulary/phrases from the corresponding note where a better option exists
 - Do not add new content the original essay didn't attempt to cover
 - Show the full revised essay, not a diff
 
-### Phase 3 — Update myWeaknesses.md
+### Phase 3 — Update the corresponding note
 
-After the revision, append new patterns to `myWeaknesses.md` that are **not already recorded**:
+After the revision, append new patterns to the corresponding note that are **not already recorded**:
 - New error types with example (wrong → correct)
 - New useful phrases or collocations used in the revision
 - Update any existing entry if a better example is now available

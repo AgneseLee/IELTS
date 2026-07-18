@@ -1,4 +1,5 @@
 # IELTS 17 Test3 — Task 1 Revision Log
+*2026-07-18*
 
 ## Original Draft
 
@@ -12,11 +13,11 @@ Conversely, the allocation for food, the most descreased one among all categorie
 
 ---
 
-## Final Version (7.5)
+## Final Version (7.0–7.5)
 
 The bar chart illustrates the distribution of families' weekly expenditure in one country over a 50-year period.
 
-Overall, spending on food saw a dramatic decline from 1968 to 2018, which stood in stark contrast to leisure, which more than doubled its original share over the period. Consequently, the proportion of leisure accounted for the lion's share, surpassing food to become the largest category by 2018.
+Overall, spending on food declined dramatically, while the share of leisure more than doubled. By 2018, leisure had overtaken food to become the largest category of household expenditure.
 
 Regarding the categories with an upward trend, leisure climbed sharply from 9% to 22%, while housing and transport rose considerably from 10% to 19% and 8% to 14%, respectively.
 
@@ -24,7 +25,7 @@ Conversely, spending on food, which saw the steepest decline among all categorie
 
 ---
 
-## Earlier Versions from `myEssays.md`
+## Additional Migrated Versions Reviewed
 
 ### Original Draft
 
@@ -34,31 +35,31 @@ Overall, a third of distributions of expenditure rose sharply while the others r
 
 As the chart displays, the allocation for housing and leisure both soared by about 18% and 14%, which switch their ranking positions with the leisure spending ranking in second place, respectively. This was followed by transportation, which transformed from a mere 8% to a more significant 22%. In stark contrast, the sources, such as fuel and power, clothing and footwear, personal goods all dripped slightly from 2% to 5%, while the household goods maintained its original share at 7%.
 
-### Final Version (7.5)
+### Earlier Final Version
 
 The bar chart illustrates the average weekly distribution of household spending as a percentage of income in 1968 and 2018.
 
 Overall, while food accounted for the lion's share of expenditure in 1968, there was a clear downward trend in this category in favor of increased spending on leisure and housing. By 2018, leisure had replaced food as the predominant expense.
 
-Looking at the categories with an upward trend, the allocation for leisure and housing soared from approximately 9% and 10% to 22% and 19%, respectively. Consequently, leisure peaked at the highest position in 2018. Similarly, transport costs nearly doubled, having transformed from a mere 8% to a more significant 14%.
+Looking at the categories with an upward trend, leisure and housing rose from approximately 9% and 10% to 22% and 19%, respectively. Consequently, leisure became the largest spending category in 2018. Similarly, transport costs nearly doubled, increasing from 8% to 14%.
 
 In stark contrast, spending on food plummeted from 35% to just 17%. Other categories, such as clothing and footwear, fuel and power, and personal goods, all dipped slightly, with clothing seeing the most substantial drop from 10% to 5%. Meanwhile, household goods was the only category that maintained its original share at approximately 8% throughout the half-century period.
 
-### Final Version (7.5)
+### Earlier Final Version
 
 The bar chart illustrates the average weekly distribution of household spending in 1968 and 2018.
 
 Overall, while food accounted for the lion's share of expenditure in 1968, there was a clear downward trend in this category in favor of increased spending on leisure and housing. By 2018, leisure had replaced food as the predominant expense.
 
-Looking at the categories with an upward trend, the allocation for leisure and housing soared from approximately 9% and 10% to 22% and 19%, respectively. Consequently, leisure peaked at the highest position in 2018. Similarly, transport costs nearly doubled, having transformed from a mere 8% to a more significant 14%.
+Looking at the categories with an upward trend, leisure and housing rose from approximately 9% and 10% to 22% and 19%, respectively. Consequently, leisure became the largest spending category in 2018. Similarly, transport costs nearly doubled, increasing from 8% to 14%.
 
 In stark contrast, spending on food plummeted from 35% to just 17%. Other categories, such as clothing and footwear, fuel and power, and personal goods, all dropped slightly, with clothing seeing a substantial decline. Meanwhile, household goods was the only category that maintained its original share at approximately 8% throughout the half-century period.
 
-### Final Version (7.5, 2026-06-26)
+### Earlier Final Version (2026-06-26)
 
 The bar chart illustrates the distribution of families' weekly expenditure in one country over a 50-year period.
 
-Overall, spending on food saw a dramatic decline from 1968 to 2018, which stood in stark contrast to leisure, which more than doubled its original share over the period. Consequently, the proportion of leisure accounted for the lion's share, surpassing food to become the largest category by 2018.
+Overall, spending on food declined dramatically from 1968 to 2018, whereas leisure more than doubled its original share over the period. Consequently, leisure accounted for the lion's share, surpassing food to become the largest category by 2018.
 
 Regarding the categories with an upward trend, leisure climbed sharply from 9% to 22%, while housing and transport rose considerably from 10% to 19% and 8% to 14%, respectively.
 

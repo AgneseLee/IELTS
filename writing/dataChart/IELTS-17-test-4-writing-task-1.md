@@ -1,4 +1,5 @@
 # IELTS 17 Test4 — Task 1 Revision Log
+*2026-07-18*
 
 ## Original Draft
 
@@ -10,24 +11,40 @@ Looking at the figures of shop closures, it underwent a complicated transformati
 
 ---
 
-## Final Version (7.5 by Gemini)
+## Final Version (7.0–7.5)
 
-The line graph illustrates the distribution of shop openings and closures in a specific country between 2011 and 2018.
+The line graph illustrates how the number of shop openings and closures changed in one country from 2011 to 2018.
 
-Overall, both categories exhibited a general downward trend over the eight-year period. While shop openings began with the lion's share of the total figures, they transformed from the most active category in favor of a higher number of closures by the end of the period.
+Overall, both figures declined over the period, but shop openings fell more consistently. Most notably, the two categories reversed their relative positions, with openings starting at the highest figure but ending below closures.
 
-Regarding shop closures, the figure fluctuated significantly in the first four years, having peaked at approximately 7,100 in 2014. This was followed by a dramatic fall in 2015, when the number bottomed out at roughly 500. However, closures rebounded sharply to 5,000 in 2016 and remained steady at this level until 2018.
+Regarding shop openings, the number plummeted from 8,500 in 2011 to 4,000 in 2012, before recovering to just over 6,000 in 2014. It then plateaued at around 4,000 between 2015 and 2017, followed by a further decline to 3,000 in 2018.
 
-In stark contrast, the number of new shop openings plummeted from a high of 8,500 in 2011 to 4,000 in 2012. Although the figure soared back to 6,000 in 2014, it subsequently saw a substantial decline. By 2018, the allocation for new shops reached its lowest point, dropping slightly to 3,000.
+By contrast, shop closures fluctuated much more sharply. The figure stood at approximately 6,400 in 2011 and peaked at about 7,100 in 2013, before collapsing to roughly 500 in 2015. It then rebounded to just above 5,000 in 2016 and remained stable at around this level until 2018.
 
 ---
 
-## Final Version (7.5, 2026-06-25)
+## Summary of Corrections
 
-The graph illustrates how the number of shop closures and openings changed in one country over a seven-year period from 2011 to 2018.
+### 语法 & 拼写
 
-Overall, both categories exhibited a general downward trend. Most notably, the two categories reversed their relative positions over the 7-year period, with the number of shop openings initially comprising the lion's share and ultimately being surpassed by closures by 2018.
+| 错误 | 修正 |
+|---|---|
+| `the closing number` | `the number of closures` |
+| `the figures of shop closures, it...` | `shop closures fluctuated...` |
+| `which peaked... and bottomed out...` | `peaking... before collapsing...` |
+| `the openings figure constantly maintain` | `the number of openings fell more consistently` |
+| `But it continued dipping` | `followed by a further decline` |
 
-Regarding shop openings, the number saw a sharp decline from 8,500 to 4,000 in 2012, before recovering to approximately 6,100 in 2014. It subsequently plateaued at about 4,000 between 2015 and 2017, before dropping considerably to 3,000 in 2018.
+### 词汇误用
 
-Conversely, the number of shop closures fluctuated in the first four years, peaking at roughly 7,100 in 2013. However, it collapsed to below 1,000 in 2015 and rebounded to 5,000 in the next year. Finally, the number of closures remained stable at this level by 2018.
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `The graph illustrates the number...` | `The line graph illustrates how the number... changed` | introduction 需要真正改写题目 |
+| `complicated transformation` | `fluctuated much more sharply` | transformation 过于笼统 |
+| `peaked at the highest position` | `peaked at about 7,100` | peak 后直接接具体数值 |
+| `dipping by 1000 shops` | `decline to 3,000` | 终点数据比变化量更清楚 |
+| `allocation for new shops` | `number of shop openings` | 这是绝对数量，不是预算分配 |
+
+### 结构改进
+
+原稿先写 closures，再跳到 openings，且只说两者下降。修订版在 overview 中点出相对位置反转，并按 openings 与 closures 分成两个主体段，逻辑更清楚。

@@ -28,6 +28,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 按 IELTS review 规则复查图表作文迁移内容，补齐 7.0-7.5 修订版、错误总结和薄弱项记录
 - 将 `writing/myEssays.md` 中的图表作文迁移至 `writing/dataChart/` 并补充 IELTS 17 Test 3 历史版本
 - 将 Task 2 范文、模板和表达库移动至 `writing/task2/` 目录统一管理
 - 补充 Task 2 讨论型作文结构、搭配错误和论证风险复盘

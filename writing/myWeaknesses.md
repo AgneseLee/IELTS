@@ -454,3 +454,33 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 
 ✗ 错误做法：Copper 段、Nickel 段、Zinc 段（三段各自描述，缺比较）
 ✓ 正确做法：Copper 段（稳定）+ Nickel & Zinc 段（波动 + 对比）
+
+---
+
+## Task 1 图表作文迁移复查新增薄弱项
+
+### 电器拥有率与家务时间题
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `the distribution of households with electrical appliances` | `the percentages of households that owned three electrical appliances` | 图表显示的是拥有率/百分比，不是笼统 distribution |
+| `the figure of refrigerator` | `refrigerator ownership` / `the proportion of households with refrigerators` | 单个电器趋势可用 ownership，避免 `figure of + 名词` |
+| `began with zero` | `stood at zero` / `no households had...` | 描述起始数值更自然 |
+| `the portion of vacuum cleaner` | `vacuum cleaner ownership` | `portion of` 不适合直接接电器名 |
+
+### 预算与支出题
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `income and expense` | `income and expenditure` | 图表正式表达用 expenditure |
+| `consumption aspects` | `expenditure` | 警察预算不是消费场景 |
+| `Other sources took the leftover` | `Other sources accounted for the remaining amount` | `leftover` 口语且不精确 |
+| `transformed from a mere 8% to a more significant 14%` | `grew from 8% to 14%` | 避免机械套词和主观评价 |
+
+### 绝对数量题
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `allocation for new shops` | `number of shop openings` | 店铺开关数量是绝对数量，不是预算分配 |
+| `the closing number` | `the number of closures` | 名词修饰顺序不自然 |
+| `peaked at the highest position` | `peaked at about 7,100` | `peak at` 后直接接数值 |

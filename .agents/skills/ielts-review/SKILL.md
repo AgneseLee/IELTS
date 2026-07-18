@@ -37,7 +37,6 @@ Produce five full versions:
 
 Rules:
 - In each single-criterion version, change only that criterion as much as possible.
-- Add the estimated criterion-specific band gain to the right of each single-criterion version title.
 - Bold every changed phrase/sentence in the four single-criterion versions.
 - Do not bold text in the final integrated version.
 - Substitute vocabulary/phrases from `myWeaknesses.md` where a better option exists.
@@ -87,22 +86,22 @@ If the user's essay came from a named file (e.g. `IELTS-18-test-4-writing-task-1
 
 ---
 
-## Task Achievement-only Version (+<estimated gain> in Task Achievement)
+## Task Achievement-only Version
 <full essay; bold only changed text>
 
 ---
 
-## Coherence and Cohesion-only Version (+<estimated gain> in Coherence and Cohesion)
+## Coherence and Cohesion-only Version
 <full essay; bold only changed text>
 
 ---
 
-## Lexical Resource-only Version (+<estimated gain> in Lexical Resource)
+## Lexical Resource-only Version
 <full essay; bold only changed text>
 
 ---
 
-## Grammatical Range and Accuracy-only Version (+<estimated gain> in Grammatical Range and Accuracy)
+## Grammatical Range and Accuracy-only Version
 <full essay; bold only changed text>
 
 ---

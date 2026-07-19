@@ -81,8 +81,6 @@
 | `X saw a decline in favor of Y` | X 减少转向 Y | Salaries saw a decline in favor of increased technology spending. |
 
 ---
-maternity
-administration
 **救命词 `respectively`**：
 > `Leisure and housing soared from 9% and 10% to 22% and 19%, respectively.`
 
@@ -321,7 +319,21 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ### 柱图（Bar Chart）
 
-暂无记录。
+#### 年龄组参与人数比较
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `students in one group were more than those in another` | `the number of students in one group was higher than that in the other` | 比较的是人数而不是学生本身；绝对数量用 `number` 和 `higher/lower` |
+| `the older group occupied 500 students` | `the class attracted approximately 520 older students` / `the older group numbered approximately 520` | `occupy` 不能表示课程参与人数 |
+| `the group stood at 300` | `the figure stood at 300` / `the group numbered 300` | `stand at` 的主语应为 figure、number、level 等数值概念 |
+
+**两个年龄组的对照句型：**
+
+- `Under-11s outnumbered 11–16-year-olds in ballet by two to one.`
+- `Participation in tap was relatively even, at 450 versus approximately 420.`
+- `Modern dance displayed the reverse pattern, attracting around 520 older students compared with 300 younger children.`
+
+**避免从相关性推断因果：** 图表按年龄组展示差异时，用 `participation by age group` 或 `the two age groups differed`，不要写 `under the influence of age`，除非图表明确证明年龄造成了选择差异。
 
 ## 地图（Map）
 

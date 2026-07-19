@@ -2696,3 +2696,365 @@ More importantly, you continued practising the key IELTS skill developed through
 **One idea → multiple questions**
 
 Your technology background, personal healthcare experience and interest in innovation can now support many future topics. The next milestone is delivering these ideas with fewer pauses and more automatic grammar control.
+
+------------------------------------------------------------------------
+
+# 📅 Day 12 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+  Fluency        Lexical   Grammar   Pronunciation   Overall
+  -------------- --------- --------- --------------- --------------
+  **7.0--7.5**   **7.5**   **7.0**   **7.0**         **7.0--7.5**
+
+> Note: Today you completed the celebration and emotion-related story
+> migration. Your biggest progress was using three anchors instead of
+> memorising full scripts: a key impression, a specific emotional
+> detail, and a personal reflection.
+
+------------------------------------------------------------------------
+
+# ✅ What I Did Today
+
+## Part 1
+
+Topics practised:
+
+-   Birthdays
+-   Praise
+-   Smiling in photos
+-   Days off
+
+Main focus:
+
+-   Express personal preferences naturally.
+-   Use emotional-value vocabulary.
+-   Avoid over-explaining simple questions.
+
+------------------------------------------------------------------------
+
+# ⭐ Part 1 Best Expressions
+
+## Birthday Celebration
+
+> Personally speaking, I don't pay much attention to celebrating my
+> birthday. I enjoy it to some extent, but I prefer quieter moments
+> rather than being surrounded by a large group of people.
+
+Key expressions:
+
+-   enjoy something to some extent
+-   prefer quieter moments
+-   What appeals to me most is...
+-   meaningful conversations
+
+------------------------------------------------------------------------
+
+## Praise
+
+> Genuine recognition can be really motivating because it makes people
+> feel appreciated.
+
+Key expressions:
+
+-   genuine recognition
+-   feel appreciated
+-   positive attitude
+-   work under pressure
+
+------------------------------------------------------------------------
+
+## Smiling in Photos
+
+> The value of a photo lies in its ability to capture and remind us of
+> meaningful shared experiences.
+
+Key expressions:
+
+-   bring back warm memories
+-   create lasting memories
+-   preserve special moments
+-   emotional connection
+
+------------------------------------------------------------------------
+
+## Days Off
+
+> It's a meaningful activity that helps me stay healthy, both mentally
+> and physically.
+
+Key expressions:
+
+-   unwind and recharge
+-   take a break from my daily routine
+-   stay healthy both mentally and physically
+
+------------------------------------------------------------------------
+
+# 📚 Story Bank 6 --- Happy, Proud and Celebration Occasions
+
+## Core Story: Birthday Celebration with Stella
+
+### Background
+
+-   My birthday celebration last year
+-   May 26th
+-   My apartment
+-   Invited Stella and close friends
+-   Had a simple dinner rather than a big party
+
+------------------------------------------------------------------------
+
+## Main Event
+
+During dinner:
+
+-   Talked about our recent lives.
+-   Recalled the Malaysia trip.
+-   Remembered the lottery ticket story.
+
+During the trip:
+
+-   Bought lottery tickets at the airport.
+-   Neither of us won anything.
+-   I felt disappointed.
+
+Stella joked:
+
+> "We are just buying back our luck."
+
+Impact:
+
+-   Her joke immediately lightened the mood.
+-   The rest of the trip became more enjoyable.
+-   She changed my attitude towards disappointing situations.
+
+------------------------------------------------------------------------
+
+# 🔄 Story Migration Completed
+
+## 1. Many People Smiling
+
+Focus:
+
+-   Friends laughing together.
+-   Recalling happy memories.
+-   Creating a warm atmosphere.
+
+Key sentence:
+
+> What I appreciated most was not only the happy atmosphere, but also
+> the way Stella changed my perspective on disappointing situations.
+
+------------------------------------------------------------------------
+
+## 2. Proud of a Family Member
+
+Core story:
+
+**My mother**
+
+Focus:
+
+-   Supported me when I was introverted.
+-   Listened carefully.
+-   Offered practical advice based on her extensive life experience.
+-   Taught me that self-worth should not depend on others' opinions.
+
+Key sentence:
+
+> Thanks to her encouragement, I gradually became more open-minded and
+> confident.
+
+------------------------------------------------------------------------
+
+## 3. Sports Event
+
+Core story:
+
+**World Cup match**
+
+Focus:
+
+-   Football fans around the world.
+-   Crowd erupted with excitement.
+-   Sports create a sense of connection.
+
+Key sentence:
+
+> Sports are not just about winning or losing; they can also bring
+> people closer together.
+
+------------------------------------------------------------------------
+
+## 4. Gift Received
+
+Core story:
+
+**Childhood notebook from my mother**
+
+Focus:
+
+-   Given on my 20th birthday.
+-   Included essays written in primary school.
+-   Brought back warm memories.
+-   Represented my mother's influence.
+
+Key sentence:
+
+> The value of this gift lies not in the object itself, but in the
+> emotional connection behind it.
+
+------------------------------------------------------------------------
+
+# 🗣️ Part 3 Practice Completed
+
+## Q1: Why do people smile in photos?
+
+Main ideas:
+
+-   Photos preserve meaningful moments.
+-   Smiles bring back memories.
+-   They create emotional connections.
+
+Best sentence:
+
+> Looking at old photos allows people to relive happy memories.
+
+------------------------------------------------------------------------
+
+## Q2: Should parents reward children?
+
+Main ideas:
+
+-   Rewards can encourage positive behaviour.
+-   Avoid overdependence on material rewards.
+-   Emotional support and encouragement are equally important.
+
+Best sentence:
+
+> Parents should reward children, but not only with material things.
+
+------------------------------------------------------------------------
+
+## Q3: Why do people spend money watching sports events?
+
+Main ideas:
+
+-   Entertainment and excitement.
+-   Release stress from daily routines.
+-   Create a sense of belonging.
+
+Best sentence:
+
+> The crowd erupted with excitement when the player scored a goal.
+
+------------------------------------------------------------------------
+
+## Q4: Are family celebrations still important nowadays?
+
+Main ideas:
+
+-   Provide opportunities to spend quality time together.
+-   Strengthen emotional connections.
+-   Preserve family traditions.
+
+Best sentence:
+
+> What matters most is spending time with the people around us and
+> creating shared memories together.
+
+------------------------------------------------------------------------
+
+# ⭐ Native Collocations of the Day
+
+-   bring back warm memories
+-   create lasting memories
+-   relive happy memories
+-   preserve special moments
+-   emotional connection
+-   strengthen emotional connections
+-   erupt with excitement
+-   create an energetic atmosphere
+-   bring people closer together
+-   spend quality time together
+-   maintain family bonds
+-   create a sense of connection
+
+------------------------------------------------------------------------
+
+# 🔧 Three Grammar Improvements
+
+## 1.
+
+❌ sports is not just about winning or losing
+
+✅ sports are not just about winning or losing
+
+------------------------------------------------------------------------
+
+## 2.
+
+❌ people are likely forget
+
+✅ people are likely to forget
+
+------------------------------------------------------------------------
+
+## 3.
+
+❌ relieve the emotional connection
+
+✅ relive the emotional connection
+
+------------------------------------------------------------------------
+
+# ⭐ Today's Biggest Improvement
+
+Today you made an important transition:
+
+**From memorising answers → remembering anchors.**
+
+For Part 2, you successfully used:
+
+1.  What impressed me most was...
+2.  A specific emotional moment...
+3.  A personal reflection...
+
+This made your answers more natural and flexible.
+
+The biggest strength today was your ability to connect experiences with
+broader meanings:
+
+-   Birthday → friendship and optimism
+-   Mother → personal growth
+-   Sports → human connection
+-   Gift → emotional value
+
+------------------------------------------------------------------------
+
+# 🎯 Focus for Day 13
+
+According to the 20-day plan:
+
+## Story 8: Food, Activity and Waiting Experience
+
+Part 1:
+
+-   Snacks
+-   Flowers
+-   Dreams
+-   Patience
+
+Part 2:
+
+-   Special Meal
+-   Excited About a New Activity
+-   Waiting for Something Special
+-   Lost Power
+
+Focus:
+
+-   Continue using authentic personal stories.
+-   Keep the structure: **Event → Details → Feeling → Reflection**
+-   Reduce sentence restarting.

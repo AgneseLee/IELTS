@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 19 Test 4 舞蹈课程地点与年龄组图表作文批改、七版本修订及人数比较表达笔记
+- 新增 IELTS Speaking Day 12 庆祝与情绪主题练习总结、故事迁移和高频搭配
 - 新增 IELTS 19 Test 1 社交中心活动参与人数折线图作文批改、五维度修订版与 Band 7.0–7.5 范文
 - 新增 Task 1 Lexical Resource 与 Grammatical Range and Accuracy 综合错误复盘笔记
 - 新增 IELTS 16 Test 1、IELTS 17 Test 2 和 IELTS 17 Test 4 图表作文独立复盘文档

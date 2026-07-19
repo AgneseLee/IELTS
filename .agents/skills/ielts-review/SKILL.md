@@ -1,13 +1,13 @@
 ---
 name: ielts-review
-description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, then produce a revised 7.5 band version using vocabulary and phrases from the corresponding writing note where appropriate. Finally, update that note with new errors and patterns found. Use when the user shares an essay and asks for feedback, correction, band score improvement, or critique.
+description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, produce a revised 7.5 band version using the corresponding writing note, update that note with new patterns, and maintain a review document. Use when the user shares an essay inline, in a file, or with an image and asks for feedback, correction, band improvement, or critique.
 ---
 
 # IELTS Essay Review
 
 ## Quick start
 
-User shares an essay (inline or via @file). Run all three phases in order.
+User shares an essay inline, via a named file, or alongside an image of the task. Run all four phases in order.
 
 ## Workflow
 
@@ -56,15 +56,26 @@ After the revision, append new patterns to the corresponding note that are **not
 
 Do not duplicate existing entries. Add only what is genuinely new.
 
-### Phase 4 — Update the essay document
+### Phase 4 — Create or update the essay document
 
-If the user's essay came from a named file (e.g. `lineChart-metal-price-changes-ielts18-test4.md`), rewrite that file in this exact format (see `barChart-household-income-ielts18-test2.md` as the canonical example):
+Always maintain a review document after completing the revision:
+
+- If the essay came from a named file, rewrite that file.
+- If the user pasted an image of the task and an original essay inline in the terminal/chat without naming a file, create a new Markdown document in `writing/task1/` or `writing/task2/` as appropriate.
+- Determine the task number from the prompt or image. Do not ask when it is visually clear.
+- Before naming a new document, inspect existing files in the target folder and follow their conventions.
+- For Task 1, prefer `<visualType>-<short-topic>-ielts<book>-test<test>.md` when the source is visible, for example `lineChart-social-centre-activities-ielts19-test1.md`. Use the established visual-type spelling, such as `lineChart`, `barChart`, `tableAndPieChart`, `map`, or `processDiagram`.
+- For Task 2, prefer `ielts<book>-test<test>.md` when the source is visible; otherwise use a concise kebab-case topic name.
+- If the source book or test cannot be established from the submission, omit that portion rather than inventing it.
+- Never overwrite an unrelated document. If a filename already exists, confirm from its prompt that it represents the same task before updating it; otherwise choose a more specific filename.
+
+Use this exact format (see `writing/task1/barChart-household-income-ielts18-test2.md` as the canonical Task 1 example):
 
 ```
 # <filename>
 *<today's date>*
 
-## Original Draft
+## Original Draft(<word count>)
 <user's original essay, unmodified>
 
 ---
@@ -90,27 +101,27 @@ If the user's essay came from a named file (e.g. `lineChart-metal-price-changes-
 
 ---
 
-## Task Achievement-only Version
+## Task Achievement-only Version(<word count>)
 <full essay; bold only changed text>
 
 ---
 
-## Coherence and Cohesion-only Version
+## Coherence and Cohesion-only Version(<word count>)
 <full essay; bold only changed text>
 
 ---
 
-## Lexical Resource-only Version
+## Lexical Resource-only Version(<word count>)
 <full essay; bold only changed text>
 
 ---
 
-## Grammatical Range and Accuracy-only Version
+## Grammatical Range and Accuracy-only Version(<word count>)
 <full essay; bold only changed text>
 
 ---
 
-## Final Integrated Version (7.0–7.5)
+## Final Integrated Version(<word count>) (7.0–7.5)
 <full essay combining all four dimensions; no bold>
 
 ---
@@ -132,5 +143,7 @@ If the user's essay came from a named file (e.g. `lineChart-metal-price-changes-
 
 Rules:
 - Preserve the original draft exactly — no silent fixes
+- Calculate each essay's prose word count, excluding its heading, Markdown markers and surrounding review content; put the integer directly in parentheses in that version's heading
+- When the task statement is available and existing documents for that task type include a `Prompt` section, preserve the prompt in the document
 - Only include sections that have entries
 - Date format: YYYY-MM-DD

@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 19 Test 1 社交中心活动参与人数折线图作文批改、五维度修订版与 Band 7.0–7.5 范文
 - 新增 Task 1 Lexical Resource 与 Grammatical Range and Accuracy 综合错误复盘笔记
 - 新增 IELTS 16 Test 1、IELTS 17 Test 2 和 IELTS 17 Test 4 图表作文独立复盘文档
 - 新增 IELTS Speaking Day 11 练习总结、医疗和商业人物故事库、Part 3 复盘与高频搭配
@@ -29,6 +30,8 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 更新 IELTS review 技能，支持从题目图片与内联作文自动创建复盘文档，并为各修订版标注词数
+- 补充 Task 1 活动参与人数题的搭配、数据精度与句式错误笔记
 - 统一 Task 1 作文文件名为图表类型、主题与 IELTS 试题编号格式
 - 补充 Task 1 流程图的审题、语态、流程搭配与检查清单
 - 将写作薄弱项笔记拆分为 Task 1 与 Task 2，并按 Task 1 题型分类整理

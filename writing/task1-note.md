@@ -284,6 +284,24 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 ✗ 错误做法：Copper 段、Nickel 段、Zinc 段（三段各自描述，缺比较）
 ✓ 正确做法：Copper 段（稳定）+ Nickel & Zinc 段（波动 + 对比）
 
+#### 活动参与人数题
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `participants who enroll in five different activities` | `participation in five different activities` / `people taking part in five different activities` | 图表统计参与人数，不一定是“报名人数”；且历史数据应使用过去时 |
+| `recorded the highest participants` | `recorded the highest number of participants` | `participants` 是人，排名的是其“数量” |
+| `climbed up from 16 to 20` | `climbed from 16 to 20` | `climb` 已含“向上”，`up` 冗余 |
+| `maintained steady growth` | `grew steadily` / `maintained a steady upward trend` | `maintain growth` 在此不自然；动词与名词搭配要完整 |
+
+**数据精度与平均值：**
+- 折线终点位于 20 以下时，写 `about 18` 或 `just under 20`，不要直接写成 20。
+- 图中未直接给出平均值时，优先报告范围、起终点或峰谷；自行估算平均值会弱化趋势描述的精确性。
+
+**`opposite pattern` 的完整结构：**
+- ✗ `This was an almost opposite pattern occurred in table tennis.`
+- ✓ `An almost opposite pattern occurred in table tennis.`
+- ✓ `Table tennis followed an almost opposite pattern.`
+
 #### 电器拥有率与家务时间题
 
 | 错误 | 修正 | 原因 |

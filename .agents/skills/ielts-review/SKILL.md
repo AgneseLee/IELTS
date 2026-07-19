@@ -32,12 +32,14 @@ Cross-check errors against the corresponding note — flag recurring mistakes wi
 
 ### Phase 2 — Revised Versions
 
-Produce five full versions:
+Produce seven full versions:
 - `Task Achievement-only Version`
 - `Coherence and Cohesion-only Version`
 - `Lexical Resource-only Version`
 - `Grammatical Range and Accuracy-only Version`
 - `Final Integrated Version (7.0–7.5)`
+- `Original Logic and Order — Expression-only Version`
+- `Minimally Adjusted Version (Target Band 7.0–7.5)`
 
 Rules:
 - In each single-criterion version, change only that criterion as much as possible.
@@ -46,6 +48,10 @@ Rules:
 - Substitute vocabulary/phrases from the corresponding note where a better option exists.
 - Do not add new content the original essay did not attempt to cover.
 - Show each full version, not a diff.
+- In the expression-only version, preserve the original paragraph structure, narrative logic, grouping and information order. Change only grammar, vocabulary, collocations and sentence construction. Make only indispensable factual-precision corrections and disclose them below the version.
+- Estimate the realistic ceiling of the expression-only version. Below it, add `结论与卡点` and identify the remaining `[TA]`, `[CC]`, `[LR]` or `[GR]` constraints. Do not claim Band 7.5 when the retained structure or coverage cannot support it.
+- After the bottleneck analysis, add `解决卡点问题`. Map each bottleneck to the smallest necessary adjustment, then produce the minimally adjusted version. Preserve the original information order where possible while improving the overview, paragraph grouping, key comparisons and data precision needed for Band 7.0–7.5.
+- For Task 1, keep the `Final Integrated Version`, expression-only version and minimally adjusted version between 160 and 185 words. Task 2 is not subject to this range.
 
 ### Phase 3 — Update the corresponding note
 
@@ -126,6 +132,23 @@ Use this exact format (see `writing/task1/barChart-household-income-ielts18-test
 
 ---
 
+## Original Logic and Order — Expression-only Version(<word count>) (Estimated Band <score>)
+<full essay preserving the original structure, logic, grouping and order; no bold>
+
+### 结论与卡点
+<state whether the retained logic can reach Band 7.0–7.5; list the remaining criterion-specific constraints>
+
+## 解决卡点问题
+
+| 卡点 | 最小幅度的调整 |
+|---|---|
+|  |  |
+
+### Minimally Adjusted Version(<word count>) (Target Band 7.0–7.5)
+<full essay making only the changes needed to resolve the listed bottlenecks; no bold>
+
+---
+
 ## Summary of Corrections
 
 ### 审题错误        ← omit section if empty
@@ -144,6 +167,7 @@ Use this exact format (see `writing/task1/barChart-household-income-ielts18-test
 Rules:
 - Preserve the original draft exactly — no silent fixes
 - Calculate each essay's prose word count, excluding its heading, Markdown markers and surrounding review content; put the integer directly in parentheses in that version's heading
+- Verify Task 1 target-version word counts after drafting; revise any count outside 160–185 before saving the document
 - When the task statement is available and existing documents for that task type include a `Prompt` section, preserve the prompt in the document
 - Only include sections that have entries
 - Date format: YYYY-MM-DD

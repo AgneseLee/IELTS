@@ -97,6 +97,44 @@ The other activities underwent more pronounced changes. Amateur dramatics initia
 
 ---
 
+## Original Logic and Order — Expression-only Version(161) (Estimated Band 7.0)
+
+The line graph illustrates how participation in five different activities at a social centre in Melbourne, Australia, changed from 2000 to 2020.
+
+Overall, participation in the film club and martial arts remained relatively stable throughout the period, with the former consistently attracting the largest number of participants. Meanwhile, table tennis and musical performances followed upward trends, whereas amateur dramatics experienced a dramatic decline.
+
+Looking more closely, participation in amateur dramatics fell sharply, plummeting to below 10 in 2020 after peaking at approximately 30 in 2005. Table tennis followed an almost opposite pattern, climbing from roughly 16 participants in 2000 to 20 in 2005, before rising considerably from 2010 onward and reaching approximately 55 by 2020. Meanwhile, participation in musical performances grew steadily from zero in 2005 to just under 20 at the end of the period. In contrast, the figures for both the film club and martial arts remained relatively stable throughout the period, averaging approximately 64 and 34 participants, respectively.
+
+### 结论与卡点
+
+这一版保留了原文的三段结构、概述顺序和正文中 `amateur dramatics → table tennis → musical performances → film club and martial arts` 的叙述顺序。在修正语法和搭配后，它可以达到约 Band 7.0，但不容易稳定达到 7.5，主要卡点如下：
+
+- **Task Achievement：** film club 和 martial arts 只用平均值概括，没有呈现其先降后升或波动的关键数据，因此特征筛选不够充分。
+- **Coherence and Cohesion：** 五个项目全部放在一个正文段中。逻辑仍然可以跟随，但分组和段落管理难以达到稳定 7.5 的水平。
+- **数据精度：** 原文将 musical performances 的终点写为 20，而图中实际约为 18。本版用 `just under 20` 作最小限度的精度修正；如果连数据也必须逐字保留，Task Achievement 会受到进一步限制。
+- **7.5 所需的改动：** 要更有把握地达到 7.5，需要将稳定组与显著变化组分段，并增加起点、谷值或终点比较；这会超出“只修改表达、不改逻辑与顺序”的限制。
+
+## 解决卡点问题
+
+| 卡点 | 最小幅度的调整 |
+|---|---|
+| Overview 对最显著特征强调不足 | 明确 table tennis 增长最快，amateur dramatics 大幅下降 |
+| 五条线全部挤在一个正文段 | 只在最后的稳定组前分段，不改叙述顺序 |
+| film club 和 martial arts 只报告平均值 | 用起点、谷值、峰值和终点展示具体波动 |
+| table tennis 中期和 musical performances 终点不够精确 | 补充 2010 年保持在 20，并将终点写为约 18 |
+
+### Minimally Adjusted Version(177) (Target Band 7.0–7.5)
+
+The line graph illustrates how participation in five activities at a social centre in Melbourne, Australia, changed between 2000 and 2020.
+
+Overall, the film club and martial arts remained relatively stable, with the former consistently attracting the most participants. Table tennis recorded the strongest growth, while musical performances also rose and amateur dramatics declined sharply.
+
+Looking more closely, amateur dramatics fell from a peak of about 28 participants in 2005 to only 6 in 2020. Table tennis followed the opposite pattern, rising from 16 in 2000 to 20 in 2005. After remaining unchanged in 2010, the figure surged to approximately 54 by 2020. Meanwhile, participation in musical performances stood at zero in both 2000 and 2005 before growing steadily to about 18 at the end of the period.
+
+In contrast, participation in the film club and martial arts changed comparatively little. The former slipped from approximately 64 in 2000 to 60 in 2010 before recovering to 66 by 2020. Martial arts fluctuated between roughly 32 and 38 participants, eventually returning to its initial level of about 36.
+
+---
+
 ## Summary of Corrections
 
 ### 审题错误

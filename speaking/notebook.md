@@ -3058,3 +3058,332 @@ Focus:
 -   Continue using authentic personal stories.
 -   Keep the structure: **Event → Details → Feeling → Reflection**
 -   Reduce sentence restarting.
+
+---
+# 📅 Day 13 Summary (Agnes) — IELTS Speaking Band 7 Notebook
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall     |
+| ------- | ------- | ------- | ------------- | ----------- |
+| 7.0–7.5 | 7.0–7.5 | 6.5–7.0 | 7.0           | **7.0–7.5** |
+
+### Today's evaluation:
+
+* **Fluency & Coherence:** ⭐ Strong improvement
+
+  * Able to extend answers naturally.
+  * Good use of personal examples and reflections.
+  * Story migration worked well.
+
+* **Lexical Resource:** ⭐ Strong
+
+  * Successfully reused notebook expressions:
+
+    * create something with my own hands
+    * turn ideas into reality
+    * step out of my comfort zone
+    * worth the wait
+
+* **Grammar:** Needs consistency
+
+  * Main issue: verb forms and sentence structure when speaking quickly.
+  * Ideas are advanced enough; accuracy is the next priority.
+
+---
+
+# ✅ What I Did Today
+
+## Part 1 Topics
+
+| Topic      | Key Points                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| 🍪 Snacks  | Snacks help relax and unwind after spending hours in front of a computer  |
+| 🌙 Dreams  | Rarely remember dreams because I feel groggy after waking up              |
+| 🌸 Flowers | Roses and daisies; sweet fragrance; brighten up a room                    |
+| ⏳ Patience | Patience helps me solve complex technical problems as a software engineer |
+
+---
+
+# 📚 Story Bank 8 — Food / Activity / Waiting
+
+## Story: Cooking Mapo Tofu After Being Laid Off
+
+### Core Material
+
+**Background**
+
+* After being laid off
+* Wanted to build a healthier routine
+* Started learning cooking
+
+**Main Event**
+
+* Found recipes on Xiaohongshu
+* Chose Mapo Tofu
+* Bought fresh ingredients
+* Cooked from scratch
+
+**Details**
+
+* Prepared ingredients carefully
+* Adjusted flavours gradually
+* Smell filled the kitchen
+* Watched ingredients come together
+
+**Feeling**
+
+* A great sense of satisfaction
+* Created something with my own hands
+
+**Reflection**
+
+* Cooking brought back a similar feeling to coding
+* Both allow me to turn ideas into reality
+
+---
+
+# 🔄 Story Migration Completed
+
+## 1. 🍜 Special Meal
+
+Focus:
+
+* Dinner with Stella
+* Food + friendship
+
+Key reflection:
+
+> What made this meal special was not only the food itself, but also the emotional connection and support we shared during that evening.
+
+---
+
+## 2. 🎯 Excited About a New Activity
+
+Focus:
+
+* First time cooking Mapo Tofu
+* Learning a new skill
+
+Key reflection:
+
+> Cooking brought back a similar feeling to what coding once gave me because both activities allow me to turn my ideas into reality.
+
+---
+
+## 3. ⏳ Waiting for Something Special
+
+Focus:
+
+* Waiting for the dish to be completed
+* Patience and anticipation
+
+Key phrase:
+
+> The experience was definitely worth the wait.
+
+---
+
+## 4. ⚡ Lost Power
+
+Focus:
+
+* Electricity bill ran out
+* Solving an unexpected problem
+
+Key reflection:
+
+> Frustration wouldn’t solve the real problem; I needed to stay calm and take action.
+
+---
+
+# ⭐ Best Sentences Today
+
+### 1.
+
+> Cooking brought back a similar feeling to what coding once gave me because both activities allow me to turn my ideas into reality.
+
+Why it works:
+
+* Personal
+* Specific
+* Shows deeper thinking
+
+---
+
+### 2.
+
+> What made this meal special was not only the food itself, but also the emotional connection and support we shared during that evening.
+
+Why it works:
+
+* Strong Part 2 ending
+* Connects event → relationship → meaning
+
+---
+
+### 3.
+
+> The experience was definitely worth the wait.
+
+Why it works:
+
+* Natural collocation
+* Useful for food, travel, achievements
+
+---
+
+### 4.
+
+> Frustration wouldn’t solve the real problem; I needed to stay calm and take action.
+
+Why it works:
+
+* Good reflection sentence
+* Shows maturity
+
+---
+
+# 🚀 Native Collocations of the Day
+
+| Expression                         | Usage              |
+| ---------------------------------- | ------------------ |
+| build a healthier routine          | lifestyle changes  |
+| cook from scratch                  | cooking            |
+| fresh ingredients                  | food               |
+| adjust the flavours                | cooking process    |
+| come together                      | describe progress  |
+| a great sense of satisfaction      | achievement        |
+| create something with my own hands | hobbies/projects   |
+| turn ideas into reality            | creativity/work    |
+| step out of my comfort zone        | personal growth    |
+| be worth the wait                  | patience/result    |
+| create lasting memories            | relationships      |
+| strengthen emotional connections   | family/friends     |
+| highly dependent on electricity    | technology/society |
+
+---
+
+# 🔧 Grammar Mistakes (Top 3)
+
+## 1. Verb tense after "after"
+
+❌ After I was being laid off
+✅ After I was laid off
+✅ After losing my job
+
+---
+
+## 2. Allow + object + verb
+
+❌ It allows me to creating something
+✅ It allows me to create something
+
+---
+
+## 3. People + verb agreement
+
+❌ People is highly dependent on electricity
+✅ People are highly dependent on electricity
+
+---
+
+# ⭐ Expressions to Master
+
+## 1. Be worth the wait
+
+Examples:
+
+> The final result was definitely worth the wait.
+
+> Although the process took time, it was worth the wait.
+
+---
+
+## 2. Create something with my own hands
+
+Examples:
+
+> I enjoy creating something with my own hands.
+
+> Cooking gave me a sense of achievement because I created something from scratch.
+
+---
+
+## 3. Turn ideas into reality
+
+Examples:
+
+> Programming allows me to turn ideas into reality.
+
+> Cooking gave me a similar feeling because I could see my ideas become a real dish.
+
+---
+
+## 4. Step out of my comfort zone
+
+Examples:
+
+> Trying new activities helps people step out of their comfort zone.
+
+---
+
+# 🎯 Day 13 Biggest Improvement
+
+Today’s biggest improvement was **reflection quality**.
+
+Previously, your Part 2 endings sometimes jumped directly to a conclusion.
+
+Today, you learned to:
+
+**Experience → Specific detail → Emotion → Meaning**
+
+Example:
+
+Cooking
+↓
+Created food with my own hands
+↓
+Sense of satisfaction
+↓
+Similar feeling to coding
+↓
+Personal growth
+
+This is exactly the structure that makes Band 7 answers sound authentic rather than memorized.
+
+---
+
+# 📌 Focus for Day 14
+
+## Theme:
+
+🏢 Buildings, Places & Public Spaces
+
+Main Story:
+**Story 7 — A place / building / relaxing place**
+
+Targets:
+
+* Describe appearance clearly
+* Add location details
+* Explain why the place matters
+* Use sensory descriptions
+
+Key expressions to prepare:
+
+* What stands out most about...
+* A distinctive feature is...
+* It has a relaxing atmosphere
+* It allows people to escape from daily routines
+* It left me with a lasting impression
+
+
+
+---
+
+## ✅ Day 13 Completion
+
+**Status: Completed 🎉**
+
+Next session: **Day 14 — Buildings & Places**.

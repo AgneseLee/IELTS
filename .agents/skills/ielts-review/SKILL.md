@@ -43,7 +43,7 @@ Produce seven full versions:
 
 Rules:
 - In each single-criterion version, change only that criterion as much as possible.
-- Bold every changed phrase/sentence in the four single-criterion versions.
+- Bold every changed phrase or sentence in the four single-criterion versions, the expression-only version and the minimally adjusted version. In all six versions, compare against the `Original Draft` rather than against another revision.
 - Do not bold text in the final integrated version.
 - Substitute vocabulary/phrases from the corresponding note where a better option exists.
 - Do not add new content the original essay did not attempt to cover.
@@ -133,7 +133,7 @@ Use this exact format (see `writing/task1/barChart-household-income-ielts18-test
 ---
 
 ## Original Logic and Order — Expression-only Version(<word count>) (Estimated Band <score>)
-<full essay preserving the original structure, logic, grouping and order; no bold>
+<full essay preserving the original structure, logic, grouping and order; bold only text changed from the Original Draft>
 
 ### 结论与卡点
 <state whether the retained logic can reach Band 7.0–7.5; list the remaining criterion-specific constraints>
@@ -145,7 +145,7 @@ Use this exact format (see `writing/task1/barChart-household-income-ielts18-test
 |  |  |
 
 ### Minimally Adjusted Version(<word count>) (Target Band 7.0–7.5)
-<full essay making only the changes needed to resolve the listed bottlenecks; no bold>
+<full essay making only the changes needed to resolve the listed bottlenecks; bold only text changed from the Original Draft>
 
 ---
 

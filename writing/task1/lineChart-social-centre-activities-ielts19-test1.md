@@ -99,11 +99,11 @@ The other activities underwent more pronounced changes. Amateur dramatics initia
 
 ## Original Logic and Order — Expression-only Version(161) (Estimated Band 7.0)
 
-The line graph illustrates how participation in five different activities at a social centre in Melbourne, Australia, changed from 2000 to 2020.
+The line graph illustrates how **participation in five different activities** at **a** social centre in Melbourne, Australia, changed from 2000 to 2020.
 
-Overall, participation in the film club and martial arts remained relatively stable throughout the period, with the former consistently attracting the largest number of participants. Meanwhile, table tennis and musical performances followed upward trends, whereas amateur dramatics experienced a dramatic decline.
+Overall, **participation in the film club and martial arts** remained relatively stable **throughout** the period, **with** the former consistently **attracting the largest number of participants**. **Meanwhile, table tennis and musical performances followed upward trends, whereas amateur dramatics experienced a dramatic decline.**
 
-Looking more closely, participation in amateur dramatics fell sharply, plummeting to below 10 in 2020 after peaking at approximately 30 in 2005. Table tennis followed an almost opposite pattern, climbing from roughly 16 participants in 2000 to 20 in 2005, before rising considerably from 2010 onward and reaching approximately 55 by 2020. Meanwhile, participation in musical performances grew steadily from zero in 2005 to just under 20 at the end of the period. In contrast, the figures for both the film club and martial arts remained relatively stable throughout the period, averaging approximately 64 and 34 participants, respectively.
+**Looking more closely, participation in amateur dramatics fell sharply**, plummeting to below 10 in 2020 after peaking at approximately 30 in 2005. **Table tennis followed an almost opposite pattern, climbing** from roughly 16 **participants** in 2000 to 20 in 2005, **before rising considerably** from 2010 onward **and reaching** approximately 55 **by** 2020. Meanwhile, **participation in musical performances grew steadily** from zero in 2005 to **just under** 20 **at** the end of the period. In contrast, the figures for both **the** film club and martial arts remained relatively stable throughout the period, **averaging** approximately 64 and 34 **participants**, respectively.
 
 ### 结论与卡点
 
@@ -125,13 +125,13 @@ Looking more closely, participation in amateur dramatics fell sharply, plummetin
 
 ### Minimally Adjusted Version(177) (Target Band 7.0–7.5)
 
-The line graph illustrates how participation in five activities at a social centre in Melbourne, Australia, changed between 2000 and 2020.
+The line graph illustrates how **participation in five activities** at **a** social centre in Melbourne, Australia, changed **between** 2000 and 2020.
 
-Overall, the film club and martial arts remained relatively stable, with the former consistently attracting the most participants. Table tennis recorded the strongest growth, while musical performances also rose and amateur dramatics declined sharply.
+Overall, **the film club and martial arts remained relatively stable, with the former consistently attracting the most participants. Table tennis recorded the strongest growth, while musical performances also rose and amateur dramatics declined sharply.**
 
-Looking more closely, amateur dramatics fell from a peak of about 28 participants in 2005 to only 6 in 2020. Table tennis followed the opposite pattern, rising from 16 in 2000 to 20 in 2005. After remaining unchanged in 2010, the figure surged to approximately 54 by 2020. Meanwhile, participation in musical performances stood at zero in both 2000 and 2005 before growing steadily to about 18 at the end of the period.
+**Looking more closely, amateur dramatics fell from a peak of about 28 participants in 2005 to only 6 in 2020. Table tennis followed the opposite pattern, rising** from 16 in 2000 to 20 in 2005. **After remaining unchanged in 2010, the figure surged to approximately 54 by 2020.** Meanwhile, **participation in musical performances stood at zero in both 2000 and 2005 before growing steadily to about 18 at the end of the period.**
 
-In contrast, participation in the film club and martial arts changed comparatively little. The former slipped from approximately 64 in 2000 to 60 in 2010 before recovering to 66 by 2020. Martial arts fluctuated between roughly 32 and 38 participants, eventually returning to its initial level of about 36.
+In contrast, **participation in the film club and martial arts changed comparatively little. The former slipped from approximately 64 in 2000 to 60 in 2010 before recovering to 66 by 2020. Martial arts fluctuated between roughly 32 and 38 participants, eventually returning to its initial level of about 36.**
 
 ---
 

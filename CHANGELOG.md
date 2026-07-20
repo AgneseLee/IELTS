@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 20 Test 3 图书馆混合图表作文批改、七版本修订及静态图比较表达笔记
+- 新增 IELTS Speaking Day 14 建筑与公共场所主题练习总结、故事迁移和高频搭配
 - 新增 IELTS Speaking Day 13 食物、活动与等待主题练习总结、故事迁移和语法复盘
 - 新增 IELTS 19 Test 4 舞蹈课程地点与年龄组图表作文批改、七版本修订及人数比较表达笔记
 - 新增 IELTS Speaking Day 12 庆祝与情绪主题练习总结、故事迁移和高频搭配

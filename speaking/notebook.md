@@ -3387,3 +3387,212 @@ Key expressions to prepare:
 **Status: Completed 🎉**
 
 Next session: **Day 14 — Buildings & Places**.
+
+---
+
+# 📅 Day 14 Summary (Agnes) — IELTS Speaking Band 7 Notebook
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+|---|---|---|---|---|
+| **7.0–7.5** | **7.0–7.5** | **6.5–7.0** | **7.0** | **7.0–7.5** |
+
+> Note: Today you completed the Buildings & Public Places topic. Your story migration ability remained strong. The main challenge was that today's vocabulary was more abstract, so future review should focus on recycling key expressions rather than memorising too many new ones at once.
+
+---
+
+# ✅ What I Did Today
+
+## Part 2 — Story 7: Buildings & Places
+
+Topics practised:
+
+1. Interesting building — art museum
+2. High-rise building — workplace skyscraper
+3. Boring place — shopping mall
+4. Place to relax — park
+5. Public place — park extension
+
+---
+
+# ⭐ Key Story Points
+
+## Interesting Building — Art Museum
+
+- Near my apartment
+- Visit on weekends
+- Distinctive architectural design
+- Creative layout
+- Spacious interiors
+- Geography exhibition
+- Art, space and architecture create a meaningful experience
+
+## High-rise Building — Workplace Skyscraper
+
+- Near my workplace
+- Busy commercial area
+- Around 50–60 floors
+- Sleek glass exterior
+- Offices, restaurants and shopping areas
+- Symbol of urban development
+
+## Boring Place — Shopping Mall
+
+- Modern appearance
+- Similar experience to other malls
+- Crowded during weekends and holidays
+- Difficult to relax in noisy environments
+- Prefer outdoor spaces with fresh air
+
+## Place to Relax — Park
+
+- Near my apartment
+- Visit with Stella on weekends
+- Green lawn, lotus pond and ducks
+- Lush greenery and fresh air
+- Deep conversations strengthen emotional connections
+
+---
+
+# 🗣️ Part 3 Questions Completed
+
+## How should buildings be designed to suit the local climate?
+
+Ideas:
+- Consider local climate conditions
+- Southern China: open balconies and sunlight
+- Northern China: enclosed balconies against sandstorms
+- Adapt architecture to local environments
+
+## Why do many people choose to live in high-rise buildings?
+
+Ideas:
+- Limited land resources
+- Convenient locations
+- Multiple functions
+- Modern lifestyle
+
+Balanced point:
+- Long elevator waiting times
+- Crowded commuting
+
+## Why do some children find education boring?
+
+Ideas:
+- Traditional teaching methods
+- Too much memorisation
+- Lack of interaction
+- Weak connection with real life
+
+## What makes a public place comfortable?
+
+Ideas:
+- Convenience and accessibility
+- Green spaces and fresh air
+- Relaxing atmosphere
+- Social interaction
+
+---
+
+# ⭐ Expressions to Review (Priority)
+
+Today's difficult expressions:
+
+1. **distinctive architectural design**
+2. **sleek glass exterior**
+3. **spacious interiors**
+4. **reflect the development of a city**
+5. **adapt architecture to local climates**
+6. **improve people's quality of life**
+7. **create a meaningful experience**
+
+Review approach:
+
+Simple version:
+> The building has a unique design.
+
+Upgrade:
+> The building has a distinctive architectural design.
+
+---
+
+# 🚀 Native Collocations of the Day
+
+## Buildings
+
+- distinctive architectural design
+- creative layout
+- sleek glass exterior
+- spacious interiors
+- create a modern atmosphere
+- symbol of urban development
+
+## Places & Relaxation
+
+- cozy atmosphere
+- lush greenery
+- unwind and recharge my batteries
+- take a break from my daily routine
+- strengthen emotional connections
+- create meaningful experiences
+
+## Part 3
+
+- local climate conditions
+- create a comfortable living environment
+- improve people's quality of life
+- adapt architecture to local climates
+
+---
+
+# 🔧 Grammar Focus
+
+## 1. Word form
+
+❌ architecture design
+✅ architectural design
+
+## 2. Climate expression
+
+❌ climate change (when discussing building design)
+✅ local climate conditions
+
+## 3. Verb pattern
+
+❌ helps me to unwind and recharge my batteries
+✅ helps me unwind and recharge my batteries
+
+---
+
+# 🎯 Day 14 Focus for Future Review
+
+Today's materials felt harder to remember because many expressions were abstract. Future reviews should:
+
+- Recycle Day 14 collocations frequently.
+- Use them in new topics instead of memorising isolated phrases.
+- Practise moving from simple expressions to Band 7 expressions.
+
+Example:
+
+> This place has a unique design.
+
+→
+
+> This place has a distinctive architectural design.
+
+---
+
+# ⭐ Today's Biggest Improvement
+
+Today you improved your ability to describe places from different angles:
+
+- Design → creativity
+- Function → convenience
+- Meaning → urban development
+- Environment → relaxation
+- People → emotional connection
+
+The main challenge was vocabulary absorption, not idea development. Future practice should prioritise automatic use of today's expressions.
+
+---

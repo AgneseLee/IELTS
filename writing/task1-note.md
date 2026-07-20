@@ -223,6 +223,34 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - ✗ `saw a dramatic decline and plummeted` — 两者都表剧降
 - ✓ `declined dramatically, plummeting to -3%` — 分词短语补细节
 
+### 静态图六种比较表达（Pie Chart / Bar Chart / Table）
+
+适用于没有时间变化、重点在类别排名和组间差异的饼图、柱图与表格。先看单位：百分比优先使用 1–3，人数等绝对数量优先使用 4–6。
+
+| # | 功能 | 句型 | 示例 |
+|---:|---|---|---|
+| 1 | 占比 + 第二名 | `A accounted for X%, followed by B at Y%.` | `Private studios accounted for 48%, followed by school halls at 24%.` |
+| 2 | 倍数比较 | `The figure for A was twice that for B.` | `The figure for private studios was twice that for school halls.` |
+| 3 | 两项分别占比 | `A and B represented X% and Y%, respectively.` | `Community halls and college-based studios represented 18% and 10%, respectively.` |
+| 4 | 同一类别中的两组人数 | `A attracted X participants, compared with Y in Group B.` | `Ballet attracted 600 under-11s, compared with 300 11–16-year-olds.` |
+| 5 | 人数差 | `Group A outnumbered Group B by X.` | `In modern dance, 11–16-year-olds outnumbered under-11s by approximately 220 students.` |
+| 6 | 两组数值接近 | `Participation was relatively even, at X versus Y.` / `The figures for A and B were relatively close, at X and Y, respectively.` | `Participation in tap was relatively even, at 450 versus approximately 420.` / `The figures for the two age groups were relatively close, at 450 and approximately 420, respectively.` |
+
+#### 使用限制与易错点
+
+- 第 2 句不能写 `A was twice the figure for B`，因为类别 A 本身不是数字；用 `The figure for A was twice that for B`。
+- `outnumber` 的主语和宾语必须是人或群体：`under-11s outnumbered 11–16-year-olds`。比较人数这个数值时，改用 `The number of A was higher than that of B`。
+- `respectively` 前后必须有清晰的一一对应关系。
+- 使用第 6 句时必须点明类别，如 `Participation in tap`，不能只写含义模糊的 `the figures`。
+- 表示“数值接近”用 `relatively close`：`close` 是“接近的”，`closed` 是“关闭的”；不能写 `the figures were relatively closed`。
+- 只有精确倍数才能用 `exactly`：13% 对 6% 是 `just over twice`，不是 `exactly twice`；后者必须是 12% 对 6%。
+
+#### 并列最高与混合图表
+
+- 两类数值相同且并列第一：`Children’s and adult fiction were the joint leading categories, each at 38%.`
+- `the percentage of A and B took the lead` 主语和搭配都不自然；改为 `A and B were the joint leading categories`。
+- 混合图中即使柱形按年份排列，也仍是 `bar chart`；不要因为它展示时间变化就误写成 `line chart`。
+
 ### 表格（Table）
 
 #### 预算收入题

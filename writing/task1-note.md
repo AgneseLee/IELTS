@@ -253,6 +253,30 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ### 表格（Table）
 
+#### 人口总量与占比题
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `population proportion` | `share of the citywide population` | 表示某地区占全市人口的比例时，`share of` 更自然明确。 |
+| `the population came with a surge` | `the population surged` | 避免名词化和不自然的 `come with` 搭配。 |
+| `a district attracted more people` | `the district's population increased` | 图表只显示人口变化，不能据此推断“吸引”这一因果关系。 |
+| `its population climbed from 24% to 81%` | `its share of the total climbed from 24% to 81%` | 百分比描述的是占比，不能称为人口绝对数。 |
+
+**合并行政区的比较：**
+
+- `The tables compare Manhattan with the other four districts combined.`
+- `Their collective share rose from 24% to 81%.`
+- `Despite substantial growth in absolute terms, Manhattan's share of the citywide population fell sharply.`
+
+**`dominated` 与 `became dominant`：**
+
+| 表达 | 含义与用法 | 例句 |
+|---|---|---|
+| `dominated` | 表示某主体在一个时间点或时期占据最大份额、处于明显领先地位。 | `Manhattan dominated the city's population in 1800, accounting for 76% of the total.` |
+| `became dominant` | 强调地位发生变化，某主体后来成为占比最大的群体。 | `The other four districts became dominant by 2000, representing 81% of the city's total population.` |
+
+注意：拼写是 `dominant`，不是 `donminant`。
+
 #### 预算收入题
 
 | 错误 | 修正 | 原因 |

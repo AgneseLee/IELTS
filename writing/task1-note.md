@@ -463,6 +463,28 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 | 分离 | `a centrifuge separates the sugar crystals from the liquid` |
 | 完成 | `the crystals are dried and cooled` |
 
+### 塑料回收流程
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `how recycling plastic bottles are made` | `how plastic bottles are recycled` | 原句误将 recycling 作 bottles 的前置修饰，改变了题意。 |
+| `final productions` | `finished products` / `end products` | `production` 指生产活动，不指具体成品。 |
+| `pick the useful ones` | `retain the recyclable bottles` | `recyclable` 才准确说明分拣标准。 |
+| `pieces from crushing machine` | `plastic fragments produced by the crusher` | 需要冠词，且 fragments/ crusher 更符合工业流程语境。 |
+| `be engaged back in people daily life` | `return to everyday use` | 原动词搭配和所有格均不成立。 |
+| `packaging bulk raw material into packages` | `use the raw material to manufacture finished goods` | 图中展示的是由原材料制造成品，并非包装步骤。 |
+
+推荐过程搭配：
+
+- `are deposited in recycling bins`
+- `are transported by a collection truck to a recycling centre`
+- `unsuitable items are removed during sorting`
+- `are compressed into blocks and fed into a crusher`
+- `the resulting fragments are washed to remove impurities`
+- `are processed into plastic pellets`
+- `the pellets are heated to form raw material`
+- `the material is manufactured into a range of end products`
+
 ### 写作检查
 
 - [ ] 覆盖全部阶段，顺序准确。

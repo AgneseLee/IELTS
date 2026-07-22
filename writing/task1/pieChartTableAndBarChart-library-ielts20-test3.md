@@ -146,7 +146,7 @@ The pie chart and table show the age distribution of library members and the **b
 
 Overall, **adults aged 18–64 formed the largest membership group, while fiction dominated borrowing. Despite some fluctuations, annual lending increased overall and peaked in 2016.**
 
-Looking more closely, **adults aged 18–64 accounted for** 51%, followed by children at 22%. **Young adults aged 13–17 and people aged 65 and over represented** 15% and 12%, respectively. **Children’s and adult fiction were the joint leading loan categories**, each at 38%, while adult non-fiction **ranked third at** 13%, **just over twice the figure for** children’s non-fiction.
+Looking more closely, **adults aged 18–64 accounted for** 51%, followed by children at 22%. **Young adults aged 13–17 and people aged 65 and over represented** 15% and 12%, respectively. **Children’s and adult fiction were the joint leadi ng loan categories**, each at 38%, while adult non-fiction **ranked third at** 13%, **just over twice the figure for** children’s non-fiction.
 
 As for **the** total number of loans, **the figure** rose considerably from approximately 16,000 in 2007 to around **21,000** in 2011. **After falling to just under 20,000 in 2013, it recovered steadily and peaked at** roughly 21,500 in 2016.
 

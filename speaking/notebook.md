@@ -3596,3 +3596,275 @@ Today you improved your ability to describe places from different angles:
 The main challenge was vocabulary absorption, not idea development. Future practice should prioritise automatic use of today's expressions.
 
 ---
+
+📅 Day 15 Summary (Agnes)
+
+🎯 Band Tracker
+
+Fluency	Lexical	Grammar	Pronunciation	Overall
+7.0–7.5	7.0–7.5	6.5–7.0	7.0	7.0–7.5
+
+⸻
+
+✅ What I Did Today
+
+Part 1
+
+Topics practised:
+
+* Watches
+* Parks
+* Plants
+* Spending Time with Older People
+
+Band 7 Toolbox Used
+
+* Personally speaking,…
+* That being said,…
+* What stands out most about…
+* What appeals to me most is…
+* extensive life experience
+* create a relaxing atmosphere
+* take a break from daily routines
+* unwind and recharge
+
+⸻
+
+📚 Part 2 Story Bank
+
+Story 3: Malaysia Trip — Nature & Scenery Migration
+
+Topic 1: Wild Animal
+
+Animal: Sea turtle
+
+Background
+
+* First saw it while freediving in Sabah, Malaysia.
+* Experience left me with a lasting impression.
+
+Details
+
+* Large shell.
+* Moved slowly and gracefully.
+* Saw it in its natural environment.
+* Learned about threats from plastic pollution.
+
+Reflection
+
+* Reminded me how important it is to protect the natural environment.
+
+⸻
+
+Topic 2: Nature Lover
+
+Person: Stella
+
+Background
+
+* Close friend.
+* Met after moving to Beijing three years ago.
+
+Personality
+
+* Appreciates nature deeply.
+* Has strong environmental awareness.
+
+Main Event
+
+* Malaysia trip.
+* Reminded me that normal sunscreen could harm coral reefs and marine life.
+* Switched to eco-friendly sunscreen before freediving.
+
+Reflection
+
+* Helped me look at nature from a different perspective.
+* Nature is not only beautiful but also something we should protect.
+
+⸻
+
+Topic 3: Natural Place
+
+Place: Semporna, Malaysia
+
+Background
+
+* Visited with Stella last May.
+* Around 10 days.
+* Rented a car and explored at our own pace.
+
+Main Details
+
+* Freediving experience.
+* Felt as if I had entered another world.
+* Colourful coral reefs.
+* Different kinds of fish.
+* Sea turtle moving gracefully.
+* Explored mountains with lush greenery and vibrant flowers.
+
+Reflection
+
+* Broadened my horizons.
+* Strengthened my emotional connection with Stella.
+* Created meaningful memories.
+
+⸻
+
+Topic 4: Scenery
+
+Focus
+
+* Beautiful landscape rather than travel experience.
+
+Key Details
+
+* Clear blue and transparent water.
+* Colourful coral reefs.
+* Wide range of marine life.
+* Lush green mountains.
+* Vibrant red and yellow flowers.
+
+Ending
+
+* The scenery left me with a lasting memory.
+* The experience helped me unwind and recharge.
+
+⸻
+
+⭐ Best Sentences Today
+
+One wild animal I’d really like to learn more about is the sea turtle. I first saw one while freediving in Sabah, Malaysia, and the experience left me with a lasting impression.
+
+What appeals to me most about sea turtles is their peaceful and ancient-looking appearance.
+
+What stands out most about Stella is her deep appreciation for the natural environment.
+
+Spending time with Stella has helped me look at nature from a different perspective.
+
+I felt as if I had entered another world when I was freediving.
+
+The trip not only broadened my horizons, but also strengthened my emotional connection with my friend.
+
+⸻
+
+🔧 Three Grammar Mistakes
+
+1.
+
+❌ environment pollution
+
+✅ environmental pollution
+
+⸻
+
+2.
+
+❌ remind me that how important it is
+
+✅ remind me how important it is
+
+⸻
+
+3.
+
+❌ Even small actions can make those difference
+
+✅ Even small actions can make a difference
+
+⸻
+
+🚀 Vocabulary Upgrade
+
+Instead of:
+
+Basic Expression	Upgrade
+beautiful scenery	breathtaking scenery
+very green	lush greenery
+make people relax	allow people to unwind and recharge
+protect nature	protect the natural environment
+important	play an important role / play a vital role
+remember for a long time	leave me with a lasting impression
+good memory	lasting memory
+
+⸻
+
+⭐ Expressions to Master
+
+1. Leave me with a lasting impression
+
+Focus: emotional impact
+
+Example:
+
+The experience left me with a lasting impression because it changed the way I viewed nature.
+
+⸻
+
+2. Leave me with a lasting memory
+
+Focus: remembering a specific event
+
+Example:
+
+The trip left me with a lasting memory that I will cherish for years.
+
+⸻
+
+3. Look at something from a different perspective
+
+Example:
+
+Stella helped me look at environmental protection from a different perspective.
+
+⸻
+
+4. Be vulnerable to…
+
+Example:
+
+Sea turtles are vulnerable to plastic pollution.
+
+⸻
+
+5. Make eco-friendly choices
+
+Example:
+
+Individuals can make eco-friendly choices in their daily lives.
+
+⸻
+
+🎯 Focus for Day 16
+
+* Continue improving active recall without hints.
+* Practice answering Part 3 without depending on prepared keywords.
+* Keep using the structure:
+
+Opinion → Reason → Example → Balanced view → Conclusion
+
+* Reduce grammar mistakes with:
+    * articles
+    * plural forms
+    * subject-verb agreement
+
+⸻
+
+⭐ Today’s Biggest Improvement
+
+Today you successfully completed a full story migration cycle:
+
+One Malaysia experience → four different Part 2 topics
+
+✅ Wild Animal
+✅ Nature Lover
+✅ Natural Place
+✅ Scenery
+
+The biggest improvement was not vocabulary, but flexibility. You were able to change the focus of the same experience:
+
+* animal → sea turtle
+* person → Stella’s personality
+* place → Semporna
+* scenery → visual details
+
+This is exactly the skill needed for IELTS Part 2, because you do not need dozens of memorized answers. You need a small number of authentic stories that can adapt to different questions.

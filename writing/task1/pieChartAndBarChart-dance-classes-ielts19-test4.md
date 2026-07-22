@@ -186,3 +186,15 @@ Overall, **private studios accounted for the largest share, whereas college-base
 ### 结构改进
 
 The integrated version strengthens the overview by identifying both the least common venue and the near balance in tap participation. It also converts the raw location figures into a direct two-to-one comparison and presents the three dance styles through their contrasting age profiles.
+
+---
+
+## Static-template Version(170) (Estimated Band 7.0–7.5)
+
+The pie chart compares dance-class venues in an Australian town, while the bar chart shows participation in three dance styles among two age groups.
+
+Overall, private studios recorded the largest share, whereas college-based studios had the smallest. The two age groups differed most noticeably in ballet and modern dance, which displayed opposite patterns, while participation in tap was relatively even.
+
+Looking first at location, private studios accounted for 48% of classes, followed by school halls at 24%. The former figure was therefore exactly twice the latter. Community halls and other venues represented a further 18%, while college-based studios comprised the remaining 10%.
+
+Turning to class types, ballet attracted 600 under-11s, compared with 300 participants aged 11–16. The figures for tap were much closer, at 450 and approximately 420, respectively. Modern dance displayed the reverse pattern: around 520 older students attended these classes, versus 300 younger children. Thus, under-11s outnumbered older students by two to one in ballet, whereas the older group held a lead of roughly 220 in modern dance.

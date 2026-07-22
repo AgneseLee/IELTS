@@ -190,3 +190,16 @@ Overall, the population of New York City grew significantly and peaked in 2000. 
 Only 79,216 residents lived in New York City in 1800. **The total then surged to** 3,437,202 in 1900 **and more than doubled to** 8,009,185 in 2000. **Manhattan’s population rose** from 60,515 in 1800 and peaked at 1,850,093 in 1900 before dropping **moderately** to 1,538,096 **in 2000. Nevertheless, its share of the city’s total population declined consistently, from 76% to 54% and then 19%.**
 
 **Conversely, the combined population of the other four districts—Brooklyn, the Bronx, Queens and Staten Island—rose considerably, from** 18,701 in 1800 **to 1,587,109 in 1900 and** 6,471,089 in 2000. **Their collective share followed a similar upward pattern, climbing from 24% to 46% and finally 81%.**
+
+
+---
+
+## Dynamic-template Version(181) (Estimated Band 7.0–7.5)
+
+The tables show how New York City's total population changed in 1800, 1900 and 2000, alongside the populations and percentage shares of Manhattan and the other four districts combined.
+
+Overall, the city's total and the combined population of the other districts increased substantially. Conversely, Manhattan's population peaked in 1900 before declining, while its share fell throughout. By 2000, the other districts were dominant.
+
+Looking first at the rising figures, New York City's population grew from only 79,216 in 1800 to 3,437,202 in 1900, before more than doubling to 8,009,185 in 2000. The other four districts followed a similar but stronger pattern, with their combined population climbing from 18,701 to 1,587,109 and then 6,471,089. Their collective share also rose steadily, from 24% to 46% and finally 81%.
+
+By contrast, Manhattan's population surged from 60,515 in 1800 to a peak of 1,850,093 in 1900, before falling moderately to 1,538,096. Its share of the citywide population declined more dramatically, from 76% to 54% and then 19%. Consequently, its initial lead was reversed, with the other districts recording over four times its population in 2000.

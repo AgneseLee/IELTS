@@ -132,3 +132,15 @@ Looking at the figure for the highest level of annual income, it fluctuated over
 
 - ✗ `with a high of 28m and 30m in 2011 and dropped slightly by 1-2 million in 2015, respectively` — 后半段未分别对应两个区间
 - ✓ `recorded peaks of 28m and 30m in 2011, before dropping to approximately 28m and 29m by 2015, respectively` — 清晰配对每个区间的峰值与终值
+
+---
+
+## Dynamic-template Version(183) (Estimated Band 7.0–7.5)
+
+The bar chart illustrates how the number of US households in five annual income brackets changed in 2007, 2011 and 2015.
+
+Overall, most income groups changed relatively little. However, the highest-income bracket dipped before rising to become the largest category in 2015, while the two lowest brackets recorded their highest figures in 2011. The two middle-income groups remained the smallest throughout.
+
+Looking first at the larger categories, households earning at least $100,000 numbered approximately 29 million in 2007. This figure slipped to around 28 million in 2011 before climbing considerably to 33 million by 2015. By contrast, the figures for households below $25,000 and those earning $25,000–$49,999 rose from about 25 million and 27 million to peaks of 29 million and 30 million in 2011, before easing to roughly 28 million and 29 million, respectively.
+
+The remaining brackets were much more stable. The number of households earning $50,000–$74,999 stayed at approximately 21 million in all three years. Meanwhile, the $75,000–$99,999 group consistently recorded the lowest figure, remaining near 14 million in 2007 and 2011 before edging up to about 15 million in 2015.

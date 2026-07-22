@@ -141,3 +141,15 @@ In terms of predictions, all of the countries are predicted to maintain the upwa
 |---|---|
 | `Malaysia surpassed it... which saw a sharp increase` — which 指代不清 | 移至 Malaysia 正后方：`Malaysia, which saw a sharp increase..., surpassed it` |
 | 预测段只提 Thailand，信息不完整 | 补充 Malaysia 预测继续领先至 ~85% |
+
+---
+
+## Dynamic-template Version(185) (Estimated Band 7.0–7.5)
+
+The line graph shows how the percentages of people living in cities in four Asian countries changed from 1970 to 2020, with forecasts for 2030 and 2040.
+
+Overall, the figures for all four countries rose and are predicted to continue rising, although the Philippines fluctuated historically. Malaysia recorded the strongest growth and is expected to rank first in 2040, while Thailand had the lowest figures for most years.
+
+Looking first at the stronger trends, Malaysia's figure rose from 30% in 1970 to 45% in 1990, before climbing to about 76% by 2020. It is predicted to reach 83% in 2040. Indonesia's figure increased from around 13% to 30% between 1970 and 2000, then reached 52% in 2020; it is forecast to rise further to 64%.
+
+By contrast, the Philippine figure rose from 32% in 1970 to a peak of just under 50% in 1990, before falling to around 43% in 2010 and recovering to 46% by 2020. Thailand's figure rose more gradually, from 18% to about 33% over the same period. By 2040, the two figures are predicted to reach approximately 56% and 50%, respectively.

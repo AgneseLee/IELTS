@@ -68,6 +68,12 @@
 
 #### 数据引用短语
 
+##### 三种比较维度的简单区分
+
+- `by type of employment`：强调分类标准。
+- `across three employment fields`：强调三个具体类别。
+- `in terms of salary`：强调比较指标。
+
 ##### 占比与排名
 
 | 短语 | 用法 | 例句 |
@@ -370,6 +376,14 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 | `peaked at the highest position` | `peaked at about 7,100` | `peak at` 后直接接数值 |
 
 ### 柱图（Bar Chart）
+
+#### 多国消费支出题
+
+- 图表单位为金额时，Introduction 可写 `compares expenditure on six consumer goods`；主体可交替使用 `spending on X`、`expenditure on X` 和 `the figure for X`。
+- 某国在全部类别中最高：`Britain recorded the highest spending on every product.`
+- 多个国家轮流处于最低位时，不要笼统写成某一国最低；可概括为 `France and Germany occupied most of the lowest positions.`
+- 商品作为主语时用 `attracted lower levels of expenditure`，避免不自然的 `received less spending`。
+- 描述跨国差距：`The gap between Britain and Germany was approximately £26,000.`
 
 #### 年龄组参与人数比较
 

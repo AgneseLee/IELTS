@@ -89,17 +89,15 @@ Subsequently, juice comes out when crushing material plants, which provides main
 
 ---
 
-## Final Integrated Version (7.0–7.5)
+## Final Integrated Version(162) (7.0–7.5)
 
 The diagram illustrates the seven-stage process used to produce sugar from sugar cane.
 
-Overall, this is a linear process that begins with the cultivation of sugar cane and ends with the drying and cooling of the finished sugar crystals. The agricultural phase takes between 12 and 18 months, whereas the remaining stages involve harvesting and mechanically processing the crop.
+Overall, this is a linear process that begins with the cultivation of sugar cane and ends with the drying and cooling of sugar crystals. The agricultural phase takes between 12 and 18 months.
 
-Initially, sugar cane is grown for 12 to 18 months until it reaches maturity. It is then harvested either by a machine or manually by farmers. After harvesting, the sugar cane is crushed by a machine to extract its juice. This marks the beginning of the industrial production process.
+Initially, sugar cane is grown for 12 to 18 months until it reaches maturity. It is then harvested either by a machine or manually by farmers. Following this, the harvested cane is fed into a crusher, which extracts its juice. This marks the transition from agricultural production to industrial processing.
 
-During the next stage, the raw juice is passed through a limestone filter to remove impurities. The purified liquid is subsequently heated in an evaporator, causing water to evaporate and the juice to thicken into syrup. This syrup is then placed in a centrifuge, where rapid spinning separates the sugar crystals from the remaining liquid. Finally, the crystals are dried and cooled, producing the finished sugar.
-
-*Word count: 174*
+During the remaining stages, the raw juice is passed through a limestone filter to remove impurities. Subsequently, the purified liquid is heated in an evaporator, causing water to evaporate and the juice to thicken into syrup. The syrup is then placed in a centrifuge, where rapid spinning separates the sugar crystals from the remaining liquid. Finally, the crystals are dried and cooled, producing the finished sugar.
 
 ---
 

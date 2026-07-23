@@ -152,15 +152,15 @@ Plastic pieces **are transformed** into plastic pellets, which **are then** heat
 
 ---
 
-## Final Integrated Version(181) (7.0–7.5)
+## Final Integrated Version(160) (7.0–7.5)
 
 The diagram illustrates the nine-stage process used to recycle plastic bottles into new products.
 
-Overall, this is a linear manufacturing process beginning with the disposal of bottles in recycling bins and ending with the production of various consumer goods. Some resulting items are new bottles, which can potentially re-enter the same recycling process.
+Overall, this is a linear process that begins with the disposal of used bottles and ends with the manufacture of consumer goods. Some products can potentially re-enter the same process.
 
-Initially, consumers place their used bottles in recycling bins. A collection truck empties these containers and transports the waste to a recycling centre, where workers sort it and remove any unsuitable items. The recyclable bottles are then compressed into large blocks before being fed into a crusher. The resulting plastic fragments are subsequently washed to eliminate impurities.
+Initially, consumers place used bottles in recycling bins. A collection truck then transports them to a recycling centre, where workers remove unsuitable items. The recyclable bottles are compressed into blocks before being fed into a crusher. Following this, the resulting plastic fragments are thoroughly washed to remove impurities.
 
-During the remaining stages, the clean fragments are processed by a machine to form small plastic pellets. These pellets are then heated and melted to create usable raw material, which is shown being stored in large units. Finally, this material is manufactured into a wide range of end products, including new drinks bottles, food containers, T-shirts, reusable shopping bags and pencils. These goods can then enter everyday use, completing the process.
+During the remaining stages, the clean fragments are processed into small plastic pellets. Subsequently, these pellets are heated and melted to form raw material, which is stored in large units. Finally, the recovered material is manufactured into various end products, including new drinks bottles, food containers, T-shirts, reusable shopping bags and pencils. Some of these goods can return to everyday use and eventually enter the recycling process again.
 
 ---
 

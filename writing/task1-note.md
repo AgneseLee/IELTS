@@ -485,6 +485,14 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - `the pellets are heated to form raw material`
 - `the material is manufactured into a range of end products`
 
+### 乙醇生产与真实循环流程
+
+- 循环图若没有固定起终点，Overview 不必机械使用 `begins with... and ends with...`；应说明闭环物质：`Carbon dioxide released during fuel use is reabsorbed by new plants, completing the cycle.`
+- `the end product fosters the next cycle` → `burning ethanol releases carbon dioxide, which supports another cycle of plant growth`：真正回到起点的是二氧化碳，不是乙醇。
+- `agricultural food` → `harvested plant material`；`cellulose liquid` → `cellulose`；`chemical instruments` → `processing equipment`。
+- 添加微生物用 `microbes are added to the sugars`；燃料用途用 `ethanol is used to power cars, trucks and aircraft`。
+- 支线也要覆盖：`Carbon dioxide is released during both pre-processing and fuel combustion.`
+
 ### 写作检查
 
 - [ ] 覆盖全部阶段，顺序准确。

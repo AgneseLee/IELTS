@@ -3868,3 +3868,259 @@ The biggest improvement was not vocabulary, but flexibility. You were able to ch
 * scenery → visual details
 
 This is exactly the skill needed for IELTS Part 2, because you do not need dozens of memorized answers. You need a small number of authentic stories that can adapt to different questions.
+
+---
+I can definitely do that. However, I don’t currently have access to the live notebook.md file in this chat to modify it directly—I only have the excerpts that were previously referenced.
+
+Below is a Day 16 section that matches the format and style of your previous daily summaries. You can append it to your notebook.md.
+
+⸻
+
+📅 Day 16 Summary (Agnes)
+
+🎯 Band Tracker
+
+Fluency	Lexical	Grammar	Pronunciation	Overall
+7.5	7.5	7.0	7.0	7.0–7.5
+
+⸻
+
+✅ What I Did Today
+
+Part 1
+
+Topics practised:
+
+* Busy
+* Lists
+* Thanking
+* Memory
+
+Part 2
+
+Story Migration:
+
+* Perfect Job → Freelancer
+* Famous Person → Elon Musk
+* Business Person → Elon Musk
+* Medical Field Person → Dr. Fan
+
+Part 3
+
+Topics discussed:
+
+* Factors when choosing a job
+* Why people want to become famous
+* Is talent important for success?
+* Is it difficult to become a doctor?
+* Why do some people prefer running a business?
+
+⸻
+
+📚 Story Bank Update
+
+Story 1 — Elon Musk
+
+Applicable Cue Cards
+
+* Famous Person
+* Business Person
+* Successful Person
+* Role Model
+
+Focus
+
+* Innovative mindset
+* Took calculated risks
+* Developed reusable rockets
+* Turned ambitious ideas into reality
+* Stayed persistent despite failures
+
+Reflection
+
+Success requires much more than talent. Determination, continuous learning and the ability to overcome setbacks are equally important.
+
+⸻
+
+Story 8 — Dr. Fan
+
+Applicable Cue Cards
+
+* Medical Professional
+* Helpful Person
+* Someone I Admire
+
+Focus
+
+* Toothache
+* Detailed treatment plan
+* Scaling and root planing
+* Medical expertise
+* Emotional support
+* Patience and empathy
+
+Reflection
+
+Good healthcare requires not only medical expertise but also emotional support and a strong connection with patients.
+
+⸻
+
+Story 5 — Perfect Job
+
+Topic
+
+Freelance Software Engineer
+
+Focus
+
+* Work from anywhere
+* Freedom and flexibility
+* Build products from scratch
+* Turn ideas into reality
+* Create meaningful products
+* Pursue personal growth
+
+Reflection
+
+A perfect job is one that combines personal interests, long-term goals and the opportunity to keep learning.
+
+⸻
+
+⭐ Best Sentences Today
+
+What stands out most about him is his innovative mindset and his willingness to take calculated risks.
+
+Talent alone is not enough for success.
+
+Doctors need to juggle multiple responsibilities while working under a great deal of pressure.
+
+Good healthcare requires not only medical expertise but also emotional support.
+
+What appeals to me most about freelancing is the freedom to work from anywhere.
+
+I want to create meaningful products that I truly care about.
+
+⸻
+
+🔧 Three Grammar Mistakes
+
+❌ While it is true that salary is important, but…
+
+✅ While it is true that salary is important,…
+
+⸻
+
+❌ Talent alone are not enough.
+
+✅ Talent alone is not enough.
+
+⸻
+
+❌ Running business
+
+✅ Running a business
+
+⸻
+
+🚀 Vocabulary Upgrade
+
+Instead of…
+
+* build my own things → create meaningful products
+* keep trying → stay persistent
+* difficult work → highly rewarding career
+* many jobs → multiple responsibilities
+* make my ideas real → turn ideas into reality
+* famous because of money → financial opportunities and social recognition
+
+⸻
+
+⭐ Expressions to Master
+
+1. Turn ideas into reality
+
+Entrepreneurs want to turn their ideas into reality.
+
+⸻
+
+2. Take calculated risks
+
+Successful business owners are willing to take calculated risks.
+
+⸻
+
+3. Work under a great deal of pressure
+
+Doctors often work under a great deal of pressure.
+
+⸻
+
+4. Juggle multiple responsibilities
+
+Medical professionals have to juggle multiple responsibilities every day.
+
+⸻
+
+5. Make a meaningful difference
+
+Doctors have the opportunity to make a meaningful difference in people’s lives.
+
+⸻
+
+6. Stay competitive
+
+Continuous learning helps professionals stay competitive.
+
+⸻
+
+7. Create meaningful products
+
+I hope to create meaningful products that solve real-world problems.
+
+⸻
+
+⭐ Native Collocations of the Day
+
+* innovative mindset
+* take calculated risks
+* turn ideas into reality
+* work towards a goal
+* stay persistent
+* overcome setbacks
+* financial opportunities
+* social recognition
+* work under a great deal of pressure
+* juggle multiple responsibilities
+* practical training
+* medical expertise
+* emotional support
+* highly rewarding career
+* make a meaningful difference
+* pursue personal growth
+* create meaningful products
+* no guaranteed income
+* stay competitive
+
+⸻
+
+🎯 Focus for Day 17
+
+* Reduce article mistakes (a business, a stable income, a doctor).
+* Eliminate “While…, but…”.
+* Continue strengthening reflection sentences.
+* Make Part 3 answers more concise (45–60 seconds).
+* Reuse Elon Musk, Dr. Fan, and Freelancer stories naturally without sounding repetitive.
+
+⸻
+
+⭐ Today’s Biggest Improvement
+
+Today was the first day you consistently connected your Part 2 stories with your Part 3 opinions.
+
+For example:
+
+* Elon Musk → talent, persistence, innovation, entrepreneurship.
+* Dr. Fan → doctors, healthcare, responsibility, emotional support.
+* Freelancer → job choice, entrepreneurship, personal growth.
+
+This demonstrates that you’re no longer memorizing isolated answers. Instead, you’re building a connected story bank, allowing you to answer different IELTS questions naturally while reusing authentic experiences and reflections. This is exactly the strategy outlined in your 20-day plan and is one of the biggest steps toward a stable Band 7–7.5 performance.

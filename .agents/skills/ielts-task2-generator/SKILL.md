@@ -1,6 +1,6 @@
 ---
 name: ielts-task2-generator
-description: Generate one IELTS Writing Task 2 question and two logically identical Band 7–7.5 model essays. Use when the user supplies one of the 12 themes in writing/task2-views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
+description: Generate one IELTS Writing Task 2 question and logically aligned template, repaired and natural model essays. Use when the user supplies one of the 12 themes in writing/task2-views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
 ---
 
 # IELTS Task 2 Generator
@@ -15,10 +15,10 @@ Require one theme and one question type.
 
 ## Sources
 
-Read these files before generating:
+Read before generating:
 
 1. `writing/task2-views.md` — sole source for core arguments, causes and effects
-2. `writing/task2/task2-templates.md` — structure and phrasing for the template version
+2. `writing/task2/task2-templates.md` — exact wording for the strict template version
 3. `writing/task2-note.md` — language and reasoning safeguards
 
 Do not modify source files.
@@ -27,69 +27,55 @@ Do not modify source files.
 
 1. Read only the selected theme section from `task2-views.md`.
 2. Create one realistic IELTS-style question matching the selected type.
-3. Build and lock one shared logic contract:
-   - thesis and position
-   - Body 1 claim → reason → effect → optional concrete illustration
-   - Body 2 claim → reason → effect → optional concrete illustration
-   - conclusion
-4. Route the contract:
-   - 观点型: explicit degree of agreement; two supporting reasons
-   - 讨论型: explain both views; state and maintain one opinion
-   - 利弊型: cover both sides; give an explicit overall verdict
-   - 原因与解决方案型: explain causes; propose directly matched solutions
-5. Render two essays from the locked contract:
-   - Template Version: adapt suitable structures from `task2-templates.md`
-   - Natural Version: use natural cohesion and minimal visible templating
-6. Count each essay and revise until each is 280–320 English words.
-7. Save the complete output under `writing/task2-practices/` before replying.
+3. Lock one logic contract: position; paragraph claims; cause-effect chains; solutions; conclusion.
+4. Route it:
+   - 观点型: degree of agreement + two reasons
+   - 讨论型: both views + maintained opinion
+   - 利弊型: both sides + explicit verdict
+   - 原因与解决方案型: causes + directly matched solutions
+5. Produce the Strict Template Version from applicable template sentences.
+6. Assess it against TR, CC, LR and GRA.
+7. If below Band 7, list only the score blockers and produce a Minimal Repair Version.
+8. Produce the Natural Version from the same logic contract.
+9. Save under `writing/task2-practices/`; return the path.
 
-Use the filename `<theme>-<type>-<topic>.md` with concise English kebab-case terms.
-Never overwrite an existing practice; append `-2`, `-3`, and so on.
+Use `<theme>-<type>-<topic>.md` with concise English kebab-case terms.
+Never overwrite; append `-2`, `-3`, and so on.
+
+## Template Fidelity
+
+- Copy applicable complete sentences from `task2-templates.md` verbatim.
+- Replace bracketed placeholders only; do not reorder, paraphrase, add or delete.
+- Report its actual word count. Do not alter it merely to reach 280–320 words.
+- If it misses Band 7, preserve it as evidence; do not silently improve it.
+
+For the Minimal Repair Version:
+
+- Fix only the listed blockers; retain maximum template wording.
+- Bold every added or replaced expression.
+- Keep 280–320 English words and target Band 7–7.5.
+- Deletions needed for concision are allowed.
 
 ## Logic Lock
 
-Both versions must preserve the same:
-
-- position, scope and conclusion
-- paragraph order and main claims
-- cause-and-effect chains
-- solutions and their matched causes
-- illustrations and factual detail
-
-Only wording, syntax and transitions may differ. Do not introduce, remove or strengthen an argument in either version.
+All versions must preserve the same position, paragraph order, claims, causal links,
+solutions, examples, scope and conclusion. Wording quality may differ; reasoning may not.
 
 ## Quality Rules
 
-- Target Band 7–7.5: complete task response, clear progression, precise vocabulary and varied accurate grammar.
 - Keep every core idea traceable to the selected `task2-views.md` section.
-- A concrete illustration may clarify a listed idea, but must appear in both versions.
 - Do not invent statistics, studies, quotations or named evidence.
-- Avoid memorised-template awkwardness, absolute claims and unsupported causal jumps.
-- Validate the two essays paragraph by paragraph against the logic contract before output.
+- Avoid unsupported causal jumps and absolute claims.
+- Count words and compare all versions paragraph by paragraph before saving.
 
 ## Output
 
-Write the following content to the practice file, then return its path:
-
 ```md
-# <concise English title>
-
+# <English title>
 ## 题目
-
-> <question>
-
 ## 共用逻辑提纲
-
-- 立场：...
-- Body 1：claim → reason → effect → illustration
-- Body 2：claim → reason → effect → illustration
-- 结论：...
-
-## 模板版（<word count> words）
-
-<essay>
-
-## 自然版（<word count> words）
-
-<essay>
+## 模板直替版（<words>，Estimated Band <score>）
+## 卡点                       <!-- omit if already Band 7–7.5 -->
+## 模板最小修改版（<words>，Target Band 7.0–7.5） <!-- omit if unnecessary -->
+## 自然版（<words>，Target Band 7.0–7.5）
 ```

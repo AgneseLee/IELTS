@@ -41,7 +41,7 @@ Do not modify source files.
    - Template Version: adapt suitable structures from `task2-templates.md`
    - Natural Version: use natural cohesion and minimal visible templating
 6. Count each essay and revise until each is 280–320 English words.
-7. Save the complete output under `task2-practices/` before replying.
+7. Save the complete output under `writing/task2-practices/` before replying.
 
 Use the filename `<theme>-<type>-<topic>.md` with concise English kebab-case terms.
 Never overwrite an existing practice; append `-2`, `-3`, and so on.

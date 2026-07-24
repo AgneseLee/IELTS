@@ -1,6 +1,6 @@
 ---
 name: ielts-task2-generator
-description: Generate one IELTS Writing Task 2 question and logically aligned template, repaired and natural model essays. Use when the user supplies one of the 12 themes in writing/task2-views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
+description: Generate one IELTS Writing Task 2 question and logically aligned strict-template and minimal-repair essays. Use when the user supplies one of the 12 themes in writing/task2-views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
 ---
 
 # IELTS Task 2 Generator
@@ -36,8 +36,7 @@ Do not modify source files.
 5. Produce the Strict Template Version from applicable template sentences.
 6. Assess it against TR, CC, LR and GRA.
 7. If below Band 7, list only the score blockers and produce a Minimal Repair Version.
-8. Produce the Natural Version from the same logic contract.
-9. Save under `writing/task2-practices/`; return the path.
+8. Save under `writing/task2-practices/`; return the path.
 
 Use `<theme>-<type>-<topic>.md` with concise English kebab-case terms.
 Never overwrite; append `-2`, `-3`, and so on.
@@ -59,15 +58,16 @@ For the Minimal Repair Version:
 
 ## Logic Lock
 
-All versions must preserve the same position, paragraph order, claims, causal links,
-solutions, examples, scope and conclusion. Wording quality may differ; reasoning may not.
+When both versions are present, they must preserve the same position, paragraph order,
+claims, causal links, solutions, examples, scope and conclusion. Wording quality may
+differ; reasoning may not.
 
 ## Quality Rules
 
 - Keep every core idea traceable to the selected `task2-views.md` section.
 - Do not invent statistics, studies, quotations or named evidence.
 - Avoid unsupported causal jumps and absolute claims.
-- Count words and compare all versions paragraph by paragraph before saving.
+- Count words and, when both versions are present, compare them paragraph by paragraph before saving.
 
 ## Output
 
@@ -78,5 +78,4 @@ solutions, examples, scope and conclusion. Wording quality may differ; reasoning
 ## 模板直替版（<words>，Estimated Band <score>）
 ## 卡点                       <!-- omit if already Band 7–7.5 -->
 ## 模板最小修改版（<words>，Target Band 7.0–7.5） <!-- omit if unnecessary -->
-## 自然版（<words>，Target Band 7.0–7.5）
 ```

@@ -14,6 +14,7 @@ Another notable advantage of [核心主题] is its ability to directly optimize 
 
 Another significant advantage of [核心主题] is that it addresses problems from the ground up. Unlike approaches that only manage surface-level issues, this method works by removing [潜在原因]. By tackling these root causes directly, it prevents the same challenges from recurring and ensures that solutions are more enduring. In the long run, this creates deeper improvements that make [核心主题] a far more sustainable solution.
 
+---
 ## 正文段负向模板 2组
 
 ### 模板编号：负向1
@@ -24,16 +25,14 @@ It is important to recognize that [核心主题] can produce harmful effects on 
 
 Another significant drawback of [核心主题] is its tendency to cause resource misallocation. The main reason is that it forces [机构/系统，如 schools / governments / organizations] to divert limited [资源，如 time / funding / attention] away from their essential functions, thereby reducing investment in [本应投入的领域，如 education / healthcare]. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
 
-## 正文段让步反驳 2组
+---
+## 正文段让步反驳 1组
 
 ### 模板编号：让步1
 
 Nevertheless, this advantage is short-lived, as the initial [积极效果] quickly fades once [条件]. The [需要被维持的东西] is unlikely to be sustained in the absence of [核心因素], which makes the supposed benefits appear superficial. More importantly, these temporary gains often conceal deeper problems, such as [弊端]. As these issues accumulate, they not only offset the initial benefits but also generate new obstacles that hinder genuine progress.
 
-### 模板编号：让步2
-
-图片中未显示完整内容。
-
+---
 ## 正文段原因模板 2组
 
 ### 模板编号：原因1
@@ -43,6 +42,8 @@ One major reason behind [核心问题] is the lack of [关键因素]. This short
 ### 模板编号：原因2
 
 Another underlying cause of [核心问题] is the influence of [具体因素]. This factor not only shapes [行为或现象], but also reinforces negative patterns that are difficult to change. Consequently, the problem spreads more widely and places extra strain on [社会层面]. This explains why tackling root causes is far more urgent than addressing surface-level symptoms.
+
+---
 
 ## 正文段解决方案模板 2组
 
@@ -54,6 +55,7 @@ A practical approach to addressing this issue is to promote [解决方案]. This
 
 Another important step in tackling [核心问题] is to strengthen [解决方案] at both governmental and individual levels. The key reason is that it enhances [普适领域], thereby addressing underlying causes rather than superficial symptoms. As a result, this strategy not only reduces immediate pressure on [话题领域] but also ensures more lasting and comprehensive outcomes. This makes it clear why targeted actions are indispensable for lasting solutions.
 
+---
 ## 高级连贯 观点型（同意/反对）
 
 ### 首段
@@ -64,6 +66,7 @@ The debate surrounding [题干话题] has engaged a broad audience recently. Fro
 
 In summary, I totally agree / disagree / partly agree with [题干观点]. On the one hand, I recognize that [正文段1的核心观点]. On the other hand, I also maintain that [正文段2的核心观点]. Taken together, these considerations clearly demonstrate why my position should be regarded as the more convincing one.
 
+---
 ## 中频 讨论型（支持某一方）
 
 ### 首段
@@ -74,6 +77,7 @@ The debate surrounding [题干话题] has engaged a broad audience recently. Whi
 
 In conclusion, although both perspectives have their own merits, I am more convinced by [我支持的观点], because [我反对的观点] fails to fully address [某个关键问题，可加 that 从句]. By contrast, [我支持的观点] not only avoids this shortcoming but also offers a more comprehensive and convincing foundation.
 
+---
 ## 中频 利弊型（2种提问方式，利大于弊 / 积极还是消极）
 
 ### 首段
@@ -84,6 +88,7 @@ The debate surrounding [题干话题] has engaged a broad audience recently. Alt
 
 In conclusion, while the drawbacks of [题干话题] are real, they remain limited in impact. By contrast, its advantages are more substantial and enduring, and therefore I believe that overall this is a positive development / beneficial trend.
 
+---
 ## 中频 原因和解决方案型（列举型）
 
 ### 首段

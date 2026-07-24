@@ -46,6 +46,7 @@ Never overwrite; append `-2`, `-3`, and so on.
 
 - Copy applicable complete sentences from `task2-templates.md` verbatim.
 - Replace bracketed placeholders only; do not reorder, paraphrase, add or delete.
+- Bold every placeholder replacement so substituted content is immediately visible.
 - Report its actual word count. Do not alter it merely to reach 280–320 words.
 - If it misses Band 7, preserve it as evidence; do not silently improve it.
 

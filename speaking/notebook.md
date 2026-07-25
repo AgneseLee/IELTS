@@ -1,9 +1,3 @@
-I think that's one of the highest ROI changes we can make.
-
-In fact, I'd expand it slightly. Instead of just a **Band 7 Toolbox**, I'd create a notebook that grows with you over the next 20 days.
-
----
-
 # 📒 IELTS Speaking Band 7 Notebook
 
 ## Section 1 — Band 7 Toolbox ⭐ (Most Important)
@@ -18,24 +12,24 @@ Instead of always saying:
 
 Use:
 
-* I'd say...
-* Personally speaking,...
-* From my perspective,...
-* As far as I'm concerned,...
-* If you ask me,...
-* In my opinion,...
-* To me,...
+- I'd say...
+- Personally speaking,...
+- From my perspective,...
+- As far as I'm concerned,...
+- If you ask me,...
+- In my opinion,...
+- To me,...
 
 ---
 
 ### 2. Giving reasons
 
-* The main reason is that...
-* One of the biggest reasons is...
-* This is mainly because...
-* That's largely due to...
-* One factor is...
-* What matters most is...
+- The main reason is that...
+- One of the biggest reasons is...
+- This is mainly because...
+- That's largely due to...
+- One factor is...
+- What matters most is...
 
 ---
 
@@ -47,47 +41,47 @@ Instead of
 
 Use
 
-* Take myself as an example.
-* A good example would be...
-* This happened to me when...
-* I remember one occasion when...
-* One experience that comes to mind is...
+- Take myself as an example.
+- A good example would be...
+- This happened to me when...
+- I remember one occasion when...
+- One experience that comes to mind is...
 
 ---
 
 ### 4. Adding another point
 
-* Besides that,...
-* On top of that,...
-* Another reason is...
-* What's more,...
-* More importantly,...
+- Besides that,...
+- On top of that,...
+- Another reason is...
+- What's more,...
+- More importantly,...
 
 ---
 
 ### 5. Contrasting
 
-* However,...
-* On the other hand,...
-* In contrast,...
-* That being said,...
-* Although...
-* While it's true that...
-* It largely depends on...
+- However,...
+- On the other hand,...
+- In contrast,...
+- That being said,...
+- Although...
+- While it's true that...
+- It largely depends on...
 
 ---
 
 ### 6. Ending an answer
 
-* So that's why...
-* Overall,...
-* That's probably the biggest reason.
-* For that reason,...
-* That's how I see it.
+- So that's why...
+- Overall,...
+- That's probably the biggest reason.
+- For that reason,...
+- That's how I see it.
 
 ---
 
-# Section 2 — Vocabulary Upgrade
+## Section 2 — Vocabulary Upgrade
 
 This replaces words you overuse.
 
@@ -110,7 +104,7 @@ This replaces words you overuse.
 
 ---
 
-# Section 3 — My Personal Grammar Mistakes
+## Section 3 — My Personal Grammar Mistakes
 
 This is probably the most important section.
 
@@ -140,7 +134,7 @@ Every day, review this page for **2 minutes**.
 
 ---
 
-# Section 4 — My Best Sentences ⭐
+## Section 4 — My Best Sentences ⭐
 
 This is something most IELTS books never tell you to do.
 
@@ -162,19 +156,19 @@ After 20 days, you'll have around **100 sentences that you produced yourself**, 
 
 ---
 
-# Section 5 — Fillers I Want to Eliminate
+## Section 5 — Fillers I Want to Eliminate
 
 Today's list:
 
-* maybe
-* people
-* I think
+- maybe
+- people
+- I think
 
 Every day we'll replace one of them.
 
 ---
 
-# Section 6 — Story Bank
+## Section 6 — Story Bank
 
 Your six Part 2 stories.
 
@@ -204,7 +198,7 @@ Only keywords.
 
 ---
 
-# Section 7 — Daily Reflection (2 minutes)
+## Section 7 — Daily Reflection (2 minutes)
 
 After each practice, answer these five questions:
 
@@ -216,7 +210,7 @@ After each practice, answer these five questions:
 
 ---
 
-# ⭐ My New Goal for You
+## ⭐ My New Goal for You
 
 After listening to today's speaking test, I don't think your target should simply be **Band 7** anymore.
 
@@ -224,16 +218,16 @@ I think we should aim for **Band 7.5 fluency**, because that's where your bigges
 
 Your revised priorities would be:
 
-* **Fluency & Coherence:** **70%** of our effort (thinking in English, reducing pauses, developing answers)
-* **Grammar:** **15%** (fixing recurring errors)
-* **Lexical Resource:** **10%** (replacing repetitive words and adding natural collocations)
-* **Pronunciation:** **5%** (maintaining clarity and improving rhythm)
+- **Fluency & Coherence:** **70%** of our effort (thinking in English, reducing pauses, developing answers)
+- **Grammar:** **15%** (fixing recurring errors)
+- **Lexical Resource:** **10%** (replacing repetitive words and adding natural collocations)
+- **Pronunciation:** **5%** (maintaining clarity and improving rhythm)
 
 This is a little unconventional, but it's tailored to **your** speaking profile rather than a generic IELTS plan.
 
 ---
 
-## One final suggestion
+### One final suggestion
 
 From tomorrow onwards, let's keep a **Band Tracker** after every speaking session:
 
@@ -255,13 +249,13 @@ I listened to **your actual answers**, so these are expressions **you can genuin
 
 ---
 
-# ⭐ Band 7 Toolbox (Based on Your Day 1 Answers)
+## ⭐ Band 7 Toolbox (Based on Your Day 1 Answers)
 
-## 1. Extend your answer
+### 1. Extend your answer
 
 Instead of stopping after one reason.
 
-### On top of that,...
+#### On top of that,...
 
 > I enjoy solving technical problems. **On top of that,** I love seeing my ideas become real products.
 
@@ -271,25 +265,25 @@ Instead of stopping after one reason.
 
 ---
 
-### Besides that,...
+#### Besides that,...
 
 > AI tools improve my productivity. **Besides that,** they allow me to spend more time on creative work.
 
 ---
 
-### More importantly,...
+#### More importantly,...
 
 > Freelancing gives me the freedom to travel. **More importantly,** it allows me to choose projects that genuinely interest me.
 
 ---
 
-### What's more,...
+#### What's more,...
 
 > Exercise keeps me physically healthy. **What's more,** it also improves my mental health.
 
 ---
 
-# 2. Give a balanced opinion
+### 2. Give a balanced opinion
 
 You already like saying "It depends."
 
@@ -297,7 +291,7 @@ Let's make it sound Band 7.
 
 ---
 
-### While it's true that...
+#### While it's true that...
 
 > **While it's true that** salary is important, job satisfaction matters just as much.
 
@@ -313,25 +307,25 @@ Let's make it sound Band 7.
 
 ---
 
-### That being said,...
+#### That being said,...
 
 > AI has changed the software industry dramatically. **That being said,** I still believe experienced engineers will remain valuable.
 
 ---
 
-### On the other hand,...
+#### On the other hand,...
 
 > I enjoy working remotely. **On the other hand,** I still like meeting my teammates in person occasionally.
 
 ---
 
-# 3. Add conditions (My favorite)
+### 3. Add conditions (My favorite)
 
 This is something you rarely used today.
 
 ---
 
-### As long as...
+#### As long as...
 
 > I'd be happy to change careers **as long as** I could continue learning new skills.
 
@@ -349,97 +343,97 @@ This is something you rarely used today.
 
 ---
 
-# 4. Show contrast
+### 4. Show contrast
 
 Instead of always using "but".
 
 ---
 
-### However,...
+#### However,...
 
 > I enjoy programming. **However,** I don't want to spend my entire life doing repetitive tasks.
 
 ---
 
-### In contrast,...
+#### In contrast,...
 
 > Some people work only for money. **In contrast,** I care more about personal growth.
 
 ---
 
-### Whereas...
+#### Whereas...
 
 > I prefer working in the evening, **whereas** many of my friends are early birds.
 
 ---
 
-# 5. Give examples
+### 5. Give examples
 
 Today your Part 3 answers lacked examples.
 
 ---
 
-### Take myself as an example.
+#### Take myself as an example.
 
 > **Take myself as an example.** I chose software engineering because I genuinely enjoy building products.
 
 ---
 
-### For instance,...
+#### For instance,...
 
 > **For instance,** AI tools have significantly improved my productivity at work.
 
 ---
 
-### A good example would be...
+#### A good example would be...
 
 > **A good example would be** software engineering, where many people are attracted by the high salary.
 
 ---
 
-### One experience that comes to mind is...
+#### One experience that comes to mind is...
 
 > **One experience that comes to mind is** when I first attended a BodyCombat class at university.
 
 ---
 
-# 6. Finish naturally
+### 6. Finish naturally
 
 Instead of ending suddenly.
 
 ---
 
-### So that's why...
+#### So that's why...
 
 > **So that's why** I still enjoy software engineering after eight years.
 
 ---
 
-### Overall,...
+#### Overall,...
 
 > **Overall,** I'd still choose technology as my career.
 
 ---
 
-### That's probably the biggest reason.
+#### That's probably the biggest reason.
 
 > **That's probably the biggest reason** why I enjoy exercising so much.
 
 ---
 
-### That's how I see it.
+#### That's how I see it.
 
 > Parents should give advice rather than make decisions. **That's how I see it.**
 
 ---
 
-# 7. Complex sentences (Grammar Upgrade)
+### 7. Complex sentences (Grammar Upgrade)
 
 These immediately make your grammar sound more advanced.
 
 ---
 
-### Even though...
+#### Even though...
 
 > **Even though** I was laid off recently, I'm optimistic about finding a better opportunity.
 
@@ -449,19 +443,19 @@ These immediately make your grammar sound more advanced.
 
 ---
 
-### Although...
+#### Although...
 
 > **Although** freelancing can be risky, I'd still like to try it in the future.
 
 ---
 
-### As long as...
+#### As long as...
 
 > I'd be willing to accept a lower salary **as long as** I enjoyed my work.
 
 ---
 
-### Rather than...
+#### Rather than...
 
 > I'd rather focus on meaningful work **rather than** simply earning a higher salary.
 
@@ -469,7 +463,7 @@ These immediately make your grammar sound more advanced.
 
 ---
 
-# ⭐ Three New Expressions Just for You
+## ⭐ Three New Expressions Just for You
 
 Based on your speaking today, I'd add these because they match your personality and topics.
 
@@ -509,23 +503,22 @@ Say:
 
 ---
 
-# ⭐ Challenge for Day 2
+## ⭐ Challenge for Day 2
 
 During tomorrow's speaking practice, don't worry about learning new vocabulary. Instead, challenge yourself to use these **10 phrases** naturally:
 
-* On top of that...
-* More importantly...
-* While it's true that...
-* That being said...
-* As long as...
-* Take myself as an example...
-* Even though...
-* Rather than...
-* What appeals to me most is...
-* Overall...
+- On top of that...
+- More importantly...
+- While it's true that...
+- That being said...
+- As long as...
+- Take myself as an example...
+- Even though...
+- Rather than...
+- What appeals to me most is...
+- Overall...
 
 If you can use these expressions naturally, your speaking will sound noticeably more coherent and mature, which is exactly what IELTS examiners look for in **Band 7 Fluency & Coherence**. I think these will have a much bigger impact on your score than memorizing difficult vocabulary.
-
 
 ---
 
@@ -542,12 +535,15 @@ If you can use these expressions naturally, your speaking will sound noticeably 
 ## ✅ What I Did Today
 
 ### Part 1
+
 Topics practised:
+
 - Morning Time
 - Work or Studies
 - Hobby
 
 ### Band 7 Toolbox Used
+
 - Personally speaking,...
 - On top of that,...
 - As long as...
@@ -561,6 +557,7 @@ Topics practised:
 **Topic:** Describe a friend who has influenced you.
 
 **Who**
+
 - Stella
 - Former colleague
 - Met after moving to Beijing
@@ -569,12 +566,14 @@ Topics practised:
 - Travelled to Malaysia together
 
 **Personality**
+
 - Extroverted
 - Open-minded
 - Thoughtful
 - Positive mindset
 
 **Main Event**
+
 - Bought lottery tickets in Malaysia
 - Neither of us won
 - I felt disappointed
@@ -582,6 +581,7 @@ Topics practised:
 - Everyone laughed and my disappointment disappeared.
 
 **Reflection**
+
 - She always sees the positive side.
 - She inspires me to stay optimistic when facing difficulties.
 - Spending time with her has helped me become more proactive and courageous.
@@ -629,9 +629,9 @@ Instead of...
 
 ---
 
-# ⭐ Expressions to Master (Priority)
+## ⭐ Expressions to Master (Priority)
 
-## 1. What appeals to me most is...
+### 1. What appeals to me most is...
 
 Use when explaining preferences.
 
@@ -640,7 +640,7 @@ Example:
 
 ---
 
-## 2. One thing I really appreciate is...
+### 2. One thing I really appreciate is...
 
 Use when describing people or things you admire.
 
@@ -649,7 +649,7 @@ Example:
 
 ---
 
-## 3. That being said...
+### 3. That being said...
 
 Use after presenting your main opinion, then add a balanced point.
 
@@ -663,7 +663,7 @@ Example:
 
 ---
 
-## 4. Rather than...
+### 4. Rather than...
 
 Use to express preference, NOT like "however".
 
@@ -675,7 +675,7 @@ Example:
 
 ---
 
-## 5. Even though...
+### 5. Even though...
 
 Pattern:
 Even though + difficulty, result.
@@ -685,7 +685,7 @@ Example:
 
 ---
 
-## 6. ... can be viewed from a different perspective
+### 6. ... can be viewed from a different perspective
 
 Use this when explaining how someone changed your mindset or helped you see a situation differently.
 
@@ -728,20 +728,20 @@ More examples:
 
 Topics practised:
 
-* Food
-* Walking
-* Pets & Animals
+- Food
+- Walking
+- Pets & Animals
 
 ### Band 7 Toolbox Used
 
-* What stands out most about...
-* Take ... as an example.
-* Thanks to...
-* Personally speaking,...
-* On the other hand,...
-* What I admire most is...
-* Spending time with her has taught me...
-* Things don't go as planned.
+- What stands out most about...
+- Take ... as an example.
+- Thanks to...
+- Personally speaking,...
+- On the other hand,...
+- What I admire most is...
+- Spending time with her has taught me...
+- Things don't go as planned.
 
 ---
 
@@ -753,12 +753,12 @@ Topics practised:
 
 **Focus**
 
-* Stella always plans well in advance.
-* Started planning the Malaysia trip six months ahead.
-* Booked flights and hotels early.
-* Prepared a detailed itinerary.
-* Saved money.
-* Trip went smoothly.
+- Stella always plans well in advance.
+- Started planning the Malaysia trip six months ahead.
+- Booked flights and hotels early.
+- Prepared a detailed itinerary.
+- Saved money.
+- Trip went smoothly.
 
 ---
 
@@ -768,12 +768,12 @@ Topics practised:
 
 **Focus**
 
-* Creative mindset.
-* Looked at disappointment differently.
-* Lottery story.
-* "We're just buying back our luck."
-* Changed the atmosphere immediately.
-* Creativity is reflected in her way of thinking.
+- Creative mindset.
+- Looked at disappointment differently.
+- Lottery story.
+- "We're just buying back our luck."
+- Changed the atmosphere immediately.
+- Creativity is reflected in her way of thinking.
 
 ---
 
@@ -783,12 +783,12 @@ Topics practised:
 
 **Focus**
 
-* Hardworking.
-* Reliable.
-* Positive attitude.
-* Gives her best at work.
-* Inspires people around her.
-* Taught me to stay proactive and optimistic.
+- Hardworking.
+- Reliable.
+- Positive attitude.
+- Gives her best at work.
+- Inspires people around her.
+- Taught me to stay proactive and optimistic.
 
 ---
 
@@ -832,18 +832,18 @@ Topics practised:
 
 Instead of...
 
-* best friends → close friends
-* same opinions → share similar views
-* booked flight tickets → booked our flights
-* disappointed about that → disappointed that we didn't win
-* capability → ability
-* creative way to view → creative way of looking at
+- best friends → close friends
+- same opinions → share similar views
+- booked flight tickets → booked our flights
+- disappointed about that → disappointed that we didn't win
+- capability → ability
+- creative way to view → creative way of looking at
 
 ---
 
-# ⭐ Expressions to Master (Priority)
+## ⭐ Expressions to Master (Priority)
 
-## 1. What stands out most about...
+### 1. What stands out most about...
 
 Use this when introducing someone's strongest quality.
 
@@ -853,7 +853,7 @@ Example:
 
 ---
 
-## 2. Thanks to...
+### 2. Thanks to...
 
 Use this to explain positive results.
 
@@ -863,7 +863,7 @@ Example:
 
 ---
 
-## 3. Plan well in advance
+### 3. Plan well in advance
 
 Use this when describing organised people.
 
@@ -873,7 +873,7 @@ Example:
 
 ---
 
-## 4. Have a lot in common
+### 4. Have a lot in common
 
 Use this when talking about friends.
 
@@ -883,7 +883,7 @@ Example:
 
 ---
 
-## 5. Look at things from a different perspective
+### 5. Look at things from a different perspective
 
 Use this when describing positive or creative people.
 
@@ -893,7 +893,7 @@ Example:
 
 ---
 
-## 6. Lighten the mood
+### 6. Lighten the mood
 
 Use this instead of "make the atmosphere better."
 
@@ -903,7 +903,7 @@ Example:
 
 ---
 
-## 7. Keep everyone's spirits up
+### 7. Keep everyone's spirits up
 
 A more natural way to describe someone who encourages others.
 
@@ -915,11 +915,11 @@ Example:
 
 ## 🎯 Focus for Day 4
 
-* Reduce tense mistakes when telling stories.
-* Replace Chinese-style expressions with natural collocations.
-* Avoid repeating **"That's why..."** too often.
-* Continue ending Part 2 answers with a personal reflection.
-* Reuse the same story for different cue cards without memorising scripts.
+- Reduce tense mistakes when telling stories.
+- Replace Chinese-style expressions with natural collocations.
+- Avoid repeating **"That's why..."** too often.
+- Continue ending Part 2 answers with a personal reflection.
+- Reuse the same story for different cue cards without memorising scripts.
 
 ---
 
@@ -927,9 +927,9 @@ Example:
 
 Today was the first time you successfully **reused one real story to answer three completely different Part 2 topics**:
 
-* Organized person ✅
-* Creative person ✅
-* Friend I'm proud of ✅
+- Organized person ✅
+- Creative person ✅
+- Friend I'm proud of ✅
 
 This is exactly the skill that strong IELTS candidates use. Instead of memorizing dozens of answers, you're learning to **change the focus while keeping the same authentic experience**, making your speaking sound much more natural and flexible.
 
@@ -943,24 +943,22 @@ This is exactly the skill that strong IELTS candidates use. Instead of memorizin
 
 例如今天的：
 
-* bring back happy memories
-* clear my head
-* help me unwind
-* plan well in advance
-* months in advance
-* careful planning
-* detailed itinerary
-* share similar views
-* have a lot in common
-* look at things from a different perspective
-* things don't go as planned
-* lighten the mood
-* keep everyone's spirits up
-* put effort into one's work
+- bring back happy memories
+- clear my head
+- help me unwind
+- plan well in advance
+- months in advance
+- careful planning
+- detailed itinerary
+- share similar views
+- have a lot in common
+- look at things from a different perspective
+- things don't go as planned
+- lighten the mood
+- keep everyone's spirits up
+- put effort into one's work
 
 这些比背高级单词更有价值，也更符合你目前的提升阶段。
-
-
 
 # 📅 Day 4 Summary (Agnes)
 
@@ -975,12 +973,15 @@ This is exactly the skill that strong IELTS candidates use. Instead of memorizin
 ## ✅ What I Did Today
 
 ### Part 1
+
 Topics practised:
+
 - Reading
 - Typing
 - Writing
 
 ### Band 7 Toolbox Used
+
 - Personally speaking,...
 - On top of that,...
 - That being said,...
@@ -994,19 +995,23 @@ Topics practised:
 ## 📚 Story Bank 2
 
 ### Core Story
+
 **Book:** *Counselling for Toads: A Psychological Adventure*
 
 **Why I chose it**
+
 - Recommended online
 - Popular in bookstores
 - Wanted help understanding emotions
 
 **Main idea**
+
 - Mr. Toad struggles with depression
 - Therapist guides him through counselling
 - Learns to face rather than avoid emotions
 
 **Personal connection**
+
 - Read it after being laid off
 - Changed my perspective
 - Helped me deal with stress in a healthier way
@@ -1016,25 +1021,33 @@ Topics practised:
 ## 🔄 Story Migration
 
 ### 1. Useful Book
+
 Focus:
+
 - Why I chose it
 - Practical advice
 - Personal growth
 
 ### 2. Story I Read Recently
+
 Focus:
+
 - Mr. Toad's emotional journey
 - Therapist's approach
 - Lesson learned
 
 ### 3. Gift
+
 Focus:
+
 - Give it to Stella
 - Work pressure
 - Help her manage emotions
 
 ### 4. Important Life Lesson
+
 Focus:
+
 - Being laid off
 - Emotional resilience
 - Facing emotions instead of avoiding them
@@ -1435,21 +1448,21 @@ Your strongest improvement was not learning more vocabulary. It was learning how
 
 ---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Step 1 — Part 1 Warm-up
+### Step 1 — Part 1 Warm-up
 
 Topics practised:
 
-* Scenery / Views
-* Plants
-* Parks
+- Scenery / Views
+- Plants
+- Parks
 
 Main focus:
 
-* Give direct answers
-* Add reasons naturally
-* Connect answers with personal experiences
+- Give direct answers
+- Add reasons naturally
+- Connect answers with personal experiences
 
 ---
 
@@ -1469,21 +1482,21 @@ Main focus:
 
 ---
 
-# 📚 Story Bank 3 — Malaysia Trip (Further Migration)
+## 📚 Story Bank 3 — Malaysia Trip (Further Migration)
 
 Today the Malaysia story was expanded and adapted into more IELTS topics.
 
 ---
 
-## 1. Describe a trip you enjoyed
+### 1. Describe a trip you enjoyed
 
 ### Focus:
 
-* Malaysia trip with Stella
-* Car journey
-* Getting lost unexpectedly
-* Hidden garden discovery
-* Positive attitude
+- Malaysia trip with Stella
+- Car journey
+- Getting lost unexpectedly
+- Hidden garden discovery
+- Positive attitude
 
 Key lesson:
 
@@ -1491,15 +1504,15 @@ Key lesson:
 
 ---
 
-## 2. Describe a problem you solved
+### 2. Describe a problem you solved
 
 ### Focus:
 
-* Navigation lost signal
-* Wrong route
-* Got lost in mountains
-* Asked tourists for directions
-* Successfully reached the temple
+- Navigation lost signal
+- Wrong route
+- Got lost in mountains
+- Asked tourists for directions
+- Successfully reached the temple
 
 Structure:
 
@@ -1507,33 +1520,33 @@ Structure:
 
 ---
 
-## 3. Describe a place with beautiful views
+### 3. Describe a place with beautiful views
 
 ### Focus:
 
-* Semporna scenery
-* Ocean and mountains
-* Freediving experience
-* Coral reefs and fish
-* Lush green mountains
-* Vibrant flowers
+- Semporna scenery
+- Ocean and mountains
+- Freediving experience
+- Coral reefs and fish
+- Lush green mountains
+- Vibrant flowers
 
 ---
 
-## 4. Describe a short stay abroad
+### 4. Describe a short stay abroad
 
 ### Focus:
 
-* One-week stay in Malaysia
-* Different environment
-* Local food
-* Freediving experience
-* Broadened horizons
-* Stepped away from daily routine
+- One-week stay in Malaysia
+- Different environment
+- Local food
+- Freediving experience
+- Broadened horizons
+- Stepped away from daily routine
 
 ---
 
-# ⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
 > One experience that comes to my mind is a trip to Malaysia with one of my best friends, Stella, last year.
 
@@ -1549,9 +1562,9 @@ Structure:
 
 ---
 
-# 🔧 Three Priority Grammar Mistakes
+## 🔧 Three Priority Grammar Mistakes
 
-## 1. Past tense consistency
+### 1. Past tense consistency
 
 ❌ We drive there by car.
 
@@ -1559,7 +1572,7 @@ Structure:
 
 ---
 
-## 2. Correct verb form after "help"
+### 2. Correct verb form after "help"
 
 ❌ It helped me to recharge myself by stepping away from routine to make my life beyond work.
 
@@ -1567,7 +1580,7 @@ Structure:
 
 ---
 
-## 3. Natural adjective + noun combinations
+### 3. Natural adjective + noun combinations
 
 ❌ a cozy / peaceful atmosphere at all
 
@@ -1575,7 +1588,7 @@ Structure:
 
 ---
 
-# 🚀 Vocabulary Upgrade
+## 🚀 Vocabulary Upgrade
 
 | Instead of               | Use                                 |
 | ------------------------ | ----------------------------------- |
@@ -1590,9 +1603,9 @@ Structure:
 
 ---
 
-# ⭐ New Expression Added
+## ⭐ New Expression Added
 
-## distinctive ⭐
+### distinctive ⭐
 
 Meaning:
 
@@ -1606,35 +1619,35 @@ Examples:
 
 Possible topics:
 
-* Tourism
-* Cities
-* Products
-* Businesses
-* Culture
+- Tourism
+- Cities
+- Products
+- Businesses
+- Culture
 
 ---
 
-# ⭐ Native Collocations of the Day
+## ⭐ Native Collocations of the Day
 
-* tourist destination
-* at our own pace
-* take a break from my routine
-* explore new experiences
-* broaden my horizons
-* step away from daily life
-* colourful coral reefs
-* fish swimming around me
-* lush green plants
-* vibrant flowers
-* create a peaceful atmosphere
-* unexpected adventure
-* turn challenges into memorable experiences
-* distinctive tourism experience
-* local natural resources
+- tourist destination
+- at our own pace
+- take a break from my routine
+- explore new experiences
+- broaden my horizons
+- step away from daily life
+- colourful coral reefs
+- fish swimming around me
+- lush green plants
+- vibrant flowers
+- create a peaceful atmosphere
+- unexpected adventure
+- turn challenges into memorable experiences
+- distinctive tourism experience
+- local natural resources
 
 ---
 
-# 🗣️ Part 3 Practice Completed
+## 🗣️ Part 3 Practice Completed
 
 Questions practised:
 
@@ -1648,26 +1661,26 @@ Questions practised:
 
 ---
 
-# 🎯 Focus for Day 8
+## 🎯 Focus for Day 8
 
-* Build Story 4: Advice / Helping Others
-* Continue using:
+- Build Story 4: Advice / Helping Others
+- Continue using:
 
-  * Opinion → Reason → Example → Reflection
-* Improve:
+  - Opinion → Reason → Example → Reflection
+- Improve:
 
-  * Sentence completion
-  * Grammar accuracy
-  * Natural transitions
-* Reduce repeated fillers:
+  - Sentence completion
+  - Grammar accuracy
+  - Natural transitions
+- Reduce repeated fillers:
 
-  * "I think"
-  * "people"
-  * "sort of"
+  - "I think"
+  - "people"
+  - "sort of"
 
 ---
 
-# ⭐ Today’s Biggest Improvement
+## ⭐ Today’s Biggest Improvement
 
 Today you achieved an important milestone:
 
@@ -1702,28 +1715,28 @@ Your biggest improvement was not vocabulary. It was **story control and flexibil
 
 Topics practised:
 
-* Rules
-* Having a Break
-* Public Places
-* Teachers
+- Rules
+- Having a Break
+- Public Places
+- Teachers
 
 Main focus:
 
-* Give a direct answer first
-* Add one or two clear reasons
-* Use personal examples
-* Finish answers without restarting
+- Give a direct answer first
+- Add one or two clear reasons
+- Use personal examples
+- Finish answers without restarting
 
 Useful expressions used:
 
-* Personally speaking,...
-* Take ... as an example.
-* That being said,...
-* On top of that,...
-* unwind and recharge
-* create a peaceful atmosphere
-* tackle challenges
-* the essence of learning
+- Personally speaking,...
+- Take ... as an example.
+- That being said,...
+- On top of that,...
+- unwind and recharge
+- create a peaceful atmosphere
+- tackle challenges
+- the essence of learning
 
 ---
 
@@ -1733,40 +1746,40 @@ Useful expressions used:
 
 **Who**
 
-* Stella
-* One of my closest friends
-* Former colleague
-* Still working at my previous company
+- Stella
+- One of my closest friends
+- Former colleague
+- Still working at my previous company
 
 **Background**
 
-* The company underwent massive layoffs
-* Many employees left
-* Stella had to take on a heavier workload
-* She faced tighter deadlines than before
+- The company underwent massive layoffs
+- Many employees left
+- Stella had to take on a heavier workload
+- She faced tighter deadlines than before
 
 **Problem**
 
-* Felt overwhelmed and burned out
-* Gradually lost motivation
-* Became impatient and easily frustrated
-* Sometimes blamed others when things did not go as planned
+- Felt overwhelmed and burned out
+- Gradually lost motivation
+- Became impatient and easily frustrated
+- Sometimes blamed others when things did not go as planned
 
 **What I did**
 
-* Listened carefully before giving advice
-* Tried to understand her emotions
-* Recommended *Counselling for Toads: A Psychological Adventure*
-* Encouraged her to face negative emotions rather than avoid them
-* Suggested breaking problems into smaller steps
-* Encouraged her to build a healthier routine and make time to relax
+- Listened carefully before giving advice
+- Tried to understand her emotions
+- Recommended *Counselling for Toads: A Psychological Adventure*
+- Encouraged her to face negative emotions rather than avoid them
+- Suggested breaking problems into smaller steps
+- Encouraged her to build a healthier routine and make time to relax
 
 **Result**
 
-* Became calmer
-* Started getting up earlier
-* Made more time to relax
-* Looked at her situation from a different perspective
+- Became calmer
+- Started getting up earlier
+- Made more time to relax
+- Looked at her situation from a different perspective
 
 **Reflection**
 
@@ -1780,27 +1793,27 @@ Useful expressions used:
 
 Focus:
 
-* Stella's work pressure
-* Recommended the book
-* Face emotions instead of avoiding them
-* Build a healthier lifestyle
+- Stella's work pressure
+- Recommended the book
+- Face emotions instead of avoiding them
+- Build a healthier lifestyle
 
 ### 2. Describe a time when you helped someone solve a problem
 
 Focus:
 
-* Problem: burnout and work stress
-* Process: listen → understand → suggest → support
-* Result: healthier habits and a calmer mindset
+- Problem: burnout and work stress
+- Process: listen → understand → suggest → support
+- Result: healthier habits and a calmer mindset
 
 ### 3. Describe an important conversation you had
 
 Focus:
 
-* Long and meaningful conversation with Stella
-* Emotional support
-* Shared personal experience after being laid off
-* Helped her reinterpret the situation
+- Long and meaningful conversation with Stella
+- Emotional support
+- Shared personal experience after being laid off
+- Helped her reinterpret the situation
 
 ---
 
@@ -1808,32 +1821,32 @@ Focus:
 
 **Background**
 
-* Laid off about one month ago
-* Worked as a software engineer for around eight years
-* Layoff happened suddenly
-* Felt frustrated and questioned my abilities
+- Laid off about one month ago
+- Worked as a software engineer for around eight years
+- Layoff happened suddenly
+- Felt frustrated and questioned my abilities
 
 **Turning point**
 
-* Remembered the ideas from *Counselling for Toads*
-* Realised that avoiding negative emotions would not solve the problem
-* Understood that I could not control what had happened, but I could control my response
+- Remembered the ideas from *Counselling for Toads*
+- Realised that avoiding negative emotions would not solve the problem
+- Understood that I could not control what had happened, but I could control my response
 
 **Decision**
 
-* Stop dwelling on frustration
-* Take control of my life
-* Focus on personal growth
-* Rebuild confidence
-* Prepare for future opportunities
+- Stop dwelling on frustration
+- Take control of my life
+- Focus on personal growth
+- Rebuild confidence
+- Prepare for future opportunities
 
 **Actions and result**
 
-* Started getting up earlier
-* Built a healthier routine
-* Spent more time learning new skills
-* Became more optimistic about future challenges
-* Viewed the layoff as an opportunity to reflect and grow
+- Started getting up earlier
+- Built a healthier routine
+- Spent more time learning new skills
+- Became more optimistic about future challenges
+- Viewed the layoff as an opportunity to reflect and grow
 
 **Best reflection**
 
@@ -1841,10 +1854,10 @@ Focus:
 
 **Covers**
 
-* Important Decision
-* Difficult Experience
-* Life Change
-* Personal Growth
+- Important Decision
+- Difficult Experience
+- Life Change
+- Personal Growth
 
 ---
 
@@ -1887,8 +1900,8 @@ Focus:
 
 Remember:
 
-* **burnout** = noun
-* **burned out** = adjective
+- **burnout** = noun
+- **burned out** = adjective
 
 ---
 
@@ -1917,22 +1930,22 @@ Remember:
 
 ## ⭐ Expressions to Master
 
-* be under a lot of pressure
-* take on a heavier workload
-* feel overwhelmed by something
-* feel burned out
-* go through a difficult period
-* genuinely listen to someone
-* break a problem into smaller steps
-* deal with problems step by step
-* step out of one's comfort zone
-* impose opinions on someone
-* offer guidance
-* extensive life experience
-* practical advice
-* compromise personal privacy
-* take control of my life
-* look at things from a different perspective
+- be under a lot of pressure
+- take on a heavier workload
+- feel overwhelmed by something
+- feel burned out
+- go through a difficult period
+- genuinely listen to someone
+- break a problem into smaller steps
+- deal with problems step by step
+- step out of one's comfort zone
+- impose opinions on someone
+- offer guidance
+- extensive life experience
+- practical advice
+- compromise personal privacy
+- take control of my life
+- look at things from a different perspective
 
 ---
 
@@ -1950,25 +1963,25 @@ Remember:
 
 ## ⭐ Native Collocations of the Day
 
-* work-related stress
-* massive layoffs
-* heavier workload
-* tight deadlines
-* lose motivation
-* feel overwhelmed
-* feel burned out
-* meaningful conversation
-* emotional support
-* practical advice
-* privacy risks
-* compromise personal privacy
-* resist change
-* step out of one's comfort zone
-* impose opinions on children
-* valuable life experience
-* take control of one's life
-* focus on personal growth
-* future opportunities
+- work-related stress
+- massive layoffs
+- heavier workload
+- tight deadlines
+- lose motivation
+- feel overwhelmed
+- feel burned out
+- meaningful conversation
+- emotional support
+- practical advice
+- privacy risks
+- compromise personal privacy
+- resist change
+- step out of one's comfort zone
+- impose opinions on children
+- valuable life experience
+- take control of one's life
+- focus on personal growth
+- future opportunities
 
 ---
 
@@ -1978,25 +1991,25 @@ According to the plan, Day 9 will focus on:
 
 ### Part 1
 
-* Home / Accommodation
-* Hometown
-* Housework
-* Tidiness
+- Home / Accommodation
+- Hometown
+- Housework
+- Tidiness
 
 ### Story development
 
-* Family Treasure
-* Proud of a Family Member
-* Place to Relax at Home
-* Birthday Celebration
+- Family Treasure
+- Proud of a Family Member
+- Place to Relax at Home
+- Birthday Celebration
 
 Main improvement priorities:
 
-* Keep past and present tenses consistent
-* Complete one sentence before adding another idea
-* Reduce repeated words and self-correction loops
-* Use shorter, more accurate sentences during spontaneous answers
-* Keep Part 3 answers within the structure: Opinion → Reason → Example → Balance
+- Keep past and present tenses consistent
+- Complete one sentence before adding another idea
+- Reduce repeated words and self-correction loops
+- Use shorter, more accurate sentences during spontaneous answers
+- Keep Part 3 answers within the structure: Opinion → Reason → Example → Balance
 
 ---
 
@@ -2010,8 +2023,6 @@ Your next milestone is to keep the same strong ideas while reducing repeated sta
 
 ---
 
-Based on your previous Day 1–8 notebook format and today’s practice, here is the **Day 9 Summary**. I kept the same structure: Band Tracker → What I Did → Story Bank → Best Sentences → Grammar → Vocabulary → Expressions → Focus. Previous records also emphasised story migration and reusable collocations, so I continued that format. 
-
 # 📅 Day 9 Summary (Agnes)
 
 ## 🎯 Band Tracker
@@ -2024,185 +2035,185 @@ Based on your previous Day 1–8 notebook format and today’s practice, here is
 
 ---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Part 1
+### Part 1
 
 Topics practised:
 
-* Home / Accommodation
-* Hometown
-* Housework
-* Tidiness
+- Home / Accommodation
+- Hometown
+- Housework
+- Tidiness
 
 Main focus:
 
-* Give direct answers first.
-* Add one personal detail.
-* Explain feelings or impact.
-* Avoid stopping after one sentence.
+- Give direct answers first.
+- Add one personal detail.
+- Explain feelings or impact.
+- Avoid stopping after one sentence.
 
 ---
 
-# ⭐ Part 1 Best Answers
+## ⭐ Part 1 Best Answers
 
-## Home / Accommodation
+### Home / Accommodation
 
 > I currently live in an apartment. I moved in about a year ago, and one thing that really appeals to me is that it faces south. Thanks to that, I get plenty of sunlight in the living room, which creates a peaceful atmosphere.
 
 Key expressions:
 
-* one thing that really appeals to me is...
-* get plenty of sunlight
-* create a peaceful atmosphere
+- one thing that really appeals to me is...
+- get plenty of sunlight
+- create a peaceful atmosphere
 
 ---
 
-## Hometown
+### Hometown
 
 > Personally speaking, what I love most about my hometown are the lush coconut trees along the coastline. With their big green leaves and clusters of coconuts, walking under them with the sea breeze always helps me feel refreshed and at peace.
 
 Key expressions:
 
-* lush green plants
-* along the coastline
-* feel refreshed and at peace
+- lush green plants
+- along the coastline
+- feel refreshed and at peace
 
 ---
 
-## Housework
+### Housework
 
 > Personally speaking, I usually handle cooking at home. Especially after I was laid off, I started cooking dinner every evening. It has become a new hobby because I enjoy finding recipes online and turning them into actual dishes.
 
 Key expressions:
 
-* develop a new hobby
-* turn something into reality
-* fun and fulfilling
+- develop a new hobby
+- turn something into reality
+- fun and fulfilling
 
 ---
 
-## Tidiness
+### Tidiness
 
 > Personally speaking, I clean my apartment once a week to keep it tidy and organized. Every Saturday night, I sweep and mop the floor because living in a clean environment helps me relax and unwind.
 
 Key expressions:
 
-* keep something tidy and organized
-* clean environment
-* relax and unwind
+- keep something tidy and organized
+- clean environment
+- relax and unwind
 
 ---
 
-# 📚 Story Bank 6 — Family Treasure / Family Relationship
+## 📚 Story Bank 6 — Family Treasure / Family Relationship
 
-## Core Story:
+### Core Story:
 
 **An essay about my mother written in primary school**
 
 ### Object
 
-* A handwritten essay
-* Written in primary school
-* About my mother
-* Kept by my family for almost two decades
+- A handwritten essay
+- Written in primary school
+- About my mother
+- Kept by my family for almost two decades
 
 ---
 
-## Background
+### Background
 
-* The essay did not receive a high grade.
-* It was only around B or B+.
-* However, my family still kept it carefully.
-
----
-
-## Why it matters
-
-* It captured my childhood thoughts and feelings.
-* It reminds me of my mother's support.
-* It represents my personal growth.
+- The essay did not receive a high grade.
+- It was only around B or B+.
+- However, my family still kept it carefully.
 
 ---
 
-## Main Memory
+### Why it matters
+
+- It captured my childhood thoughts and feelings.
+- It reminds me of my mother's support.
+- It represents my personal growth.
+
+---
+
+### Main Memory
 
 When I was in primary school:
 
-* I was quite introverted.
-* I found it difficult to open up to classmates.
-* I worried about other people's opinions.
+- I was quite introverted.
+- I found it difficult to open up to classmates.
+- I worried about other people's opinions.
 
 My mother:
 
-* listened carefully
-* did not criticise or blame me
-* gave practical advice based on her extensive life experience
-* encouraged me to share my thoughts
+- listened carefully
+- did not criticise or blame me
+- gave practical advice based on her extensive life experience
+- encouraged me to share my thoughts
 
 ---
 
-## Reflection
+### Reflection
 
 > I couldn't control what other people thought of me, but I learned that disagreement did not necessarily mean rejection.
 
 Impact:
 
-* became more confident
-* became more open-minded
-* became more willing to communicate with others
+- became more confident
+- became more open-minded
+- became more willing to communicate with others
 
 ---
 
-# 🔄 Story Migration Completed
+## 🔄 Story Migration Completed
 
-## 1. Family Treasure
+### 1. Family Treasure
 
 Focus:
 
-* The essay itself
-* Childhood memories
-* Emotional value
+- The essay itself
+- Childhood memories
+- Emotional value
 
 ---
 
-## 2. Proud of a Family Member
+### 2. Proud of a Family Member
 
 Focus:
 
-* Mother's patience
-* Emotional support
-* Practical advice
-* Positive influence
+- Mother's patience
+- Emotional support
+- Practical advice
+- Positive influence
 
 ---
 
-## 3. Place to Relax at Home
+### 3. Place to Relax at Home
 
 Story:
 **My apartment living room**
 
 Focus:
 
-* South-facing apartment
-* Comfortable sofa
-* Green plants on windowsill
-* Sunshine through the window
-* Peaceful atmosphere
+- South-facing apartment
+- Comfortable sofa
+- Green plants on windowsill
+- Sunshine through the window
+- Peaceful atmosphere
 
 ---
 
-## 4. Birthday Celebration
+### 4. Birthday Celebration
 
 Story:
 **Birthday celebration with Stella and another close friend**
 
 Focus:
 
-* Dinner together
-* Sharing memories
-* Malaysia lottery story
-* Stella's positive attitude
+- Dinner together
+- Sharing memories
+- Malaysia lottery story
+- Stella's positive attitude
 
 Reflection:
 
@@ -2210,45 +2221,45 @@ Reflection:
 
 ---
 
-# 🗣️ Part 3 Practice Completed
+## 🗣️ Part 3 Practice Completed
 
-## Question 1:
+### Question 1:
 
 **What things do families usually keep for a long time?**
 
 Main ideas:
 
-* Emotional value matters more than practical value.
-* Photos, letters and childhood objects preserve memories.
-* They remind people of important life periods.
+- Emotional value matters more than practical value.
+- Photos, letters and childhood objects preserve memories.
+- They remind people of important life periods.
 
 ---
 
-## Question 2:
+### Question 2:
 
 **Why do people value old family objects?**
 
 Main ideas:
 
-* They carry emotional memories.
-* They connect different generations.
-* They represent family relationships.
+- They carry emotional memories.
+- They connect different generations.
+- They represent family relationships.
 
 Example:
 
-* Old family photographs including grandparents, parents and children.
+- Old family photographs including grandparents, parents and children.
 
 ---
 
-## Question 3:
+### Question 3:
 
 **Why is it difficult for modern people to relax?**
 
 Main ideas:
 
-* Financial responsibilities.
-* Multiple roles in life.
-* Work pressure and job insecurity.
+- Financial responsibilities.
+- Multiple roles in life.
+- Work pressure and job insecurity.
 
 Useful idea:
 
@@ -2256,19 +2267,19 @@ Useful idea:
 
 ---
 
-## Question 4:
+### Question 4:
 
 **Should children help with housework?**
 
 Main ideas:
 
-* Builds responsibility.
-* Helps children understand family cooperation.
-* Develops independence.
+- Builds responsibility.
+- Helps children understand family cooperation.
+- Develops independence.
 
 ---
 
-# ⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
 > What makes me proud of her is not one big achievement, but the way she supported me when I was a child.
 
@@ -2286,9 +2297,9 @@ Main ideas:
 
 ---
 
-# 🔧 Three Grammar Mistakes
+## 🔧 Three Grammar Mistakes
 
-## 1. Verb tense after "after"
+### 1. Verb tense after "after"
 
 ❌ After I was being laid off...
 
@@ -2296,7 +2307,7 @@ Main ideas:
 
 ---
 
-## 2. Subject-verb agreement
+### 2. Subject-verb agreement
 
 ❌ Those things my family kept is a family treasure.
 
@@ -2304,7 +2315,7 @@ Main ideas:
 
 ---
 
-## 3. Natural verb pattern
+### 3. Natural verb pattern
 
 ❌ Helped me to improve my confidence.
 
@@ -2312,7 +2323,7 @@ Main ideas:
 
 ---
 
-# 🚀 Vocabulary Upgrade
+## 🚀 Vocabulary Upgrade
 
 | Instead of            | Use                           |
 | --------------------- | ----------------------------- |
@@ -2326,43 +2337,43 @@ Main ideas:
 
 ---
 
-# ⭐ Native Collocations of the Day
+## ⭐ Native Collocations of the Day
 
-* emotional value
-* childhood memories
-* bring back warm memories
-* capture childhood thoughts and feelings
-* keep something for decades
-* practical advice
-* extensive life experience
-* build confidence
-* open up to others
-* share similar opinions
-* look at things from a different perspective
-* peaceful atmosphere
-* unwind and recharge
-* take a break from my daily routine
-* financial responsibilities
-* juggle multiple roles
+- emotional value
+- childhood memories
+- bring back warm memories
+- capture childhood thoughts and feelings
+- keep something for decades
+- practical advice
+- extensive life experience
+- build confidence
+- open up to others
+- share similar opinions
+- look at things from a different perspective
+- peaceful atmosphere
+- unwind and recharge
+- take a break from my daily routine
+- financial responsibilities
+- juggle multiple roles
 
 ---
 
-# 🎯 Focus for Day 10
+## 🎯 Focus for Day 10
 
-* Continue improving spontaneous grammar accuracy.
-* Reduce repeated phrases such as:
+- Continue improving spontaneous grammar accuracy.
+- Reduce repeated phrases such as:
 
-  * "I think"
-  * "people"
-  * "and then"
-* Practise technology vocabulary and Story 5.
-* Keep using the structure:
+  - "I think"
+  - "people"
+  - "and then"
+- Practise technology vocabulary and Story 5.
+- Keep using the structure:
 
 Opinion → Reason → Example → Reflection
 
 ---
 
-# ⭐ Today's Biggest Improvement
+## ⭐ Today's Biggest Improvement
 
 Today you successfully completed another important milestone:
 
@@ -2379,7 +2390,6 @@ The biggest improvement was your ability to choose meaningful personal details i
 
 The next improvement target is making these strong ideas come out with fewer grammar corrections and smoother sentence endings.
 
-
 ---
 
 # 📅 Day 11 Summary (Agnes)
@@ -2394,23 +2404,23 @@ The next improvement target is making these strong ideas come out with fewer gra
 
 ---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Part 1
+### Part 1
 
 Topics practised:
 
-* Science
-* Space
-* Machines
-* Headphones
+- Science
+- Space
+- Machines
+- Headphones
 
 Main focus:
 
-* Give a direct answer first.
-* Add a clear reason.
-* Use personal examples.
-* Connect ideas with natural collocations.
+- Give a direct answer first.
+- Add a clear reason.
+- Use personal examples.
+- Connect ideas with natural collocations.
 
 ---
 
@@ -2422,9 +2432,9 @@ Main focus:
 
 Key expressions:
 
-* explore the unknown
-* expand human knowledge
-* spark my curiosity
+- explore the unknown
+- expand human knowledge
+- spark my curiosity
 
 ---
 
@@ -2434,9 +2444,9 @@ Key expressions:
 
 Key expressions:
 
-* be fascinated by...
-* the origin of the universe
-* continue to evolve
+- be fascinated by...
+- the origin of the universe
+- continue to evolve
 
 ---
 
@@ -2446,8 +2456,8 @@ Key expressions:
 
 Key expressions:
 
-* play an important role in...
-* significantly improve efficiency
+- play an important role in...
+- significantly improve efficiency
 
 ---
 
@@ -2457,119 +2467,119 @@ Key expressions:
 
 Key expressions:
 
-* block out background noise
-* stay focused on my tasks
+- block out background noise
+- stay focused on my tasks
 
 ---
 
-# 📚 Story Bank 7 — Medical Field Person
+## 📚 Story Bank 7 — Medical Field Person
 
-## Core Story
+### Core Story
 
 **Person:** Dr. Fan, my dentist
 
 ---
 
-## Background
+### Background
 
-* Had a toothache.
-* Booked an appointment to check my teeth.
-* Met Dr. Fan last week.
-* She created a treatment plan for my gum disease.
-* Recommended scaling and root planing, a deep cleaning procedure.
+- Had a toothache.
+- Booked an appointment to check my teeth.
+- Met Dr. Fan last week.
+- She created a treatment plan for my gum disease.
+- Recommended scaling and root planing, a deep cleaning procedure.
 
 ---
 
-## Main Event
+### Main Event
 
 During the procedure:
 
-* The treatment was quite painful.
-* I told her I felt uncomfortable.
-* She immediately stopped.
-* She patiently explained the process.
-* She waited until I felt comfortable before continuing.
+- The treatment was quite painful.
+- I told her I felt uncomfortable.
+- She immediately stopped.
+- She patiently explained the process.
+- She waited until I felt comfortable before continuing.
 
 ---
 
-## Personality
+### Personality
 
 What stands out most about Dr. Fan:
 
-* Strong sense of responsibility.
-* Professional.
-* Empathetic.
-* Patient with her patients.
+- Strong sense of responsibility.
+- Professional.
+- Empathetic.
+- Patient with her patients.
 
 ---
 
-## Reflection
+### Reflection
 
 > What I admire most about her is that even when she is under a lot of pressure, she can still remain patient and attentive to her patients.
 
 Key ideas:
 
-* Medical workers need both medical expertise and emotional support.
-* Good healthcare requires human connection.
+- Medical workers need both medical expertise and emotional support.
+- Good healthcare requires human connection.
 
 ---
 
-# 📚 Story Bank 8 — Business Person
+## 📚 Story Bank 8 — Business Person
 
-## Core Story
+### Core Story
 
 **Person:** Elon Musk
 
 ---
 
-## Background
+### Background
 
-* Famous entrepreneur in the 21st century.
-* Known for innovation and technology.
-
----
-
-## Main Event
-
-* Founded SpaceX.
-* Developed reusable rockets.
-* Turned an ambitious idea into reality.
-* Reduced the cost of space exploration.
+- Famous entrepreneur in the 21st century.
+- Known for innovation and technology.
 
 ---
 
-## Personality
+### Main Event
+
+- Founded SpaceX.
+- Developed reusable rockets.
+- Turned an ambitious idea into reality.
+- Reduced the cost of space exploration.
+
+---
+
+### Personality
 
 What stands out most:
 
-* Innovative mindset.
-* Willing to take calculated risks.
-* Persistent when facing difficulties.
+- Innovative mindset.
+- Willing to take calculated risks.
+- Persistent when facing difficulties.
 
 ---
 
-## Reflection
+### Reflection
 
 > His experience reminds me that failure is often an essential part of success.
 
 Key ideas:
 
-* Stay competitive.
-* Overcome difficulties.
-* Turn ideas into reality.
+- Stay competitive.
+- Overcome difficulties.
+- Turn ideas into reality.
 
 ---
 
-# 🗣️ Part 3 Practice Completed
+## 🗣️ Part 3 Practice Completed
 
-## 1. Will AI replace doctors in the future?
+### 1. Will AI replace doctors in the future?
 
 Main ideas:
 
-* AI cannot completely replace doctors.
-* Doctors provide medical expertise.
-* They also provide emotional support and human connection.
-* Complex situations require human judgement and adaptability.
+- AI cannot completely replace doctors.
+- Doctors provide medical expertise.
+- They also provide emotional support and human connection.
+- Complex situations require human judgement and adaptability.
 
 Best sentence:
 
@@ -2577,15 +2587,15 @@ Best sentence:
 
 ---
 
-## 2. Why do some people start their own business?
+### 2. Why do some people start their own business?
 
 Main ideas:
 
-* Turn ideas into reality.
-* Pursue personal growth.
-* Follow their passions.
-* Take calculated risks.
-* No guaranteed income.
+- Turn ideas into reality.
+- Pursue personal growth.
+- Follow their passions.
+- Take calculated risks.
+- No guaranteed income.
 
 Best sentence:
 
@@ -2593,14 +2603,14 @@ Best sentence:
 
 ---
 
-## 3. Should governments support innovation?
+### 3. Should governments support innovation?
 
 Main ideas:
 
-* Innovation plays an important role in economic development.
-* Government support encourages technological advancement.
-* Innovation can solve real-world problems.
-* It creates business opportunities.
+- Innovation plays an important role in economic development.
+- Government support encourages technological advancement.
+- Innovation can solve real-world problems.
+- It creates business opportunities.
 
 Best sentence:
 
@@ -2608,7 +2618,7 @@ Best sentence:
 
 ---
 
-# ⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
 > What appeals to me most is that science can expand human knowledge and spark my curiosity about the world around us.
 
@@ -2622,9 +2632,9 @@ Best sentence:
 
 ---
 
-# 🔧 Three Grammar Mistakes
+## 🔧 Three Grammar Mistakes
 
-## 1. Universe expression
+### 1. Universe expression
 
 ❌ understand how the universe performs
 
@@ -2632,7 +2642,7 @@ Best sentence:
 
 ---
 
-## 2. Responsibility
+### 2. Responsibility
 
 ❌ a sense of responsibilities
 
@@ -2640,7 +2650,7 @@ Best sentence:
 
 ---
 
-## 3. Business phrase
+### 3. Business phrase
 
 ❌ start one's own business is...
 
@@ -2648,47 +2658,47 @@ Best sentence:
 
 ---
 
-# 🚀 Native Collocations of the Day
+## 🚀 Native Collocations of the Day
 
-* spark my curiosity
-* explore the unknown
-* expand human knowledge
-* significantly improve efficiency
-* block out background noise
-* a strong sense of responsibility
-* work under pressure
-* medical expertise
-* provide emotional support
-* human connection
-* human judgement
-* where adaptability is needed
-* innovative mindset
-* take calculated risks
-* turn ideas into reality
-* stay competitive
-* solve real-world problems
-* create business opportunities
-
----
-
-# 🎯 Focus for Day 12
-
-* Continue Story Migration practice.
-* Build celebration and emotion-related stories.
-* Keep using:
-  * Opinion → Reason → Example → Reflection
-* Improve:
-  * sentence completion
-  * grammar stability
-  * natural transitions
+- spark my curiosity
+- explore the unknown
+- expand human knowledge
+- significantly improve efficiency
+- block out background noise
+- a strong sense of responsibility
+- work under pressure
+- medical expertise
+- provide emotional support
+- human connection
+- human judgement
+- where adaptability is needed
+- innovative mindset
+- take calculated risks
+- turn ideas into reality
+- stay competitive
+- solve real-world problems
+- create business opportunities
 
 ---
 
-# ⭐ Today’s Biggest Improvement
+## 🎯 Focus for Day 12
+
+- Continue Story Migration practice.
+- Build celebration and emotion-related stories.
+- Keep using:
+  - Opinion → Reason → Example → Reflection
+- Improve:
+  - sentence completion
+  - grammar stability
+  - natural transitions
+
+---
+
+## ⭐ Today’s Biggest Improvement
 
 Today you successfully expanded your story bank with two new high-value stories:
 
-✅ Medical Field Person → Dr. Fan  
+✅ Medical Field Person → Dr. Fan
 ✅ Business Person → Elon Musk
 
 More importantly, you continued practising the key IELTS skill developed throughout previous days:
@@ -2697,45 +2707,45 @@ More importantly, you continued practising the key IELTS skill developed through
 
 Your technology background, personal healthcare experience and interest in innovation can now support many future topics. The next milestone is delivering these ideas with fewer pauses and more automatic grammar control.
 
-------------------------------------------------------------------------
+---
 
 # 📅 Day 12 Summary (Agnes)
 
 ## 🎯 Band Tracker
 
-  Fluency        Lexical   Grammar   Pronunciation   Overall
-  -------------- --------- --------- --------------- --------------
-  **7.0--7.5**   **7.5**   **7.0**   **7.0**         **7.0--7.5**
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+| ------- | ------- | ------- | ------------- | ------- |
+| **7.0–7.5** | **7.5** | **7.0** | **7.0** | **7.0–7.5** |
 
 > Note: Today you completed the celebration and emotion-related story
 > migration. Your biggest progress was using three anchors instead of
 > memorising full scripts: a key impression, a specific emotional
 > detail, and a personal reflection.
 
-------------------------------------------------------------------------
+---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Part 1
+### Part 1
 
 Topics practised:
 
--   Birthdays
--   Praise
--   Smiling in photos
--   Days off
+- Birthdays
+- Praise
+- Smiling in photos
+- Days off
 
 Main focus:
 
--   Express personal preferences naturally.
--   Use emotional-value vocabulary.
--   Avoid over-explaining simple questions.
+- Express personal preferences naturally.
+- Use emotional-value vocabulary.
+- Avoid over-explaining simple questions.
 
-------------------------------------------------------------------------
+---
 
-# ⭐ Part 1 Best Expressions
+## ⭐ Part 1 Best Expressions
 
-## Birthday Celebration
+### Birthday Celebration
 
 > Personally speaking, I don't pay much attention to celebrating my
 > birthday. I enjoy it to some extent, but I prefer quieter moments
@@ -2743,81 +2753,81 @@ Main focus:
 
 Key expressions:
 
--   enjoy something to some extent
--   prefer quieter moments
--   What appeals to me most is...
--   meaningful conversations
+- enjoy something to some extent
+- prefer quieter moments
+- What appeals to me most is...
+- meaningful conversations
 
-------------------------------------------------------------------------
+---
 
-## Praise
+### Praise
 
 > Genuine recognition can be really motivating because it makes people
 > feel appreciated.
 
 Key expressions:
 
--   genuine recognition
--   feel appreciated
--   positive attitude
--   work under pressure
+- genuine recognition
+- feel appreciated
+- positive attitude
+- work under pressure
 
-------------------------------------------------------------------------
+---
 
-## Smiling in Photos
+### Smiling in Photos
 
 > The value of a photo lies in its ability to capture and remind us of
 > meaningful shared experiences.
 
 Key expressions:
 
--   bring back warm memories
--   create lasting memories
--   preserve special moments
--   emotional connection
+- bring back warm memories
+- create lasting memories
+- preserve special moments
+- emotional connection
 
-------------------------------------------------------------------------
+---
 
-## Days Off
+### Days Off
 
 > It's a meaningful activity that helps me stay healthy, both mentally
 > and physically.
 
 Key expressions:
 
--   unwind and recharge
--   take a break from my daily routine
--   stay healthy both mentally and physically
+- unwind and recharge
+- take a break from my daily routine
+- stay healthy both mentally and physically
 
-------------------------------------------------------------------------
+---
 
-# 📚 Story Bank 6 --- Happy, Proud and Celebration Occasions
+## 📚 Story Bank 6 --- Happy, Proud and Celebration Occasions
 
-## Core Story: Birthday Celebration with Stella
+### Core Story: Birthday Celebration with Stella
 
 ### Background
 
--   My birthday celebration last year
--   May 26th
--   My apartment
--   Invited Stella and close friends
--   Had a simple dinner rather than a big party
+- My birthday celebration last year
+- May 26th
+- My apartment
+- Invited Stella and close friends
+- Had a simple dinner rather than a big party
 
-------------------------------------------------------------------------
+---
 
-## Main Event
+### Main Event
 
 During dinner:
 
--   Talked about our recent lives.
--   Recalled the Malaysia trip.
--   Remembered the lottery ticket story.
+- Talked about our recent lives.
+- Recalled the Malaysia trip.
+- Remembered the lottery ticket story.
 
 During the trip:
 
--   Bought lottery tickets at the airport.
--   Neither of us won anything.
--   I felt disappointed.
+- Bought lottery tickets at the airport.
+- Neither of us won anything.
+- I felt disappointed.
 
 Stella joked:
 
@@ -2825,30 +2835,30 @@ Stella joked:
 
 Impact:
 
--   Her joke immediately lightened the mood.
--   The rest of the trip became more enjoyable.
--   She changed my attitude towards disappointing situations.
+- Her joke immediately lightened the mood.
+- The rest of the trip became more enjoyable.
+- She changed my attitude towards disappointing situations.
 
-------------------------------------------------------------------------
+---
 
-# 🔄 Story Migration Completed
+## 🔄 Story Migration Completed
 
-## 1. Many People Smiling
+### 1. Many People Smiling
 
 Focus:
 
--   Friends laughing together.
--   Recalling happy memories.
--   Creating a warm atmosphere.
+- Friends laughing together.
+- Recalling happy memories.
+- Creating a warm atmosphere.
 
 Key sentence:
 
 > What I appreciated most was not only the happy atmosphere, but also
 > the way Stella changed my perspective on disappointing situations.
 
-------------------------------------------------------------------------
+---
 
-## 2. Proud of a Family Member
+### 2. Proud of a Family Member
 
 Core story:
 
@@ -2856,19 +2866,19 @@ Core story:
 
 Focus:
 
--   Supported me when I was introverted.
--   Listened carefully.
--   Offered practical advice based on her extensive life experience.
--   Taught me that self-worth should not depend on others' opinions.
+- Supported me when I was introverted.
+- Listened carefully.
+- Offered practical advice based on her extensive life experience.
+- Taught me that self-worth should not depend on others' opinions.
 
 Key sentence:
 
 > Thanks to her encouragement, I gradually became more open-minded and
 > confident.
 
-------------------------------------------------------------------------
+---
 
-## 3. Sports Event
+### 3. Sports Event
 
 Core story:
 
@@ -2876,18 +2886,18 @@ Core story:
 
 Focus:
 
--   Football fans around the world.
--   Crowd erupted with excitement.
--   Sports create a sense of connection.
+- Football fans around the world.
+- Crowd erupted with excitement.
+- Sports create a sense of connection.
 
 Key sentence:
 
 > Sports are not just about winning or losing; they can also bring
 > people closer together.
 
-------------------------------------------------------------------------
+---
 
-## 4. Gift Received
+### 4. Gift Received
 
 Core story:
 
@@ -2895,121 +2905,121 @@ Core story:
 
 Focus:
 
--   Given on my 20th birthday.
--   Included essays written in primary school.
--   Brought back warm memories.
--   Represented my mother's influence.
+- Given on my 20th birthday.
+- Included essays written in primary school.
+- Brought back warm memories.
+- Represented my mother's influence.
 
 Key sentence:
 
 > The value of this gift lies not in the object itself, but in the
 > emotional connection behind it.
 
-------------------------------------------------------------------------
+---
 
-# 🗣️ Part 3 Practice Completed
+## 🗣️ Part 3 Practice Completed
 
-## Q1: Why do people smile in photos?
+### Q1: Why do people smile in photos?
 
 Main ideas:
 
--   Photos preserve meaningful moments.
--   Smiles bring back memories.
--   They create emotional connections.
+- Photos preserve meaningful moments.
+- Smiles bring back memories.
+- They create emotional connections.
 
 Best sentence:
 
 > Looking at old photos allows people to relive happy memories.
 
-------------------------------------------------------------------------
+---
 
-## Q2: Should parents reward children?
+### Q2: Should parents reward children?
 
 Main ideas:
 
--   Rewards can encourage positive behaviour.
--   Avoid overdependence on material rewards.
--   Emotional support and encouragement are equally important.
+- Rewards can encourage positive behaviour.
+- Avoid overdependence on material rewards.
+- Emotional support and encouragement are equally important.
 
 Best sentence:
 
 > Parents should reward children, but not only with material things.
 
-------------------------------------------------------------------------
+---
 
-## Q3: Why do people spend money watching sports events?
+### Q3: Why do people spend money watching sports events?
 
 Main ideas:
 
--   Entertainment and excitement.
--   Release stress from daily routines.
--   Create a sense of belonging.
+- Entertainment and excitement.
+- Release stress from daily routines.
+- Create a sense of belonging.
 
 Best sentence:
 
 > The crowd erupted with excitement when the player scored a goal.
 
-------------------------------------------------------------------------
+---
 
-## Q4: Are family celebrations still important nowadays?
+### Q4: Are family celebrations still important nowadays?
 
 Main ideas:
 
--   Provide opportunities to spend quality time together.
--   Strengthen emotional connections.
--   Preserve family traditions.
+- Provide opportunities to spend quality time together.
+- Strengthen emotional connections.
+- Preserve family traditions.
 
 Best sentence:
 
 > What matters most is spending time with the people around us and
 > creating shared memories together.
 
-------------------------------------------------------------------------
+---
 
-# ⭐ Native Collocations of the Day
+## ⭐ Native Collocations of the Day
 
--   bring back warm memories
--   create lasting memories
--   relive happy memories
--   preserve special moments
--   emotional connection
--   strengthen emotional connections
--   erupt with excitement
--   create an energetic atmosphere
--   bring people closer together
--   spend quality time together
--   maintain family bonds
--   create a sense of connection
+- bring back warm memories
+- create lasting memories
+- relive happy memories
+- preserve special moments
+- emotional connection
+- strengthen emotional connections
+- erupt with excitement
+- create an energetic atmosphere
+- bring people closer together
+- spend quality time together
+- maintain family bonds
+- create a sense of connection
 
-------------------------------------------------------------------------
+---
 
-# 🔧 Three Grammar Improvements
+## 🔧 Three Grammar Improvements
 
-## 1.
+### 1.
 
 ❌ sports is not just about winning or losing
 
 ✅ sports are not just about winning or losing
 
-------------------------------------------------------------------------
+---
 
-## 2.
+### 2.
 
 ❌ people are likely forget
 
 ✅ people are likely to forget
 
-------------------------------------------------------------------------
+---
 
-## 3.
+### 3.
 
 ❌ relieve the emotional connection
 
 ✅ relive the emotional connection
 
-------------------------------------------------------------------------
+---
 
-# ⭐ Today's Biggest Improvement
+## ⭐ Today's Biggest Improvement
 
 Today you made an important transition:
 
@@ -3026,41 +3036,42 @@ This made your answers more natural and flexible.
 The biggest strength today was your ability to connect experiences with
 broader meanings:
 
--   Birthday → friendship and optimism
--   Mother → personal growth
--   Sports → human connection
--   Gift → emotional value
+- Birthday → friendship and optimism
+- Mother → personal growth
+- Sports → human connection
+- Gift → emotional value
 
-------------------------------------------------------------------------
+---
 
-# 🎯 Focus for Day 13
+## 🎯 Focus for Day 13
 
 According to the 20-day plan:
 
-## Story 8: Food, Activity and Waiting Experience
+### Story 8: Food, Activity and Waiting Experience
 
 Part 1:
 
--   Snacks
--   Flowers
--   Dreams
--   Patience
+- Snacks
+- Flowers
+- Dreams
+- Patience
 
 Part 2:
 
--   Special Meal
--   Excited About a New Activity
--   Waiting for Something Special
--   Lost Power
+- Special Meal
+- Excited About a New Activity
+- Waiting for Something Special
+- Lost Power
 
 Focus:
 
--   Continue using authentic personal stories.
--   Keep the structure: **Event → Details → Feeling → Reflection**
--   Reduce sentence restarting.
+- Continue using authentic personal stories.
+- Keep the structure: **Event → Details → Feeling → Reflection**
+- Reduce sentence restarting.
 
 ---
-# 📅 Day 13 Summary (Agnes) — IELTS Speaking Band 7 Notebook
+
+# 📅 Day 13 Summary (Agnes)
 
 ## 🎯 Band Tracker
 
@@ -3070,31 +3081,31 @@ Focus:
 
 ### Today's evaluation:
 
-* **Fluency & Coherence:** ⭐ Strong improvement
+- **Fluency & Coherence:** ⭐ Strong improvement
 
-  * Able to extend answers naturally.
-  * Good use of personal examples and reflections.
-  * Story migration worked well.
+  - Able to extend answers naturally.
+  - Good use of personal examples and reflections.
+  - Story migration worked well.
 
-* **Lexical Resource:** ⭐ Strong
+- **Lexical Resource:** ⭐ Strong
 
-  * Successfully reused notebook expressions:
+  - Successfully reused notebook expressions:
 
-    * create something with my own hands
-    * turn ideas into reality
-    * step out of my comfort zone
-    * worth the wait
+    - create something with my own hands
+    - turn ideas into reality
+    - step out of my comfort zone
+    - worth the wait
 
-* **Grammar:** Needs consistency
+- **Grammar:** Needs consistency
 
-  * Main issue: verb forms and sentence structure when speaking quickly.
-  * Ideas are advanced enough; accuracy is the next priority.
+  - Main issue: verb forms and sentence structure when speaking quickly.
+  - Ideas are advanced enough; accuracy is the next priority.
 
 ---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Part 1 Topics
+### Part 1 Topics
 
 | Topic      | Key Points                                                                |
 | ---------- | ------------------------------------------------------------------------- |
@@ -3105,52 +3116,52 @@ Focus:
 
 ---
 
-# 📚 Story Bank 8 — Food / Activity / Waiting
+## 📚 Story Bank 8 — Food / Activity / Waiting
 
-## Story: Cooking Mapo Tofu After Being Laid Off
+### Story: Cooking Mapo Tofu After Being Laid Off
 
 ### Core Material
 
 **Background**
 
-* After being laid off
-* Wanted to build a healthier routine
-* Started learning cooking
+- After being laid off
+- Wanted to build a healthier routine
+- Started learning cooking
 
 **Main Event**
 
-* Found recipes on Xiaohongshu
-* Chose Mapo Tofu
-* Bought fresh ingredients
-* Cooked from scratch
+- Found recipes on Xiaohongshu
+- Chose Mapo Tofu
+- Bought fresh ingredients
+- Cooked from scratch
 
 **Details**
 
-* Prepared ingredients carefully
-* Adjusted flavours gradually
-* Smell filled the kitchen
-* Watched ingredients come together
+- Prepared ingredients carefully
+- Adjusted flavours gradually
+- Smell filled the kitchen
+- Watched ingredients come together
 
 **Feeling**
 
-* A great sense of satisfaction
-* Created something with my own hands
+- A great sense of satisfaction
+- Created something with my own hands
 
 **Reflection**
 
-* Cooking brought back a similar feeling to coding
-* Both allow me to turn ideas into reality
+- Cooking brought back a similar feeling to coding
+- Both allow me to turn ideas into reality
 
 ---
 
-# 🔄 Story Migration Completed
+## 🔄 Story Migration Completed
 
-## 1. 🍜 Special Meal
+### 1. 🍜 Special Meal
 
 Focus:
 
-* Dinner with Stella
-* Food + friendship
+- Dinner with Stella
+- Food + friendship
 
 Key reflection:
 
@@ -3158,12 +3169,12 @@ Key reflection:
 
 ---
 
-## 2. 🎯 Excited About a New Activity
+### 2. 🎯 Excited About a New Activity
 
 Focus:
 
-* First time cooking Mapo Tofu
-* Learning a new skill
+- First time cooking Mapo Tofu
+- Learning a new skill
 
 Key reflection:
 
@@ -3171,12 +3182,12 @@ Key reflection:
 
 ---
 
-## 3. ⏳ Waiting for Something Special
+### 3. ⏳ Waiting for Something Special
 
 Focus:
 
-* Waiting for the dish to be completed
-* Patience and anticipation
+- Waiting for the dish to be completed
+- Patience and anticipation
 
 Key phrase:
 
@@ -3184,12 +3195,12 @@ Key phrase:
 
 ---
 
-## 4. ⚡ Lost Power
+### 4. ⚡ Lost Power
 
 Focus:
 
-* Electricity bill ran out
-* Solving an unexpected problem
+- Electricity bill ran out
+- Solving an unexpected problem
 
 Key reflection:
 
@@ -3197,7 +3208,7 @@ Key reflection:
 
 ---
 
-# ⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
 ### 1.
 
@@ -3205,9 +3216,9 @@ Key reflection:
 
 Why it works:
 
-* Personal
-* Specific
-* Shows deeper thinking
+- Personal
+- Specific
+- Shows deeper thinking
 
 ---
 
@@ -3217,8 +3228,8 @@ Why it works:
 
 Why it works:
 
-* Strong Part 2 ending
-* Connects event → relationship → meaning
+- Strong Part 2 ending
+- Connects event → relationship → meaning
 
 ---
 
@@ -3228,8 +3239,8 @@ Why it works:
 
 Why it works:
 
-* Natural collocation
-* Useful for food, travel, achievements
+- Natural collocation
+- Useful for food, travel, achievements
 
 ---
 
@@ -3239,12 +3250,12 @@ Why it works:
 
 Why it works:
 
-* Good reflection sentence
-* Shows maturity
+- Good reflection sentence
+- Shows maturity
 
 ---
 
-# 🚀 Native Collocations of the Day
+## 🚀 Native Collocations of the Day
 
 | Expression                         | Usage              |
 | ---------------------------------- | ------------------ |
@@ -3264,9 +3275,9 @@ Why it works:
 
 ---
 
-# 🔧 Grammar Mistakes (Top 3)
+## 🔧 Grammar Mistakes (Top 3)
 
-## 1. Verb tense after "after"
+### 1. Verb tense after "after"
 
 ❌ After I was being laid off
 ✅ After I was laid off
@@ -3274,23 +3285,23 @@ Why it works:
 
 ---
 
-## 2. Allow + object + verb
+### 2. Allow + object + verb
 
 ❌ It allows me to creating something
 ✅ It allows me to create something
 
 ---
 
-## 3. People + verb agreement
+### 3. People + verb agreement
 
 ❌ People is highly dependent on electricity
 ✅ People are highly dependent on electricity
 
 ---
 
-# ⭐ Expressions to Master
+## ⭐ Expressions to Master
 
-## 1. Be worth the wait
+### 1. Be worth the wait
 
 Examples:
 
@@ -3300,7 +3311,7 @@ Examples:
 
 ---
 
-## 2. Create something with my own hands
+### 2. Create something with my own hands
 
 Examples:
 
@@ -3310,7 +3321,7 @@ Examples:
 
 ---
 
-## 3. Turn ideas into reality
+### 3. Turn ideas into reality
 
 Examples:
 
@@ -3320,7 +3331,7 @@ Examples:
 
 ---
 
-## 4. Step out of my comfort zone
+### 4. Step out of my comfort zone
 
 Examples:
 
@@ -3328,7 +3339,7 @@ Examples:
 
 ---
 
-# 🎯 Day 13 Biggest Improvement
+## 🎯 Day 13 Biggest Improvement
 
 Today’s biggest improvement was **reflection quality**.
 
@@ -3354,9 +3365,9 @@ This is exactly the structure that makes Band 7 answers sound authentic rather t
 
 ---
 
-# 📌 Focus for Day 14
+## 📌 Focus for Day 14
 
-## Theme:
+### Theme:
 
 🏢 Buildings, Places & Public Spaces
 
@@ -3365,20 +3376,18 @@ Main Story:
 
 Targets:
 
-* Describe appearance clearly
-* Add location details
-* Explain why the place matters
-* Use sensory descriptions
+- Describe appearance clearly
+- Add location details
+- Explain why the place matters
+- Use sensory descriptions
 
 Key expressions to prepare:
 
-* What stands out most about...
-* A distinctive feature is...
-* It has a relaxing atmosphere
-* It allows people to escape from daily routines
-* It left me with a lasting impression
-
-
+- What stands out most about...
+- A distinctive feature is...
+- It has a relaxing atmosphere
+- It allows people to escape from daily routines
+- It left me with a lasting impression
 
 ---
 
@@ -3390,7 +3399,7 @@ Next session: **Day 14 — Buildings & Places**.
 
 ---
 
-# 📅 Day 14 Summary (Agnes) — IELTS Speaking Band 7 Notebook
+# 📅 Day 14 Summary (Agnes)
 
 ## 🎯 Band Tracker
 
@@ -3402,9 +3411,9 @@ Next session: **Day 14 — Buildings & Places**.
 
 ---
 
-# ✅ What I Did Today
+## ✅ What I Did Today
 
-## Part 2 — Story 7: Buildings & Places
+### Part 2 — Story 7: Buildings & Places
 
 Topics practised:
 
@@ -3416,9 +3425,9 @@ Topics practised:
 
 ---
 
-# ⭐ Key Story Points
+## ⭐ Key Story Points
 
-## Interesting Building — Art Museum
+### Interesting Building — Art Museum
 
 - Near my apartment
 - Visit on weekends
@@ -3428,7 +3437,7 @@ Topics practised:
 - Geography exhibition
 - Art, space and architecture create a meaningful experience
 
-## High-rise Building — Workplace Skyscraper
+### High-rise Building — Workplace Skyscraper
 
 - Near my workplace
 - Busy commercial area
@@ -3437,7 +3446,7 @@ Topics practised:
 - Offices, restaurants and shopping areas
 - Symbol of urban development
 
-## Boring Place — Shopping Mall
+### Boring Place — Shopping Mall
 
 - Modern appearance
 - Similar experience to other malls
@@ -3445,7 +3454,7 @@ Topics practised:
 - Difficult to relax in noisy environments
 - Prefer outdoor spaces with fresh air
 
-## Place to Relax — Park
+### Place to Relax — Park
 
 - Near my apartment
 - Visit with Stella on weekends
@@ -3455,39 +3464,44 @@ Topics practised:
 
 ---
 
-# 🗣️ Part 3 Questions Completed
+## 🗣️ Part 3 Questions Completed
 
-## How should buildings be designed to suit the local climate?
+### How should buildings be designed to suit the local climate?
 
 Ideas:
+
 - Consider local climate conditions
 - Southern China: open balconies and sunlight
 - Northern China: enclosed balconies against sandstorms
 - Adapt architecture to local environments
 
-## Why do many people choose to live in high-rise buildings?
+### Why do many people choose to live in high-rise buildings?
 
 Ideas:
+
 - Limited land resources
 - Convenient locations
 - Multiple functions
 - Modern lifestyle
 
 Balanced point:
+
 - Long elevator waiting times
 - Crowded commuting
 
-## Why do some children find education boring?
+### Why do some children find education boring?
 
 Ideas:
+
 - Traditional teaching methods
 - Too much memorisation
 - Lack of interaction
 - Weak connection with real life
 
-## What makes a public place comfortable?
+### What makes a public place comfortable?
 
 Ideas:
+
 - Convenience and accessibility
 - Green spaces and fresh air
 - Relaxing atmosphere
@@ -3495,7 +3509,7 @@ Ideas:
 
 ---
 
-# ⭐ Expressions to Review (Priority)
+## ⭐ Expressions to Review (Priority)
 
 Today's difficult expressions:
 
@@ -3517,9 +3531,9 @@ Upgrade:
 
 ---
 
-# 🚀 Native Collocations of the Day
+## 🚀 Native Collocations of the Day
 
-## Buildings
+### Buildings
 
 - distinctive architectural design
 - creative layout
@@ -3528,7 +3542,7 @@ Upgrade:
 - create a modern atmosphere
 - symbol of urban development
 
-## Places & Relaxation
+### Places & Relaxation
 
 - cozy atmosphere
 - lush greenery
@@ -3537,7 +3551,7 @@ Upgrade:
 - strengthen emotional connections
 - create meaningful experiences
 
-## Part 3
+### Part 3
 
 - local climate conditions
 - create a comfortable living environment
@@ -3546,26 +3560,26 @@ Upgrade:
 
 ---
 
-# 🔧 Grammar Focus
+## 🔧 Grammar Focus
 
-## 1. Word form
+### 1. Word form
 
 ❌ architecture design
 ✅ architectural design
 
-## 2. Climate expression
+### 2. Climate expression
 
 ❌ climate change (when discussing building design)
 ✅ local climate conditions
 
-## 3. Verb pattern
+### 3. Verb pattern
 
 ❌ helps me to unwind and recharge my batteries
 ✅ helps me unwind and recharge my batteries
 
 ---
 
-# 🎯 Day 14 Focus for Future Review
+## 🎯 Day 14 Focus for Future Review
 
 Today's materials felt harder to remember because many expressions were abstract. Future reviews should:
 
@@ -3583,7 +3597,7 @@ Example:
 
 ---
 
-# ⭐ Today's Biggest Improvement
+## ⭐ Today's Biggest Improvement
 
 Today you improved your ability to describe places from different angles:
 
@@ -3597,200 +3611,202 @@ The main challenge was vocabulary absorption, not idea development. Future pract
 
 ---
 
-📅 Day 15 Summary (Agnes)
+# 📅 Day 15 Summary (Agnes)
 
-🎯 Band Tracker
+## 🎯 Band Tracker
 
-Fluency	Lexical	Grammar	Pronunciation	Overall
-7.0–7.5	7.0–7.5	6.5–7.0	7.0	7.0–7.5
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+| ------- | ------- | ------- | ------------- | ------- |
+| **7.0–7.5** | **7.0–7.5** | **6.5–7.0** | **7.0** | **7.0–7.5** |
 
-⸻
+---
 
-✅ What I Did Today
+## ✅ What I Did Today
 
-Part 1
+### Part 1
 
 Topics practised:
 
-* Watches
-* Parks
-* Plants
-* Spending Time with Older People
+- Watches
+- Parks
+- Plants
+- Spending Time with Older People
 
-Band 7 Toolbox Used
+### Band 7 Toolbox Used
 
-* Personally speaking,…
-* That being said,…
-* What stands out most about…
-* What appeals to me most is…
-* extensive life experience
-* create a relaxing atmosphere
-* take a break from daily routines
-* unwind and recharge
+- Personally speaking,…
+- That being said,…
+- What stands out most about…
+- What appeals to me most is…
+- extensive life experience
+- create a relaxing atmosphere
+- take a break from daily routines
+- unwind and recharge
 
-⸻
+---
 
-📚 Part 2 Story Bank
+## 📚 Part 2 Story Bank
 
-Story 3: Malaysia Trip — Nature & Scenery Migration
+### Story 3: Malaysia Trip — Nature & Scenery Migration
 
-Topic 1: Wild Animal
+### Topic 1: Wild Animal
 
-Animal: Sea turtle
+### Animal: Sea turtle
 
-Background
+### Background
 
-* First saw it while freediving in Sabah, Malaysia.
-* Experience left me with a lasting impression.
+- First saw it while freediving in Sabah, Malaysia.
+- Experience left me with a lasting impression.
 
-Details
+### Details
 
-* Large shell.
-* Moved slowly and gracefully.
-* Saw it in its natural environment.
-* Learned about threats from plastic pollution.
+- Large shell.
+- Moved slowly and gracefully.
+- Saw it in its natural environment.
+- Learned about threats from plastic pollution.
 
-Reflection
+### Reflection
 
-* Reminded me how important it is to protect the natural environment.
+- Reminded me how important it is to protect the natural environment.
 
-⸻
+---
 
-Topic 2: Nature Lover
+### Topic 2: Nature Lover
 
-Person: Stella
+### Person: Stella
 
-Background
+### Background
 
-* Close friend.
-* Met after moving to Beijing three years ago.
+- Close friend.
+- Met after moving to Beijing three years ago.
 
-Personality
+### Personality
 
-* Appreciates nature deeply.
-* Has strong environmental awareness.
+- Appreciates nature deeply.
+- Has strong environmental awareness.
 
-Main Event
+### Main Event
 
-* Malaysia trip.
-* Reminded me that normal sunscreen could harm coral reefs and marine life.
-* Switched to eco-friendly sunscreen before freediving.
+- Malaysia trip.
+- Reminded me that normal sunscreen could harm coral reefs and marine life.
+- Switched to eco-friendly sunscreen before freediving.
 
-Reflection
+### Reflection
 
-* Helped me look at nature from a different perspective.
-* Nature is not only beautiful but also something we should protect.
+- Helped me look at nature from a different perspective.
+- Nature is not only beautiful but also something we should protect.
 
-⸻
+---
 
-Topic 3: Natural Place
+### Topic 3: Natural Place
 
-Place: Semporna, Malaysia
+### Place: Semporna, Malaysia
 
-Background
+### Background
 
-* Visited with Stella last May.
-* Around 10 days.
-* Rented a car and explored at our own pace.
+- Visited with Stella last May.
+- Around 10 days.
+- Rented a car and explored at our own pace.
 
-Main Details
+### Main Details
 
-* Freediving experience.
-* Felt as if I had entered another world.
-* Colourful coral reefs.
-* Different kinds of fish.
-* Sea turtle moving gracefully.
-* Explored mountains with lush greenery and vibrant flowers.
+- Freediving experience.
+- Felt as if I had entered another world.
+- Colourful coral reefs.
+- Different kinds of fish.
+- Sea turtle moving gracefully.
+- Explored mountains with lush greenery and vibrant flowers.
 
-Reflection
+### Reflection
 
-* Broadened my horizons.
-* Strengthened my emotional connection with Stella.
-* Created meaningful memories.
+- Broadened my horizons.
+- Strengthened my emotional connection with Stella.
+- Created meaningful memories.
 
-⸻
+---
 
-Topic 4: Scenery
+### Topic 4: Scenery
 
-Focus
+### Focus
 
-* Beautiful landscape rather than travel experience.
+- Beautiful landscape rather than travel experience.
 
-Key Details
+### Key Details
 
-* Clear blue and transparent water.
-* Colourful coral reefs.
-* Wide range of marine life.
-* Lush green mountains.
-* Vibrant red and yellow flowers.
+- Clear blue and transparent water.
+- Colourful coral reefs.
+- Wide range of marine life.
+- Lush green mountains.
+- Vibrant red and yellow flowers.
 
-Ending
+### Ending
 
-* The scenery left me with a lasting memory.
-* The experience helped me unwind and recharge.
+- The scenery left me with a lasting memory.
+- The experience helped me unwind and recharge.
 
-⸻
+---
 
-⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
-One wild animal I’d really like to learn more about is the sea turtle. I first saw one while freediving in Sabah, Malaysia, and the experience left me with a lasting impression.
+> One wild animal I’d really like to learn more about is the sea turtle. I first saw one while freediving in Sabah, Malaysia, and the experience left me with a lasting impression.
 
-What appeals to me most about sea turtles is their peaceful and ancient-looking appearance.
+> What appeals to me most about sea turtles is their peaceful and ancient-looking appearance.
 
-What stands out most about Stella is her deep appreciation for the natural environment.
+> What stands out most about Stella is her deep appreciation for the natural environment.
 
-Spending time with Stella has helped me look at nature from a different perspective.
+> Spending time with Stella has helped me look at nature from a different perspective.
 
-I felt as if I had entered another world when I was freediving.
+> I felt as if I had entered another world when I was freediving.
 
-The trip not only broadened my horizons, but also strengthened my emotional connection with my friend.
+> The trip not only broadened my horizons, but also strengthened my emotional connection with my friend.
 
-⸻
+---
 
-🔧 Three Grammar Mistakes
+## 🔧 Three Grammar Mistakes
 
-1.
+### 1.
 
 ❌ environment pollution
 
 ✅ environmental pollution
 
-⸻
+---
 
-2.
+### 2.
 
 ❌ remind me that how important it is
 
 ✅ remind me how important it is
 
-⸻
+---
 
-3.
+### 3.
 
 ❌ Even small actions can make those difference
 
 ✅ Even small actions can make a difference
 
-⸻
+---
 
-🚀 Vocabulary Upgrade
+## 🚀 Vocabulary Upgrade
 
-Instead of:
+### Instead of:
 
-Basic Expression	Upgrade
-beautiful scenery	breathtaking scenery
-very green	lush greenery
-make people relax	allow people to unwind and recharge
-protect nature	protect the natural environment
-important	play an important role / play a vital role
-remember for a long time	leave me with a lasting impression
-good memory	lasting memory
+| Basic expression | Upgrade |
+| ---------------- | ------- |
+| beautiful scenery | breathtaking scenery |
+| very green | lush greenery |
+| make people relax | allow people to unwind and recharge |
+| protect nature | protect the natural environment |
+| important | play an important role / play a vital role |
+| remember for a long time | leave me with a lasting impression |
+| good memory | lasting memory |
 
-⸻
+---
 
-⭐ Expressions to Master
+## ⭐ Expressions to Master
 
-1. Leave me with a lasting impression
+### 1. Leave me with a lasting impression
 
 Focus: emotional impact
 
@@ -3798,9 +3814,9 @@ Example:
 
 The experience left me with a lasting impression because it changed the way I viewed nature.
 
-⸻
+---
 
-2. Leave me with a lasting memory
+### 2. Leave me with a lasting memory
 
 Focus: remembering a specific event
 
@@ -3808,48 +3824,48 @@ Example:
 
 The trip left me with a lasting memory that I will cherish for years.
 
-⸻
+---
 
-3. Look at something from a different perspective
+### 3. Look at something from a different perspective
 
 Example:
 
 Stella helped me look at environmental protection from a different perspective.
 
-⸻
+---
 
-4. Be vulnerable to…
+### 4. Be vulnerable to…
 
 Example:
 
 Sea turtles are vulnerable to plastic pollution.
 
-⸻
+---
 
-5. Make eco-friendly choices
+### 5. Make eco-friendly choices
 
 Example:
 
 Individuals can make eco-friendly choices in their daily lives.
 
-⸻
+---
 
-🎯 Focus for Day 16
+## 🎯 Focus for Day 16
 
-* Continue improving active recall without hints.
-* Practice answering Part 3 without depending on prepared keywords.
-* Keep using the structure:
+- Continue improving active recall without hints.
+- Practice answering Part 3 without depending on prepared keywords.
+- Keep using the structure:
 
 Opinion → Reason → Example → Balanced view → Conclusion
 
-* Reduce grammar mistakes with:
-    * articles
-    * plural forms
-    * subject-verb agreement
+- Reduce grammar mistakes with:
+    - articles
+    - plural forms
+    - subject-verb agreement
 
-⸻
+---
 
-⭐ Today’s Biggest Improvement
+## ⭐ Today’s Biggest Improvement
 
 Today you successfully completed a full story migration cycle:
 
@@ -3862,265 +3878,529 @@ One Malaysia experience → four different Part 2 topics
 
 The biggest improvement was not vocabulary, but flexibility. You were able to change the focus of the same experience:
 
-* animal → sea turtle
-* person → Stella’s personality
-* place → Semporna
-* scenery → visual details
+- animal → sea turtle
+- person → Stella’s personality
+- place → Semporna
+- scenery → visual details
 
 This is exactly the skill needed for IELTS Part 2, because you do not need dozens of memorized answers. You need a small number of authentic stories that can adapt to different questions.
 
 ---
-I can definitely do that. However, I don’t currently have access to the live notebook.md file in this chat to modify it directly—I only have the excerpts that were previously referenced.
 
-Below is a Day 16 section that matches the format and style of your previous daily summaries. You can append it to your notebook.md.
+# 📅 Day 16 Summary (Agnes)
 
-⸻
+## 🎯 Band Tracker
 
-📅 Day 16 Summary (Agnes)
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+| ------- | ------- | ------- | ------------- | ------- |
+| **7.5** | **7.5** | **7.0** | **7.0** | **7.0–7.5** |
 
-🎯 Band Tracker
+---
 
-Fluency	Lexical	Grammar	Pronunciation	Overall
-7.5	7.5	7.0	7.0	7.0–7.5
+## ✅ What I Did Today
 
-⸻
-
-✅ What I Did Today
-
-Part 1
+### Part 1
 
 Topics practised:
 
-* Busy
-* Lists
-* Thanking
-* Memory
+- Busy
+- Lists
+- Thanking
+- Memory
 
-Part 2
+### Part 2
 
-Story Migration:
+**Story Migration:**
 
-* Perfect Job → Freelancer
-* Famous Person → Elon Musk
-* Business Person → Elon Musk
-* Medical Field Person → Dr. Fan
+- Perfect Job → Freelancer
+- Famous Person → Elon Musk
+- Business Person → Elon Musk
+- Medical Field Person → Dr. Fan
 
-Part 3
+### Part 3
 
 Topics discussed:
 
-* Factors when choosing a job
-* Why people want to become famous
-* Is talent important for success?
-* Is it difficult to become a doctor?
-* Why do some people prefer running a business?
+- Factors when choosing a job
+- Why people want to become famous
+- Is talent important for success?
+- Is it difficult to become a doctor?
+- Why do some people prefer running a business?
 
-⸻
+---
 
-📚 Story Bank Update
+## 📚 Story Bank Update
 
-Story 1 — Elon Musk
+### Story 1 — Elon Musk
 
-Applicable Cue Cards
+### Applicable Cue Cards
 
-* Famous Person
-* Business Person
-* Successful Person
-* Role Model
+- Famous Person
+- Business Person
+- Successful Person
+- Role Model
 
-Focus
+### Focus
 
-* Innovative mindset
-* Took calculated risks
-* Developed reusable rockets
-* Turned ambitious ideas into reality
-* Stayed persistent despite failures
+- Innovative mindset
+- Took calculated risks
+- Developed reusable rockets
+- Turned ambitious ideas into reality
+- Stayed persistent despite failures
 
-Reflection
+### Reflection
 
 Success requires much more than talent. Determination, continuous learning and the ability to overcome setbacks are equally important.
 
-⸻
+---
 
-Story 8 — Dr. Fan
+### Story 8 — Dr. Fan
 
-Applicable Cue Cards
+### Applicable Cue Cards
 
-* Medical Professional
-* Helpful Person
-* Someone I Admire
+- Medical Professional
+- Helpful Person
+- Someone I Admire
 
-Focus
+### Focus
 
-* Toothache
-* Detailed treatment plan
-* Scaling and root planing
-* Medical expertise
-* Emotional support
-* Patience and empathy
+- Toothache
+- Detailed treatment plan
+- Scaling and root planing
+- Medical expertise
+- Emotional support
+- Patience and empathy
 
-Reflection
+### Reflection
 
 Good healthcare requires not only medical expertise but also emotional support and a strong connection with patients.
 
-⸻
+---
 
-Story 5 — Perfect Job
+### Story 5 — Perfect Job
 
 Topic
 
 Freelance Software Engineer
 
-Focus
+### Focus
 
-* Work from anywhere
-* Freedom and flexibility
-* Build products from scratch
-* Turn ideas into reality
-* Create meaningful products
-* Pursue personal growth
+- Work from anywhere
+- Freedom and flexibility
+- Build products from scratch
+- Turn ideas into reality
+- Create meaningful products
+- Pursue personal growth
 
-Reflection
+### Reflection
 
 A perfect job is one that combines personal interests, long-term goals and the opportunity to keep learning.
 
-⸻
+---
 
-⭐ Best Sentences Today
+## ⭐ Best Sentences Today
 
-What stands out most about him is his innovative mindset and his willingness to take calculated risks.
+> What stands out most about him is his innovative mindset and his willingness to take calculated risks.
 
-Talent alone is not enough for success.
+> Talent alone is not enough for success.
 
-Doctors need to juggle multiple responsibilities while working under a great deal of pressure.
+> Doctors need to juggle multiple responsibilities while working under a great deal of pressure.
 
-Good healthcare requires not only medical expertise but also emotional support.
+> Good healthcare requires not only medical expertise but also emotional support.
 
-What appeals to me most about freelancing is the freedom to work from anywhere.
+> What appeals to me most about freelancing is the freedom to work from anywhere.
 
-I want to create meaningful products that I truly care about.
+> I want to create meaningful products that I truly care about.
 
-⸻
+---
 
-🔧 Three Grammar Mistakes
+## 🔧 Three Grammar Mistakes
+
+### 1.
 
 ❌ While it is true that salary is important, but…
 
 ✅ While it is true that salary is important,…
 
-⸻
+---
+
+### 2.
 
 ❌ Talent alone are not enough.
 
 ✅ Talent alone is not enough.
 
-⸻
+---
+
+### 3.
 
 ❌ Running business
 
 ✅ Running a business
 
-⸻
+---
 
-🚀 Vocabulary Upgrade
+## 🚀 Vocabulary Upgrade
 
 Instead of…
 
-* build my own things → create meaningful products
-* keep trying → stay persistent
-* difficult work → highly rewarding career
-* many jobs → multiple responsibilities
-* make my ideas real → turn ideas into reality
-* famous because of money → financial opportunities and social recognition
+- build my own things → create meaningful products
+- keep trying → stay persistent
+- difficult work → highly rewarding career
+- many jobs → multiple responsibilities
+- make my ideas real → turn ideas into reality
+- famous because of money → financial opportunities and social recognition
 
-⸻
+---
 
-⭐ Expressions to Master
+## ⭐ Expressions to Master
 
-1. Turn ideas into reality
+### 1. Turn ideas into reality
 
 Entrepreneurs want to turn their ideas into reality.
 
-⸻
+---
 
-2. Take calculated risks
+### 2. Take calculated risks
 
 Successful business owners are willing to take calculated risks.
 
-⸻
+---
 
-3. Work under a great deal of pressure
+### 3. Work under a great deal of pressure
 
 Doctors often work under a great deal of pressure.
 
-⸻
+---
 
-4. Juggle multiple responsibilities
+### 4. Juggle multiple responsibilities
 
 Medical professionals have to juggle multiple responsibilities every day.
 
-⸻
+---
 
-5. Make a meaningful difference
+### 5. Make a meaningful difference
 
 Doctors have the opportunity to make a meaningful difference in people’s lives.
 
-⸻
+---
 
-6. Stay competitive
+### 6. Stay competitive
 
 Continuous learning helps professionals stay competitive.
 
-⸻
+---
 
-7. Create meaningful products
+### 7. Create meaningful products
 
 I hope to create meaningful products that solve real-world problems.
 
-⸻
+---
 
-⭐ Native Collocations of the Day
+## ⭐ Native Collocations of the Day
 
-* innovative mindset
-* take calculated risks
-* turn ideas into reality
-* work towards a goal
-* stay persistent
-* overcome setbacks
-* financial opportunities
-* social recognition
-* work under a great deal of pressure
-* juggle multiple responsibilities
-* practical training
-* medical expertise
-* emotional support
-* highly rewarding career
-* make a meaningful difference
-* pursue personal growth
-* create meaningful products
-* no guaranteed income
-* stay competitive
+- innovative mindset
+- take calculated risks
+- turn ideas into reality
+- work towards a goal
+- stay persistent
+- overcome setbacks
+- financial opportunities
+- social recognition
+- work under a great deal of pressure
+- juggle multiple responsibilities
+- practical training
+- medical expertise
+- emotional support
+- highly rewarding career
+- make a meaningful difference
+- pursue personal growth
+- create meaningful products
+- no guaranteed income
+- stay competitive
 
-⸻
+---
 
-🎯 Focus for Day 17
+## 🎯 Focus for Day 17
 
-* Reduce article mistakes (a business, a stable income, a doctor).
-* Eliminate “While…, but…”.
-* Continue strengthening reflection sentences.
-* Make Part 3 answers more concise (45–60 seconds).
-* Reuse Elon Musk, Dr. Fan, and Freelancer stories naturally without sounding repetitive.
+- Reduce article mistakes (a business, a stable income, a doctor).
+- Eliminate “While…, but…”.
+- Continue strengthening reflection sentences.
+- Make Part 3 answers more concise (45–60 seconds).
+- Reuse Elon Musk, Dr. Fan, and Freelancer stories naturally without sounding repetitive.
 
-⸻
+---
 
-⭐ Today’s Biggest Improvement
+## ⭐ Today’s Biggest Improvement
 
 Today was the first day you consistently connected your Part 2 stories with your Part 3 opinions.
 
 For example:
 
-* Elon Musk → talent, persistence, innovation, entrepreneurship.
-* Dr. Fan → doctors, healthcare, responsibility, emotional support.
-* Freelancer → job choice, entrepreneurship, personal growth.
+- Elon Musk → talent, persistence, innovation, entrepreneurship.
+- Dr. Fan → doctors, healthcare, responsibility, emotional support.
+- Freelancer → job choice, entrepreneurship, personal growth.
 
 This demonstrates that you’re no longer memorizing isolated answers. Instead, you’re building a connected story bank, allowing you to answer different IELTS questions naturally while reusing authentic experiences and reflections. This is exactly the strategy outlined in your 20-day plan and is one of the biggest steps toward a stable Band 7–7.5 performance.
+
+---
+
+# 📅 Day 17 Summary (Agnes)
+
+## 🎯 Band Tracker
+
+| Fluency | Lexical | Grammar | Pronunciation | Overall |
+| ------- | ------- | ------- | ------------- | ------- |
+| **7.5** | **7.5** | **7.0–7.5** | **7.0** | **7.5** |
+
+> **Note:** Today was a milestone. Instead of relying on prepared answers, you handled almost an entire mock Part 1 by speaking spontaneously. Your biggest improvement was that your answers sounded increasingly like conversations rather than memorised scripts.
+
+---
+
+## ✅ What I Did Today
+
+### Part 1
+
+Topics practised:
+
+- Feeling Bored
+- Life Stages
+- Childhood Activities
+- Dreams
+- Keys
+- Clothes
+- Mirrors
+- Jokes
+- Shoes
+- Shopping
+
+### Main focus:
+
+- Answer naturally within 20–30 seconds.
+- Give a direct opinion first.
+- Add one reason.
+- Finish with a personal example or reflection.
+- Reduce self-correction while speaking.
+
+---
+
+## 📚 Story Bank Review
+
+### Story 4 — Favourite Book
+
+Counselling for Toads
+
+### Core ideas:
+
+- Read it after being laid off.
+- Helped me face negative emotions instead of avoiding them.
+- Focus on personal growth.
+- Regain confidence.
+- Recommended it to Stella.
+
+### Best reflection:
+
+Looking back, it was exactly the book I needed during one of the most difficult periods of my life.
+
+---
+
+### Story 5 — Technology
+
+ChatGPT
+
+Focus:
+
+- Cutting-edge AI technology.
+- Use it on a daily basis.
+- Boost my productivity.
+- Free me from repetitive and mundane tasks.
+- Build projects from scratch.
+- Turn ideas into reality.
+- Stay competitive.
+
+### Best reflection:
+
+ChatGPT has become an essential part of both my work and daily life, and I can’t imagine working without it anymore.
+
+---
+
+### Story 7 — Place to Relax
+
+Park near my apartment
+
+Focus:
+
+- Visit on a weekly basis.
+- Walk around the pond.
+- Lush greenery and lotus flowers.
+- Ducks and geese.
+- Take a break from my busy daily routine.
+- Unwind and recharge.
+- Deep conversations with Stella.
+- Lasting impression.
+
+### Best reflection:
+
+Although it isn’t the most breathtaking place, it’s full of meaningful memories that help me relax whenever I visit.
+
+---
+
+## 🗣️ Part 3 Practice Completed
+
+Topics discussed:
+
+Children spending less time outdoors
+
+### Main ideas:
+
+- Rapid development of technology.
+- Social media and AI tools.
+- Prefer staying indoors.
+- Less outdoor activity.
+
+---
+
+Do dreams have meaning?
+
+### Main ideas:
+
+- Inspire long-term goals.
+- Make everyday life more engaging.
+- Give people direction.
+
+---
+
+Comfort or fashion?
+
+### Main ideas:
+
+- Keep a balance.
+- Prioritise comfort.
+- Weigh comfort against fashion.
+
+---
+
+Online shopping
+
+### Main ideas:
+
+- Introverted personality.
+- Compare prices and reviews.
+- Shop at my own pace.
+- Choose the best deal.
+
+---
+
+## ⭐ Best Sentences Today
+
+> I keep myself occupied by reading, cooking and learning new technologies.
+
+> Looking back, this stage of my life has been the most rewarding because I now focus on personal growth rather than fear of the future.
+
+> What appeals to me most is its ability to boost my productivity and free me from repetitive and mundane tasks.
+
+> I use ChatGPT on a daily basis, both at work and in my personal life.
+
+> I prefer shopping online because it allows me to compare prices and reviews at my own pace.
+
+> Although it may not be the most breathtaking scenery, it has left me with a lasting impression.
+
+---
+
+## 🔧 Three Grammar Mistakes
+
+### 1.
+
+❌ where I usually go there
+
+✅ where I usually go to relax
+
+---
+
+### 2.
+
+❌ I’m become more reliable on it.
+
+✅ I’ve become much more dependent on it.
+
+---
+
+### 3.
+
+❌ which make me feel comfortable and relaxing
+
+✅ which makes me feel comfortable and relaxed
+
+---
+
+## 🚀 Native Collocations of the Day
+
+- keep myself occupied
+- break the routine
+- fuel my curiosity
+- on a daily basis
+- repetitive and mundane tasks
+- build something from scratch
+- boost my productivity
+- improve my efficiency
+- stay competitive
+- regain my confidence
+- at my own pace
+- compare prices and reviews
+- choose the best deal
+- weigh A against B
+- take on whatever the day brings
+
+---
+
+## ⭐ Expressions to Master
+
+### Keep myself occupied
+
+> I keep myself occupied by reading and cooking.
+
+---
+
+### Fuel my curiosity
+
+> Playing with LEGO fueled my curiosity about how things work.
+
+---
+
+### On a daily basis
+
+> I use AI tools on a daily basis.
+
+---
+
+### At my own pace
+
+> I enjoy learning at my own pace.
+
+---
+
+### Weigh A against B
+
+> I weigh comfort against fashion before making a decision.
+
+---
+
+## 🎯 Focus for Day 18
+
+- Continue reducing article mistakes.
+- Make Part 2 endings more concise.
+- Use fewer fillers (“I think”, “yes”, “sort of”).
+- Strengthen spontaneous Part 3 examples.
+- Keep reusing your personal story bank naturally.
+
+---
+
+## ⭐ Today’s Biggest Improvement
+
+Today marked another important milestone.
+
+Earlier in the programme, you mainly focused on building stories. Today, you focused on retrieving them naturally. Across ten Part 1 topics and three Part 2 stories, you consistently reused your own collocations—such as What appeals to me most…, Looking back…, on a daily basis, and take a break from my busy daily routine—without sounding like you were reciting a script.
+
+Compared with the early days, you now rely much less on memorisation and much more on authentic communication. The next step is to make your grammar as automatic as your ideas, which will make a Band 7.5 performance much more consistent.
+
+---

@@ -19,18 +19,18 @@ Another significant advantage of [核心主题] is that it addresses problems fr
 
 ### 模板编号：负向1
 
-It is important to recognize that [核心主题] can produce harmful effects on [作用对象，个人或环境]. A central problem is that it increases [普适问题，如 stress / financial burden / health risks], which places additional pressure on [受影响群体，如 students / employees]. As a consequence, this approach often generates new problems such as [stress or resistance], instead of delivering the intended benefits. This clearly shows why its negative impact should not be underestimated.
+It is important to recognize that 【核心主题】 can produce harmful effects on 【作用对象，个人或环境】. A central problem is that it increases 【普适问题，如 stress / financial burden / health risks】, which places additional pressure on 【受影响群体，如 students / employees】. As a consequence, this approach often generates new problems such as 【stress or resistance】, instead of delivering the intended benefits. This clearly shows why its negative impact should not be underestimated.
 
 ### 模板编号：负向2
 
-Another significant drawback of [核心主题] is its tendency to cause resource misallocation. The main reason is that it forces [机构/系统，如 schools / governments / organizations] to divert limited [资源，如 time / funding / attention] away from their essential functions, thereby reducing investment in [本应投入的领域，如 education / healthcare]. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
+Another significant drawback of 【核心主题】 is its tendency to cause resource misallocation. The main reason is that it forces 【机构/系统，如 schools / governments / organizations】 to divert limited 【资源，如 time / funding / attention】away from their essential functions, thereby reducing investment in 【本应投入的领域，如 education / healthcare】. As a result, this practice often creates systemic inefficiencies rather than fulfilling its intended goals.
 
 ---
 ## 正文段让步反驳 1组
 
 ### 模板编号：让步1
 
-Nevertheless, this advantage is short-lived, as the initial [积极效果] quickly fades once [条件]. The [需要被维持的东西] is unlikely to be sustained in the absence of [核心因素], which makes the supposed benefits appear superficial. More importantly, these temporary gains often conceal deeper problems, such as [弊端]. As these issues accumulate, they not only offset the initial benefits but also generate new obstacles that hinder genuine progress.
+Nevertheless, this advantage is short-lived, as the initial 【积极效果】 quickly fades once 【条件】. The 【需要被维持的东西】 is unlikely to be sustained in the absence of 【核心因素】, which makes the supposed benefits appear superficial. More importantly, these temporary gains often conceal deeper problems, such as【弊端】. As these issues accumulate, they not only offset the initial benefits but also generate new obstacles that hinder genuine progress.
 
 ---
 ## 正文段原因模板 2组
@@ -82,7 +82,13 @@ In conclusion, although both perspectives have their own merits, I am more convi
 
 ### 首段
 
+#### 正向
+
 The debate surrounding [题干话题] has engaged a broad audience recently. Although certain drawbacks are sometimes mentioned, these concerns are mostly case-specific and can be mitigated with appropriate measures. By contrast, the positive advantages side is far more evident, and therefore I believe that overall this is a positive development (positive trend).
+
+#### 反向
+
+The debate surrounding 【题干话题】 has engaged a broad audience recently. Although certain benefits are sometimes mentioned, these advantages are often limited in scope and short-lived. By contrast, the negative side is far more pronounced, and therefore I believe that overall this is a negative development (harmful trend).
 
 ### 总结段
 

@@ -31,7 +31,13 @@ Do not modify source files.
 4. Route it:
    - 观点型: degree of agreement + two reasons
    - 讨论型: both views + maintained opinion
-   - 利弊型: both sides + explicit verdict
+   - 利弊型: both sides + explicit verdict. Select one verdict and use the corresponding
+     body-paragraph structure from `task2-templates.md` in both essay versions:
+     - 利大于弊: Body 1 = two positive template groups; Body 2 = one negative template
+       group followed by one solution template group.
+     - 弊大于利: Body 1 = two negative template groups; Body 2 = one positive template
+       group followed by one concession-refutation template group.
+     Keep this paragraph order and group sequence unchanged.
    - 原因与解决方案型: causes + directly matched solutions
 5. Produce the Strict Template Version from applicable template sentences.
 6. Assess it against TR, CC, LR and GRA.

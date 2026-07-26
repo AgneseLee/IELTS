@@ -156,3 +156,25 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 | 思维能力 | `critical thinking, analytical ability and cultural awareness` |
 | 课程排除 | `be excluded from the curriculum` |
 | 身份认同 | `weaken their sense of national identity` |
+
+## 政府资助艺术类常见错误与搭配
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `governments’ assistance` | `government support for artists` | 泛指政府扶持时用单数名词作定语，比所有格更自然。 |
+| `art, music and poets` | `painting, music and poetry` | 并列项应保持同一语义类别；`poets` 指人。 |
+| `art relevant jobs` | `art-related jobs` | 复合形容词放在名词前时需要连字符。 |
+| `artistic workers` | `artists` | `artists` 更简洁、自然。 |
+| `make rational taxes ratio` | `set a reasonable funding limit` / `allocate funds transparently` | 原搭配不成立；措施应直接对应预算和浪费风险。 |
+| `the advantage overweighs the disadvantage` | `the advantages outweigh the disadvantages` | 表示“利大于弊”用 `outweigh`，通常用复数概括两方。 |
+
+高分搭配：
+
+| 功能 | 推荐表达 |
+|---|---|
+| 保存艺术遗产 | `preserve a nation’s artistic heritage` |
+| 市场失灵 | `protect culturally valuable work that may not attract mass audiences` |
+| 财政压力 | `keep the cost to taxpayers under control` |
+| 机会成本 | `divert public funds away from essential services` |
+| 透明拨款 | `set a clear budget and check how the money is spent` |
+| 有限资助 | `provide limited and transparent grants` |

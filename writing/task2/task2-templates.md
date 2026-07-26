@@ -56,6 +56,20 @@ A practical approach to addressing this issue is to promote [解决方案]. This
 Another important step in tackling [核心问题] is to strengthen [解决方案] at both governmental and individual levels. The key reason is that it enhances [普适领域], thereby addressing underlying causes rather than superficial symptoms. As a result, this strategy not only reduces immediate pressure on [话题领域] but also ensures more lasting and comprehensive outcomes. This makes it clear why targeted actions are indispensable for lasting solutions.
 
 ---
+## 观点型和讨论型正文段 2 开头替换句
+
+Use the applicable sentence below instead of the first sentence of the first template group
+in Body 2.
+
+### 观点型
+
+However, opponents may argue that 【观点】.
+
+### 讨论型
+
+However, advocates of 【观点 B】 may argue that 【观点】.
+
+---
 ## 高级连贯 观点型（同意/反对）
 
 ### 首段

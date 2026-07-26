@@ -29,7 +29,17 @@ Do not modify source files.
 2. Create one realistic IELTS-style question matching the selected type.
 3. Lock one logic contract: position; paragraph claims; cause-effect chains; solutions; conclusion.
 4. Route it:
-   - 观点型: degree of agreement + two reasons
+   - 观点型: select one subtype and use its exact body-paragraph structure in both
+     essay versions:
+     - 同意态度: Body 1 contains two positive template groups; Body 2 contains one
+       negative template group followed by one solution template group.
+     - 否定态度: Body 1 contains two negative template groups; Body 2 contains one
+       positive template group followed by one concession-refutation template group.
+     - 特殊双观点题: use when the prompt is formally an opinion question but requires
+       discussion of two stated viewpoints. Body 1 contains two positive template groups;
+       Body 2 contains one positive template group followed by one concession-refutation
+       template group.
+     Keep this paragraph order and group sequence unchanged.
    - 讨论型: both views + maintained opinion
    - 利弊型: both sides + explicit verdict. Select one verdict and use the corresponding
      body-paragraph structure from `task2-templates.md` in both essay versions:
@@ -39,6 +49,14 @@ Do not modify source files.
        group followed by one concession-refutation template group.
      Keep this paragraph order and group sequence unchanged.
    - 原因与解决方案型: causes + directly matched solutions
+
+In every route above, `Body 1: two ... groups` means that Body 1 is one paragraph
+containing both template groups. Treat the colon as punctuation, never as a ratio or as
+an instruction to create additional body paragraphs.
+
+For 观点型 and 讨论型, replace the first sentence of the first template group in Body 2
+with the applicable Body 2 opening from `task2-templates.md`. Use `opponents` for 观点型
+and `advocates of [观点 B]` for 讨论型. Do not retain the replaced template sentence.
 5. Produce the Strict Template Version from applicable template sentences.
 6. Assess it against TR, CC, LR and GRA.
 7. If below Band 7, list only the score blockers and produce a Minimal Repair Version.
@@ -51,6 +69,8 @@ Never overwrite; append `-2`, `-3`, and so on.
 
 - Copy applicable complete sentences from `task2-templates.md` verbatim.
 - Replace bracketed placeholders only; do not reorder, paraphrase, add or delete.
+- Treat the required 观点型/讨论型 Body 2 opening replacement as the sole exception to the
+  preceding rule.
 - Bold every placeholder replacement so substituted content is immediately visible.
 - Report its actual word count. Do not alter it merely to reach 280–320 words.
 - If it misses Band 7, preserve it as evidence; do not silently improve it.

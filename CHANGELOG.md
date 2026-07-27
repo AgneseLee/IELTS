@@ -51,6 +51,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 修正科技提高工作效率的因果链，改用任务自动化与信息处理速度解释生产率提升
 - 扩展 Task 2 观点型路由与讨论型正文开头替换规则，并补充对应模板句
 - 扩展 Task 2 利弊型生成规则与正反向首段模板，固定不同结论对应的正文模板组合并统一负向占位符格式
 - 统一 IELTS Speaking 每日笔记的标题层级、评分表、列表、分隔线与记录格式
@@ -82,6 +83,7 @@
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
+- 删除旧版 `writing/task2-views.md`，统一使用手机阅读版观点库
 - 删除旧版 Task 2 独立表达库
 - 删除已整合的独立地图工具包与旧版 Speaking 计划文档
 - 删除 `writing/myEssays.md`（内容已迁移至 `writing/task1/` 独立文档）

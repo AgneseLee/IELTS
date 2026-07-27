@@ -192,3 +192,50 @@ Long-sentence pattern:
 - [ ] `respectively` forms a clear A–B / C–D match.
 - [ ] Body paragraphs follow one stable spatial order.
 - [ ] No unsupported purpose or impact is added.
+
+---
+
+## 9. Harbour Map Language
+
+### Common errors
+
+| Error | Correction | Reason |
+|---|---|---|
+| `at the north to the car park` | `to the north of the car park` | 方位固定结构是 `to the north of`。 |
+| `a private yachts called Marina` | `a marina for private yachts` | `marina` 指游艇停泊区，不是游艇本身。 |
+| `the areas have switched their positions` | `the areas have exchanged positions` | 描述两个区域互换位置时，`exchange positions` 更自然。 |
+| `the number of docks has increased double` | `the number of docks has doubled` | `double` 可直接作动词。 |
+
+### Useful phrases
+
+| Function | Expression |
+|---|---|
+| 设施互换 | `the marina and fishing-boat areas have exchanged positions` |
+| 海滩用途改变 | `the public beach has become private for hotel guests` |
+| 港口扩建 | `a second dock has been constructed` |
+| 数量增加一个 | `the number of passenger ferries has risen from two to three` |
+
+---
+
+## 10. Proposed Redevelopment Language
+
+### Common errors
+
+| Error | Correction | Reason |
+|---|---|---|
+| `compared with in the present day` | `compared with its present layout` | `compare A with B` 后需要完整的名词比较对象。 |
+| `factories are constructed along the road` | `factories are located along the road` | 描述现状位置用 `located`；`constructed` 表示建造动作。 |
+| `only single road serve the area` | `only a single road serves the area` | 单数可数名词需要冠词，第三人称单数动词加 `-s`。 |
+| `main load` | `main road` | `load` 表示负载；道路应写作 `road`。 |
+| `in the center part of the area` | `at the centre of the site` | 后者更简洁自然，且符合地图方位表达。 |
+| `housing sections` | `housing` / `residential areas` | `housing` 通常为不可数名词；`housing sections` 搭配不自然。 |
+| `is planned to expanded` | `is planned to be expanded` | 计划被扩建需要完整的被动结构。 |
+| `nearby the residential areas` | `near the residential areas` | `near` 可作介词；`nearby` 不能按此结构直接接宾语。 |
+
+### Useful phrases
+
+| Function | Expression |
+|---|---|
+| 规划改造 | `the site is planned to be redeveloped` |
+| 环岛增设 | `a second roundabout will be added on the main road` |
+| 住宅分布 | `housing will be positioned around the roundabout and along the eastern road` |

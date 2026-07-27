@@ -477,34 +477,34 @@
 #### 正向 2
 
 - **观点**：Technology can **accelerate information dissemination**.
-- **原因**：This is because modern society is shaped by **ease of access to information**, **internet penetration**, and lower device costs.
+- **原因**：This is because digital platforms can **transmit information instantly** and allow users to **share content with large audiences at a low cost**.
 - **结果**：It can **improve communication efficiency** and **support remote work and learning**.
 
 #### 正向 3
 
 - **观点**：Technology can **enhance healthcare quality**.
-- **原因**：This is because **technological advancements drive demand growth** and investment in education and research is increasing.
-- **结果**：It can **advance medical technology** and **increase data accuracy**.
+- **原因**：This is because digital tools can **process large amounts of patient data quickly** and help doctors make better-informed decisions.
+- **结果**：This can **improve diagnostic accuracy** and enable patients to receive **faster and more suitable treatment**.
 
 #### 正向 4
 
 - **观点**：Technology can **promote educational equality**.
-- **原因**：This is because **network access has become more widespread** and information is easier to obtain.
-- **结果**：It can **support remote work and learning** and **promote scientific research**.
+- **原因**：This is because online platforms can give students in **remote or disadvantaged areas** access to lessons and learning materials regardless of their location.
+- **结果**：This can **reduce gaps in educational resources** and give more students **equal opportunities to learn**.
 
 ### 反向观点
 
 #### 反向 1
 
 - **观点**：Technology may **lead to privacy leaks**.
-- **原因**：This is because the development of an **information society** and widespread internet use increase the amount of personal data online.
-- **结果**：It can also **encourage cybercrime** and **cause information overload**.
+- **原因**：This is because many digital services **collect and store large amounts of personal data**, which may be exposed through security weaknesses or improper use.
+- **结果**：Criminals can use leaked information to commit **online fraud** or **identity theft**, causing users to lose both money and privacy.
 
 #### 反向 2
 
 - **观点**：Technology may **cause unemployment issues**.
-- **原因**：This is because of the **development of AI and automation**, which can replace some routine jobs.
-- **结果**：It can **disrupt traditional industries** and **widen the wealth gap**.
+- **原因**：This is because AI and automated systems can perform many **routine tasks faster and at a lower cost than human workers**, reducing companies’ demand for employees in these roles.
+- **结果**：Workers who lack the skills required for new jobs may face **long-term unemployment**, which can **widen income inequality**.
 
 ### 作文里可直接套
 

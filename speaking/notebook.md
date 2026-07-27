@@ -1,3 +1,691 @@
+# IELTS Speaking 考前最后复习：Stories & 高频 Collocations
+
+> 明天考试只复习这一部分。不要背完整答案，只记故事锚点和自己已经用过的搭配。
+
+## 一、临场回答原则
+
+### Part 1：直接回答 + 原因 + 个人细节
+
+> Personally speaking, ...
+>
+> The main reason is that ...
+>
+> Take myself as an example, ...
+
+- 控制在 20–30 秒。
+- 一道题使用 1–2 个自然搭配即可。
+- 先说完短句，不要为了复杂句反复重启。
+
+### Part 2：背景 + 转折 + 细节 + 感受 + 反思
+
+一分钟笔记只写：
+
+`who/where → background → problem/event → one vivid detail → feeling → reflection`
+
+自然开头：
+
+> One experience that immediately comes to mind is ...
+
+自然收尾：
+
+> Looking back, ...
+>
+> What impressed me most was not only ..., but also ...
+>
+> Ever since then, ...
+
+### Part 3：观点 + 原因 + 例子 + 限定
+
+> From my perspective, ...
+>
+> The main reason is that ...
+>
+> A good example would be ...
+>
+> That being said, it largely depends on ...
+
+---
+
+## 二、核心 Story Bank
+
+### Story 1 — Stella：积极、会规划、有创造力的朋友
+
+**可迁移题**
+
+- a close friend / an influential person
+- a person who plans well
+- a creative or optimistic person
+- a friend you are proud of
+- a nature lover
+
+**记忆锚点**
+
+- former colleague; met after moving to Beijing
+- open-minded, thoughtful and optimistic
+- planned the Malaysia trip six months in advance
+- booked flights and hotels; prepared a detailed itinerary
+- neither of us won the lottery
+- joked that we had “bought back our luck”
+- immediately lightened the mood
+
+**万能收尾**
+
+> Spending time with her has taught me to stay calm and look at disappointing situations from a different perspective.
+
+---
+
+### Story 2 — *Counselling for Toads*：低谷期读的一本书
+
+**可迁移题**
+
+- a useful book / a story you read
+- a gift you would give someone
+- an important life lesson
+- something that helped you
+
+**记忆锚点**
+
+- widely recommended online
+- read it after being laid off
+- Mr. Toad struggled with depression
+- a therapist helped him understand his emotions
+- face negative emotions rather than avoid them
+- helped me cope with stress and regain confidence
+- recommended it to Stella
+
+**万能收尾**
+
+> Looking back, it was exactly the book I needed during one of the most difficult periods of my life.
+
+---
+
+### Story 3 — Malaysia：旅行、迷路与自然风景
+
+**可迁移题**
+
+- an enjoyable trip / a car journey
+- an occasion when you got lost
+- a natural place / beautiful scenery
+- a wild animal
+- a short stay abroad
+- a problem you solved
+
+**记忆锚点**
+
+- travelled with Stella last May
+- rented a car and explored at our own pace
+- poor internet connection; GPS lost its signal
+- took the wrong route in the mountains
+- came across a hidden garden and asked tourists for directions
+- Semporna: clear water, colourful coral reefs and lush greenery
+- saw a sea turtle moving slowly and gracefully
+
+**万能收尾**
+
+> The trip not only broadened my horizons, but also taught me to remain calm when things did not go as planned.
+
+---
+
+### Story 4 — 帮 Stella 应对工作压力
+
+**可迁移题**
+
+- a time you gave someone advice
+- a time you helped someone
+- an important conversation
+- a problem you helped solve
+
+**记忆锚点**
+
+- massive layoffs at my former company
+- heavier workload and tighter deadlines
+- felt overwhelmed, burned out and unmotivated
+- listened carefully instead of offering an immediate solution
+- recommended *Counselling for Toads*
+- broke the problem into smaller steps
+- encouraged a healthier routine and more time to relax
+
+**万能收尾**
+
+> Sometimes people do not need immediate solutions; they need someone who can genuinely listen and help them see the situation differently.
+
+---
+
+### Story 5 — 被裁员后的重要决定
+
+**可迁移题**
+
+- an important decision
+- a difficult experience / major life change
+- a challenge you overcame
+- a period of personal growth
+
+**记忆锚点**
+
+- worked as a software engineer for around eight years
+- was suddenly laid off
+- felt frustrated and questioned my abilities
+- stopped dwelling on what had happened
+- built a healthier routine and learned new skills
+- rebuilt my confidence
+- viewed the setback as an opportunity to grow
+
+**万能收尾**
+
+> I could not control what had already happened, but I could control how I responded to it.
+
+---
+
+### Story 6 — 妈妈保存的童年作文
+
+**可迁移题**
+
+- a family treasure / an old object
+- a meaningful gift
+- a family member you are proud of
+- a childhood memory
+
+**记忆锚点**
+
+- handwritten essay about my mother
+- written in primary school; kept for almost two decades
+- did not receive a particularly high grade
+- captured my childhood thoughts and feelings
+- I was introverted and worried about others’ opinions
+- my mother listened without criticising me
+- offered practical advice based on her extensive life experience
+
+**万能收尾**
+
+> Its value lies not in the object itself, but in the childhood memories and emotional connection behind it.
+
+---
+
+### Story 7 — ChatGPT 与理想工作
+
+**可迁移题**
+
+- a useful app / an important technology
+- something you cannot live without
+- a website you often use
+- a perfect job / technology at work
+
+**记忆锚点**
+
+- cutting-edge AI technology
+- use it on a daily basis
+- boost my productivity and improve efficiency
+- free me from repetitive and mundane tasks
+- build projects from scratch
+- turn ideas into reality
+- ideal career: freelance software engineer with freedom and flexibility
+
+**万能收尾**
+
+> It has become an essential part of my work because it allows me to focus on creative tasks and stay competitive.
+
+---
+
+### Story 8 — Dr. Fan：有同理心的牙医
+
+**可迁移题**
+
+- a medical professional
+- a helpful person
+- someone you admire
+- a person with a strong sense of responsibility
+
+**记忆锚点**
+
+- visited her because of a toothache
+- created a detailed treatment plan
+- recommended scaling and root planing
+- the procedure was painful
+- stopped immediately when I felt uncomfortable
+- explained the process patiently
+- combined medical expertise with emotional support
+
+**万能收尾**
+
+> She showed me that good healthcare requires not only medical expertise, but also patience, empathy and human connection.
+
+---
+
+### Story 9 — Elon Musk：创新型企业家
+
+**可迁移题**
+
+- a famous or successful person
+- a business person
+- a creative person / role model
+
+**记忆锚点**
+
+- famous technology entrepreneur
+- innovative mindset
+- founded SpaceX and developed reusable rockets
+- turned an ambitious idea into reality
+- reduced the cost of space exploration
+- willing to take calculated risks
+- remained persistent despite failures
+
+**万能收尾**
+
+> His experience reminds me that talent alone is not enough; persistence and the ability to overcome setbacks are equally important.
+
+---
+
+### Story 10 — 做麻婆豆腐：新活动与等待
+
+**可迁移题**
+
+- a special meal
+- a new activity you enjoyed
+- something worth waiting for
+- a problem caused by a power cut
+
+**记忆锚点**
+
+- started cooking after being laid off
+- wanted to build a healthier routine
+- found a recipe on Xiaohongshu
+- bought fresh ingredients and cooked from scratch
+- adjusted the flavours gradually
+- the smell filled the kitchen
+- created something with my own hands
+
+**万能收尾**
+
+> Cooking gave me a great sense of satisfaction because, just like coding, it allowed me to turn an idea into reality.
+
+---
+
+### Story 11 — 家附近的公园与建筑
+
+**可迁移题**
+
+- a place to relax / a public place
+- a place with beautiful views
+- an interesting building
+- a crowded or boring place
+
+**记忆锚点**
+
+- park near my apartment; visit on a weekly basis
+- walk around the lotus pond
+- lush greenery, ducks and geese
+- fresh air and a peaceful atmosphere
+- deep conversations with Stella
+- nearby art museum: distinctive design and spacious interiors
+- shopping malls feel crowded, noisy and repetitive
+
+**万能收尾**
+
+> Although it is not the most breathtaking place, it helps me take a break from my daily routine and is full of meaningful memories.
+
+---
+
+### Backup Story — 生日聚会 / 世界杯
+
+**生日聚会**
+
+- simple dinner at my apartment rather than a large party
+- recalled the Malaysia lottery story
+- friends laughed together
+- spent quality time and created lasting memories
+
+> What mattered most was not the celebration itself, but the emotional connection we shared.
+
+**世界杯**
+
+- crowd erupted with excitement
+- energetic atmosphere
+- shared sense of belonging
+- sport brought people closer together
+
+> Sports are not just about winning or losing; they also create a sense of connection.
+
+---
+
+## 三、Part 2 Band 7 限时稿
+
+> 目标：每篇约 205–220 词。按每分钟 115–125 词并加上自然停顿，约为 1 分 45 秒至 2 分钟。不要逐字死背，只背加粗搭配和故事顺序。
+
+### Script 1 — Describe a person who plans things well
+
+> 约 213 词
+
+The person who immediately comes to mind is my close friend Stella. We used to work for the same company, and we became close friends after I moved to Beijing about three years ago.
+
+What stands out most about her is that she always **plans well in advance**. A good example would be our trip to Malaysia last year. She started preparing for it almost six months before we left. She booked our flights and hotels early, worked out a realistic budget and prepared a **detailed itinerary** covering transportation, local food and the places we wanted to visit.
+
+I am quite different because I normally make decisions at the last minute. However, Stella did not make the trip feel overly controlled. She left some free time in the schedule, so we could still **explore at our own pace**. When our navigation app lost its signal in the mountains, she remained calm, checked the route and asked other tourists for directions. Thanks to her careful planning, the rest of the trip went smoothly.
+
+I really admire this quality because planning ahead can reduce unnecessary stress while still leaving room for unexpected experiences. Spending time with her has encouraged me to become more organised and to stay calm when things do not go as planned.
+
+---
+
+### Script 2 — Describe a useful book
+
+> 约 217 词
+
+A useful book I would like to talk about is *Counselling for Toads: A Psychological Adventure*. I first saw it recommended online, and I decided to read it shortly after I was laid off from my job as a software engineer.
+
+The story follows Mr. Toad, who struggles with depression and gradually loses confidence. Instead of simply telling him to stay positive, a therapist guides him through counselling and helps him understand where his negative emotions come from. What impressed me most was the message that we should **face our feelings rather than avoid them**.
+
+At that time, I was going through a difficult period and constantly questioning my abilities. The book helped me realise that I could not control the layoff, but I could control how I responded to it. I began to **cope with stress** in a healthier way, build a better daily routine and focus on learning new skills. I still **refer back to** some of its ideas whenever I feel overwhelmed.
+
+I later recommended the book to Stella when she was under a great deal of pressure at work. Looking back, it was exactly the book I needed during one of the most difficult periods of my life because it helped me **regain my confidence** and look at setbacks from a different perspective.
+
+---
+
+### Script 3 — Describe a short stay in another country
+
+> 约 217 词
+
+I would like to talk about a ten-day trip to Malaysia that I took with my close friend Stella last May. The stay was short because of limited annual leave, but it was extremely memorable.
+
+We spent most of our time near Semporna. We rented a car because we wanted more flexibility and preferred to **explore the area at our own pace**. The most unforgettable activity was freediving. The water was incredibly clear, and beneath the surface I could see **colourful coral reefs**, different kinds of fish and even a sea turtle moving slowly and gracefully. I felt as if I had entered another world.
+
+The trip was not completely trouble-free. One day, our navigation app lost its signal because of the poor internet connection, so we took the wrong route in the mountains. At first I felt frustrated, but Stella remained calm. We unexpectedly **came across a hidden garden**, where we met some tourists and asked them for directions. Eventually, we reached our destination as planned.
+
+What impressed me most was the combination of breathtaking scenery and unexpected adventure. The trip not only **broadened my horizons**, but also strengthened my emotional connection with Stella. It taught me that even when things do not go as planned, the experience can still leave me with a lasting impression.
+
+---
+
+### Script 4 — Describe a time when you gave someone advice
+
+> 约 217 词
+
+One experience that comes to mind is when I gave advice to my close friend Stella. She still works at my previous company, which went through massive layoffs several months ago.
+
+After many employees left, Stella had to **take on a much heavier workload** and face tighter deadlines. She gradually lost motivation and felt completely **burned out**. During one of our conversations, she told me she was becoming impatient and easily frustrated whenever something went wrong.
+
+Rather than offering an immediate solution, I first listened carefully and tried to understand her feelings. I then recommended a book called *Counselling for Toads*, which had helped me after I was laid off. I encouraged her to face her negative emotions instead of avoiding them. I also suggested that she **break her problems into smaller steps**, build a healthier routine and make time to relax.
+
+She did not change overnight, but she gradually started getting up earlier, exercising more and dealing with her work step by step. Most importantly, she became calmer and began to look at the situation from a different perspective.
+
+This experience taught me that **practical advice** is not always about telling someone exactly what to do. Sometimes people simply need someone who can genuinely listen, provide emotional support and help them regain a sense of control.
+
+---
+
+### Script 5 — Describe an important decision you made
+
+> 约 214 词
+
+An important decision I made was to stop dwelling on my layoff and focus on rebuilding my life. I had worked as a software engineer for around eight years, so losing my job suddenly was a major shock.
+
+At first, I felt frustrated and started questioning my abilities. I spent too much time thinking about what had gone wrong, even though I knew that worrying would not change the situation. The turning point came when I remembered an idea from a book I had read: I could not control what had already happened, but I could control how I responded to it.
+
+I therefore decided to **take control of my life** and view the setback as an opportunity for **personal growth**. I began getting up earlier, exercising regularly and learning new AI technologies. I also started cooking, which helped me build a healthier routine and gave me a great sense of satisfaction. Step by step, I regained my confidence and became more optimistic about future opportunities.
+
+Looking back, this decision did not solve everything immediately, but it changed the direction of my life. It taught me that moving forward sometimes means accepting negative emotions, breaking a problem into smaller steps and taking practical action instead of waiting for circumstances to improve on their own.
+
+---
+
+### Script 6 — Describe something important that your family has kept
+
+> 约 215 词
+
+Something important my family has kept is a handwritten essay about my mother. I wrote it when I was in primary school, and my family has kept it carefully for almost two decades.
+
+To be honest, the essay itself is not an outstanding piece of writing. I think it only received a B or B-plus at the time. However, it captured my childhood thoughts and feelings, which gives it a great deal of **emotional value**.
+
+When I was young, I was quite introverted and found it difficult to open up to my classmates. I was always worried about other people’s opinions. My mother never criticised me or forced me to change. Instead, she listened carefully and offered **practical advice** based on her extensive life experience. She helped me understand that disagreement did not necessarily mean rejection. Thanks to her encouragement, I gradually built my confidence and became more willing to communicate with others.
+
+Whenever I read the essay now, it **brings back warm memories** of that period and reminds me how much my mother influenced my personal growth. For me, its value lies not in the paper itself or the grade I received, but in the emotional connection behind it. That is why I hope my family will continue to preserve it for many years.
+
+---
+
+### Script 7 — Describe a program or app you often use
+
+> 约 206 词
+
+A program I use very frequently is ChatGPT. I first heard about it online when generative AI began attracting public attention, and now I use it **on a daily basis**, both at work and in my personal life.
+
+As a software engineer, I mainly use it to explain unfamiliar technical concepts, brainstorm solutions and help me build small projects from scratch. What appeals to me most is its ability to **boost my productivity** and free me from **repetitive and mundane tasks**. For example, it can help me identify a simple coding error within seconds, which allows me to spend more time on creative work and complex problem-solving.
+
+I also use it outside work. It helps me organise study notes, improve my English expressions and explore topics that **fuel my curiosity**. Of course, I do not trust every answer blindly. I still check important information and rely on my own judgement, especially when the topic is complicated.
+
+Overall, ChatGPT has become an essential part of my daily routine. It does not replace my creativity or decision-making; instead, it supports me in turning ideas into reality more efficiently. As technology continues to evolve, I believe knowing how to use tools like this responsibly will help professionals **stay competitive**.
+
+---
+
+### Script 8 — Describe a person who works in the medical field
+
+> 约 212 词
+
+A medical professional I would like to talk about is Dr. Fan, my dentist. I met her recently after I developed a severe toothache and booked an appointment at a dental clinic near my apartment.
+
+After examining my teeth, she created a detailed treatment plan for my gum disease and recommended a deep-cleaning procedure called scaling and root planing. I was quite nervous because I had heard that the treatment could be painful.
+
+During the procedure, I began to feel extremely uncomfortable and immediately told her. She stopped straight away instead of ignoring my reaction. She patiently explained what she was doing, gave me time to relax and only continued when I felt ready. What stood out most about her was her **strong sense of responsibility** and the attention she paid to my feelings.
+
+Dentists often **work under a great deal of pressure** and see many patients every day. Even so, she remained calm, professional and empathetic throughout the appointment. Her patience made a stressful experience much easier for me.
+
+I admire Dr. Fan because she showed me that good healthcare requires not only **medical expertise**, but also emotional support and human connection. Technology may assist doctors in the future, but qualities such as empathy, patience and human judgement will remain irreplaceable.
+
+---
+
+### Script 9 — Describe a business person you admire
+
+> 约 214 词
+
+A business person I admire is Elon Musk, one of the best-known technology entrepreneurs in the world. I first learned about him through news reports about Tesla and SpaceX.
+
+What stands out most about him is his **innovative mindset** and willingness to **take calculated risks**. A good example is SpaceX. For many years, reusable rockets seemed unrealistic because rockets were normally used only once. However, his company continued experimenting despite repeated failures and eventually managed to land and reuse rocket boosters. This helped reduce the cost of space exploration and turned an ambitious idea into reality.
+
+I do not agree with every decision he makes, and I think famous business leaders should still be viewed critically. That being said, I admire his ability to remain persistent when other people doubt his ideas. Building a successful company requires people to juggle multiple responsibilities, overcome setbacks and keep learning in order to stay competitive.
+
+His experience has influenced the way I think about my own career in technology. It reminds me that creating meaningful products requires more than a good idea. People also need determination, practical skills and the courage to act. Overall, I admire him because he demonstrates that talent alone is not enough; persistence and the ability to learn from failure are equally important.
+
+---
+
+### Script 10 — Describe an activity you tried for the first time
+
+> 约 213 词
+
+An activity I tried for the first time was cooking Mapo Tofu, a well-known Sichuan dish. I started learning to cook shortly after I was laid off because I wanted to **build a healthier routine** and keep myself occupied.
+
+I found a recipe on Xiaohongshu and bought all the fresh ingredients, including tofu, minced meat and chilli bean paste. Since I had never made the dish before, I followed the instructions carefully. I prepared everything in advance, cooked the ingredients step by step and **adjusted the flavours** gradually. The most satisfying moment was when the smell filled the kitchen and I watched all the ingredients come together.
+
+At first, I was worried that the dish would be either too spicy or completely tasteless. Surprisingly, it turned out much better than I expected. I invited Stella to have dinner with me, and she said it tasted quite authentic. Hearing that gave me **a great sense of satisfaction**.
+
+What made the activity special was not only the food itself, but also the fact that I had created something with my own hands. Cooking brought back a feeling similar to coding because both activities allow me to **turn ideas into reality**. It encouraged me to step out of my comfort zone and continue learning new skills.
+
+---
+
+### Script 11 — Describe a place in your home where you relax
+
+> 约 219 词
+
+The place where I relax most often is the living room in my apartment. I moved there about a year ago, and one thing that really appeals to me is that the whole apartment faces south.
+
+During the daytime, plenty of sunlight comes through the large window and creates a warm, cosy and **peaceful atmosphere**. I have a comfortable sofa beside the window and several green plants on the windowsill. The room is not particularly large or luxurious, but it feels bright, tidy and welcoming.
+
+I normally spend time there in the evening after working or studying for several hours. I may read a book, watch a film or simply listen to music. On weekends, I sometimes invite Stella over, and we sit on the sofa and have long, meaningful conversations. These simple moments help us strengthen our emotional connection.
+
+This room matters to me because it allows me to **take a break from my daily routine** and **unwind and recharge** without travelling anywhere. Modern life can be stressful, especially when people have financial responsibilities and need to juggle multiple roles. Having a calm space at home makes it much easier for me to clear my head. Although the living room is quite ordinary, it is full of meaningful memories and always makes me feel refreshed and at peace.
+
+---
+
+### Script 12 — Describe an occasion when many people were smiling
+
+> 约 215 词
+
+An occasion when many people were smiling was my birthday celebration last year. I invited Stella and two other close friends to my apartment and prepared a simple dinner rather than having a large party.
+
+After dinner, we started talking about our recent lives and recalling a trip Stella and I had taken to Malaysia. At the airport, we had bought a few lottery tickets just for fun, but neither of us won anything. I had looked slightly disappointed, so Stella joked that we had not wasted our money; we had simply “bought back our luck”.
+
+When she repeated the story at dinner, everyone burst out laughing. Her joke immediately **lightened the mood** and created a warm, energetic atmosphere. We took several photos together, and the smiles in those pictures were completely natural because we were genuinely enjoying the moment.
+
+What I appreciated most was not the birthday cake or the gifts, but the opportunity to **spend quality time together** and relive happy memories. The evening reminded me that celebrations do not need to be expensive or elaborate. Their real value lies in bringing people closer together and strengthening emotional connections. Whenever I look at those photos now, they **bring back warm memories** and remind me how lucky I am to have such supportive friends.
+
+---
+
+## 四、最高频 Collocations
+
+### 1. 万能感受与影响
+
+- leave me with a lasting impression
+- bring back warm memories
+- create lasting memories
+- broaden my horizons
+- spark / fuel my curiosity
+- give me a great sense of satisfaction
+- help me unwind and recharge
+- take a break from my daily routine
+- look at something from a different perspective
+- play a vital role in ...
+- make a meaningful difference
+
+### 2. 人物与关系
+
+- one of my closest friends
+- have a lot in common
+- be on the same wavelength
+- an open-minded and thoughtful person
+- have a positive attitude
+- keep everyone’s spirits up
+- lighten the mood
+- genuinely listen to someone
+- offer practical advice
+- provide emotional support
+- strengthen emotional connections
+- spend quality time together
+- bring people closer together
+
+### 3. 工作、学习与成长
+
+- meaningful work
+- job satisfaction
+- personal growth
+- work under a great deal of pressure
+- take on a heavier workload
+- face tight deadlines
+- feel overwhelmed / burned out
+- juggle multiple responsibilities
+- build a healthier routine
+- regain / build my confidence
+- step out of my comfort zone
+- stay competitive
+- overcome setbacks
+- take calculated risks
+- turn ideas into reality
+
+### 4. 科技与效率
+
+- cutting-edge technology
+- on a daily basis
+- boost my productivity
+- improve my efficiency
+- repetitive and mundane tasks
+- build something from scratch
+- solve real-world problems
+- human judgement and adaptability
+- free someone from routine tasks
+- highly dependent on technology
+
+### 5. 旅行、自然与地点
+
+- plan well in advance
+- prepare a detailed itinerary
+- explore somewhere at my own pace
+- take the wrong route
+- reach the destination as planned
+- come across a hidden place
+- breathtaking scenery
+- colourful coral reefs
+- lush greenery
+- vibrant flowers
+- peaceful / cozy atmosphere
+- distinctive architectural design
+- sleek glass exterior
+- spacious interiors
+
+### 6. 情绪、困难与建议
+
+- go through a difficult period
+- cope with stress
+- face negative emotions rather than avoid them
+- dwell on disappointment
+- lose motivation
+- break a problem into smaller steps
+- deal with something step by step
+- take control of my life
+- resist change
+- things do not go as planned
+- remain calm and optimistic
+
+### 7. 家庭、记忆与庆祝
+
+- emotional value
+- childhood memories
+- preserve special moments
+- relive happy memories
+- maintain family bonds
+- create a sense of belonging
+- genuine recognition
+- feel appreciated
+- erupt with excitement
+- create an energetic atmosphere
+
+### 8. 食物与活动
+
+- cook from scratch
+- fresh ingredients
+- adjust the flavours
+- come together
+- create something with my own hands
+- be worth the wait
+- sweet fragrance
+- brighten up a room
+
+---
+
+## 五、必须自动化的 20 个表达
+
+如果时间不够，只复习这一组：
+
+1. What appeals to me most is ...
+2. What stands out most about ... is ...
+3. What impressed me most was ...
+4. One experience that comes to mind is ...
+5. Personally speaking, ...
+6. From my perspective, ...
+7. The main reason is that ...
+8. Take myself as an example.
+9. On top of that, ...
+10. That being said, ...
+11. While it is true that ..., ...
+12. It largely depends on ...
+13. Thanks to ...
+14. Rather than ...
+15. As long as ...
+16. Looking back, ...
+17. Ever since then, ...
+18. This helped me look at ... from a different perspective.
+19. What matters most is not ..., but ...
+20. Overall, that is probably the biggest reason why ...
+
+---
+
+## 六、考前易错点
+
+- 讲故事保持过去时：`went / drove / got lost / came across / realised`
+- `after I was laid off`，不是 `after I was being laid off`
+- `advice` 不可数：`some advice / a piece of advice`
+- `feel burned out`，但 `suffer from burnout`
+- `help me build confidence`；`allow me to create`
+- `a sense of responsibility`；`run a business`
+- `human judgement is`；`people are`
+- `While ..., ...` 后面不要再加 `but`
+- 想不到“高级词”时，用短而准确的句子继续说，不要重启。
+
+---
+
+# 原始训练记录（Day 1–17）
+
 # 📒 IELTS Speaking Band 7 Notebook
 
 ## Section 1 — Band 7 Toolbox ⭐ (Most Important)
@@ -4404,3 +5092,205 @@ Earlier in the programme, you mainly focused on building stories. Today, you foc
 Compared with the early days, you now rely much less on memorisation and much more on authentic communication. The next step is to make your grammar as automatic as your ideas, which will make a Band 7.5 performance much more consistent.
 
 ---
+
+
+
+📅 Day 18 Summary (Agnes) — IELTS Speaking Band 7 Notebook
+
+🎯 Band Tracker
+
+Fluency	Lexical	Grammar	Pronunciation	Overall
+7.5	7.5	7.0	7.5	7.5
+
+Today’s evaluation
+
+* Fluency & Coherence: ⭐ Excellent improvement
+    * Story bank became much more flexible.
+    * Reflections sounded more natural and personal.
+    * Less reliance on memorised sentences.
+* Lexical Resource: ⭐ Strong
+    * Successfully recycled notebook expressions instead of learning too many new ones.
+    * Used more native collocations naturally.
+* Grammar: ⭐ More stable
+    * Better sentence control.
+    * Fewer unnecessary restarts.
+    * Continue paying attention to articles (a/an) and singular/plural nouns.
+
+⸻
+
+✅ What I Did Today
+
+Part 1 Topics
+
+* Museums
+* Advertisements
+* Borrowing & Lending
+* Chatting
+* Growing Vegetables
+* Rest
+* Being Alone
+* Staying Up Late
+* Photography
+* Names
+
+Main Focus
+
+* Explain why, not only what.
+* Finish every answer with a reflection.
+* Recycle previous vocabulary naturally.
+
+⸻
+
+📚 Story Bank Review Completed
+
+① Malaysia Story
+
+Successfully migrated to:
+
+* Getting lost
+* Memorable trip
+* Beautiful scenery
+* Creative person
+
+Key reflection:
+
+Looking back, the experience taught me to stay calm because things don’t always go as planned.
+
+⸻
+
+② Dr. Fan Story
+
+Successfully migrated to:
+
+* Person who helped me
+* Medical professional I admire
+
+Key reflection:
+
+What truly matters is not only solving the problem, but also making people feel understood and supported.
+
+⸻
+
+③ Elon Musk Story
+
+Key expressions:
+
+* innovative mindset
+* turn ambitious ideas into reality
+* take calculated risks
+* resilience
+* persistence
+
+Key reflection:
+
+Success often requires patience and persistence.
+
+⸻
+
+④ Counselling for Toads
+
+Key expressions:
+
+* acknowledge my emotions
+* change my perspective
+* face difficulties
+* self-reflection
+
+Key reflection:
+
+What truly matters is accepting my emotions and continuing to move forward.
+
+⸻
+
+⑤ Freelancer Story
+
+Key expressions:
+
+* work remotely
+* create meaningful products
+* design my own lifestyle
+* a great sense of achievement
+* pursue personal growth
+
+Key reflection:
+
+Becoming a freelancer is more than a career choice; it’s the lifestyle I hope to build.
+
+⸻
+
+⭐ Best Sentences Today
+
+What truly matters is accepting my emotions and continuing to move forward.
+
+What stands out most is his innovative mindset and determination to turn ambitious ideas into reality.
+
+What appeals to me most about freelancing is the flexibility to work remotely.
+
+Looking back, I realised that success often requires patience and persistence.
+
+Every successful project gives me a great sense of achievement.
+
+⸻
+
+🚀 Native Collocations of the Day
+
+* what truly matters is…
+* turn ambitious ideas into reality
+* innovative mindset
+* take calculated risks
+* resilience and persistence
+* change my perspective
+* acknowledge my emotions
+* work remotely
+* design my own lifestyle
+* create meaningful products
+* a great sense of achievement
+* pursue personal growth
+
+⸻
+
+🔧 Three Grammar Priorities
+
+1.
+
+❌ He is a founder of SpaceX.
+
+✅ He is the founder of SpaceX.
+
+⸻
+
+2.
+
+❌ provide totally flexibility
+
+✅ provide a great deal of flexibility
+
+⸻
+
+3.
+
+❌ working as a freelancer don’t guarantee…
+
+✅ working as a freelancer doesn’t guarantee…
+
+⸻
+
+🎯 Focus for Next Practice
+
+1. Keep ending every Part 2 answer with a personal reflection.
+2. Continue reusing the same Story Bank instead of creating new stories.
+3. Replace basic expressions with stronger collocations you’ve already mastered.
+4. Pay extra attention to:
+    * articles (a / an / the)
+    * subject–verb agreement
+    * singular/plural nouns
+
+⸻
+
+⭐ Today’s Biggest Improvement
+
+Today wasn’t about learning lots of new vocabulary. It was about making your answers sound more mature.
+
+Compared with previous days, almost every Part 2 story ended with a meaningful reflection rather than simply describing an event. You consistently used expressions such as “What truly matters is…”, “Looking back…”, and “What stands out most is…” to explain why an experience mattered.
+
+This is a significant step because you’re no longer just answering IELTS questions—you’re building a connected Story Bank where one authentic experience can support multiple topics while keeping a clear personal voice. That is exactly the direction your 20-day speaking plan has been aiming for. notebook.md

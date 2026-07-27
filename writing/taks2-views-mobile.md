@@ -644,9 +644,9 @@
 
 #### 正向 2
 
-- **观点**：Employers should **enhance employee well-being**.
-- **原因**：This is necessary because there is an **increase in work stress and mental health issues**.
-- **结果**：This can **increase job satisfaction**, **improve employee health**, and **reduce employee turnover**.
+- **观点**：Employers should take greater responsibility for **improving employee well-being**.
+- **原因**：This is necessary because **heavier workloads**, **longer working hours**, and **intense workplace competition** expose employees to chronic stress, causing burnout and mental health problems that undermine their motivation and productivity.
+- **结果**：By providing mental health support, reasonable workloads, and flexible working arrangements, employers can improve employees’ physical and psychological health, thereby increasing **job satisfaction and loyalty** while reducing **absenteeism and employee turnover**.
 
 #### 正向 3
 
@@ -676,7 +676,7 @@
 
 ### 作文里可直接套
 
-> Employers should enhance employee well-being. This is necessary because work stress and mental health issues are increasing. As a result, better employee well-being can increase job satisfaction, improve employee health and reduce employee turnover.
+> Employers should take greater responsibility for improving employee well-being. Heavier workloads, longer working hours and intense workplace competition expose employees to chronic stress, which can cause burnout and mental health problems and consequently undermine their motivation and productivity. By providing mental health support, reasonable workloads and flexible working arrangements, employers can improve employees’ physical and psychological health, thereby increasing job satisfaction and loyalty while reducing absenteeism and employee turnover.
 
 ### 最简记忆链
 

@@ -1,6 +1,6 @@
 ---
 name: ielts-review
-description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, produce a revised 7.5 band version using the corresponding writing note, update that note with new patterns, and maintain a review document. Use when the user shares an essay inline, in a file, or with an image and asks for feedback, correction, band improvement, or critique.
+description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, produce three targeted revisions using the corresponding writing note, update that note with new patterns, and maintain a review document. Use when the user shares an essay inline, in a file, or with an image and asks for feedback, correction, band improvement, or critique.
 ---
 
 # IELTS Essay Review
@@ -32,18 +32,13 @@ Cross-check errors against the corresponding note — flag recurring mistakes wi
 
 ### Phase 2 — Revised Versions
 
-Produce seven full versions:
-- `Task Achievement-only Version`
-- `Coherence and Cohesion-only Version`
-- `Lexical Resource-only Version`
-- `Grammatical Range and Accuracy-only Version`
+Produce three full versions:
 - `Final Integrated Version (7.0–7.5)`
 - `Original Logic and Order — Expression-only Version`
 - `Minimally Adjusted Version (Target Band 7.0–7.5)`
 
 Rules:
-- In each single-criterion version, change only that criterion as much as possible.
-- Bold every changed phrase or sentence in the four single-criterion versions, the expression-only version and the minimally adjusted version. In all six versions, compare against the `Original Draft` rather than against another revision.
+- Bold every changed phrase or sentence in the expression-only version and the minimally adjusted version. Compare both directly against the `Original Draft`, not against another revision.
 - Do not bold text in the final integrated version.
 - Substitute vocabulary/phrases from the corresponding note where a better option exists.
 - Do not add new content the original essay did not attempt to cover.
@@ -129,26 +124,6 @@ Use this exact format (see `writing/task1/reviews/barChart-household-income-ielt
 
 ---
 
-## Task Achievement-only Version(<word count>)
-<full essay; bold only changed text>
-
----
-
-## Coherence and Cohesion-only Version(<word count>)
-<full essay; bold only changed text>
-
----
-
-## Lexical Resource-only Version(<word count>)
-<full essay; bold only changed text>
-
----
-
-## Grammatical Range and Accuracy-only Version(<word count>)
-<full essay; bold only changed text>
-
----
-
 ## Final Integrated Version(<word count>) (7.0–7.5)
 <full essay combining all four dimensions; no bold; for Task 1 use exactly four paragraphs: introduction, overview and two grouped body paragraphs>
 
@@ -174,7 +149,7 @@ Rules:
 - Preserve the original draft exactly — no silent fixes
 - Write all explanatory content under `Revision Advice` in Chinese. Keep the four criterion headings, `[TA]` `[CC]` `[LR]` `[GR]` tags, `⚠ recurring` markers and quoted English corrections or example phrases in English.
 - Place `Summary of Corrections` immediately after `Revision Advice` and before all revised versions.
-- Calculate each essay's prose word count, excluding its heading, Markdown markers and surrounding review content; put the integer directly in parentheses in that version's heading
+- Calculate the prose word count of each of the three revisions, excluding its heading, Markdown markers and surrounding review content; put the integer directly in parentheses in that version's heading
 - Verify Task 1 target-version word counts after drafting; revise any count outside 160–185 before saving the document
 - When the task statement is available and existing documents for that task type include a `Prompt` section, preserve the prompt in the document
 - Only include sections that have entries

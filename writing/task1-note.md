@@ -78,12 +78,32 @@ Related templates:
 |---|---|---|
 | `accounted for` | 占某比例（搭配数字）| Local taxes accounted for roughly a third of the total income. |
 | `comprised` | 构成（替代 make up）| Salaries comprised the largest part of the expenditure in both years. |
+| `make up` (`made up`) | 构成某一群体或整体的一部分 | People eating fast food once a week made up the largest group in 2006. |
+| `represent` (`represented`) | 占某一比例；表示某类别的数据 | The once-a-week category represented the largest proportion in 2006, at 33%. |
 | `the lion's share` | 最大份额 | Officer salaries took the lion's share of the total police budget. |
 | `occupied the largest portion of` | 占据最大部分 | National Government occupied the largest portion of the income sources. |
 | `X people formed the largest group` | X 类人构成最大群体 | People eating fast food once a week formed the largest group in 2006. |
 | `was followed by` | 第二位紧随 | This was followed by local taxes, which rose significantly to £102.3m. |
 | `account for the remaining amount` | 占据剩余数额 | Other sources accounted for the remaining amount of the funding. |
 | `X saw a decline in favor of Y` | X 减少转向 Y | Salaries saw a decline in favor of increased technology spending. |
+
+#### `represent / account for / make up / form` 的正确用法
+
+| 表达 | 安全结构 | 例句 |
+|---|---|---|
+| `represent` | `A represented X% of the total.` | People eating fast food once a week represented 33% of the total in 2006. |
+| `represent` | `A represented the largest/smallest proportion.` | The once-a-week category represented the largest proportion in 2006, at 33%. |
+| `account for` | `A accounted for X%.` | The once-a-week category accounted for 33% in 2006. |
+| `make up` | `A made up X% of the total.` | People eating fast food once a week made up 33% of the total in 2006. |
+| `make up` | `A made up the largest group.` | People eating fast food once a week made up the largest group in 2006. |
+| `form` | `A formed the largest group.` | People eating fast food once a week formed the largest group in 2006. |
+
+介词检查：
+
+- ✗ `represented at 33%` / `represented for 33%`
+- ✓ `represented 33% of the total`
+- ✓ `accounted for 33%`
+- ✓ `represented the largest proportion, at 33%`
 
 ---
 **救命词 `respectively`**：

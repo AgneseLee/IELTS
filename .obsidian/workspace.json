@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/task1/barChart-fast-food-frequency.md",
+                "file": "writing/task1-note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barChart-fast-food-frequency"
+              "title": "task1-note"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/task1/barChart-fast-food-frequency.md",
+                "file": "writing/task1-note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/task1/barChart-fast-food-frequency.md",
+                "file": "writing/task1-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "523063a716ad324b",
+  "active": "ce3293ed18ddea88",
   "lastOpenFiles": [
-    "speaking/The-100-Essential-IELTS-Master-Sentences.md",
     "writing/task1/barChart-fast-food-frequency.md",
+    "writing/task1-note.md",
+    "speaking/The-100-Essential-IELTS-Master-Sentences.md",
     "speaking/plan-v2.md",
     "speaking/topics.md",
     "speaking/topics-v2.md",

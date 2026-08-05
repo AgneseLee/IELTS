@@ -94,6 +94,7 @@
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
+- 删除不再维护的 Task 2 独立模型范文汇总
 - 删除重复且已被专项指南取代的旧版 Task 1 总模板
 - 删除旧版 `writing/task2-views.md`，统一使用手机阅读版观点库
 - 删除旧版 Task 2 独立表达库

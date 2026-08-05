@@ -8,7 +8,6 @@
 - [Core note](guides/core-note.md): recurring language and reasoning safeguards.
 - [Essay templates](guides/templates.md): structures for the four common question types.
 - [Expression bank](guides/expression-bank.md): reusable academic language.
-- [Model essays](guides/model-essays.md): complete reference answers.
 
 ## Work Areas
 

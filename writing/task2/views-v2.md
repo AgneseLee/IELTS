@@ -21,7 +21,7 @@
 `一天一个话题`
 `切入角度 = 从哪里找观点`
 `逻辑链 = 怎么展开观点：原因 → 机制 → 结果 → 深层影响`
-`当天产出 = 5个切入角度 + 5条逻辑链 + 1组正反论证 + 2个英文小段`
+`当天产出 = 5个切入角度 + 4条逻辑链（2正2反）+ 1组正反论证 + 2个英文小段`
 
 下面是用你当前页面语料整理出的 **12 天 schedule**。
 
@@ -37,14 +37,17 @@
 
 ### 逻辑链
 
-1. 教育资源不均 → 城乡/家庭背景差距扩大 → 学生机会不同 → 社会阶层分化
-    `Uneven distribution of educational resources → unequal opportunities → social stratification`
+1. **正向 1：** 政府公平分配教育资源 → 弱势学生获得更多机会 → 教育差距缩小 → 社会流动性提高
+    `Equitable educational resources → equal opportunities → narrow educational gaps → improve social mobility`
 
-2. 过度依赖标准化测试 → 学生只关注分数 → 实践技能被忽视 → 创造力下降
-    `Overreliance on standardized testing → neglect practical skills → stifle creative thinking`
+2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 更符合就业市场需求 → 青年就业压力缓解
+    `Vocational education → practical skills → meet labour-market demands → alleviate youth unemployment`
 
-3. 职业教育加强 → 学生掌握实用技能 → 更适应就业市场 → 缓解就业压力
-    `Strengthening vocational education → job market demands → alleviate employment pressure`
+3. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
+    `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
+
+4. **负向 2：** 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造力下降
+    `Overreliance on standardised testing → focus on scores → neglect practical skills → stifle creativity`
 
 
 ### 正反论证练习
@@ -67,14 +70,17 @@
 
 ### 逻辑链
 
-1. AI 和自动化发展 → 重复劳动减少 → 生产力提高 → 经济增长
-    `AI and automation → increase productivity → boost economic growth`
+1. **正向 1：** AI 与自动化承担重复任务 → 员工处理更高价值工作 → 生产力提高 → 企业与经济增长
+    `AI and automation → reduce repetitive work → raise productivity → boost economic growth`
 
-2. 网络普及 → 数据收集增加 → 隐私泄露风险上升 → 公众信任下降
-    `Internet penetration → data collection → privacy leaks`
+2. **正向 2：** 数字技术进入教育和医疗 → 偏远地区获得在线服务 → 机会差距缩小 → 公共福祉改善
+    `Digital technology → remote education and healthcare → wider access → improve public well-being`
 
-3. 技术教育提升 → 公众技术素养提高 → 更好使用数字工具 → 缩小机会差距
-    `Tech literacy → empower the public → promote educational equality`
+3. **负向 1：** 网络平台大量收集数据 → 个人信息被滥用或泄露 → 隐私风险上升 → 公众信任下降
+    `Extensive data collection → misuse or leaks → privacy risks → erode public trust`
+
+4. **负向 2：** 自动化替代常规岗位 → 低技能劳动者失业 → 收入差距扩大 → 社会不平等加剧
+    `Automation replaces routine jobs → unemployment → wider income gaps → deepen social inequality`
 
 
 ### 正反论证练习
@@ -97,14 +103,17 @@
 
 ### 逻辑链
 
-1. 贫富差距扩大 → 资源竞争加剧 → 社会不平等增加 → 社会凝聚力下降
-    `Widening wealth gap → resource competition → social inequality`
+1. **正向 1：** 扩大社会保障 → 弱势群体获得基本支持 → 贫困率下降 → 社会稳定性增强
+    `Expanded social welfare → support vulnerable groups → reduce poverty → enhance social stability`
 
-2. 社会保障增加 → 弱势群体获得支持 → 贫困率降低 → 社会稳定增强
-    `Expanding social welfare → reduce poverty rates → enhance social stability`
+2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 社会凝聚力提高
+    `Better public services → wider access to essentials → fairer opportunities → strengthen social cohesion`
 
-3. 文化全球化 → 多元文化进入社区 → 包容性增强，也可能产生文化冲突
-    `Cultural globalization → social inclusion / cultural conflicts`
+3. **负向 1：** 贫富差距扩大 → 优质资源集中于高收入群体 → 社会不平等加剧 → 社会信任下降
+    `A widening wealth gap → unequal access to resources → greater inequality → weaken social trust`
+
+4. **负向 2：** 福利制度设计不当 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
+    `Poorly designed welfare → benefit dependency → lower labour participation → increase fiscal pressure`
 
 
 ### 正反论证练习
@@ -127,14 +136,17 @@
 
 ### 逻辑链
 
-1. 政府增加教育/医疗投资 → 公共服务改善 → 国民素质和健康提升 → 长期生产力提高
-    `Public investment → better services → national productivity`
+1. **正向 1：** 政府增加教育与医疗投资 → 公共服务改善 → 国民技能和健康水平提升 → 长期生产力提高
+    `Public investment → better education and healthcare → stronger human capital → raise long-term productivity`
 
-2. 环境问题加剧 → 政府制定环保法规 → 企业污染减少 → 自然资源得到保护
-    `Worsening environmental issues → regulations → protect natural resources`
+2. **正向 2：** 政府制定并执行环保法规 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
+    `Environmental regulation → lower corporate pollution → protect natural resources → improve public health`
 
-3. 政府干预过多 → 行政成本上升 → 市场竞争力下降 → 效率低下
-    `Government overreach → administrative costs → inefficiency`
+3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
+    `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
+
+4. **负向 2：** 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
+    `Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
 
 
 ### 正反论证练习
@@ -157,14 +169,17 @@
 
 ### 逻辑链
 
-1. 互联网普及 → 信息传播速度加快 → 公众知情权提高 → 社会透明度增强
-    `Internet access → news dissemination → social transparency`
+1. **正向 1：** 互联网扩大新闻获取渠道 → 信息传播更快 → 公众知情权提高 → 社会透明度增强
+    `Wider internet access → faster news dissemination → an informed public → greater social transparency`
 
-2. 广告收入驱动 → 平台追求流量 → 虚假信息传播 → 公共舆论被扰乱
-    `Advertising revenue → misinformation → manipulate public opinion`
+2. **正向 2：** 独立媒体调查政府和企业行为 → 不当行为被曝光 → 问责机制加强 → 公共利益得到保护
+    `Independent media scrutiny → expose misconduct → strengthen accountability → protect public interests`
 
-3. 媒体独立性加强 → 政府和企业受到监督 → 问责机制改善 → 公共利益受保护
-    `Media independence → accountability → protect public interests`
+3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 虚假信息扩散 → 公共舆论被误导
+    `Advertising-driven platforms → sensational content → spread misinformation → distort public opinion`
+
+4. **负向 2：** 媒体追踪并公开个人信息 → 隐私受到侵犯 → 当事人承受网络骚扰 → 心理健康受损
+    `Intrusive media coverage → privacy violations → online harassment → harm mental health`
 
 
 ### 正反论证练习
@@ -187,14 +202,17 @@
 
 ### 逻辑链
 
-1. 全球化加快 → 国家联系更紧密 → 贸易和技术共享增加 → 全球经济增长
-    `Globalization → trade and knowledge sharing → global economic growth`
+1. **正向 1：** 全球化加强国家间联系 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
+    `Globalisation → trade and knowledge sharing → wider markets → global economic growth`
 
-2. 环境问题具有全球性 → 单个国家难以解决 → 国际协定加强合作 → 气候变化得到控制
-    `Global environmental issues → international agreements → control climate change`
+2. **正向 2：** 跨国问题难以由单个国家解决 → 各国签署国际协定 → 资源与信息共同投入 → 全球治理改善
+    `Cross-border problems → international agreements → shared resources and information → improve global governance`
 
-3. 国际交流增加 → 文化理解增强，但也可能冲击本土文化
-    `Cultural exchange → mutual understanding / disturb local cultures`
+3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
+    `Economic dependency → exposure to external shocks → local job losses → widen inequality`
+
+4. **负向 2：** 全球文化产品大量进入本地市场 → 年轻人减少接触传统文化 → 文化认同减弱 → 文化同质化加剧
+    `Global cultural products → less engagement with local traditions → weaker identity → cultural homogenisation`
 
 
 ### 正反论证练习
@@ -217,14 +235,17 @@
 
 ### 逻辑链
 
-1. 贫富差距和失业上升 → 犯罪动机增加 → 犯罪率上升 → 社会安全感下降
-    `Widening wealth gap + unemployment → crime rates → public safety`
+1. **正向 1：** 提高违法成本并稳定执法 → 潜在犯罪者受到震慑 → 犯罪率下降 → 社区安全改善
+    `Consistent law enforcement → stronger deterrence → lower crime rates → improve community safety`
 
-2. 教育和就业培训不足 → 犯人缺少重新融入社会能力 → 再犯率居高不下
-    `Lack of education/job training → high recidivism rates`
+2. **正向 2：** 为服刑人员提供教育与职业培训 → 就业能力提高 → 更容易重返社会 → 再犯率下降
+    `Prison education and training → better employability → social reintegration → reduce recidivism`
 
-3. 社区警力加强 → 犯罪预防更及时 → 公民安全感提升 → 社会稳定增强
-    `Community policing → crime prevention → social stability`
+3. **负向 1：** 失业和贫富差距扩大 → 部分人面临经济绝望 → 犯罪动机增加 → 社会安全感下降
+    `Unemployment and inequality → financial desperation → stronger criminal incentives → weaken public safety`
+
+4. **负向 2：** 对轻微犯罪施加过重刑罚 → 监狱人口增加 → 改造资源被稀释 → 犯人更难重新融入社会
+    `Excessive punishment for minor offences → prison overcrowding → fewer rehabilitation resources → hinder reintegration`
 
 
 ### 正反论证练习
@@ -247,14 +268,17 @@
 
 ### 逻辑链
 
-1. 全球化和互联网普及 → 外来文化传播加快 → 本土文化受冲击 → 文化同质化风险上升
-    `Globalization + internet → cultural homogenization`
+1. **正向 1：** 举办文化节并支持博物馆 → 公众更了解本地历史 → 文化认同增强 → 传统得以代际传承
+    `Festivals and museums → greater historical awareness → stronger cultural identity → preserve traditions`
 
-2. 本土文化教育不足 → 年轻人缺少历史认知 → 文化认同感下降 → 传统文化流失
-    `Insufficient local culture education → loss of traditional culture`
+2. **正向 2：** 不同文化持续交流 → 创作者接触新思想 → 文化表达更加多样 → 文化创新能力提高
+    `Cross-cultural exchange → exposure to new ideas → diverse expression → foster cultural innovation`
 
-3. 文化节、博物馆和展览 → 公众理解历史 → 文化传承增强 → 国际影响力提升
-    `Festivals and museums → cultural literacy → cultural influence`
+3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人疏离传统 → 文化同质化加剧
+    `Global media → marginalise local content → weaker ties to traditions → cultural homogenisation`
+
+4. **负向 2：** 传统活动过度迎合游客 → 仪式被简化和表演化 → 原有意义被扭曲 → 文化真实性下降
+    `Excessive commercialisation → simplify traditions for tourists → distort original meaning → reduce authenticity`
 
 
 ### 正反论证练习
@@ -277,14 +301,17 @@
 
 ### 逻辑链
 
-1. 旅游需求增长 → 游客消费增加 → 本地就业和收入增加 → 地方经济发展
-    `Tourism demand → revenue → local economic growth`
+1. **正向 1：** 旅游需求增长 → 游客在住宿、餐饮和交通上消费 → 本地就业与税收增加 → 地方经济发展
+    `Tourist spending → local business revenue → more jobs and tax income → regional economic growth`
 
-2. 游客数量过多 → 资源消耗和污染增加 → 生态系统受损 → 公共安全风险上升
-    `Mass tourism → pollution/resource consumption → ecosystem damage`
+2. **正向 2：** 游客对当地文化产生兴趣 → 文化景点收入增加 → 更多资金投入遗产维护 → 传统文化得到保护
+    `Cultural tourism → heritage revenue → fund conservation → preserve local traditions`
 
-3. 生态旅游和游客限额 → 环境压力下降 → 遗产保护增强 → 可持续发展
-    `Eco-tourism + tourist quotas → heritage preservation → sustainability`
+3. **负向 1：** 游客数量超过环境承载力 → 能源消耗、垃圾和污染增加 → 生态系统受损 → 旅游资源长期退化
+    `Overtourism → resource consumption and pollution → ecosystem damage → degrade tourist destinations`
+
+4. **负向 2：** 热门地区短租和商业需求增加 → 房租与物价上涨 → 本地居民被迫迁离 → 社区生活质量下降
+    `Tourism-driven demand → higher rents and prices → resident displacement → reduce local quality of life`
 
 
 ### 正反论证练习
@@ -307,14 +334,17 @@
 
 ### 逻辑链
 
-1. 工业化和交通普及 → 排放增加 → 空气和水污染 → 公共健康受损
-    `Industrialization + vehicles → emissions → public health`
+1. **正向 1：** 投资可再生能源 → 对化石燃料的依赖下降 → 碳排放减少 → 气候变化得到缓解
+    `Renewable-energy investment → less reliance on fossil fuels → lower emissions → mitigate climate change`
 
-2. 绿色能源项目 → 减少化石燃料依赖 → 碳排放下降 → 气候变化影响减轻
-    `Green energy → reduce fossil fuels → mitigate climate change`
+2. **正向 2：** 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善
+    `Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems`
 
-3. 环保税提高 → 企业运营成本上升 → 企业更有动力减排，但产品价格可能上涨
-    `Environmental taxes → corporate responsibility / higher prices`
+3. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
+    `Industrial production and car use → higher emissions → air and water pollution → harm public health`
+
+4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 产品价格上涨或岗位减少 → 低收入群体承受更大压力
+    `Rapid environmental transition → higher business costs → price rises or job losses → burden low-income groups`
 
 
 ### 正反论证练习
@@ -337,14 +367,17 @@
 
 ### 逻辑链
 
-1. 城市化和快节奏生活 → 运动减少、饮食变差 → 慢性病增加 → 医疗系统负担加重
-    `Urbanization → unhealthy habits → chronic diseases → healthcare burden`
+1. **正向 1：** 加强健康教育和定期筛查 → 公众预防意识提高 → 疾病更早发现和控制 → 长期医疗成本下降
+    `Health education and screening → preventive awareness → early diagnosis → reduce long-term healthcare costs`
 
-2. 健康教育提升 → 预防意识增强 → 疾病早发现早控制 → 医疗成本下降
-    `Health education → preventive awareness → reduce healthcare costs`
+2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 可预防疾病减少 → 医疗公平与整体健康改善
+    `Universal healthcare coverage → timely treatment → fewer preventable illnesses → improve health equality`
 
-3. 工作压力增加 → 心理健康问题上升 → 工作效率下降 → 社会问题增加
-    `Work stress → mental health issues → lower productivity`
+3. **负向 1：** 城市生活节奏加快 → 运动减少且饮食恶化 → 肥胖和慢性病增加 → 医疗系统负担加重
+    `Fast-paced urban life → unhealthy habits → chronic diseases → increase the healthcare burden`
+
+4. **负向 2：** 工作时间延长和压力增加 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
+    `Long hours and work stress → anxiety and burnout → lower productivity → wider social problems`
 
 
 ### 正反论证练习
@@ -367,17 +400,17 @@
 
 ### 逻辑链
 
-1. 科技进步改变工作方式 → 远程办公和自动化普及 → 通勤减少、效率提高 → 公司竞争力增强
-    `Technological advancements → remote work → productivity → competitiveness`
+1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作满意度和效率提高 → 企业竞争力增强
+    `Remote work → less commuting → better work-life balance → higher productivity and competitiveness`
 
-2. 全球化竞争加剧 → 企业提高绩效要求 → 员工压力增加 → 职业倦怠
-    `Globalization → pressure → burnout`
+2. **正向 2：** 企业提供持续培训 → 员工掌握市场所需技能 → 职业安全感提高 → 个人和企业共同成长
+    `Workplace training → relevant skills → greater job security → employee and business growth`
 
-3. 技术技能需求增加 → 企业提供培训 → 员工职业安全感提高 → 职业成长增强
-    `Technical skills → training → job security → career growth`
+3. **负向 1：** 全球竞争加剧 → 企业不断提高绩效要求 → 员工长期承受压力 → 焦虑和职业倦怠增加
+    `Global competition → higher performance demands → chronic stress → anxiety and burnout`
 
-4. 远程办公增加 → 面对面交流减少 → 团队凝聚力下降 → 公司文化变弱
-    `Remote work → fewer interactions → weak team cohesion`
+4. **负向 2：** 远程办公减少面对面交流 → 信息沟通与协作变弱 → 团队凝聚力下降 → 企业文化被削弱
+    `Remote work → fewer face-to-face interactions → weaker collaboration → reduce team cohesion`
 
 
 ### 正反论证练习
@@ -391,7 +424,7 @@
 ## 每天执行模板
 
 1. 5 分钟：默写当天 5 个切入角度。
-2. 15 分钟：每个角度写一条逻辑链。
+2. 15 分钟：写两条正向和两条负向逻辑链。
 3. 15 分钟：选一正一反，写让步段。
 4. 15 分钟：扩写 2 个 4 句小段。
 5. 5 分钟：只看中文链条，口头复述英文。

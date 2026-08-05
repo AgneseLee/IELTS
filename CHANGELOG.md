@@ -57,6 +57,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 Task 2 十二天训练的每个主题统一为两条正向与两条负向逻辑链
 - 按指南、练习、批改和归档重组 Writing 与 Speaking 目录，并同步更新 IELTS 自动化技能路径
 - 停止跟踪 Obsidian 临时工作区状态，避免打开或切换笔记造成无关 Git 改动
 - 补充 Task 1 中 `represent`、`account for`、`make up` 与 `form` 的占比和排名用法

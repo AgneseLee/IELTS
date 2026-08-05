@@ -415,11 +415,22 @@
 
 
 ### 正反论证练习
+
+#### Original Draft
+
 - 正：远程办公提高满意度、减少通勤、支持工作家庭平衡。
 First of all, remote work undoubtedly brings substantial benefits. One key strength is it can reduce commuting time, allowing employees to spend more time on their family responsibilities and maintain better work-life balance. As a result, this practice not only promotes individual job satisfaction but also contributes to higher productivity and competitiveness for companies in the long run.
 
 - 反：远程办公模糊工作生活边界，削弱团队合作。
 Nevertheless, it is important to recognize working remote can produce harmful effects when it blurs boundaries between work and life. This practice may lead to working overtime if employees don't excel at planning their schedules and juggling on multiple tasks simultaneously. More importantly, the chronic lacking of face-to-face interactions often generates new problems, such as mitigating team collaboration and ultimately impacting team cohesion, instead of delivering the intended benefits.
+
+#### Minimally Adjusted Version
+
+- 正：远程办公提高满意度、减少通勤、支持工作家庭平衡。
+**On the positive side**, remote work undoubtedly brings substantial benefits. One key strength is **that** it can reduce commuting time, allowing employees to spend more time on their family responsibilities and maintain **a** better work-life balance. As a result, this practice not only **improves employee** job satisfaction **but also helps workers remain rested and focused, thereby contributing to** higher productivity and **corporate competitiveness** in the long run.
+
+- 反：远程办公模糊工作生活边界，削弱团队合作。
+**On the negative side**, it is important to recognize **that working remotely** can produce harmful effects when it blurs **work-life boundaries**. This practice may **lead employees to work overtime because digital communication keeps them accessible outside normal working hours**. More importantly, the chronic **lack** of face-to-face **interaction can make spontaneous communication and coordination more difficult, weakening collaboration and ultimately undermining** team cohesion.
 
 [查看完整批改与七个修订版本](reviews/remote-work-paragraph-practice.md)
 

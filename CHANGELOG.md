@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 Task 2 十二天观点训练页及按主题、小任务划分的 Markdown 小标题导航
 - 新增仓库、Writing、Task 1、Task 2 与 Speaking 分层导航页，统一学习入口
 - 新增美国快餐就餐频率柱状图 Task 1 七版本批改、数据核对与最小调整版
 - 新增 Task 1 数据图表 Introduction 专项复盘及 Obsidian 学习工作区配置

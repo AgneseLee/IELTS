@@ -5,6 +5,7 @@
 ## Core Resources
 
 - [Theme views](views.md): arguments, causes, effects and compact memory chains.
+- [12-day views practice](views-v2.md): daily topic angles, logic chains and expansion tasks.
 - [Core note](guides/core-note.md): recurring language and reasoning safeguards.
 - [Essay templates](guides/templates.md): structures for the four common question types.
 - [Expression bank](guides/expression-bank.md): reusable academic language.

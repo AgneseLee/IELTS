@@ -1,6 +1,6 @@
 ---
 name: ielts-task2-generator
-description: Generate one IELTS Writing Task 2 question and logically aligned strict-template and minimal-repair essays. Use when the user supplies one of the 12 themes in writing/task2-views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
+description: Generate one IELTS Writing Task 2 question and logically aligned strict-template and minimal-repair essays. Use when the user supplies one of the 12 themes in writing/task2/views.md and asks for a 观点型、讨论型、利弊型 or 原因与解决方案型 essay.
 ---
 
 # IELTS Task 2 Generator
@@ -17,15 +17,15 @@ Require one theme and one question type.
 
 Read before generating:
 
-1. `writing/task2-views.md` — sole source for core arguments, causes and effects
-2. `writing/task2/task2-templates.md` — exact wording for the strict template version
-3. `writing/task2-note.md` — language and reasoning safeguards
+1. `writing/task2/views.md` — sole source for core arguments, causes and effects
+2. `writing/task2/guides/templates.md` — exact wording for the strict template version
+3. `writing/task2/guides/core-note.md` — language and reasoning safeguards
 
 Do not modify source files.
 
 ## Workflow
 
-1. Read only the selected theme section from `task2-views.md`.
+1. Read only the selected theme section from `writing/task2/views.md`.
 2. Create one realistic IELTS-style question matching the selected type.
 3. Lock one logic contract: position; paragraph claims; cause-effect chains; solutions; conclusion.
 4. Route it:
@@ -60,7 +60,7 @@ and `advocates of [观点 B]` for 讨论型. Do not retain the replaced template
 5. Produce the Strict Template Version from applicable template sentences.
 6. Assess it against TR, CC, LR and GRA.
 7. If below Band 7, list only the score blockers and produce a Minimal Repair Version.
-8. Save under `writing/task2-practices/`; return the path.
+8. Save under `writing/task2/practice/`; return the path.
 
 Use `<theme>-<type>-<topic>.md` with concise English kebab-case terms.
 Never overwrite; append `-2`, `-3`, and so on.
@@ -90,7 +90,7 @@ differ; reasoning may not.
 
 ## Quality Rules
 
-- Keep every core idea traceable to the selected `task2-views.md` section.
+- Keep every core idea traceable to the selected `writing/task2/views.md` section.
 - Do not invent statistics, studies, quotations or named evidence.
 - Avoid unsupported causal jumps and absolute claims.
 - Count words and, when both versions are present, compare them paragraph by paragraph before saving.

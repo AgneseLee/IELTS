@@ -2,7 +2,7 @@
 
 > Use for bar charts, pie charts and tables without meaningful change over time.
 
-Navigation: [Task 1 hub](../task1-note.md) · [Dynamic charts](data-dynamic.md)
+Navigation: [Task 1 hub](../README.md) · [Dynamic charts](data-dynamic.md)
 
 ## Writing Route
 

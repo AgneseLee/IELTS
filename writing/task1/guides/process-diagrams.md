@@ -2,7 +2,7 @@
 
 > Identify Linear / Cyclical first; then trace every arrow.
 
-Navigation: [Task 1 hub](../task1-note.md) · [Process template](../task1-process-template.md)
+Navigation: [Task 1 hub](../README.md) · [Process template](process-template.md)
 
 ## Writing Route
 

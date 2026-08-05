@@ -14,8 +14,8 @@ User shares an essay (inline or via @file). Run all three phases in order.
 ### Phase 1 — Assessment
 
 Read the essay and its corresponding note:
-- Task 1: `writing/task1-note.md`
-- Task 2: `writing/task2-note.md`
+- Task 1: `writing/task1/guides/core-note.md`
+- Task 2: `writing/task2/guides/core-note.md`
 
 Score across four IELTS criteria:
 

@@ -6,10 +6,10 @@
 
 | Question type | First decision | Notes |
 |---|---|---|
-| Static data | Ranking / gap / proportion / spending | [Static data charts](task1-notes/data-static.md) |
-| Dynamic data | Overall direction / peak / reversal / stability | [Dynamic data charts](task1-notes/data-dynamic.md) |
-| Map | Past / present / proposed layout | [Maps](task1-notes/maps.md) |
-| Process | Linear / cyclical; start / endpoint / returning material | [Process diagrams](task1-notes/process-diagrams.md) |
+| Static data | Ranking / gap / proportion / spending | [Static data charts](data-static.md) |
+| Dynamic data | Overall direction / peak / reversal / stability | [Dynamic data charts](data-dynamic.md) |
+| Map | Past / present / proposed layout | [Maps](maps.md) |
+| Process | Linear / cyclical; start / endpoint / returning material | [Process diagrams](process-diagrams.md) |
 
 ### Visual-Type Index
 
@@ -30,9 +30,9 @@
 
 Related templates:
 
-- [Data-chart templates](task1-chart-templates.md)
-- [Process-diagram template](task1-process-template.md)
-- [General Task 1 templates](task1-templates.md)
+- [Data-chart templates](chart-templates.md)
+- [Process-diagram template](process-template.md)
+- [Task 1 workspace](../README.md)
 
 ---
 
@@ -237,22 +237,3 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - [ ] 流程图优先一般现在时与被动语态。
 
 ---
-
-## Fast-food Frequency：类别命名与数据对齐
-
-### 频率类别的自然表达
-
-| 错误 | 修正 | 原因 |
-|---|---|---|
-| `across different frequency` | `by frequency` / `across different frequencies` | `frequency` 在多类别语境下用复数；`by frequency` 更简洁 |
-| `the group of eating once a week` | `the once-a-week category` / `people eating once a week` | `group of eating` 搭配不自然 |
-| `followed a similar pattern to it` | `followed a similar pattern` | `follow a similar pattern` 后无需 `to it` |
-| `showed great disparity among years` | `varied more noticeably over time` | 同一类别跨年份变化宜用 `vary/change over time` |
-| `throughout 10 years` | `over the ten-year period` | 表示完整时间跨度时后者更自然 |
-
-### 类别标签与数据核对
-
-频率图中相邻类别容易错配。写完每个数据句后，应按“类别标签 → 年份顺序 → 数值”反向核对。例如：
-
-- ✗ `a few times a year: roughly 4–5%`
-- ✓ `never: roughly 4–5%`; `a few times a year: roughly 13–15%`

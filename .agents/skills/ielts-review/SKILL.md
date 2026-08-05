@@ -14,8 +14,8 @@ User shares an essay inline, via a named file, or alongside an image of the task
 ### Phase 1 — Assessment
 
 Read the essay and its corresponding note:
-- Task 1: `writing/task1-note.md`
-- Task 2: `writing/task2-note.md`
+- Task 1: `writing/task1/guides/core-note.md`
+- Task 2: `writing/task2/guides/core-note.md`
 
 Score across four IELTS criteria:
 
@@ -69,7 +69,7 @@ Do not duplicate existing entries. Add only what is genuinely new.
 Always maintain a review document after completing the revision:
 
 - If the essay came from a named file, rewrite that file.
-- If the user pasted an image of the task and an original essay inline in the terminal/chat without naming a file, create a new Markdown document in `writing/task1/` or `writing/task2/` as appropriate.
+- If the user pasted an image of the task and an original essay inline in the terminal/chat without naming a file, create a new Markdown document in `writing/task1/reviews/` or `writing/task2/reviews/` as appropriate.
 - Determine the task number from the prompt or image. Do not ask when it is visually clear.
 - Before naming a new document, inspect existing files in the target folder and follow their conventions.
 - For Task 1, prefer `<visualType>-<short-topic>-ielts<book>-test<test>.md` when the source is visible, for example `lineChart-social-centre-activities-ielts19-test1.md`. Use the established visual-type spelling, such as `lineChart`, `barChart`, `tableAndPieChart`, `map`, or `processDiagram`.
@@ -77,7 +77,7 @@ Always maintain a review document after completing the revision:
 - If the source book or test cannot be established from the submission, omit that portion rather than inventing it.
 - Never overwrite an unrelated document. If a filename already exists, confirm from its prompt that it represents the same task before updating it; otherwise choose a more specific filename.
 
-Use this exact format (see `writing/task1/barChart-household-income-ielts18-test2.md` as the canonical Task 1 example):
+Use this exact format (see `writing/task1/reviews/barChart-household-income-ielts18-test2.md` as the canonical Task 1 example):
 
 ```
 # <filename>

@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增仓库、Writing、Task 1、Task 2 与 Speaking 分层导航页，统一学习入口
 - 新增美国快餐就餐频率柱状图 Task 1 七版本批改、数据核对与最小调整版
 - 新增 Task 1 数据图表 Introduction 专项复盘及 Obsidian 学习工作区配置
 - 新增 IELTS Speaking 考前终极复习页，汇总核心故事、高频搭配及 12 篇限时 Band 7 Part 2 稿
@@ -55,6 +56,8 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 按指南、练习、批改和归档重组 Writing 与 Speaking 目录，并同步更新 IELTS 自动化技能路径
+- 停止跟踪 Obsidian 临时工作区状态，避免打开或切换笔记造成无关 Git 改动
 - 补充 Task 1 中 `represent`、`account for`、`make up` 与 `form` 的占比和排名用法
 - 补充 Task 1 频率类别、最大人群与动静态图表表达，并修正口语核心句中的原文及翻译错误
 - 强化工作类 Task 2 员工福祉观点的压力来源、干预措施及企业结果逻辑链
@@ -91,6 +94,7 @@
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
+- 删除重复且已被专项指南取代的旧版 Task 1 总模板
 - 删除旧版 `writing/task2-views.md`，统一使用手机阅读版观点库
 - 删除旧版 Task 2 独立表达库
 - 删除已整合的独立地图工具包与旧版 Speaking 计划文档

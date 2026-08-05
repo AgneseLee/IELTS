@@ -1,0 +1,18 @@
+# IELTS Writing Task 2
+
+[← Writing home](../README.md)
+
+## Core Resources
+
+- [Theme views](views.md): arguments, causes, effects and compact memory chains.
+- [Core note](guides/core-note.md): recurring language and reasoning safeguards.
+- [Essay templates](guides/templates.md): structures for the four common question types.
+- [Expression bank](guides/expression-bank.md): reusable academic language.
+- [Model essays](guides/model-essays.md): complete reference answers.
+
+## Work Areas
+
+- [`practice/`](practice/): generated questions and template exercises.
+- [`reviews/`](reviews/): full essay assessments and revised versions.
+
+Keep general arguments in `views.md`; keep mistakes tied to one essay inside its review document.

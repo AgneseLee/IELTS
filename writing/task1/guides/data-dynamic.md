@@ -2,7 +2,7 @@
 
 > Use when the chart shows meaningful change over time.
 
-Navigation: [Task 1 hub](../task1-note.md) · [Static charts](data-static.md)
+Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 
 ## Writing Route
 

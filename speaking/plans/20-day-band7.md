@@ -1,6 +1,6 @@
 # IELTS Speaking Band 7：20 天全题库迁移计划 v2
 
-目标：20 天内稳定到 IELTS Speaking Band 7，并覆盖 [topics-v2.md](./topics-v2.md) 中的 Part 1、Part 2 和 Part 3 高频题。
+目标：20 天内稳定到 IELTS Speaking Band 7，并覆盖 [current question bank](../topics/question-bank.md) 中的 Part 1、Part 2 和 Part 3 高频题。
 
 核心原则：
 

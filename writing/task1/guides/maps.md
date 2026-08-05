@@ -2,7 +2,7 @@
 
 > Describe visible spatial change only. Do not invent purpose, accessibility or impact.
 
-Navigation: [Task 1 hub](../task1-note.md)
+Navigation: [Task 1 hub](../README.md)
 
 ## Writing Route
 

@@ -89,21 +89,21 @@
 
 ## 柱图 Bar Chart
 
-### [Consumer goods](barChart-consumer-goods.md)
+### [Consumer goods](../reviews/barChart-consumer-goods.md)
 
 > **原：** The bar chart compares consumer spending on six types of goods in Britain, France, Italy and Germany, measured in thousands of pounds sterling.
 > **改：** The bar chart compares expenditure on six consumer goods in Britain, France, Italy and Germany, with figures given in thousands of pounds sterling.
 
 **重点：** 原句正确；`with figures given in...` 可避免 `measured in...` 看似修饰 Germany。
 
-### [Household income](barChart-household-income-ielts18-test2.md)
+### [Household income](../reviews/barChart-household-income-ielts18-test2.md)
 
 > **原：** The bar chart illustrates how the distribution annual household income changed in the US in 2007, 2001 and 2015.
 > **改：** The bar chart illustrates how the number of US households in five annual income brackets changed in 2007, 2011 and 2015.
 
 **问题：** 缺 `of`；年份错误；图表统计的是不同收入档位的家庭数量，而不是收入本身的变化。
 
-### [Household spending](barChart-household-spending-ielts17-test3.md)
+### [Household spending](../reviews/barChart-household-spending-ielts17-test3.md)
 
 > **原：** The bar chart illustrates the distribution of families' weekly income in one country over a 50-year period.
 > **改：** The bar chart illustrates the distribution of families' weekly expenditure in one country over a 50-year period.
@@ -114,41 +114,41 @@
 
 ## 线图 Line Chart
 
-### [Electrical appliances and housework](lineChart-electrical-appliances-and-housework-ielts16-test1.md)
+### [Electrical appliances and housework](../reviews/lineChart-electrical-appliances-and-housework-ielts16-test1.md)
 
 > **原：** The line graphs illustrate the distribution of households with electrical appliances and weekly time spent on housework in a specific country between 1920 and 2019.
 > **改：** The line graphs compare the percentages of households that owned three electrical appliances with the average number of hours spent on housework each week in one country from 1920 to 2019.
 
 **问题：** 两图单位不同；第一张是家电拥有率，第二张是平均家务时长，不能用一个模糊的 `distribution` 带过。
 
-### [Internet users — model](lineChart-internet-users.md)
+### [Internet users — model](../reviews/lineChart-internet-users.md)
 
 > The line graph illustrates how the percentages of Internet users in the USA, Canada and Mexico changed between 1999 and 2009.
 
 **可取之处：** `percentages` 对应 y 轴；国家和时间完整；没有提前写趋势。
 
-### [Metal price changes](lineChart-metal-price-changes-ielts18-test4.md)
+### [Metal price changes](../reviews/lineChart-metal-price-changes-ielts18-test4.md)
 
 > **原：** The line graph illustrates how the average monthly prices changed of three different metals throught 2014.
 > **改：** The line graph illustrates the average monthly percentage change in the price of three metals throughout 2014.
 
 **问题：** y 轴是价格变化率，不是价格；`changed of...` 语序错误；`throught` 拼写错误。
 
-### [Shop openings and closures](lineChart-shop-openings-and-closures-ielts17-test4.md)
+### [Shop openings and closures](../reviews/lineChart-shop-openings-and-closures-ielts17-test4.md)
 
 > **原：** The graph illustrates the number of shop closures and openings between 2011 and 2018.
 > **改：** The line graph illustrates how the number of shop openings and closures changed in one country from 2011 to 2018.
 
 **重点：** 原句基本正确；补充图表类型、国家和 `how...changed` 后信息更完整。
 
-### [Social-centre activities](lineChart-social-centre-activities-ielts19-test1.md)
+### [Social-centre activities](../reviews/lineChart-social-centre-activities-ielts19-test1.md)
 
 > **原：** The line graph illustrates how the number of participants who enroll in 5 different activities at one social centre in Melbourne, Australia changed from 2000 to 2020.
 > **改：** The line graph compares participation in five activities at a social centre in Melbourne, Australia, between 2000 and 2020.
 
 **问题：** 历史数据不能用 `enroll`；图表未必统计正式报名；长主语难以控制；数字应写 `five`。
 
-### [Urban population](lineChart-urban-population-ielts18-test1.md)
+### [Urban population](../reviews/lineChart-urban-population-ielts18-test1.md)
 
 > **原：** The line graph illustrates how the distribution of urban population changed in four Asian countries over a 50-year period, with its prediction for the up-comming 20 years.
 > **改：** The line graph shows how the percentages of people living in cities in four Asian countries changed from 1970 to 2020, with forecasts for 2030 and 2040.
@@ -159,14 +159,14 @@
 
 ## 混合图 Mixed Charts
 
-### [Dance classes](pieChartAndBarChart-dance-classes-ielts19-test4.md)
+### [Dance classes](../reviews/pieChartAndBarChart-dance-classes-ielts19-test4.md)
 
 > **原：** The pie chart compares percentages of young people who attend dance classes in four different locations, and the bar chart illustrates the distribution in three types of dance classes, divided into 2 age groups.
 > **改：** The pie chart shows where young people in an Australian town attend dance classes, while the bar chart compares participation in three dance styles among two age groups.
 
 **核心：** 两图分别回答“在哪里上课”和“不同年龄组参加什么课程”。
 
-### [Little Chalfont Library](pieChartTableAndBarChart-library-ielts20-test3.md)
+### [Little Chalfont Library](../reviews/pieChartTableAndBarChart-library-ielts20-test3.md)
 
 > **原：** The pie chart and table show the age distribution of library members and the proportion of loans by category in a town called Little Chalfont in 2016. The line chart illustrates how the number of loans changed between 2007 and 2016.
 > **改：** The pie chart and table show the age distribution of members and the breakdown of loans by category at Little Chalfont Library in 2016. The bar chart illustrates changes in the total number of loans between 2007 and 2016.
@@ -177,7 +177,7 @@
 
 ## 表格与饼图 Table / Pie Chart
 
-### [Police budget](tableAndPieChart-police-budget-ielts17-test2.md)
+### [Police budget](../reviews/tableAndPieChart-police-budget-ielts17-test2.md)
 
 > **原：** The table and charts illustrate the transformation of police budget income and expense from 2017 to 2018. Overall, slightly changes occur in this year in income, which gain more 14.1m with total income of 318.6m, in 2018.
 > **改：** The table and pie charts show the sources of funding for the police budget in one area of Britain and how this money was spent in 2017 and 2018.
@@ -189,7 +189,7 @@
 - 应明确是 `pie charts`。
 - `Overall` 之后的趋势和数据不属于 Introduction。
 
-### [New York population](tables-new-york-population.md)
+### [New York population](../reviews/tables-new-york-population.md)
 
 > **原：** The first table illustrates how the New York’s total population changed between 1800 and 2000. And the other two tables show population and breakdown of total population in 5 districts over the same period.
 > **改：** The tables show how New York City's total population changed in 1800, 1900 and 2000, alongside the populations and percentage shares of Manhattan and the other four districts combined.

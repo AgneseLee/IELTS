@@ -1,6 +1,6 @@
 # IELTS Writing Task 1：LR 与 GRA 错误复盘
 
-*基于 `writing/task1/` 中 9 篇已批改作文整理（2026-07-18）*
+*基于 `writing/task1/reviews/` 中的已批改作文整理；新增模式应持续合并到本页。*
 
 ## 一、当前水平与核心诊断
 

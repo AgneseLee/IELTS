@@ -86,8 +86,8 @@
     （其理论依据是，如果你补充了高纬度地区的冰盖和冰冻水域，更多的光线将会反射回太空，从而减少海洋和大气变暖。）
 43. **A final theory is related to group behaviour, and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death.**
     （最后的这一理论与集体行为有关，认为海洋哺乳动物不能区分病态和健康的领导者，它们会跟随生病的领导者，甚至最终不可避免地死亡。）
-44. **From earliest childhood we are so bound up with our system of numeration that it is a fear of imagination to consider the problems faced by early humans who had not yet developed this facility.**
-    （从幼儿时期开始，我们就与自身的计算系统密切相关，以至于考虑到还未形成这种能力的早期人类所面临的问题，仅仅是想象就让我们觉得可怕。）
+44. **From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.**
+    （我们从幼年起就与计数系统密不可分，因此，要设想尚未形成这种能力的早期人类所面临的问题，需要充分发挥想象力。）
 45. **One of my purposes in writing this book is to give readers who haven't had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking.**
     （我写这本书的目的之一是给那些没能看到和享受真正的数学的读者一个机会去欣赏数学的思维方式。）
 46. **We have also negotiated a range of benefits for staff such as discounted private healthcare and a car purchase scheme, along with a number of one-off deals with hotels and amusement parks.**
@@ -122,11 +122,11 @@
     （坚信历史遗迹可以准确无误地证明过去这一信念起源于19世纪和20世纪初期，当时人们认为科学是客观的并且不受价值观左右。）
 61. **After this, many researchers switched to autoganzfeld tests—an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.**
     （此后，很多研究人员转而进行自动超感知觉全域测试——使用自动化技术，利用电脑完成诸如随机选择图像等许多重要任务。）
-62. **Unless there are no purchase facilities available at the station where you began your journey, you will be required to pay the full fare if you are unable to produce a valid ticket for inspection during a journey.**
+62. **If purchase facilities are available at the station where you began your journey, you will be required to pay the full fare if you are unable to produce a valid ticket for inspection during a journey.**
     （除非出发地的车站没有可用的售票设施，否则一旦在旅途中检查时你无法出示有效车票，你将被要求支付全额票款。）
 63. **Although population, industrial output and economic productivity have continued to soar in developed nations, the rate at which people withdraw water from aquifers, rivers and lakes has slowed.**
     （尽管发达国家的人口、工业产出和经济生产力持续飞涨，但人们从含水层、河流和湖泊中抽取水的速度已经放缓。）
-64. **High achievers have been found to use selfregulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks.**
+64. **High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks.**
     （我们发现成绩优异的学生比成绩差的学生更经常、更有效地使用自我调节的学习策略，并且能够更好地变换这些策略来处理不熟悉的任务。）
 65. **Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging.**
     （研究还表明，双语经历可能有助于保持认知机制的敏锐性，通过运用替代的大脑网络，弥补那些在衰老过程中受到损害的大脑网络。）
@@ -134,7 +134,7 @@
     （不仅肉桂的垄断变得不可能，而且香料贸易的整体经济潜力也在缩减，并最终被咖啡、茶、巧克力和糖的贸易增长所取代。）
 67. **Another feature that attracted a lot of attention was an interactive journey through a number of the locations chosen for blockbuster films which had made use of New Zealand's stunning scenery as a backdrop.**
     （另一个吸引了众多关注的特点是一趟互动之旅，这趟旅行穿越了电影大片的若干取景地，这些大片充分利用了新西兰令人叹为观止的风景作为背景。）
-68. **As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging—the build-up of molecular and cellular damage that increase vulnerability to infirmity as we grow older.**
+68. **As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging—the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.**
     （就像老龄化研究者最近所指出的那样，目前市面上没有一种疗法被证实可以减缓人体衰老——随着我们慢慢变老，分子与细胞损坏也逐渐增加，这就增加了我们体弱多病的几率。）
 69. **We tend to think of climate—as opposed to weather —as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years.**
     （我们往往认为气候相对于天气而言是不变的，然而，人类的存在却一直受制于气候的变化，在过去的73万年里至少经历了8个冰河时期。）
@@ -194,7 +194,7 @@
     （就在最近的1993年，工程师们取得了一项重大突破，发现了所谓的Turbo码，这与Shannon提出的数据可以安全传送的最大速度极限非常接近。现在，Turbo码在移动可视电话变革中起着关键作用。）
 97. **If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme.**
     （若寿命是一种由遗传决定的生物特征，那从逻辑上来看，有必要提出生物钟的存在，生物钟以某种方式测量并控制老化过程，并作为一个固定程序的最后一步左右着死亡。）
-98. **Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system's inability to ensure inability food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.**
+98. **Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system's inability to ensure adequate food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.**
     （在线辩论参加者认为，我们面临的最大挑战是找出农业系统无法确保所有人都能获得足够粮食的根本原因，同时还认为我们对化石燃料的依赖和政府政策的不支持是这一问题的驱动因素。）
 99. **Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.**
     （他们已经在实验室测试中试验了中和雷暴能量的各种方法；今年冬天，他们将勇敢面对现实中的雷暴，使用全套激光器射向空中的雷雨云，使其在闪电之前放电。）

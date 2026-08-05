@@ -80,6 +80,7 @@ Related templates:
 | `comprised` | 构成（替代 make up）| Salaries comprised the largest part of the expenditure in both years. |
 | `the lion's share` | 最大份额 | Officer salaries took the lion's share of the total police budget. |
 | `occupied the largest portion of` | 占据最大部分 | National Government occupied the largest portion of the income sources. |
+| `X people formed the largest group` | X 类人构成最大群体 | People eating fast food once a week formed the largest group in 2006. |
 | `was followed by` | 第二位紧随 | This was followed by local taxes, which rose significantly to £102.3m. |
 | `account for the remaining amount` | 占据剩余数额 | Other sources accounted for the remaining amount of the funding. |
 | `X saw a decline in favor of Y` | X 减少转向 Y | Salaries saw a decline in favor of increased technology spending. |
@@ -214,3 +215,24 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - [ ] 数据名词匹配单位：`number / proportion / spending / rate of change`。
 - [ ] 比较对象同类；`respectively` 前后一一对应。
 - [ ] 流程图优先一般现在时与被动语态。
+
+---
+
+## Fast-food Frequency：类别命名与数据对齐
+
+### 频率类别的自然表达
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `across different frequency` | `by frequency` / `across different frequencies` | `frequency` 在多类别语境下用复数；`by frequency` 更简洁 |
+| `the group of eating once a week` | `the once-a-week category` / `people eating once a week` | `group of eating` 搭配不自然 |
+| `followed a similar pattern to it` | `followed a similar pattern` | `follow a similar pattern` 后无需 `to it` |
+| `showed great disparity among years` | `varied more noticeably over time` | 同一类别跨年份变化宜用 `vary/change over time` |
+| `throughout 10 years` | `over the ten-year period` | 表示完整时间跨度时后者更自然 |
+
+### 类别标签与数据核对
+
+频率图中相邻类别容易错配。写完每个数据句后，应按“类别标签 → 年份顺序 → 数值”反向核对。例如：
+
+- ✗ `a few times a year: roughly 4–5%`
+- ✓ `never: roughly 4–5%`; `a few times a year: roughly 13–15%`

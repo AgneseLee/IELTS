@@ -178,3 +178,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 | 机会成本 | `divert public funds away from essential services` |
 | 透明拨款 | `set a clear budget and check how the money is spent` |
 | 有限资助 | `provide limited and transparent grants` |
+
+## 远程办公：工作生活边界与团队协作
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `working remote` | `working remotely` / `remote working` | `remote` 不能在此直接修饰动词 `working` |
+| `One key strength is it can...` | `One key strength is that it can...` | 表语从句需要连接词 `that` |
+| `maintain better work-life balance` | `maintain a better work-life balance` | `balance` 在此为单数可数名词，需要冠词 |
+| `juggling on multiple tasks` | `juggling multiple tasks` | `juggle` 是及物动词，不加 `on` |
+| `the chronic lacking of interaction` | `the chronic lack of interaction` | 此处需要名词 `lack`，不是动名词 `lacking` |
+| `mitigate team collaboration` | `weaken collaboration` | `mitigate` 表示缓解负面问题，与“削弱合作”方向相反 |
+
+### 可复用逻辑链与搭配
+
+- `eliminate daily commuting → leave more time for family responsibilities → improve work-life balance`
+- `greater flexibility → improve job satisfaction → help employees remain rested and focused → raise productivity`
+- `remain reachable outside normal working hours → encourage overtime → increase stress and burnout`
+- `reduced face-to-face interaction → hinder spontaneous communication and coordination → weaken team cohesion`

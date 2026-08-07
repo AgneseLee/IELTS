@@ -103,12 +103,15 @@ Navigation: [Task 1 hub](../README.md) · [Dynamic charts](data-dynamic.md)
 | `students in one group were more than those in another` | `the number of students in one group was higher than that in the other` | 比较的是人数而不是学生本身；绝对数量用 `number` 和 `higher/lower` |
 | `the older group occupied 500 students` | `the class attracted approximately 520 older students` / `the older group numbered approximately 520` | `occupy` 不能表示课程参与人数 |
 | `the group stood at 300` | `the figure stood at 300` / `the group numbered 300` | `stand at` 的主语应为 figure、number、level 等数值概念 |
+| `the gap against male` / `with 46.7% for male` | `the gap for men` / `with 46.7% for men` | `male/female` 作可数名词时常显得生硬；Task 1 中更自然用 `men/women`，作定语时用 `male/female rates` |
 
 **两个年龄组的对照句型：**
 
 - `Under-11s outnumbered 11–16-year-olds in ballet by two to one.`
 - `Participation in tap was relatively even, at 450 versus approximately 420.`
 - `Modern dance displayed the reverse pattern, attracting around 520 older students compared with 300 younger children.`
+- `Female participation peaked among 45-to-54-year-olds, while the male rate was highest in the youngest group.`
+- `The figures for men and women were almost identical, at 46.7% and 47.1%, respectively.`
 
 **避免从相关性推断因果：** 图表按年龄组展示差异时，用 `participation by age group` 或 `the two age groups differed`，不要写 `under the influence of age`，除非图表明确证明年龄造成了选择差异。
 

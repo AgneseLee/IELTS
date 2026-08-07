@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking Part 2 十二天四类模板检索计划，覆盖全部 35 个高频题并标注具体问法
 - 新增远程办公正反段落练习批改、七个修订版本及工作生活边界表达笔记
 - 新增 Task 2 十二天观点训练页及按主题、小任务划分的 Markdown 小标题导航
 - 新增仓库、Writing、Task 1、Task 2 与 Speaking 分层导航页，统一学习入口

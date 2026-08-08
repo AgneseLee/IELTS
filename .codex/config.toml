@@ -1,0 +1,15 @@
+approval_policy = "on-request"
+default_permissions = "ielts-workspace"
+
+[permissions.ielts-workspace]
+description = "Edit the IELTS workspace and manage its Git repository."
+extends = ":workspace"
+
+[permissions.ielts-workspace.filesystem.":workspace_roots"]
+".git" = "write"
+
+[permissions.ielts-workspace.network]
+enabled = true
+
+[permissions.ielts-workspace.network.domains]
+"github.com" = "allow"

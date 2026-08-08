@@ -198,6 +198,47 @@ A key improvement for you: your original answer already had the right **story st
 - Child/Friend who draws（人物类）：谁？怎么认识？多久画一次？为什么喜欢？
 - Proud family member（人物类）：何时？谁？做了什么？为什么骄傲？
 
+
+The person I’d like to talk about is my mother, who used to work as an accountant and is now retired.
+
+What stands out most about her is how caring and supportive she has always been. I spent most of my childhood with her, and she not only took good care of me physically, but also paid close attention to my feelings.
+
+One specific example I can think of happened when I was in primary school. At that time, I was extremely shy and found it difficult to express myself because I cared too much about other people’s opinions. I was constantly worried that people might judge me.
+
+When my mother noticed what I was going through, instead of criticising me or blaming me for being shy, she listened patiently and tried to understand things from my perspective. She also gave me some practical advice based on her own life experience. She taught me not to be afraid of expressing my thoughts, because communicating openly is an important way to build connections with other people.
+
+Thanks to her support, I gradually became more comfortable expressing myself and felt that there was always someone standing by my side.
+
+What impressed me most was the way she made me feel understood and supported rather than judged. Even when I was struggling, she stayed patient and caring.
+
+Looking back, I’ve realised how much her support has influenced me. What truly matters is knowing that someone will stand by you when you’re going through a difficult time. That’s probably the main reason I’m so proud of her.
+
+
+- **what stands out most about her is…**
+- **take good care of someone**
+- **care too much about other people’s opinions**
+- **look at things from a different perspective**
+- **make someone feel understood and supported** ← 你的模板原有表达 
+- **stand by someone’s side**
+- **what truly matters is…**
+
+特别注意 **stand by someone / stand by someone’s side**。你刚才说：
+
+❌ _she always stand up by my side_
+
+这里 **stand up** 是“站起来”，你真正需要的是：
+
+✅ _She always stood by my side._<br>
+= 她一直支持我。
+
+这题的**8个关键词**可以直接压缩成：
+
+**mother → caring/supportive → primary school → shy/judgment → listened → practical advice → understood/supported → stand by me**
+
+下一次重答时，不要背上面的完整答案，只看这 8 个词，再按人物模板自己检索出来。这样才是在强化模板，而不是换成背另一篇稿。
+
+---
+
 ### Day 3：人物 B
 
 - Musical friend（人物类）：谁？如何认识？擅长什么？感受？

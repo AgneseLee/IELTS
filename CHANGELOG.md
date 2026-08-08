@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS Speaking Part 1 家乡与阅读 Band 7 答案及三部分考试考官提示词
+- 新增仓库级 Codex 工作区权限配置
 - 新增适配 iPad mini 竖屏阅读的四类 IELTS Speaking Part 2 模板 PDF
 - 新增适配 iPad mini 竖屏阅读的 100 页 IELTS 英中双语核心句 PDF
 - 新增澳大利亚男女规律运动比例柱状图 Task 1 批改、三种修订版本及 Band 评分
@@ -62,6 +64,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 为 Part 2 十二天训练补充母亲人物范文、关键词检索链与表达纠错，并忽略 PDF 临时生成目录
 - 补充 Task 1 中 `male/female` 与 `men/women` 的词性区别及参与率表达
 - 精简 IELTS review 技能，仅保留综合版、原逻辑表达版和最小调整版三种修订
 - 在 Task 2 十二天训练页并列保留远程办公原稿与最小调整版

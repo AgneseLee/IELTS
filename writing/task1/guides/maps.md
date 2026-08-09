@@ -239,3 +239,22 @@ Long-sentence pattern:
 | 规划改造 | `the site is planned to be redeveloped` |
 | 环岛增设 | `a second roundabout will be added on the main road` |
 | 住宅分布 | `housing will be positioned around the roundabout and along the eastern road` |
+
+---
+
+## 11. Road-access Maps
+
+### Common errors
+
+| Error | Correction | Reason |
+|---|---|---|
+| `roads accessing to a hospital` | `roads providing access to a hospital` | `access` 作动词时不接 `to`；此处用名词结构更自然。 |
+| `available for staffs and public` | `for staff and the public` | `staff` 作集体名词时通常不加 `-s`；`the public` 为固定表达。 |
+| `remained its original position` | `remained in its original position` | `remain` 后接位置名词时需要介词 `in`。 |
+| `bus stops were integrated into a bus station` | `bus stops were removed and replaced by a bus station` | 站点与车站是设施替换，不是实体合并。 |
+
+### Useful phrases
+
+- `roundabouts were constructed at both ends of the road`
+- `the southern roundabout formed the junction with the main road`
+- `the shared car park was replaced by separate parking areas for staff and the public`

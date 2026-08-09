@@ -239,6 +239,50 @@ Looking back, I’ve realised how much her support has influenced me. What truly
 
 ---
 
+The family member I’d like to talk about is my mother. She used to be an accountant, and she’s now retired.
+
+What stands out most about her is how caring, patient and thoughtful she is. I’m really proud of her, not because of any particular achievement, but because she has always **stood by my side** whenever I’ve gone through a difficult period.
+
+One specific example I can think of happened when I was in primary school. At that time, I was quite shy and introverted, and I was afraid to express my opinions because I worried that other people might judge me if I disagreed with them.
+
+When my mother noticed what I was going through, instead of criticizing me for being shy, she listened to me carefully and gave me a lot of advice based on her own life experience. She taught me that **our self-worth shouldn’t be determined by other people’s opinions** and that expressing our thoughts can actually help us **build stronger connections with others**.
+
+Thanks to her support and encouragement, I’ve gradually become much more confident about expressing my ideas, both in my personal life and at work.
+
+**What impressed me most was** the way she supported me without putting pressure on me. She simply made me feel understood and reminded me that I wasn’t alone when I was going through a difficult time.
+
+**Looking back, I realize** what a positive impact she has had on me. She taught me to believe in myself and express my thoughts with confidence, and that’s the main reason I’m so proud of her.
+
+---
+The person I’d like to talk about is my friend Stella. She’s one of my best friends and also a former colleague of mine.
+
+I first met her shortly after I moved to Beijing about three years ago. We worked on the same project, and because we had quite a lot in common, we gradually became close friends.
+
+One thing I really appreciate about Stella is her passion for painting. She particularly enjoys watercolor painting and usually paints several times a month. Even though we often have tight project deadlines, she still tries to make time for this hobby. Of course, she’s busier now, so she paints less often than she used to.
+
+One painting that really impressed me was a watercolor she showed me last month. It depicted a park near my apartment, where we sometimes go to relax. There was a pond in the center, surrounded by flowers, with a few lovely ducks on the water. The whole painting created a really peaceful and relaxing atmosphere, and looking at it made me feel calm and refreshed.
+
+What impressed me most wasn’t just the painting itself, but her passion for it. Despite the fast pace of our work, she still devotes some of her spare time to something she genuinely enjoys.
+
+Overall, her experience has taught me that it’s important to make time for the things we love. I think people really shine when they’re doing something they’re genuinely passionate about.
+
+---
+
+The famous person I’d like to talk about is Elon Musk. He’s a renowned entrepreneur and the founder of companies like SpaceX and Tesla.
+
+What stands out most about him is his **innovative mindset** and his willingness to **take calculated risks**. I really admire his determination to **turn ambitious ideas into reality**, even when other people doubt whether they are possible.
+
+I first learned more about him through a documentary about SpaceX. What impressed me was that SpaceX experienced a number of failures in its early years. At that time, many people doubted whether his ideas were realistic. However, instead of being discouraged by those failures, he continued to **work towards his goal**. He and his team kept improving the technology and eventually succeeded in developing reusable rockets, which can significantly reduce the cost of space exploration.
+
+What impressed me most was his persistence. I think it’s relatively easy to stay motivated when everything is going well, but it’s much harder to **stay persistent and overcome setbacks** when you’ve failed several times.
+
+If I had the chance to meet him, I’d like to ask him how he decides whether an ambitious idea is worth pursuing and how he stays determined when things don’t go as planned.
+
+Overall, his experience has taught me that intelligence alone is not enough for success. You also need to learn from failure, take calculated risks, and stay committed to your goals.
+
+---
+
+
 ### Day 3：人物 B
 
 - Musical friend（人物类）：谁？如何认识？擅长什么？感受？

@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 IELTS 13 Test 1 城市医院道路地图题批改、三种修订版本及道路连接表达笔记
 - 新增 IELTS Speaking Part 1 家乡与阅读 Band 7 答案及三部分考试考官提示词
 - 新增仓库级 Codex 工作区权限配置
 - 新增适配 iPad mini 竖屏阅读的四类 IELTS Speaking Part 2 模板 PDF
@@ -64,6 +65,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 为 Part 2 十二天训练补充绘画好友与马斯克人物范文
 - 为 Part 2 十二天训练补充母亲人物范文、关键词检索链与表达纠错，并忽略 PDF 临时生成目录
 - 补充 Task 1 中 `male/female` 与 `men/women` 的词性区别及参与率表达
 - 精简 IELTS review 技能，仅保留综合版、原逻辑表达版和最小调整版三种修订

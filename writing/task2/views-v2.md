@@ -107,7 +107,7 @@
     `Expanded social welfare → support vulnerable groups → reduce poverty → enhance social stability`
 
 2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 社会凝聚力提高
-    `Better public services → wider access to essentials → fairer opportunities → strengthen social cohesion`
+    `Better public services → wider access to essentials🥕 → fairer opportunities → strengthen social cohesion`
 
 3. **负向 1：** 贫富差距扩大 → 优质资源集中于高收入群体 → 社会不平等加剧 → 社会信任下降
     `A widening wealth gap → unequal access to resources → greater inequality → weaken social trust`
@@ -119,6 +119,15 @@
 ### 正反论证练习
 - 正：社会福利保护弱势群体。
 - 反：过度福利可能增加公共开支并产生依赖性。
+
+A significant drawback of poorly designed welfare cannot be neglected. The main reason is that people may become more reluctant to work due to the provision of welfare system and gradually rely more on the benefit, thereby leading to a lower labour participation rate and increasing fiscal pressure.
+Nevertheless, although the problem appears severe, it is far from unsolvable. One practical approach to addressing this issue is to optimize the allocation towards welfare system by maintaining a reasonable financial distribution on it. This is effective because this practice not only support and protect vulnerable groups but also encourage people who are capable of taking jobs to work, ensuring that the problem is dealt with in a concrete way. If implemented properly, it can address the problem while preserving its benefits.
+
+#### 批改版
+
+A significant drawback of poorly designed welfare **systems should not be overlooked**. The main reason is that people may become more reluctant to work due to the provision of **welfare benefits** and gradually **become dependent on them**, thereby leading to **lower labour force participation** and increasing fiscal pressure.
+
+Nevertheless, although the problem appears severe, it is far from unsolvable. One practical approach to addressing this issue is to **optimize the welfare system by gradually reducing benefits as recipients' earnings rise instead of withdrawing them immediately**. This is effective because this practice not only **supports** and **protects** vulnerable groups but also **encourages** people who are **capable of working to seek employment by ensuring that taking a job brings a clear financial reward**. If implemented properly, it can address the problem while preserving **the system's** benefits.
 
 ### 扩写任务
 

@@ -1,6 +1,6 @@
 ---
 name: ielts-review
-description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, produce three targeted revisions using the corresponding writing note, update that note with new patterns, and maintain a review document. Use when the user shares an essay inline, in a file, or with an image and asks for feedback, correction, band improvement, or critique.
+description: Assess and critique an IELTS Writing Task 1 or Task 2 essay, produce three targeted revisions using the corresponding writing note, update that note with new patterns, and maintain a review document. Use when the user shares an essay inline, in a file, or with an image and asks for feedback, correction, band improvement, or critique, including paragraph exercises in writing/task2/views-v2.md.
 ---
 
 # IELTS Essay Review
@@ -63,7 +63,12 @@ Do not duplicate existing entries. Add only what is genuinely new.
 
 Always maintain a review document after completing the revision:
 
-- If the essay came from a named file, rewrite that file.
+- If the source is `writing/task2/views-v2.md`, follow this exact exception:
+  1. Preserve the submitted original paragraph or paragraphs verbatim in their current location. Never replace, silently correct or delete them.
+  2. Add `#### 批改版` immediately below the original and place the `Minimally Adjusted Version` beneath that heading. Bold every changed phrase or sentence by comparing it directly with the preserved original. Keep the original sentence structure, argument order and wording wherever they can still support Band 7.0–7.5; make only the changes needed to reach that target.
+  3. Create or update a separate topic-specific review document in `writing/task2/reviews/` using the full format below, including the untouched original and all three revisions.
+  4. Continue to update `writing/task2/guides/core-note.md` with genuinely new patterns as required by Phase 3.
+- If the essay came from any other named file, rewrite that file.
 - If the user pasted an image of the task and an original essay inline in the terminal/chat without naming a file, create a new Markdown document in `writing/task1/reviews/` or `writing/task2/reviews/` as appropriate.
 - Determine the task number from the prompt or image. Do not ask when it is visually clear.
 - Before naming a new document, inspect existing files in the target folder and follow their conventions.

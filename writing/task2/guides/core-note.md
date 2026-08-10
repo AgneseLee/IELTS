@@ -198,3 +198,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `greater flexibility → improve job satisfaction → help employees remain rested and focused → raise productivity`
 - `remain reachable outside normal working hours → encourage overtime → increase stress and burnout`
 - `reduced face-to-face interaction → hinder spontaneous communication and coordination → weaken team cohesion`
+
+## 社会福利：福利依赖与就业激励
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `the provision of welfare system` | `the provision of welfare benefits` / `a welfare system` | `system` 是单数可数名词，需要冠词；按原意，`benefits` 通常更准确。 |
+| `rely more on the benefit` | `become dependent on welfare benefits` | 泛指福利金时通常用复数；`become dependent on` 更自然地表达逐渐产生依赖。 |
+| `allocation towards welfare system` | `the allocation of welfare funds` | 表示资金分配对象时用 `allocation of funds`，原介词搭配不自然。 |
+| `financial distribution on it` | `welfare spending` / `funding levels` | 原搭配不成立；谈政府福利预算时直接使用 `spending` 或 `funding`。 |
+| `this practice not only support ... but also encourage` | `this practice not only supports ... but also encourages` | 单数主语 `this practice` 后的两个并列谓语都要使用第三人称单数。 |
+| `people who are capable of taking jobs` | `people who are able to work` | 后者更自然，也更准确地区分有劳动能力与无劳动能力的福利领取者。 |
+
+### 可复用逻辑链与搭配
+
+- `poorly designed welfare benefits → weaken the incentive to seek work → create benefit dependency → lower labour force participation → increase fiscal pressure`
+- `reduce benefits gradually as earnings rise → preserve the financial reward from employment → encourage recipients to return to work`
+- `require job seeking or vocational training for recipients who are able to work → create a practical route back into employment`
+- `maintain adequate assistance for people unable to work → protect vulnerable groups without weakening employment incentives`

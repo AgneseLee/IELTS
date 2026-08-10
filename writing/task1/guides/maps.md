@@ -92,6 +92,15 @@ Examples:
 - `A school will be built immediately to the east of the central roundabout.`
 - `Two lakes will flank the original bridge.`
 
+#### `to the north of` vs `in the north of`
+
+| Expression | Meaning | Example |
+|---|---|---|
+| `to the north of X` | 位于 X 的北面；强调两个地点的相对方位 | `The countryside lies to the north of the main road.` |
+| `in the north of X` | 位于 X 内部的北部 | `The bus station will be built in the north of the town centre.` |
+
+`the countryside to the north` 是 `the countryside which lies to the north` 的简化形式，其中 `to the north` 修饰 `the countryside`。
+
 ### 4.3 Routes & Connectivity
 
 | Function | Expression |
@@ -122,7 +131,7 @@ Examples:
 
 | Function | Safe expression |
 |---|---|
-| Preserve | `maintained its original position` |
+| Preserve | `remained in its original position` / `retained its original position` |
 | Add | `was constructed` / `has been created` / `will be built` |
 | Demolish | `was demolished to make way for...` |
 | Replace | `has been replaced by...` |
@@ -134,7 +143,22 @@ Examples:
 - `Existing factories will be demolished to make way for housing.`
 - `The former factory site will be replaced by shops to the south-west of the centre.`
 - `The farmland will be transformed into a residential area.`
-- `The airport has maintained its original position at the eastern edge.`
+- `The airport has remained in its original position at the eastern edge.`
+
+#### Describing an unchanged position
+
+| Expression | Use |
+|---|---|
+| `remain in its original position` | 地图题中最自然，强调某设施继续位于原处 |
+| `retain its original position` | 正式且自然，强调保留原来的位置 |
+| `maintain its position` | 语法正确，但通常暗示主体主动保持位置，更常用于人、车辆或船只 |
+
+For static features, prefer:
+
+- `The school will remain in its original position.`
+- `The school will retain its original position.`
+
+Although `The school will maintain its original position` is understandable, it is less idiomatic for a building because the school is not actively holding its position.
 
 ---
 
@@ -258,3 +282,23 @@ Long-sentence pattern:
 - `roundabouts were constructed at both ends of the road`
 - `the southern roundabout formed the junction with the main road`
 - `the shared car park was replaced by separate parking areas for staff and the public`
+
+---
+
+## 12. Town-centre Redevelopment
+
+### Common errors
+
+| Error | Correction | Reason |
+|---|---|---|
+| `a circled road` / `a circled layout` | `a ring-shaped road` / `a centre encircled by a road` | `circled` describes an action or a marked item, not the shape of a road. |
+| `a facility connects southwards to the main road` | `a facility lies to the south of the main road` | A position does not imply a direct road connection. |
+| `the part of shops will remain unchanged` | `the southern row of shops will remain unchanged` | Name the visible group precisely rather than using `the part of`. |
+| `a feature will maintain its position` | `a feature will remain in its original position` | The feature itself remains; `maintain` normally takes a direct object. |
+
+### Useful phrases
+
+- `a ring-shaped dual carriageway will encircle the town centre`
+- `the central section of the main road will be converted into a pedestrian precinct`
+- `the northern row of shops will be replaced by new public facilities`
+- `the park will be reduced in size to accommodate housing`

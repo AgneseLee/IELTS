@@ -37,8 +37,8 @@
 
 ### 逻辑链
 
-1. **正向 1：** 政府公平分配教育资源 → 弱势学生获得更多机会 → 教育差距缩小 → 社会流动性提高
-    `Equitable educational resources → equal opportunities → narrow educational gaps → improve social mobility`
+1. **正向 1：** 政府必须为现代教育设施的建设预留资源 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格的教职员工帮助学生记住所学内容并维持认知能力 → 教育差距缩小 → 社会流动性提高
+    `It is imperative that governments make provision for the provision of modern educational facilities → Equitable educational resources → equal opportunities → qualified faculty members help students retain information and preserve their mental faculties → narrow educational gaps → improve social mobility`
 
 2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 更符合就业市场需求 → 青年就业压力缓解
     `Vocational education → practical skills → meet labour-market demands → alleviate youth unemployment`
@@ -46,8 +46,8 @@
 3. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
     `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
 
-4. **负向 2：** 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造力下降
-    `Overreliance on standardised testing → focus on scores → neglect practical skills → stifle creativity`
+4. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长却可能出于原则反对非传统选择 → 学生出于顺从而听从权威，并倾向于遵照外界期待、服从僵化规则和坚持公式化方法 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造力下降
+    `Schools may support learner autonomy in principle → an overbearing parent or principal may reject unconventional choices on principle → out of deference, students defer to authority and may be disposed to conform to expectations, comply with rigid rules and adhere to formulaic methods → Overreliance on standardised testing → focus on scores → neglect practical skills → stifle creativity`
 
 
 ### 正反论证练习
@@ -154,8 +154,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
     `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
 
-4. **负向 2：** 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
-    `Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
+4. **负向 2：** 政府委托承包商执行计划，承包商受命交付项目 → 官员监管失误，造成执行失败的项目 → 官员推迟决定、延迟付款并搁置缺陷处理，导致维护延期、反复延后和长期拖延 → 预期效益难以实现，物有所值也遥不可及 → 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
+    `Governments commission contractors to execute a plan, and contractors are commissioned to deliver the project → officials bungle oversight and produce bungled projects → officials defer a decision, defer payment and defer addressing defects, causing deferred maintenance, repeated deferral and prolonged deferment → intended benefits remain elusive and value for money may prove elusive → Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
 
 
 ### 正反论证练习
@@ -217,8 +217,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 全球化加强国家间联系 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
     `Globalisation → trade and knowledge sharing → wider markets → global economic growth`
 
-2. **正向 2：** 跨国问题难以由单个国家解决 → 各国签署国际协定 → 资源与信息共同投入 → 全球治理改善
-    `Cross-border problems → international agreements → shared resources and information → improve global governance`
+2. **正向 2：** 跨国问题难以由单个国家解决 → 各国达成一致、赞同专家评估，并一致认为合作不可或缺 → 各国签署国际协定 → 成功取决于持续合作，且可能以各国履约为条件 → 制定应急方案后共同投入资源与信息 → 全球治理改善
+    `Cross-border problems → governments concur, concur with expert assessments and concur that cooperation is indispensable → international agreements → success is contingent on cooperation and may be contingent on sustained compliance → contingency planning → shared resources and information → improve global governance`
 
 3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
     `Economic dependency → exposure to external shocks → local job losses → widen inequality`
@@ -247,8 +247,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 提高违法成本并稳定执法 → 潜在犯罪者受到震慑 → 犯罪率下降 → 社区安全改善
-    `Consistent law enforcement → stronger deterrence → lower crime rates → improve community safety`
+1. **正向 1：** 提高违法成本并稳定执法 → 形成更强的震慑力 → 可信的威慑手段及其震慑作用阻止潜在违法者犯罪并遏制犯罪 → 原本不受震慑的违法者开始重新评估风险 → 犯罪率下降 → 社区安全改善
+    `Consistent law enforcement → stronger deterrence → a credible deterrent and its deterrent effect deter potential offenders from committing offences and deter crime → previously undeterred offenders reassess the risks → lower crime rates → improve community safety`
 
 2. **正向 2：** 为服刑人员提供教育与职业培训 → 就业能力提高 → 更容易重返社会 → 再犯率下降
     `Prison education and training → better employability → social reintegration → reduce recidivism`
@@ -258,6 +258,9 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 4. **负向 2：** 对轻微犯罪施加过重刑罚 → 监狱人口增加 → 改造资源被稀释 → 犯人更难重新融入社会
     `Excessive punishment for minor offences → prison overcrowding → fewer rehabilitation resources → hinder reintegration`
+
+5. **负向 3：** 坚信死刑能够震慑犯罪 → 国家保留死刑 → 警方拘留嫌疑人问话 → 仓促调查和施压造成错误定罪 → 国家可能处决无辜者 → 司法错误无法挽回并削弱公众信任
+    `A firm conviction that capital punishment can deter crime → the state retains the death penalty → police detain suspects for questioning → rushed investigations and coercion produce a wrongful conviction → the state may execute an innocent person → irreversible injustice and weaker public trust`
 
 
 ### 正反论证练习
@@ -350,14 +353,14 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 投资可再生能源 → 对化石燃料的依赖下降 → 碳排放减少 → 气候变化得到缓解
     `Renewable-energy investment → less reliance on fossil fuels → lower emissions → mitigate climate change`
 
-2. **正向 2：** 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善
-    `Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems`
+2. **正向 2：** 建设完善的垃圾处理设施 → 可靠的废物处置使公众更愿意负责任地清理垃圾 → 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善 → 防止污染成为城市顽疾并损害社区环境
+    `Well-designed waste-disposal facilities → reliable waste disposal makes people more disposed to dispose of waste responsibly → Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems → prevent pollution from becoming a blight, creating urban blight and casting a blight on neighbourhoods`
 
 3. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
     `Industrial production and car use → higher emissions → air and water pollution → harm public health`
 
-4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 产品价格上涨或岗位减少 → 工人可能遭受裁员，家庭预算也容易受到能源成本上涨的影响 → 低收入群体承受更大压力
-    `Rapid environmental transition → higher business costs → price rises or job losses → workers may be subjected to layoffs while household budgets may be subject to rising energy costs → burden low-income groups`
+4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 不稳定的能源供应使价格剧烈波动 → 产品价格上涨或岗位减少 → 工人可能遭受裁员，家庭预算也容易受到能源成本上涨的影响 → 低收入群体承受更大压力
+    `Rapid environmental transition → higher business costs → erratic energy supplies cause prices to fluctuate erratically → price rises or job losses → workers may be subjected to layoffs while household budgets may be subject to rising energy costs → burden low-income groups`
 
 
 ### 正反论证练习
@@ -416,8 +419,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作满意度和效率提高 → 企业竞争力增强
     `Remote work → less commuting → better work-life balance → higher productivity and competitiveness`
 
-2. **正向 2：** 企业提供持续培训 → 员工掌握市场所需技能 → 职业安全感提高 → 个人和企业共同成长
-    `Workplace training → relevant skills → greater job security → employee and business growth`
+2. **正向 2：** 企业提供持续培训 → 员工掌握市场所需技能 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
+    `Workplace training → relevant skills → businesses retain talent → greater job security → employee and business growth`
 
 3. **负向 1：** 全球竞争加剧 → 企业不断提高绩效要求 → 员工长期承受压力 → 焦虑和职业倦怠增加
     `Global competition → higher performance demands → chronic stress → anxiety and burnout`

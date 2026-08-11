@@ -27,71 +27,71 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] impulsive purchasing behavior → 媒体类/负向 链 5
 - [x] fall into disrepair → 政府类/正向 链 2
 - [x] renovate → 政府类/正向 链 2
-- [ ] defer
-- [ ] defer a decision
-- [ ] defer payment
-- [ ] defer to
-- [ ] defer doing
-- [ ] deferral
-- [ ] deferment
-- [ ] deference
-- [ ] deferred
-- [ ] deter
-- [ ] deter sb from doing sth
-- [ ] deter crime
-- [ ] deterrent
-- [ ] deterrence
-- [ ] deterrent effect
-- [ ] blight
-- [ ] urban blight
-- [ ] cast a blight on
-- [ ] bungle
-- [ ] bungled
-- [ ] be commissioned to
-- [ ] commission sb to do sth
-- [ ] concur
-- [ ] concur with
-- [ ] concur that
-- [ ] contingent
-- [ ] be contingent on
-- [ ] contingency
-- [ ] conviction
-- [ ] a firm conviction
-- [ ] wrongful conviction
-- [ ] detain
-- [ ] detain sb for questioning
-- [ ] retain
-- [ ] retain information
-- [ ] retain talent
-- [ ] overbearing
-- [ ] an overbearing parent
-- [ ] erratically
-- [ ] erratic
-- [ ] fluctuate erratically
-- [ ] elusive
-- [ ] remain elusive
-- [ ] prove elusive
-- [ ] dispose of
-- [ ] waste disposal
-- [ ] be disposed to
-- [ ] execute
-- [ ] execute a plan
-- [ ] capital punishment
-- [ ] conform
-- [ ] conform to
-- [ ] comply with
-- [ ] adhere to
-- [ ] provision
-- [ ] the provision of
-- [ ] make provision for
-- [ ] undeterred
-- [ ] imperative
-- [ ] It is imperative that
-- [ ] principle
-- [ ] in principle
-- [ ] on principle
-- [ ] principal
-- [ ] faculty
-- [ ] mental faculties
-- [ ] faculty member
-- [ ] facility
+- [x] defer → 政府类/负向 链 4
+- [x] defer a decision → 政府类/负向 链 4
+- [x] defer payment → 政府类/负向 链 4
+- [x] defer to → 教育类/负向 链 4
+- [x] defer doing → 政府类/负向 链 4
+- [x] deferral → 政府类/负向 链 4
+- [x] deferment → 政府类/负向 链 4
+- [x] deference → 教育类/负向 链 4
+- [x] deferred → 政府类/负向 链 4
+- [x] deter → 犯罪类/正向 链 1
+- [x] deter sb from doing sth → 犯罪类/正向 链 1
+- [x] deter crime → 犯罪类/正向 链 1
+- [x] deterrent → 犯罪类/正向 链 1
+- [x] deterrence → 犯罪类/正向 链 1
+- [x] deterrent effect → 犯罪类/正向 链 1
+- [x] blight → 环境类/正向 链 2
+- [x] urban blight → 环境类/正向 链 2
+- [x] cast a blight on → 环境类/正向 链 2
+- [x] bungle → 政府类/负向 链 4
+- [x] bungled → 政府类/负向 链 4
+- [x] be commissioned to → 政府类/负向 链 4
+- [x] commission sb to do sth → 政府类/负向 链 4
+- [x] concur → 国际类/正向 链 2
+- [x] concur with → 国际类/正向 链 2
+- [x] concur that → 国际类/正向 链 2
+- [x] contingent → 国际类/正向 链 2
+- [x] be contingent on → 国际类/正向 链 2
+- [x] contingency → 国际类/正向 链 2
+- [x] conviction → 犯罪类/负向 链 5
+- [x] a firm conviction → 犯罪类/负向 链 5
+- [x] wrongful conviction → 犯罪类/负向 链 5
+- [x] detain → 犯罪类/负向 链 5
+- [x] detain sb for questioning → 犯罪类/负向 链 5
+- [x] retain → 工作类/正向 链 2
+- [x] retain information → 教育类/正向 链 1
+- [x] retain talent → 工作类/正向 链 2
+- [x] overbearing → 教育类/负向 链 4
+- [x] an overbearing parent → 教育类/负向 链 4
+- [x] erratically → 环境类/负向 链 4
+- [x] erratic → 环境类/负向 链 4
+- [x] fluctuate erratically → 环境类/负向 链 4
+- [x] elusive → 政府类/负向 链 4
+- [x] remain elusive → 政府类/负向 链 4
+- [x] prove elusive → 政府类/负向 链 4
+- [x] dispose of → 环境类/正向 链 2
+- [x] waste disposal → 环境类/正向 链 2
+- [x] be disposed to → 环境类/正向 链 2
+- [x] execute → 政府类/负向 链 4
+- [x] execute a plan → 政府类/负向 链 4
+- [x] capital punishment → 犯罪类/负向 链 5
+- [x] conform → 教育类/负向 链 4
+- [x] conform to → 教育类/负向 链 4
+- [x] comply with → 教育类/负向 链 4
+- [x] adhere to → 教育类/负向 链 4
+- [x] provision → 教育类/正向 链 1
+- [x] the provision of → 教育类/正向 链 1
+- [x] make provision for → 教育类/正向 链 1
+- [x] undeterred → 犯罪类/正向 链 1
+- [x] imperative → 教育类/正向 链 1
+- [x] It is imperative that → 教育类/正向 链 1
+- [x] principle → 教育类/负向 链 4
+- [x] in principle → 教育类/负向 链 4
+- [x] on principle → 教育类/负向 链 4
+- [x] principal → 教育类/负向 链 4
+- [x] faculty → 教育类/正向 链 1
+- [x] mental faculties → 教育类/正向 链 1
+- [x] faculty member → 教育类/正向 链 1
+- [x] facility → 教育类/正向 链 1

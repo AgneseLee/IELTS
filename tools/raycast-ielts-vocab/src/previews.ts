@@ -4,19 +4,20 @@ import { readFile } from "node:fs/promises";
 import type { DeepSeekExtractor } from "./extractor.js";
 import {
   atomicWriteIfUnchanged,
-  countAdditions,
+  countChanges,
+  extractLogicChainCatalog,
   formatPreview,
   hashContent,
-  renderAppendOnly,
+  renderLogicChainChanges,
 } from "./markdown.js";
-import type { AdditionsByTopic, Extraction } from "./types.js";
+import type { ChangesByTopic, Extraction } from "./types.js";
 
 interface StoredPreview {
   id: string;
   expectedHash: string;
   updatedContent: string;
-  applied: AdditionsByTopic;
-  skipped: AdditionsByTopic;
+  applied: ChangesByTopic;
+  skipped: ChangesByTopic;
   expiresAt: number;
 }
 
@@ -42,10 +43,10 @@ export class PreviewStore {
 
   async create(conversation: string): Promise<PreviewResult> {
     this.#purgeExpired();
-    const extraction = await this.#extractor.extract(conversation);
-    const requested = groupByTopic(extraction);
     const original = await readFile(this.#filePath, "utf8");
-    const rendered = renderAppendOnly(original, requested);
+    const extraction = await this.#extractor.extract(conversation, extractLogicChainCatalog(original));
+    const requested = groupByTopic(extraction);
+    const rendered = renderLogicChainChanges(original, requested);
     const previewId = randomUUID();
     const expiresAt = Date.now() + this.#ttlMs;
 
@@ -60,8 +61,8 @@ export class PreviewStore {
 
     return {
       previewId,
-      additionCount: countAdditions(rendered.applied),
-      skippedCount: countAdditions(rendered.skipped),
+      additionCount: countChanges(rendered.applied),
+      skippedCount: countChanges(rendered.skipped),
       preview: formatPreview(rendered.applied, rendered.skipped),
       expiresAt: new Date(expiresAt).toISOString(),
     };
@@ -72,17 +73,17 @@ export class PreviewStore {
     const preview = this.#previews.get(previewId);
     if (!preview) throw new Error("Preview not found or expired; run preview_session again");
 
-    const additionCount = countAdditions(preview.applied);
+    const additionCount = countChanges(preview.applied);
     if (additionCount === 0) {
       this.#previews.delete(previewId);
-      return { additionCount: 0, summary: "没有新的语料需要写入。" };
+      return { additionCount: 0, summary: "没有新的逻辑链需要写入。" };
     }
 
     await atomicWriteIfUnchanged(this.#filePath, preview.expectedHash, preview.updatedContent);
     this.#previews.delete(previewId);
     return {
       additionCount,
-      summary: `已向 views-v2.md 追加 ${additionCount} 条主题语料；未删除或替换已有内容。`,
+      summary: `已在 views-v2.md 应用 ${additionCount} 项逻辑链变更；扩写时保留了原有英文节点。`,
     };
   }
 
@@ -94,14 +95,12 @@ export class PreviewStore {
   }
 }
 
-export function groupByTopic(extraction: Extraction): AdditionsByTopic {
-  const grouped: AdditionsByTopic = {};
-  for (const item of extraction.items) {
-    for (const placement of item.placements) {
-      const bucket = grouped[placement.topic] ?? [];
-      bucket.push({ vocabulary: item.vocabulary, ...placement });
-      grouped[placement.topic] = bucket;
-    }
+export function groupByTopic(extraction: Extraction): ChangesByTopic {
+  const grouped: ChangesByTopic = {};
+  for (const change of extraction.changes) {
+    const bucket = grouped[change.topic] ?? [];
+    bucket.push(change);
+    grouped[change.topic] = bucket;
   }
   return grouped;
 }

@@ -2,7 +2,13 @@ import { createHash, randomUUID } from "node:crypto";
 import { chmod, readFile, rename, stat, unlink, writeFile } from "node:fs/promises";
 import { basename, dirname, join } from "node:path";
 
-import { TOPICS, type AdditionsByTopic, type Topic, type TopicAddition } from "./types.js";
+import {
+  TOPICS,
+  type ChangesByTopic,
+  type LogicChainChange,
+  type Polarity,
+  type Topic,
+} from "./types.js";
 
 const DAY_HEADINGS: Record<Topic, string> = {
   教育: "## Day 1 教育类",
@@ -21,58 +27,114 @@ const DAY_HEADINGS: Record<Topic, string> = {
 
 export interface RenderResult {
   content: string;
-  applied: AdditionsByTopic;
-  skipped: AdditionsByTopic;
+  applied: ChangesByTopic;
+  skipped: ChangesByTopic;
 }
 
-interface CorpusRegion {
-  codeContentEnd: number;
-  regionEnd: number;
-  existingCollocations: Set<string>;
+interface LogicRegion {
+  end: number;
+  chains: ExistingChain[];
+}
+
+interface ExistingChain {
+  ordinal: number;
+  polarity: Polarity;
+  polarityIndex: number;
+  chinese: string[];
+  english: string[];
+  start: number;
+  end: number;
 }
 
 export function hashContent(content: string): string {
   return createHash("sha256").update(content).digest("hex");
 }
 
-export function renderAppendOnly(source: string, requested: AdditionsByTopic): RenderResult {
-  const edits: Array<{ at: number; text: string; order: number }> = [];
-  const applied: AdditionsByTopic = {};
-  const skipped: AdditionsByTopic = {};
+export function extractLogicChainCatalog(source: string): string {
+  const lines: string[] = [];
+  for (const topic of TOPICS) {
+    const region = locateLogicRegion(source, topic);
+    lines.push(`### ${topic}`);
+    for (const chain of region.chains) {
+      lines.push(
+        `${chain.ordinal}. ${chain.polarity}: ${chain.chinese.join(" → ")}`,
+        `   ${chain.english.join(" → ")}`,
+      );
+    }
+    lines.push("");
+  }
+  return lines.join("\n").trim();
+}
+
+export function renderLogicChainChanges(source: string, requested: ChangesByTopic): RenderResult {
+  const edits: Array<{ at: number; end: number; text: string }> = [];
+  const applied: ChangesByTopic = {};
+  const skipped: ChangesByTopic = {};
 
   for (const topic of TOPICS) {
-    const additions = requested[topic] ?? [];
-    if (additions.length === 0) continue;
+    const changes = requested[topic] ?? [];
+    if (changes.length === 0) continue;
 
-    const region = locateCorpusRegion(source, topic);
-    const seen = new Set(region.existingCollocations);
-    const accepted: TopicAddition[] = [];
-    const rejected: TopicAddition[] = [];
+    const region = locateLogicRegion(source, topic);
+    const accepted: LogicChainChange[] = [];
+    const rejected: LogicChainChange[] = [];
+    const seenChains = new Set(region.chains.map((chain) => normaliseChain(chain.english)));
+    let nextOrdinal = Math.max(...region.chains.map((chain) => chain.ordinal), 0) + 1;
+    const nextPolarityIndex: Record<Polarity, number> = {
+      正向: Math.max(...region.chains.filter((chain) => chain.polarity === "正向").map((chain) => chain.polarityIndex), 0) + 1,
+      负向: Math.max(...region.chains.filter((chain) => chain.polarity === "负向").map((chain) => chain.polarityIndex), 0) + 1,
+    };
+    const appended: string[] = [];
 
-    for (const addition of additions) {
-      const normalised = normaliseCollocation(addition.collocation);
-      if (seen.has(normalised)) {
-        rejected.push(addition);
-        continue;
+    for (const change of changes) {
+      const chinese = change.chinese_chain.map(cleanNode);
+      const english = change.english_chain.map(cleanNode);
+      const normalised = normaliseChain(english);
+
+      if (change.action === "extend") {
+        const target = region.chains.find((chain) => chain.ordinal === change.target);
+        if (!target) throw new Error(`${topic} logic chain ${change.target} does not exist`);
+        if (change.polarity !== target.polarity) {
+          throw new Error(`${topic} logic chain ${change.target} must retain its ${target.polarity} polarity`);
+        }
+        if (!isOrderedSubset(target.english, english)) {
+          throw new Error(`${topic} logic chain ${change.target} would remove, reorder, or paraphrase existing collocations`);
+        }
+        if (normalised === normaliseChain(target.english)) {
+          rejected.push(change);
+          continue;
+        }
+        edits.push({
+          at: target.start,
+          end: target.end,
+          text: renderChain(target.ordinal, target.polarity, target.polarityIndex, chinese, english),
+        });
+      } else {
+        if (seenChains.has(normalised)) {
+          rejected.push(change);
+          continue;
+        }
+        seenChains.add(normalised);
+        appended.push(
+          renderChain(nextOrdinal, change.polarity, nextPolarityIndex[change.polarity], chinese, english),
+        );
+        nextOrdinal += 1;
+        nextPolarityIndex[change.polarity] += 1;
       }
-      seen.add(normalised);
-      accepted.push(addition);
+      accepted.push(change);
     }
 
+    if (appended.length > 0) {
+      edits.push({ at: region.end, end: region.end, text: `\n\n${appended.join("\n\n")}` });
+    }
+    if (accepted.length > 0) applied[topic] = accepted;
     if (rejected.length > 0) skipped[topic] = rejected;
-    if (accepted.length === 0) continue;
-    applied[topic] = accepted;
-
-    const suffix = accepted.map(({ collocation }) => ` / ${cleanInline(collocation)}`).join("");
-    edits.push({ at: region.codeContentEnd, text: suffix, order: 0 });
-    edits.push({ at: region.regionEnd, text: renderExamples(accepted, source, region.regionEnd), order: 1 });
   }
 
   let content = source;
-  for (const edit of edits.sort((a, b) => b.at - a.at || b.order - a.order)) {
-    content = `${content.slice(0, edit.at)}${edit.text}${content.slice(edit.at)}`;
+  for (const edit of edits.sort((a, b) => b.at - a.at)) {
+    content = `${content.slice(0, edit.at)}${edit.text}${content.slice(edit.end)}`;
   }
-
   return { content, applied, skipped };
 }
 
@@ -94,71 +156,99 @@ export async function atomicWriteIfUnchanged(path: string, expectedHash: string,
   }
 }
 
-export function countAdditions(additions: AdditionsByTopic): number {
-  return Object.values(additions).reduce((sum, items) => sum + (items?.length ?? 0), 0);
+export function countChanges(changes: ChangesByTopic): number {
+  return Object.values(changes).reduce((sum, items) => sum + (items?.length ?? 0), 0);
 }
 
-export function formatPreview(applied: AdditionsByTopic, skipped: AdditionsByTopic): string {
+export function formatPreview(applied: ChangesByTopic, skipped: ChangesByTopic): string {
   const lines: string[] = [];
   for (const topic of TOPICS) {
-    const items = applied[topic];
-    if (!items?.length) continue;
+    const changes = applied[topic];
+    if (!changes?.length) continue;
     lines.push(`### ${topic}`);
-    for (const item of items) {
-      lines.push(`- \`${item.collocation}\`（来自：${item.vocabulary}）`);
-      for (const example of item.examples) lines.push(`  - ${example}`);
+    for (const change of changes) {
+      const operation = change.action === "extend" ? `扩写链 #${change.target}` : `新增${change.polarity}链`;
+      lines.push(
+        `- **${operation}**（词汇：${change.vocabulary.join("、")}）`,
+        `  - ${change.chinese_chain.join(" → ")}`,
+        `  - \`${change.english_chain.join(" → ")}\``,
+      );
     }
     lines.push("");
   }
 
-  const skippedCount = countAdditions(skipped);
-  if (skippedCount > 0) lines.push(`已跳过 ${skippedCount} 条与现有语料重复的搭配。`);
+  const skippedCount = countChanges(skipped);
+  if (skippedCount > 0) lines.push(`已跳过 ${skippedCount} 条重复或无变化逻辑链。`);
   return lines.join("\n").trim();
 }
 
-function locateCorpusRegion(source: string, topic: Topic): CorpusRegion {
+function locateLogicRegion(source: string, topic: Topic): LogicRegion {
   const heading = DAY_HEADINGS[topic];
   const dayStart = lineStartIndex(source, heading);
   if (dayStart < 0) throw new Error(`Missing expected topic heading: ${heading}`);
 
   const nextDay = source.indexOf("\n## Day ", dayStart + heading.length);
   const dayEnd = nextDay < 0 ? source.length : nextDay + 1;
-  const sectionHeading = "### 语料";
+  const sectionHeading = "### 逻辑链";
   const sectionStart = lineStartIndex(source, sectionHeading, dayStart, dayEnd);
-  if (sectionStart < 0) throw new Error(`Missing 语料 section under ${heading}`);
+  if (sectionStart < 0) throw new Error(`Missing 逻辑链 section under ${heading}`);
 
   const nextSection = source.indexOf("\n### ", sectionStart + sectionHeading.length);
-  const regionEndRaw = nextSection < 0 || nextSection >= dayEnd ? dayEnd : nextSection + 1;
-  const regionText = source.slice(sectionStart + sectionHeading.length, regionEndRaw);
-  const codeMatch = /\n\s*`([^`\r\n]*)`/.exec(regionText);
-  if (!codeMatch || codeMatch.index === undefined) {
-    throw new Error(`Missing inline collocation bank under ${heading}`);
+  const sectionEndRaw = nextSection < 0 || nextSection >= dayEnd ? dayEnd : nextSection + 1;
+  const regionEnd = trimTrailingBlankLinesStart(source, sectionEndRaw, sectionStart + sectionHeading.length);
+  const bodyStart = source.indexOf("\n", sectionStart) + 1;
+  const body = source.slice(bodyStart, regionEnd);
+  const pattern = /^(\d+)\. \*\*(正向|负向) (\d+)：\*\*[ \t]*(.*?)\r?\n[ \t]+`([^`\r\n]+)`/gm;
+  const chains: ExistingChain[] = [];
+
+  for (const match of body.matchAll(pattern)) {
+    if (match.index === undefined) continue;
+    chains.push({
+      ordinal: Number(match[1]),
+      polarity: match[2] as Polarity,
+      polarityIndex: Number(match[3]),
+      chinese: splitChain(match[4] ?? ""),
+      english: splitChain(match[5] ?? ""),
+      start: bodyStart + match.index,
+      end: bodyStart + match.index + match[0].length,
+    });
   }
-
-  const codeText = codeMatch[1] ?? "";
-  const fullMatch = codeMatch[0];
-  const codeOpen = sectionStart + sectionHeading.length + codeMatch.index + fullMatch.indexOf("`");
-  const codeContentEnd = codeOpen + 1 + codeText.length;
-  const regionEnd = trimTrailingBlankLinesStart(source, regionEndRaw, codeContentEnd + 1);
-
-  const existingCollocations = new Set(
-    codeText.split("/").map(normaliseCollocation).filter(Boolean),
-  );
-  const corpusBody = source.slice(codeContentEnd + 1, regionEndRaw);
-  for (const match of corpusBody.matchAll(/^- \*\*([^*]+)\*\*/gm)) {
-    if (match[1]) existingCollocations.add(normaliseCollocation(match[1]));
-  }
-
-  return { codeContentEnd, regionEnd, existingCollocations };
+  if (chains.length === 0) throw new Error(`Missing numbered logic chains under ${heading}`);
+  return { end: regionEnd, chains };
 }
 
-function renderExamples(additions: TopicAddition[], source: string, at: number): string {
-  const prefix = source.slice(Math.max(0, at - 2), at).endsWith("\n\n") ? "" : "\n";
-  const entries = additions.map((addition) => {
-    const sentences = addition.examples.map((example) => `  - ${cleanSentence(example)}`).join("\n");
-    return `- **${cleanInline(addition.collocation)}**\n${sentences}`;
-  });
-  return `${prefix}\n${entries.join("\n\n")}`;
+function renderChain(
+  ordinal: number,
+  polarity: Polarity,
+  polarityIndex: number,
+  chinese: string[],
+  english: string[],
+): string {
+  return `${ordinal}. **${polarity} ${polarityIndex}：** ${chinese.join(" → ")}\n    \`${english.join(" → ")}\``;
+}
+
+function splitChain(value: string): string[] {
+  return value.split(/\s*→\s*/).map((node) => node.trim()).filter(Boolean);
+}
+
+function isOrderedSubset(existing: string[], proposed: string[]): boolean {
+  let cursor = 0;
+  for (const node of proposed) {
+    if (normaliseNode(node) === normaliseNode(existing[cursor] ?? "")) cursor += 1;
+  }
+  return cursor === existing.length;
+}
+
+function normaliseChain(nodes: string[]): string {
+  return nodes.map(normaliseNode).join("→");
+}
+
+function normaliseNode(value: string): string {
+  return value.normalize("NFKC").trim().replace(/\s+/g, " ").toLocaleLowerCase("en-GB");
+}
+
+function cleanNode(value: string): string {
+  return value.trim().replace(/[`\r\n|<>#]+/g, " ").replace(/\s+/g, " ");
 }
 
 function lineStartIndex(source: string, exactLine: string, from = 0, to = source.length): number {
@@ -172,26 +262,6 @@ function trimTrailingBlankLinesStart(source: string, end: number, minimum: numbe
   let cursor = end;
   while (cursor > minimum && /[\r\n]/.test(source[cursor - 1] ?? "")) cursor -= 1;
   return cursor;
-}
-
-function normaliseCollocation(value: string): string {
-  return value
-    .normalize("NFKC")
-    .trim()
-    .replace(/[.!?;:,]+$/g, "")
-    .replace(/\s+/g, " ")
-    .toLocaleLowerCase("en-GB");
-}
-
-function cleanInline(value: string): string {
-  return value
-    .trim()
-    .replace(/[`\r\n/*_[\]<>#]+/g, " ")
-    .replace(/\s+/g, " ");
-}
-
-function cleanSentence(value: string): string {
-  return value.trim().replace(/[\r\n]+/g, " ").replace(/\s+/g, " ");
 }
 
 function escapeRegExp(value: string): string {

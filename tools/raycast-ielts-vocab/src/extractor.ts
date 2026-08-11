@@ -1,20 +1,22 @@
 import { extractionSchema, type Extraction } from "./types.js";
 
-const SYSTEM_PROMPT = `You extract IELTS Writing Task 2 vocabulary from a Raycast AI Chat transcript.
+const SYSTEM_PROMPT = `You organise user-requested vocabulary into IELTS Writing Task 2 argument chains.
 
 Return valid JSON only, with this exact shape:
-{"items":[{"vocabulary":"regulation","placements":[{"topic":"科技","collocation":"Introduce stricter technology regulations","examples":["Sentence one.","Sentence two."]}]}]}
+{"changes":[{"topic":"科技","action":"extend","target":1,"polarity":"正向","vocabulary":["streamline"],"chinese_chain":["步骤一","步骤二","步骤三","步骤四"],"english_chain":["Existing node one","Streamline routine processes","Existing node two","Existing node three"]}]}
 
 Rules:
 1. Candidate vocabulary MUST come from USER messages. Assistant messages are context only.
-2. Always include words or phrases that the user explicitly asks about, marks for learning, or discusses as vocabulary. Do not collect ordinary function words.
-3. Create IELTS Task 2-ready collocations rather than isolated words.
+2. Include words or phrases the user explicitly asks about, marks for learning, or discusses as vocabulary. Ignore ordinary function words.
+3. Group related vocabulary into coherent causal chains; never create isolated example sentences.
 4. Assign each vocabulary item to at most three genuinely relevant topics, choosing only from: 教育, 科技, 社会, 政府, 媒体, 国际, 犯罪, 文化, 旅游, 环境, 健康, 工作.
-5. For each chosen topic, provide exactly one topic-specific collocation and one or two natural IELTS-style example sentences.
-6. Start each new collocation with a capital letter. Use British English in newly generated text.
-7. Do not invent a vocabulary item that the user did not mention.
-8. If there are no learning-target vocabulary items, return {"items":[]}.
-9. Do not use Markdown fences or add commentary.`;
+5. Produce at most two changes per topic. Choose positive or negative polarity by argumentative fit; do not force balance.
+6. Prefer action "extend" when vocabulary naturally strengthens an existing chain. target is its displayed number.
+7. For "extend", copy EVERY existing English node from that target EXACTLY and in the same order. Add new nodes around or between them. Do not remove or paraphrase existing nodes. Keep its existing polarity.
+8. Use action "append" only when no existing chain fits naturally; target must be null.
+9. Each Chinese and English chain must contain the same 4-8 causal steps. Use British English.
+10. Do not invent vocabulary. If nothing useful is found, return {"changes":[]}.
+11. Do not use Markdown fences or commentary.`;
 
 export interface ExtractorOptions {
   endpoint: string;
@@ -43,13 +45,13 @@ export class DeepSeekExtractor {
     this.#maxAttempts = options.maxAttempts ?? 3;
   }
 
-  async extract(conversation: string): Promise<Extraction> {
+  async extract(conversation: string, existingChains: string): Promise<Extraction> {
     let repair = "";
     let lastError: unknown;
 
     for (let attempt = 1; attempt <= this.#maxAttempts; attempt += 1) {
       try {
-        const content = await this.#complete(conversation, repair);
+        const content = await this.#complete(conversation, existingChains, repair);
         const json = parseModelJson(content);
         return extractionSchema.parse(json);
       } catch (error) {
@@ -61,16 +63,16 @@ export class DeepSeekExtractor {
     throw new Error(`DeepSeek extraction failed after ${this.#maxAttempts} attempts: ${errorMessage(lastError)}`);
   }
 
-  async #complete(conversation: string, repair: string): Promise<string> {
+  async #complete(conversation: string, existingChains: string, repair: string): Promise<string> {
     const model = this.#resolvedModel ?? this.#model;
-    let response = await this.#request(model, conversation, repair);
+    let response = await this.#request(model, conversation, existingChains, repair);
     let body = await response.text();
 
     if (!response.ok && response.status === 400 && /model.+not found/i.test(body)) {
       const resolved = await this.#resolveModelName(model);
       if (resolved && resolved !== model) {
         this.#resolvedModel = resolved;
-        response = await this.#request(resolved, conversation, repair);
+        response = await this.#request(resolved, conversation, existingChains, repair);
         body = await response.text();
       }
     }
@@ -82,7 +84,7 @@ export class DeepSeekExtractor {
     return parseOllamaContent(body);
   }
 
-  async #request(model: string, conversation: string, repair: string): Promise<Response> {
+  async #request(model: string, conversation: string, existingChains: string, repair: string): Promise<Response> {
     return this.#fetch(this.#endpoint, {
       method: "POST",
       headers: { "content-type": "application/json" },
@@ -92,7 +94,10 @@ export class DeepSeekExtractor {
         format: "json",
         messages: [
           { role: "system", content: `${SYSTEM_PROMPT}${repair}` },
-          { role: "user", content: `Full chat transcript:\n\n${conversation}` },
+          {
+            role: "user",
+            content: `Existing logic chains:\n\n${existingChains}\n\nFull chat transcript:\n\n${conversation}`,
+          },
         ],
       }),
       signal: AbortSignal.timeout(120_000),
@@ -113,9 +118,7 @@ export class DeepSeekExtractor {
     );
     if (match?.name) return match.name;
 
-    if (payload.models?.length === 1) {
-      return payload.models[0]?.name;
-    }
+    if (payload.models?.length === 1) return payload.models[0]?.name;
     return undefined;
   }
 }
@@ -128,27 +131,19 @@ export function parseOllamaContent(body: string): string {
   try {
     chunks.push(JSON.parse(trimmed) as OllamaChunk);
   } catch {
-    for (const line of trimmed.split(/\r?\n/).filter(Boolean)) {
-      chunks.push(JSON.parse(line) as OllamaChunk);
-    }
+    for (const line of trimmed.split(/\r?\n/).filter(Boolean)) chunks.push(JSON.parse(line) as OllamaChunk);
   }
 
   const proxyError = chunks.find((chunk) => chunk.error)?.error;
   if (proxyError) throw new Error(`DeepSeek proxy error: ${proxyError}`);
 
-  const content = chunks
-    .map((chunk) => chunk.message?.content ?? chunk.response ?? "")
-    .join("")
-    .trim();
+  const content = chunks.map((chunk) => chunk.message?.content ?? chunk.response ?? "").join("").trim();
   if (!content) throw new Error("DeepSeek proxy response did not contain model text");
   return content;
 }
 
 export function parseModelJson(content: string): unknown {
-  const unfenced = content
-    .trim()
-    .replace(/^```(?:json)?\s*/i, "")
-    .replace(/\s*```$/, "");
+  const unfenced = content.trim().replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "");
   return JSON.parse(unfenced);
 }
 

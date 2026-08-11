@@ -18,15 +18,24 @@ test("commits only the content captured by a confirmed preview", async () => {
       Response.json({
         message: {
           content: JSON.stringify({
-            items: [
+            changes: [
               {
-                vocabulary: "regulation",
-                placements: [
-                  {
-                    topic: "科技",
-                    collocation: "Introduce stricter technology regulations",
-                    examples: ["Governments should regulate emerging technologies carefully."],
-                  },
+                topic: "科技",
+                action: "append",
+                target: null,
+                polarity: "负向",
+                vocabulary: ["regulatory vacuum"],
+                chinese_chain: [
+                  "技术发展过快",
+                  "监管形成真空",
+                  "企业滥用个人数据",
+                  "公众信任下降",
+                ],
+                english_chain: [
+                  "rapid technological change",
+                  "create a regulatory vacuum",
+                  "corporate misuse of personal data",
+                  "erode public trust",
                 ],
               },
             ],
@@ -42,11 +51,11 @@ test("commits only the content captured by a confirmed preview", async () => {
 
     const preview = await previews.create("User: Teach me the word regulation.");
     assert.equal(preview.additionCount, 1);
-    assert.doesNotMatch(await readFile(temporaryViews, "utf8"), /Introduce stricter technology regulations/);
+    assert.doesNotMatch(await readFile(temporaryViews, "utf8"), /create a regulatory vacuum/);
 
     const committed = await previews.commit(preview.previewId);
     assert.equal(committed.additionCount, 1);
-    assert.match(await readFile(temporaryViews, "utf8"), /Introduce stricter technology regulations/);
+    assert.match(await readFile(temporaryViews, "utf8"), /create a regulatory vacuum/);
     await assert.rejects(previews.commit(preview.previewId), /not found or expired/);
   } finally {
     await rm(directory, { recursive: true, force: true });

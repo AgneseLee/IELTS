@@ -25,7 +25,7 @@ export function createIeltsVocabServer(previews: PreviewStore): McpServer {
     { name: "ielts-vocab", version: "0.1.0" },
     {
       instructions:
-        "When the user asks to organise vocabulary from the current chat, call preview_session with the complete visible transcript. Show its preview and preview_id. Never call commit_preview until the user explicitly confirms the preview. This server only appends to writing/task2/views-v2.md.",
+        "When the user asks to organise vocabulary from the current chat, call preview_session with the complete visible transcript. Show its preview and preview_id. Never call commit_preview until the user explicitly confirms the preview. This server only updates logic chains in writing/task2/views-v2.md.",
     },
   );
 
@@ -34,7 +34,7 @@ export function createIeltsVocabServer(previews: PreviewStore): McpServer {
     {
       title: "Preview IELTS vocabulary",
       description:
-        "Analyse the complete current chat, collect vocabulary explicitly mentioned by the user, create topic-specific IELTS collocations and examples, and preview append-only changes for the 12 existing subjects in views-v2.md. Pass the full transcript verbatim; this tool cannot read Raycast chat history itself. This tool does not modify the file.",
+        "Analyse the complete current chat, collect vocabulary explicitly mentioned by the user, group it into topic-specific IELTS argument chains, and preview extensions or additions to the existing logic chains in views-v2.md. Existing English nodes are retained. Pass the full transcript verbatim; this tool cannot read Raycast chat history itself. This tool does not modify the file.",
       inputSchema: previewInputSchema,
       annotations: {
         readOnlyHint: true,
@@ -49,7 +49,7 @@ export function createIeltsVocabServer(previews: PreviewStore): McpServer {
         const text = result.additionCount
           ? [
               `预览 ID：${result.previewId}`,
-              `计划追加 ${result.additionCount} 条语料，跳过 ${result.skippedCount} 条重复项。`,
+              `计划应用 ${result.additionCount} 项逻辑链变更，跳过 ${result.skippedCount} 项重复或无变化内容。`,
               `预览将在 ${result.expiresAt} 失效。`,
               "",
               result.preview,
@@ -58,7 +58,7 @@ export function createIeltsVocabServer(previews: PreviewStore): McpServer {
             ].join("\n")
           : [
               `预览 ID：${result.previewId}`,
-              "没有发现需要追加的新语料。",
+              "没有发现需要调整的逻辑链。",
               result.skippedCount ? `已跳过 ${result.skippedCount} 条重复项。` : "",
             ]
               .filter(Boolean)
@@ -79,7 +79,7 @@ export function createIeltsVocabServer(previews: PreviewStore): McpServer {
     {
       title: "Commit IELTS vocabulary preview",
       description:
-        "Append the exact previously generated preview to views-v2.md. Call only after the user explicitly confirms the preview. Rejects expired previews and any file changed since preview; it never accepts a path and never deletes or replaces existing corpus content.",
+        "Apply the exact previously generated logic-chain preview to views-v2.md. Call only after the user explicitly confirms the preview. Rejects expired previews and any file changed since preview; it never accepts a path and preserves every English node in an extended chain.",
       inputSchema: commitInputSchema,
       annotations: {
         readOnlyHint: false,

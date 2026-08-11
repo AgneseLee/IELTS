@@ -4,21 +4,32 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
 
-import { atomicWriteIfUnchanged, hashContent, renderAppendOnly } from "../src/markdown.js";
+import {
+  atomicWriteIfUnchanged,
+  extractLogicChainCatalog,
+  hashContent,
+  renderLogicChainChanges,
+} from "../src/markdown.js";
 
 const viewsPath = new URL("../../../writing/task2/views-v2.md", import.meta.url);
 
-test("appends a collocation suffix and labelled examples inside the matching subject", async () => {
+test("extends a chain while preserving every existing English node", async () => {
   const source = await readFile(viewsPath, "utf8");
-  const result = renderAppendOnly(source, {
+  const result = renderLogicChainChanges(source, {
     科技: [
       {
-        vocabulary: "regulation",
         topic: "科技",
-        collocation: "Introduce stricter technology regulations",
-        examples: [
-          "Governments should introduce stricter technology regulations to protect personal data.",
-          "Clear rules can prevent companies from misusing sensitive information.",
+        action: "extend",
+        target: 1,
+        polarity: "正向",
+        vocabulary: ["streamline"],
+        chinese_chain: ["AI 与自动化", "精简常规流程", "减少重复工作", "提高生产率", "促进经济增长"],
+        english_chain: [
+          "AI and automation",
+          "streamline routine processes",
+          "reduce repetitive work",
+          "raise productivity",
+          "boost economic growth",
         ],
       },
     ],
@@ -27,50 +38,63 @@ test("appends a collocation suffix and labelled examples inside the matching sub
   assert.equal(result.applied.科技?.length, 1);
   assert.match(
     result.content,
-    /Promote educational equality \/ Introduce stricter technology regulations`\n\n- \*\*Introduce stricter technology regulations\*\*\n  - Governments should introduce stricter technology regulations to protect personal data\.\n  - Clear rules can prevent companies from misusing sensitive information\.\n\n### 逻辑链/,
+    /`AI and automation → streamline routine processes → reduce repetitive work → raise productivity → boost economic growth`/,
   );
-  assert.equal(
-    result.content.replace(" / Introduce stricter technology regulations", "").replace(
-      "\n\n- **Introduce stricter technology regulations**\n  - Governments should introduce stricter technology regulations to protect personal data.\n  - Clear rules can prevent companies from misusing sensitive information.",
-      "",
-    ),
-    source,
-  );
+  assert.doesNotMatch(source, /streamline routine processes/);
 });
 
-test("skips duplicates without changing the document", async () => {
+test("appends one numbered chain when no existing chain fits", async () => {
   const source = await readFile(viewsPath, "utf8");
-  const result = renderAppendOnly(source, {
+  const result = renderLogicChainChanges(source, {
     科技: [
       {
-        vocabulary: "efficiency",
         topic: "科技",
-        collocation: "enhance work efficiency.",
-        examples: ["Technology can enhance work efficiency."],
+        action: "append",
+        target: null,
+        polarity: "负向",
+        vocabulary: ["digital exclusion"],
+        chinese_chain: ["数字服务快速普及", "弱势群体缺乏设备", "公共服务获取受阻", "社会不平等加剧"],
+        english_chain: [
+          "rapid digitisation of public services",
+          "limited access to devices",
+          "digital exclusion",
+          "deepen social inequality",
+        ],
       },
     ],
   });
 
-  assert.equal(result.content, source);
-  assert.equal(result.applied.科技, undefined);
-  assert.equal(result.skipped.科技?.length, 1);
+  assert.equal(result.applied.科技?.length, 1);
+  assert.match(result.content, /\*\*负向 3：\*\* 数字服务快速普及/);
+  assert.match(result.content, /`rapid digitisation of public services → limited access to devices → digital exclusion → deepen social inequality`/);
 });
 
-test("rejects a document whose expected topic structure is missing", () => {
+test("rejects an extension that removes or paraphrases an existing node", async () => {
+  const source = await readFile(viewsPath, "utf8");
   assert.throws(
     () =>
-      renderAppendOnly("## Day 1 教育类\n\n### 语料\n\n`Example`\n", {
+      renderLogicChainChanges(source, {
         科技: [
           {
-            vocabulary: "privacy",
             topic: "科技",
-            collocation: "Protect individual privacy",
-            examples: ["Technology companies should protect individual privacy."],
+            action: "extend",
+            target: 1,
+            polarity: "正向",
+            vocabulary: ["streamline"],
+            chinese_chain: ["自动化", "精简流程", "提高效率", "促进增长"],
+            english_chain: ["automation", "streamline processes", "improve efficiency", "promote growth"],
           },
         ],
       }),
-    /Missing expected topic heading/,
+    /remove, reorder, or paraphrase existing collocations/,
   );
+});
+
+test("extracts a compact catalogue of existing chains", async () => {
+  const catalogue = extractLogicChainCatalog(await readFile(viewsPath, "utf8"));
+  assert.match(catalogue, /### 科技/);
+  assert.match(catalogue, /1\. 正向: AI 与自动化承担重复任务/);
+  assert.match(catalogue, /AI and automation → reduce repetitive work → raise productivity → boost economic growth/);
 });
 
 test("refuses to commit when the source changed after preview", async () => {
@@ -81,10 +105,7 @@ test("refuses to commit when the source changed after preview", async () => {
     const expectedHash = hashContent("original");
     await writeFile(path, "user edit", "utf8");
 
-    await assert.rejects(
-      atomicWriteIfUnchanged(path, expectedHash, "generated edit"),
-      /changed after preview/,
-    );
+    await assert.rejects(atomicWriteIfUnchanged(path, expectedHash, "generated edit"), /changed after preview/);
     assert.equal(await readFile(path, "utf8"), "user edit");
   } finally {
     await rm(directory, { recursive: true, force: true });

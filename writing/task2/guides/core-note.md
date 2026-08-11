@@ -211,6 +211,9 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 | `financial distribution on it` | `welfare spending` / `funding levels` | 原搭配不成立；谈政府福利预算时直接使用 `spending` 或 `funding`。 |
 | `this practice not only support ... but also encourage` | `this practice not only supports ... but also encourages` | 单数主语 `this practice` 后的两个并列谓语都要使用第三人称单数。 |
 | `people who are capable of taking jobs` | `people who are able to work` | 后者更自然，也更准确地区分有劳动能力与无劳动能力的福利领取者。 |
+| `make provision for sufficient funding for basic living` | `provide adequate financial support to meet basic needs` | 后者搭配自然，并准确说明福利满足基本生活需求。 |
+| `undesirable national productivity` | `reduced national productivity` | 描述生产率下降用 `reduced/lower productivity`，不用评价性且搭配生硬的 `undesirable`。 |
+| `promote greater social inequality` | `exacerbate social inequality` | 表示使负面问题恶化时用 `exacerbate`，而 `promote` 通常表示积极推动。 |
 
 ### 可复用逻辑链与搭配
 
@@ -218,3 +221,5 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `reduce benefits gradually as earnings rise → preserve the financial reward from employment → encourage recipients to return to work`
 - `require job seeking or vocational training for recipients who are able to work → create a practical route back into employment`
 - `maintain adequate assistance for people unable to work → protect vulnerable groups without weakening employment incentives`
+- `expanded welfare provision → help vulnerable groups meet basic needs → reduce poverty → enhance social stability`
+- `excessive welfare spending → divert funds away from essential services → weaken long-term social development`

@@ -118,6 +118,17 @@
 
 ### 正反论证练习
 - 正：社会福利保护弱势群体。
+
+First of all, social welfare systems undoubtedly bring substantial benefits. One key strength is that its ability to protect and support vulnerable groups by expanding social welfare, which make provision for sufficient funding for basic living. As a result, this practice not only reduces poverty throughout the society but also contributes to long-term outcomes by enhancing social stability.
+
+Nevertheless, this advantage is short-lived, as the direct financial security quickly fades once the government allocates more funding to other essentials, such as education and technology, when this approach brings about the issue of resource misallocation. That makes the supposed benefits appear superficial. More importantly, the temporary gains often conceal deeper problems, such as low labour participation and undesirable national productivity. As these issues accumulate, they not only offsets the original benefits but also eventually promote greater social inequality.
+
+#### 批改版
+
+First of all, social welfare systems undoubtedly bring substantial benefits. **One key strength is their ability to protect and support vulnerable groups through expanded welfare provision, which provides sufficient financial support to meet their basic needs.** **As a result, this practice not only reduces poverty across society but also contributes to long-term social stability.**
+
+**Nevertheless, these benefits may be undermined when welfare programmes are poorly designed or overfunded.** **Excessive welfare spending can divert public funds away from other essentials, such as education and technology, resulting in resource misallocation.** **This can make the initial gains difficult to sustain.** **More importantly, welfare benefits may conceal deeper problems, such as lower labour force participation and reduced national productivity, if they weaken recipients’ incentive to work.** **As these issues accumulate, they can offset the original benefits and eventually place greater pressure on public finances.**
+
 - 反：过度福利可能增加公共开支并产生依赖性。
 
 A significant drawback of poorly designed welfare cannot be neglected. The main reason is that people may become more reluctant to work due to the provision of welfare system and gradually rely more on the benefit, thereby leading to a lower labour participation rate and increasing fiscal pressure.

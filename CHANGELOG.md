@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增用于逐轮压力测试计划、决策与想法的 Grilling 技能
 - 新增 Docker 化 Raycast IELTS 词汇 MCP，通过现有 DeepSeek 转发服务预览并确认追加 Task 2 主题语料
 - 新增社会福利依赖与就业激励段落批改、三种修订版本及福利制度表达笔记
 - 新增 Islip 镇中心规划地图题批改、三种修订版本及方位与位置不变表达笔记
@@ -68,6 +69,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 为 Speaking Part 2 十二天训练补充歌唱好友与善于解决问题的母亲范文
 - 简化 Raycast IELTS MCP 为本地词汇收集器，并新增每日 Codex 批量整合与提交规则
 - 将 Raycast IELTS 词汇 MCP 改为扩写或新增 Task 2 逻辑链，并强制保留已有英文节点
 - 更新 IELTS review 技能与 Task 2 训练页流程，原位保留原稿并追加加粗的 Band 7.0–7.5 最小修改版

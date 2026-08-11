@@ -289,6 +289,38 @@ Overall, his experience has taught me that intelligence alone is not enough for 
 - Smart solver（人物类）：谁？什么问题？如何机智解决？感受？
 - Nature lover（人物类）：谁？做了什么？如何做？感受？
 
+The person I’d like to talk about is Stella, who is one of my former colleagues and also one of my best friends. One thing I really appreciate about her is her passion for singing.
+
+I first met her shortly after I moved to Beijing about three years ago. We worked on the same project, and because we had a lot in common, we gradually became close friends.
+
+As for singing, I’m not exactly sure what type of music she was trained in, but I know that she took singing lessons after school when she was in middle school. She devoted a lot of time to it, which is probably why she’s still such a good singer today.
+
+On top of that, singing has remained one of her main hobbies. She often organizes karaoke nights at weekends. One specific example I can think of is a karaoke night she organized last month. She sang several popular songs, and she honestly sounded like a professional singer. The atmosphere was really relaxing, and everybody had a blast.
+
+What I find particularly interesting is that singing is also her way of dealing with stress. Whenever she’s under a lot of pressure at work, she goes singing with her friends because it helps her relax and unwind.
+
+Spending time with her has taught me that having a hobby you’re genuinely passionate about can make a real difference to your life. Rather than focusing entirely on work, it’s important to have something that helps you cope with stress and simply enjoy yourself.
+
+---
+
+The person I’d like to talk about is my mother. She’s really good at solving problems, especially when someone in our family is going through a difficult time.
+
+What stands out most about her is her ability to stay calm and look at things from a different perspective. She’s also a very patient person who always makes me feel understood and supported.
+
+One specific example happened when I was in primary school. At that time, I was extremely shy and I was worried that other people would judge me if I expressed an opinion that was different from theirs. Because of that, I found it quite difficult to communicate with other people.
+
+When my mother noticed what I was going through, instead of blaming me for being shy or simply telling me to be more confident, she listened to me carefully and gave me some advice based on her own life experience.
+
+She told me that my self-worth shouldn’t be determined by other people’s opinions. She also encouraged me to step out of my comfort zone and communicate with others, because building connections with different people could help me broaden my horizons.
+
+Thanks to her support, I gradually regained my confidence and became much more comfortable expressing myself.
+
+What impressed me most was not only the advice she gave me, but also the emotional support behind it. She made me feel understood and supported when I genuinely needed it.
+
+Looking back, I’ve realised that solving a problem isn’t always about fixing the underlying cause immediately. Sometimes, listening to someone, understanding their feelings and providing emotional support can make an equally meaningful difference.
+
+---
+
 ### Day 4：人物 C + 事件
 
 - Medical field person（人物类）：谁？怎么认识？做了什么？感受？

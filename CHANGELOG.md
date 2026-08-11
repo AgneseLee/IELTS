@@ -70,6 +70,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 精简每日词汇逻辑链，按词族与近义组归并词汇并避免重复堆砌
 - 为 Speaking Part 2 十二天训练补充歌唱好友与善于解决问题的母亲范文
 - 简化 Raycast IELTS MCP 为本地词汇收集器，并新增每日 Codex 批量整合与提交规则
 - 将 Raycast IELTS 词汇 MCP 改为扩写或新增 Task 2 逻辑链，并强制保留已有英文节点

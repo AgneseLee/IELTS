@@ -148,8 +148,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 政府增加教育与医疗投资 → 公共服务改善 → 国民技能和健康水平提升 → 长期生产力提高
     `Public investment → better education and healthcare → stronger human capital → raise long-term productivity`
 
-2. **正向 2：** 政府制定并执行环保法规 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
-    `Environmental regulation → lower corporate pollution → protect natural resources → improve public health`
+2. **正向 2：** 政府出资翻新已破败或失修的棕地 → 防止这些地块进一步荒废 → 政府制定并执行环保法规 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
+    `Public funding to renovate brownfield sites that are derelict or have fallen into disrepair → prevent these sites from falling into dereliction → Environmental regulation → lower corporate pollution → protect natural resources → improve public health`
 
 3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
     `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
@@ -189,6 +189,9 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 4. **负向 2：** 媒体追踪并公开个人信息 → 隐私受到侵犯 → 当事人承受网络骚扰 → 心理健康受损
     `Intrusive media coverage → privacy violations → online harassment → harm mental health`
+
+5. **负向 3：** 平台为追求广告收入而优先投放定向促销 → 反复营销诱发冲动消费，并促使消费者在无力承担时仍然购买 → 债务触发压力导致的焦虑 → 平台遭到猛烈批评并面临公众抵制 → 引发更支持消费者保护的监管
+    `Platforms prioritise targeted promotions in pursuit of advertising revenue → repeated marketing can induce impulsive purchasing behavior and prompt consumers to make purchases even when they cannot afford to do so → debt can trigger stress-induced anxiety → platforms come under fire and face backlash → give rise to tighter regulation in favor of consumer protection`
 
 
 ### 正反论证练习
@@ -283,8 +286,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 不同文化持续交流 → 创作者接触新思想 → 文化表达更加多样 → 文化创新能力提高
     `Cross-cultural exchange → exposure to new ideas → diverse expression → foster cultural innovation`
 
-3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人疏离传统 → 文化同质化加剧
-    `Global media → marginalise local content → weaker ties to traditions → cultural homogenisation`
+3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人疏离传统 → 年轻一代抛弃本地习俗、摒弃传统价值并放弃文化实践 → 造成文化侵蚀 → 文化同质化加剧
+    `Global media → marginalise local content → weaker ties to traditions → younger generations forsake local customs, renounce inherited values and relinquish cultural practices → cultural erosion → cultural homogenisation`
 
 4. **负向 2：** 传统活动过度迎合游客 → 仪式被简化和表演化 → 原有意义被扭曲 → 文化真实性下降
     `Excessive commercialisation → simplify traditions for tourists → distort original meaning → reduce authenticity`
@@ -353,8 +356,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 3. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
     `Industrial production and car use → higher emissions → air and water pollution → harm public health`
 
-4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 产品价格上涨或岗位减少 → 低收入群体承受更大压力
-    `Rapid environmental transition → higher business costs → price rises or job losses → burden low-income groups`
+4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 产品价格上涨或岗位减少 → 工人可能遭受裁员，家庭预算也容易受到能源成本上涨的影响 → 低收入群体承受更大压力
+    `Rapid environmental transition → higher business costs → price rises or job losses → workers may be subjected to layoffs while household budgets may be subject to rising energy costs → burden low-income groups`
 
 
 ### 正反论证练习
@@ -383,8 +386,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 可预防疾病减少 → 医疗公平与整体健康改善
     `Universal healthcare coverage → timely treatment → fewer preventable illnesses → improve health equality`
 
-3. **负向 1：** 城市生活节奏加快 → 运动减少且饮食恶化 → 肥胖和慢性病增加 → 医疗系统负担加重
-    `Fast-paced urban life → unhealthy habits → chronic diseases → increase the healthcare burden`
+3. **负向 1：** 城市生活节奏加快 → 久坐生活方式日益普遍 → 运动减少且饮食恶化 → 肥胖和慢性病增加 → 医疗系统负担加重
+    `Fast-paced urban life → a more sedentary lifestyle → unhealthy habits → chronic diseases → increase the healthcare burden`
 
 4. **负向 2：** 工作时间延长和压力增加 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
     `Long hours and work stress → anxiety and burnout → lower productivity → wider social problems`

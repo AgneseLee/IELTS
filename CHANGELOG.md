@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 `defer`、`deter`、`contingent`、`conform` 等待整理词汇及常用搭配
 - 新增用于逐轮压力测试计划、决策与想法的 Grilling 技能
 - 新增 Docker 化 Raycast IELTS 词汇 MCP，通过现有 DeepSeek 转发服务预览并确认追加 Task 2 主题语料
 - 新增社会福利依赖与就业激励段落批改、三种修订版本及福利制度表达笔记

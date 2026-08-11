@@ -27,3 +27,71 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] impulsive purchasing behavior → 媒体类/负向 链 5
 - [x] fall into disrepair → 政府类/正向 链 2
 - [x] renovate → 政府类/正向 链 2
+- [ ] defer
+- [ ] defer a decision
+- [ ] defer payment
+- [ ] defer to
+- [ ] defer doing
+- [ ] deferral
+- [ ] deferment
+- [ ] deference
+- [ ] deferred
+- [ ] deter
+- [ ] deter sb from doing sth
+- [ ] deter crime
+- [ ] deterrent
+- [ ] deterrence
+- [ ] deterrent effect
+- [ ] blight
+- [ ] urban blight
+- [ ] cast a blight on
+- [ ] bungle
+- [ ] bungled
+- [ ] be commissioned to
+- [ ] commission sb to do sth
+- [ ] concur
+- [ ] concur with
+- [ ] concur that
+- [ ] contingent
+- [ ] be contingent on
+- [ ] contingency
+- [ ] conviction
+- [ ] a firm conviction
+- [ ] wrongful conviction
+- [ ] detain
+- [ ] detain sb for questioning
+- [ ] retain
+- [ ] retain information
+- [ ] retain talent
+- [ ] overbearing
+- [ ] an overbearing parent
+- [ ] erratically
+- [ ] erratic
+- [ ] fluctuate erratically
+- [ ] elusive
+- [ ] remain elusive
+- [ ] prove elusive
+- [ ] dispose of
+- [ ] waste disposal
+- [ ] be disposed to
+- [ ] execute
+- [ ] execute a plan
+- [ ] capital punishment
+- [ ] conform
+- [ ] conform to
+- [ ] comply with
+- [ ] adhere to
+- [ ] provision
+- [ ] the provision of
+- [ ] make provision for
+- [ ] undeterred
+- [ ] imperative
+- [ ] It is imperative that
+- [ ] principle
+- [ ] in principle
+- [ ] on principle
+- [ ] principal
+- [ ] faculty
+- [ ] mental faculties
+- [ ] faculty member
+- [ ] facility

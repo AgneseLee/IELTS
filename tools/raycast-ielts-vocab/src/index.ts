@@ -4,27 +4,19 @@ import { toNodeHandler } from "@modelcontextprotocol/node";
 import { createMcpHandler } from "@modelcontextprotocol/server";
 import { z } from "zod/v4";
 
-import { DeepSeekExtractor } from "./extractor.js";
-import { PreviewStore } from "./previews.js";
+import { WordCollector } from "./collector.js";
 import { createIeltsVocabServer } from "./server.js";
 
 const envSchema = z.object({
   HOST: z.string().default("127.0.0.1"),
   PORT: z.coerce.number().int().min(1).max(65_535).default(3001),
-  DEEPSEEK_URL: z.string().url().default("http://127.0.0.1:11435/api/chat"),
-  DEEPSEEK_MODEL: z.string().min(1).default("deepseek-v4-flash"),
-  VIEWS_FILE: z.string().min(1).default("../../writing/task2/views-v2.md"),
-  PREVIEW_TTL_MS: z.coerce.number().int().min(60_000).default(30 * 60 * 1000),
+  WORDS_FILE: z.string().min(1).default("../../words-collected.md"),
 });
 
 const config = envSchema.parse(process.env);
-const extractor = new DeepSeekExtractor({
-  endpoint: config.DEEPSEEK_URL,
-  model: config.DEEPSEEK_MODEL,
-});
-const previews = new PreviewStore(config.VIEWS_FILE, extractor, config.PREVIEW_TTL_MS);
+const collector = new WordCollector(config.WORDS_FILE);
 
-const mcpHandler = createMcpHandler(() => createIeltsVocabServer(previews), {
+const mcpHandler = createMcpHandler(() => createIeltsVocabServer(collector), {
   legacy: "stateless",
   responseMode: "json",
   onerror: (error) => console.error("MCP error", error),

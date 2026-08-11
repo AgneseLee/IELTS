@@ -5,10 +5,8 @@ services:
     environment:
       HOST: 0.0.0.0
       PORT: 3001
-      DEEPSEEK_URL: http://raycast-ai-proxy:3000/api/chat
-      DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-v4-flash}
-      VIEWS_FILE: /data/task2/views-v2.md
-      PREVIEW_TTL_MS: ${PREVIEW_TTL_MS:-1800000}
+      WORDS_FILE: /workspace/words-collected.md
+      TZ: Asia/Shanghai
     ports:
       - "127.0.0.1:${MCP_PORT:-11436}:3001"
     healthcheck:
@@ -18,11 +16,4 @@ services:
       retries: 3
       start_period: 5s
     volumes:
-      - ../../writing/task2:/data/task2
-    networks:
-      - raycast-proxy
-
-networks:
-  raycast-proxy:
-    external: true
-    name: ${RAYCAST_PROXY_NETWORK:-raycast-ai-openrouter-proxy_default}
+      - ../..:/workspace

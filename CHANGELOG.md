@@ -68,6 +68,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 简化 Raycast IELTS MCP 为本地词汇收集器，并新增每日 Codex 批量整合与提交规则
 - 将 Raycast IELTS 词汇 MCP 改为扩写或新增 Task 2 逻辑链，并强制保留已有英文节点
 - 更新 IELTS review 技能与 Task 2 训练页流程，原位保留原稿并追加加粗的 Band 7.0–7.5 最小修改版
 - 为 Part 2 十二天训练补充绘画好友与马斯克人物范文

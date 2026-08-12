@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增大陆地区 IELTS Speaking Band 7 全量复习答案库，覆盖 77 个 Part 1 topics、68 组 Part 2/P3 题目及四类模板
 - 新增水电站日夜循环流程图批改、三种修订版本及抽水蓄能表达笔记
 - 新增社会福利收益与局限正反段落批改、三种修订版本及资源配置表达笔记
 - 新增 `defer`、`deter`、`contingent`、`conform` 等待整理词汇及常用搭配

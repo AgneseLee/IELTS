@@ -376,18 +376,11 @@ Looking back, I’ve realised that solving a problem isn’t always about fixing
 
 覆盖规则：
 
-- Day 1-12 覆盖题库全部 35 个 Part 2 topics。
+- Day 1-12 用四类模板覆盖题库全部 68 个 Part 2 topics；完整分类与答案见 [`../answers/`](../answers/README.md)。
 - Day 12 的 Random 4-topic retest 不算新题，只做混合检索。
 - 如果题目可跨类，先用主模板，再用故事重点微调。
 
-主模板分类：
-
-| Template | Topics |
-|---|---|
-| 人物 | Famous person, Person who plans, Child/Friend who draws, Proud family member, Medical field person, Business person, Musical friend, Smart solver, Nature lover |
-| 事件 | Phone not allowed, Giving advice, Many people smiling, Local news, Sports event, Excited activity, Waiting, Lost power, Lost way, Help solve problem, Bike/Car trip, Disappointing movie |
-| 事物 | Perfect job, Tech to own, App, Family treasure, Special meal, Wild animal, Can't live without |
-| 地点 | Short stay abroad, Interesting building, Boring place, High-rise building, Famous city, Favorite city, Place to relax |
+主模板分类：人物 16 题、事件 25 题、事物 18 题、地点 9 题。唯一清单见 [`../topics/question-bank.md`](../topics/question-bank.md)，避免在计划内重复维护。
 
 ---
 
@@ -414,7 +407,7 @@ Looking back, I’ve realised that solving a problem isn’t always about fixing
 
 合格标准：
 
-- 35 个题都能归入 4 类。
+- 68 个题都能归入 4 类。
 - 每类至少 8 个题练过。
 - 每题只靠关键词，不背稿。
 - 每题都有结尾反思。

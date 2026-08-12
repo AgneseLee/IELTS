@@ -619,20 +619,15 @@ Part 1 快问快答：
 
 ### Part 1 已安排
 
-Work or Study, Home/Accommodation, Morning Time, Hometown, Social Media, Singing, Food, Pets and Animals, Hobby, Reading, Walking, Typing, Gifts, Sports Team, Teachers, Science, Watch, Park, Websites, Feeling Bored, Space, Tidiness, Scenery/Views, Building, Childhood Activities, Life Stages, Day Off, Dreams, Keys, Birthdays, Technology, Writing, Geography, Weather, Housework, Public Transport, Puzzles, Names, Snacks, Flowers, Memory, Machines, Patience, Free Time/Having a Break, Thanking, Busy, Lists, Photos/Photography, Praise, Phone Calls, Staying Up Late, Being Alone, Text Messages, Clothes, Car Trip, Mirrors, Jokes, Headphones, Shopping, Plants, Public Places, Rules, Shoes, Doing Something Well, Crowded Places, Going Out, Spending Time with Older People, Growing Vegetables, Chatting, Borrowing and Lending, Advertisements, Museums, Rest, Sharing.
+77 个 topics、278 个具体小问。唯一清单见 [question bank](../topics/question-bank.md)，逐题答案见 [Part 1 answer bank](../answers/part1.md)。
 
 ### Part 2 已安排
 
-Perfect Job, Famous Person, Phone Not Allowed, Giving Advice, Tech to Own, Person Who Plans, Child/Friend Who Draws, App or Program, Many People Smiling, Proud of a Family Member, Family Treasure, Short Stay Abroad, Interesting Building, Wild Animal, Boring Place, High-rise Building, Local News, Medical Field Person, Business Person, Special Meal, Sports Event, Excited About New Activity, Waiting for Something Special, Lost Power, Lost Way, Musical Friend, Help Solve Problem, Bike/Car Trip, Smart Solver, Nature Lover, Famous City, Favorite City, Disappointing Movie, Can't Live Without, Place to Relax.
+68 个 topics：人物 16、事件 25、事物 18、地点 9。完整答案见 [answer bank](../answers/README.md)。
 
-### 仍需个人化的题
+### 个人化状态
 
-这些题已经安排进计划，但需要你在练习时决定具体素材：
-
-- Disappointing Movie：建议放进 Story 8，作为一次外出或休息日看电影但失望的经历。
-- Local News：建议放进 Story 8，选择一条和医疗、商业、天气、交通或城市有关的本地新闻。
-- Medical Field Person / Business Person：可以借用真实认识的人，也可以用公众人物，但不要编造复杂细节。
-- Wild Animal：可以借用旅行中的动物、纪录片或动物园经历。
+全部题目已有统一人设与具体答案。练习时只允许替换个人真实细节，不新增第二套故事线。
 
 ---
 

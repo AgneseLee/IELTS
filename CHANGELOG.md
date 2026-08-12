@@ -73,6 +73,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 Part 1 从万能理由重构为 10 种固定性格人设，跨 topic 复用表达并避免同 topic 重复
 - 将 Part 1 万能理由扩展为 30 个固定变体，确保同 topic 表达不重复、跨 topic 继续复用
 - 将 Part 1 全部 278 个回答统一到 10 个万能理由，并增加理由编号与 topic 默认映射
 - 在社会福利段落批改版中标记 `welfare provision` 表达

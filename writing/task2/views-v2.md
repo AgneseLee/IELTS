@@ -125,7 +125,7 @@ Nevertheless, this advantage is short-lived, as the direct financial security qu
 
 #### 批改版
 
-First of all, social welfare systems undoubtedly bring substantial benefits. **One key strength is their ability to protect and support vulnerable groups through expanded welfare provision, which provides sufficient financial support to meet their basic needs.** **As a result, this practice not only reduces poverty across society but also contributes to long-term social stability.**
+First of all, social welfare systems undoubtedly bring substantial benefits. **One key strength is their ability to protect and support vulnerable groups through expanded welfare provision🥕, which provides sufficient financial support to meet their basic needs.** **As a result, this practice not only reduces poverty across society but also contributes to long-term social stability.**
 
 **Nevertheless, these benefits may be undermined when welfare programmes are poorly designed or overfunded.** **Excessive welfare spending can divert public funds away from other essentials, such as education and technology, resulting in resource misallocation.** **This can make the initial gains difficult to sustain.** **More importantly, welfare benefits may conceal deeper problems, such as lower labour force participation and reduced national productivity, if they weaken recipients’ incentive to work.** **As these issues accumulate, they can offset the original benefits and eventually place greater pressure on public finances.**
 

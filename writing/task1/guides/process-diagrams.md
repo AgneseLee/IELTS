@@ -77,6 +77,15 @@ Navigation: [Task 1 hub](../README.md) · [Process template](process-template.md
 - 添加微生物用 `microbes are added to the sugars`；燃料用途用 `ethanol is used to power cars, trucks and aircraft`。
 - 支线也要覆盖：`Carbon dioxide is released during both pre-processing and fuel combustion.`
 
+## Hydroelectric Power Generation：日夜循环
+
+- 抽水蓄能水电站应定义为 `a cyclical process`：白天水从高位水库下流发电，夜间再被抽回高位水库。
+- `intaking water` → `drawing water from the high-level reservoir through an intake`；`intake` 在此为设施名词，不宜直接作过程动词。
+- `water is reserved in a reservoir` → `water is stored in a reservoir`；`reserve` 通常表示“保留”，蓄水用 `store` 更自然。
+- 涡轮不“收集水”：白天用 `water passes through the reversible turbines, which drive the generator`；夜间用 `the turbines operate in reverse to pump water uphill`。
+- 区分过程环节：`the generator produces electricity`，而 `power lines transmit electricity to the national grid`。
+- 发电形式优先用 `generate electricity`，避免笼统的 `generate power`；抽水设备用 `pump`，不用 `serve as a pumper`。
+
 ## Process Checklist
 
 - [ ] 覆盖全部阶段，顺序准确。

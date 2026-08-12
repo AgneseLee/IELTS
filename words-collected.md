@@ -95,3 +95,38 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] mental faculties → 教育类/正向 链 1
 - [x] faculty member → 教育类/正向 链 1
 - [x] facility → 教育类/正向 链 1
+
+## 2026-08-12
+
+- [x] lopsided → 社会类/负向 链 3
+- [x] motif → 文化类/正向 链 1
+- [x] nocturnal → 环境类/负向 链 5
+- [x] plagiarise → 教育类/负向 链 5
+- [x] plagiarism → 教育类/负向 链 5
+- [x] pressing → 政府类/正向 链 1
+- [x] exclude → 社会类/负向 链 3
+- [x] renaissance → 文化类/正向 链 1
+- [x] steer → 媒体类/负向 链 3
+- [x] stride → 工作类/正向 链 2
+- [x] supersede → 科技类/负向 链 4
+- [x] supremacy → 科技类/负向 链 4
+- [x] uniform → 教育类/负向 链 4
+- [x] feeble → 政府类/负向 链 4
+- [x] recurring motif → 文化类/正向 链 1
+- [x] central motif → 文化类/正向 链 1
+- [x] light pollution → 环境类/负向 链 5
+- [x] diurnal → 环境类/负向 链 5
+- [x] academic integrity → 教育类/负向 链 5
+- [x] intellectual property → 教育类/负向 链 5
+- [x] mutually exclusive → 教育类/负向 链 5
+- [x] social exclusion → 社会类/负向 链 3
+- [x] make strides → 工作类/正向 链 2
+- [x] take something in one's stride → 工作类/正向 链 2
+- [x] be superseded by → 科技类/负向 链 4
+- [x] steer clear of → 媒体类/负向 链 3
+- [x] school uniform → 教育类/负向 链 4
+- [x] uniform standard → 教育类/负向 链 4
+- [x] cultural renaissance → 文化类/正向 链 1
+- [x] economic renaissance → 政府类/正向 链 1
+- [x] lopsided distribution → 社会类/负向 链 3
+- [x] pressing issue → 政府类/正向 链 1

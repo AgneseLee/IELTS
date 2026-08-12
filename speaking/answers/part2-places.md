@@ -1,6 +1,6 @@
 # Part 2 地点类 + Part 3
 
-> 模板：Where/visit → Visual detail → Sound/smell → Contrast → Activity → Meaning。
+> 严格模板：Where/visit → Visual → Sound/smell → Atmosphere → Contrast → Activity → Meaning。每篇 215–250 词，约 1 分 40 秒。
 
 ## 1. Tall building you like/dislike
 
@@ -10,7 +10,19 @@ office skyscraper · Beijing · glass exterior · natural light · city view · 
 
 ### Complete answer
 
-The tall building I'd like to describe is an office skyscraper near my former workplace in Beijing. Its glass exterior reflects the sky, and the entrance opens into a bright atrium filled with natural light. From the upper floors, I could see **the city stretching in every direction**, which was impressive at sunset. I liked the building because it used limited urban land efficiently and placed offices, cafés and transport links close together. However, the lifts became crowded during rush hour, and the sealed windows sometimes made the interior feel disconnected from nature. Overall, I like its clean design and convenience, but I would not want every building to look the same. A successful tall building should combine visual impact with **a comfortable experience for the people inside**.
+The place I'd like to describe is an office skyscraper near my former workplace in Beijing. It is located in Beijing, and I went there with enough time to notice the details. Its glass exterior reflects the sky, and the entrance opens into a bright atrium filled with natural light. From the upper floors, I could see **the city stretching in every direction**, which was impressive at sunset.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear office conversations and lift doors and smell coffee from the lobby café, which created a **distinctive atmosphere**. I liked the building because it used limited urban land efficiently and placed offices, cafés and transport links close together. However, the lifts became crowded during rush hour, and the sealed windows sometimes made the interior feel disconnected from nature.
+
+Compared with other places, it felt more personal.
+
+I usually walk through the atrium, especially when I want to consider both design and daily comfort. Overall, I like its clean design and convenience, but I would not want every building to look the same. A successful tall building should combine visual impact with **a comfortable experience for the people inside**.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **consider both design and daily comfort**.
 
 ### Part 3
 
@@ -34,7 +46,19 @@ airport waiting area · delayed flight · artificial lighting · crowded seats �
 
 ### Complete answer
 
-The boring place was an airport waiting area where Stella and I spent almost six hours after a flight delay. The space had rows of hard seats, bright artificial lighting and no windows near our gate. I could hear **the same announcements repeated continuously**, and every café was overcrowded. We had already checked in, so we could not explore the city or do anything meaningful. We talked, read and walked around, but the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time. The experience showed me that boredom often comes from **waiting without purpose or choice**, rather than from the physical place alone.
+The place I'd like to describe is an airport waiting area where Stella and I spent almost six hours after a flight delay. It is located in an airport terminal, and I went there with enough time to notice the details. The space had rows of hard seats, bright artificial lighting and no windows near our gate.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear repetitive announcements and smell food from crowded cafés, which created a **distinctive atmosphere**. I could hear **the same announcements repeated continuously**, and every café was overcrowded. We had already checked in, so we could not explore the city or do anything meaningful.
+
+Compared with other places, it felt more personal.
+
+I usually read or walk around, especially when I want to understand why purposeless waiting feels so tiring. We talked, read and walked around, but the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **understand why purposeless waiting feels so tiring**. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -58,7 +82,19 @@ Kuala Lumpur · Malaysia trip · multicultural food · modern skyline · traditi
 
 ### Complete answer
 
-My favourite city that I have visited is Kuala Lumpur. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**. We could hear several languages in the markets and smell food from different cultures within one street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed. We visited a museum, tried local dishes and walked around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
+The place I'd like to describe is Kuala Lumpur. It is located in Malaysia, and I went there with enough time to notice the details. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear several languages in busy streets and smell food from different cultures, which created a **distinctive atmosphere**. We could hear several languages in the markets and smell food from different cultures within one street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed.
+
+Compared with other places, it felt more personal.
+
+I usually explore neighbourhoods on foot, especially when I want to experience cultural variety without feeling lost. We visited a museum, tried local dishes and walked around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **experience cultural variety without feeling lost**.
 
 ### Part 3
 
@@ -90,7 +126,21 @@ Semporna · Sabah · clear water · island boats · sea turtles · local seafood
 
 ### Complete answer
 
-The place I would recommend is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. What impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable. I would recommend it to people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a genuine break from city pressure and **deepened my appreciation for marine conservation**.
+The place I'd like to describe is Semporna in Sabah, Malaysia. It is located in Sabah, Malaysia, and I went there with enough time to notice the details. I visited it with Stella last May. It is known for clear water, small islands and rich marine life.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear boat engines and gentle waves and smell salty sea air, which created a **distinctive atmosphere**.
+
+What impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
+
+Compared with other places, it felt more personal.
+
+I usually travel between the islands, especially when I want to escape city pressure and appreciate marine life. I would recommend it to people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a genuine break from city pressure and **deepened my appreciation for marine conservation**.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **escape city pressure and appreciate marine life**.
 
 ### Part 3
 
@@ -112,7 +162,19 @@ Stella's studio · city centre · stylish interior · large windows · convenien
 
 ### Complete answer
 
-The home belongs to Stella and is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage. Since I work from home frequently, I also need a separate desk area. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice. It taught me that an attractive home is not automatically **well suited to every person's routine**.
+The place I'd like to describe is a small studio in central Beijing. It is located in central Beijing, and I went there with enough time to notice the details. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear traffic below the windows and smell coffee and watercolour paint, which created a **distinctive atmosphere**. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
+
+Compared with other places, it felt more personal.
+
+I usually talk with Stella, especially when I want to separate an enjoyable visit from practical daily needs. Since I work from home frequently, I also need a separate desk area. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **separate an enjoyable visit from practical daily needs**.
 
 ### Part 3
 
@@ -132,7 +194,19 @@ art museum · Beijing · curved white walls · spacious interior · natural ligh
 
 ### Complete answer
 
-The interesting building is an art museum near my apartment in Beijing. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down. It functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
+The place I'd like to describe is an art museum near my apartment in Beijing. It is located in Beijing, and I went there with enough time to notice the details. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear quiet footsteps in the galleries and smell paper and polished wood, which created a **distinctive atmosphere**. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down.
+
+Compared with other places, it felt more personal.
+
+I usually move slowly between exhibitions, especially when I want to notice how architecture shapes my mood. It functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **notice how architecture shapes my mood**.
 
 ### Part 3
 
@@ -156,7 +230,19 @@ Zhanjiang · southern China · coastline · seafood · coconut trees · slower p
 
 ### Complete answer
 
-The city is Zhanjiang, my hometown in southern China. It is famous for its coastline, fresh seafood and tropical character. Streets near the sea are lined with coconut trees, and the air often carries **a light salty smell from the coast**. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited. Recent transport development has made it easier to reach, while the local food and scenery remain distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
+The place I'd like to describe is Zhanjiang, my hometown in southern China. It is located in southern China, and I went there with enough time to notice the details. It is famous for its coastline, fresh seafood and tropical character. Streets near the sea are lined with coconut trees, and the air often carries **a light salty smell from the coast**.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear traffic mixed with coastal sounds and smell salty air from the sea, which created a **distinctive atmosphere**. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited.
+
+Compared with other places, it felt more personal.
+
+I usually walk near the coastline, especially when I want to feel connected with my family and childhood. Recent transport development has made it easier to reach, while the local food and scenery remain distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **feel connected with my family and childhood**.
 
 ### Part 3
 
@@ -180,7 +266,21 @@ neighbourhood park · weekly visit · pond · birds and leaves · fresh smell ·
 
 ### Complete answer
 
-The place where I relax is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends. What impressed me first was a pond surrounded by flowers and tall trees. I can hear birds and leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read. Sometimes Stella joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
+The place I'd like to describe is a park near my Beijing apartment. It is located in my Beijing neighbourhood, and I went there with enough time to notice the details. I visit it roughly once a week, usually in the evening or at weekends.
+
+What impressed me first was a pond surrounded by flowers and tall trees.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear birds and rustling leaves and smell fresh earth after rain, which created a **distinctive atmosphere**. I can hear birds and leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
+
+Compared with other places, it felt more personal.
+
+I usually walk around the pond, especially when I want to clear my head after work. Sometimes Stella joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **clear my head after work**.
 
 ### Part 3
 
@@ -196,7 +296,19 @@ Semporna islands · Malaysia · turquoise water · coral · quiet waves · freed
 
 ### Complete answer
 
-The natural place I'd like to describe is the island area near Semporna in Malaysia. I visited with Stella last May. The water was so clear that we could see coral and fish from the boat, while the only constant sound was **the gentle movement of waves**. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful. I spent most of the day swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
+The place I'd like to describe is the island area near Semporna in Malaysia. It is located in the islands near Semporna, and I went there with enough time to notice the details. I visited with Stella last May. The water was so clear that we could see coral and fish from the boat, while the only constant sound was **the gentle movement of waves**.
+
+What impressed me first was its visual character, especially the colours and light.
+
+I could also hear gentle waves against the boat and smell clean, salty sea air, which created a **distinctive atmosphere**. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful.
+
+Compared with other places, it felt more personal.
+
+I usually swim and observe marine life, especially when I want to relax while recognising how fragile nature is. I spent most of the day swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
+
+Looking back, this place matters to me because it left a personal memory rather than only a photograph.
+
+It gives me a chance to **relax while recognising how fragile nature is**.
 
 ### Part 3
 

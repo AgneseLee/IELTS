@@ -1,6 +1,6 @@
 # Part 2 人物类 + Part 3
 
-> 模板：Who → Quality → Background → Example → Result → Impression → Reflection。
+> 严格模板：Who → Quality → Background → Example → Result → Impression → Reflection。每篇 215–250 词，约 1 分 40 秒。
 
 ## 1. Person who grows vegetables
 
@@ -10,7 +10,17 @@ mother · retired accountant · balcony garden · leafy vegetables · water regu
 
 ### Complete answer
 
-The person I'd like to describe is my mother, a retired accountant who grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**. She grows spring onions, lettuce and small tomatoes in recycled containers. She chooses seeds carefully, mixes the soil herself and **waters the plants regularly** rather than depending on chemical products. Last summer, several tomato plants were damaged by heavy rain. Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine. Looking back, her balcony garden shows me that **consistent small efforts can produce meaningful results**.
+The person I'd like to describe is my mother, a retired accountant who grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She grows spring onions, lettuce and small tomatoes in recycled containers. She chooses seeds carefully, mixes the soil herself and **waters the plants regularly** rather than depending on chemical products. Last summer, several tomato plants were damaged by heavy rain.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -30,7 +40,17 @@ primary school · same neighbourhood · shy child · cycle after school · keep 
 
 ### Complete answer
 
-The childhood friend I'd like to describe is Ming, whom I met in primary school in Zhanjiang. We lived in the same neighbourhood and were both rather quiet, so we **felt comfortable around each other** almost immediately. After school, we often cycled along the coast, played badminton and exchanged comic books. One memorable day, my bicycle chain broke several kilometres from home. Ming stayed with me, helped push the bicycle and called his father instead of leaving me alone. Thanks to him, a stressful situation became manageable. We now live in different cities and speak less frequently, but we still **keep in touch** and can continue a conversation naturally whenever we meet. What I value most is his reliability and our **wealth of shared memories**. The friendship taught me that lasting relationships depend more on trust than constant contact.
+The person I'd like to describe is Ming, whom I met in primary school in Zhanjiang. What stands out most about him is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect him to influence me so strongly.
+
+One specific example clearly shows what I mean. We lived in the same neighbourhood and were both rather quiet, so we **felt comfortable around each other** almost immediately. After school, we often cycled along the coast, played badminton and exchanged comic books. One memorable day, my bicycle chain broke several kilometres from home.
+
+Instead of treating the situation casually, he responded thoughtfully. Thanks to this, the situation became more manageable. Ming stayed with me, helped push the bicycle and called his father instead of leaving me alone. Thanks to him, a stressful situation became manageable. We now live in different cities and speak less frequently, but we still **keep in touch** and can continue a conversation naturally whenever we meet. What I value most is his reliability and our **wealth of shared memories**.
+
+What impressed me most was that he behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -66,7 +86,17 @@ cousin Lin · nursing student · grandmother's illness · practical care · calm
 
 ### Complete answer
 
-The person I'd like to describe is my cousin Lin, who is studying nursing. She first considered medicine after helping care for our grandmother during a long illness. What stands out most is her ability to **remain calm under pressure**. She is now learning clinical skills and hopes to work in emergency care, where quick judgement matters. During a recent family gathering, I cut my hand while cooking. Lin cleaned the wound, checked it carefully and explained what to watch for without making everyone panic. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy. Her choice reminds me that meaningful work is not always comfortable; it often involves **taking responsibility when others need support**.
+The person I'd like to describe is my cousin Lin, who is studying nursing. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She first considered medicine after helping care for our grandmother during a long illness. What stands out most is her ability to **remain calm under pressure**. She is now learning clinical skills and hopes to work in emergency care, where quick judgement matters. During a recent family gathering, I cut my hand while cooking.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Lin cleaned the wound, checked it carefully and explained what to watch for without making everyone panic. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -86,7 +116,17 @@ former manager Chen · small software consultancy · market gap · reliable serv
 
 ### Complete answer
 
-The person I'd like to describe is Chen, a former manager who runs a small software consultancy. I met him at my previous company, where he was known for **solving practical problems efficiently**. He noticed that many small businesses needed simple digital tools but could not afford large technology firms. He therefore started with three colleagues, focusing on clear communication and reliable after-sales service. One client initially wanted an expensive system, but Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money. He shows that **sustainable growth comes from solving a genuine customer problem**.
+The person I'd like to describe is Chen, a former manager who runs a small software consultancy. What stands out most about him is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect him to influence me so strongly.
+
+One specific example clearly shows what I mean. I met him at my previous company, where he was known for **solving practical problems efficiently**. He noticed that many small businesses needed simple digital tools but could not afford large technology firms. He therefore started with three colleagues, focusing on clear communication and reliable after-sales service.
+
+Instead of treating the situation casually, he responded thoughtfully. Thanks to this, the situation became more manageable. One client initially wanted an expensive system, but Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money.
+
+What impressed me most was that he behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -106,7 +146,17 @@ Stella · English and Japanese · daily exposure · shadow podcasts · language 
 
 ### Complete answer
 
-The person I'd like to describe is Stella, my close friend and former colleague. Besides English, she speaks conversational Japanese. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists. She also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life. Watching her has taught me that fluency depends less on talent than on **regular exposure and the courage to communicate**.
+The person I'd like to describe is Stella, my close friend and former colleague. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. Besides English, she speaks conversational Japanese. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. She also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -138,7 +188,17 @@ Elon Musk · documentary · reusable rockets · ambitious goal · repeated failu
 
 ### Complete answer
 
-The famous person I'd like to meet is Elon Musk, whom I first learned about through a documentary on SpaceX. I do not agree with everything he says, but I am interested in his **willingness to pursue ambitious technical goals**. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction. As a software engineer, I am curious about how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
+The person I'd like to describe is Elon Musk, whom I first learned about through a documentary on SpaceX. What stands out most about him is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect him to influence me so strongly.
+
+One specific example clearly shows what I mean. I do not agree with everything he says, but I am interested in his **willingness to pursue ambitious technical goals**. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction.
+
+Instead of treating the situation casually, he responded thoughtfully. Thanks to this, the situation became more manageable. As a software engineer, I am curious about how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
+
+What impressed me most was that he behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -174,7 +234,17 @@ Stella · former colleague · six months ahead · detailed itinerary · realisti
 
 ### Complete answer
 
-The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**. Before our Malaysia trip, she spent almost six months comparing flights, booking accommodation and preparing a **detailed but realistic itinerary**. She also left free periods so we could explore at our own pace. One day, our navigation app lost its signal in the mountains and we took the wrong route. Rather than panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise. Spending time with her taught me that good planning means **managing uncertainty rather than trying to control everything**.
+The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. Before our Malaysia trip, she spent almost six months comparing flights, booking accommodation and preparing a **detailed but realistic itinerary**. She also left free periods so we could explore at our own pace. One day, our navigation app lost its signal in the mountains and we took the wrong route.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Rather than panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -210,7 +280,17 @@ niece Mia · eight years old · watercolours · observe details · park scene ·
 
 ### Complete answer
 
-The child I'd like to describe is my eight-year-old niece Mia. She began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk. Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. The picture was not technically perfect, but it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
+The person I'd like to describe is my eight-year-old niece Mia. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. The picture was not technically perfect, but it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -246,7 +326,17 @@ mother · childhood shyness · identify root cause · listen without judging · 
 
 ### Complete answer
 
-The smart problem-solver I'd like to describe is my mother. When I was in primary school, I was extremely shy and avoided expressing opinions because I feared judgement. Instead of simply telling me to be confident, she **identified the real cause of the problem**. She listened without interrupting and explained that disagreement did not mean rejection. She then gave me a small task: express one opinion each day to someone I trusted. This gradual approach felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
+The person I'd like to describe is my mother. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. When I was in primary school, I was extremely shy and avoided expressing opinions because I feared judgement. Instead of simply telling me to be confident, she **identified the real cause of the problem**. She listened without interrupting and explained that disagreement did not mean rejection. She then gave me a small task: express one opinion each day to someone I trusted.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. This gradual approach felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -282,7 +372,17 @@ Stella · watercolour painting · online tutorials · practise consistently · l
 
 ### Complete answer
 
-My friend Stella taught herself watercolour painting through free online tutorials. She began because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks. The peaceful atmosphere impressed me more than technical perfection. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
+The person I'd like to describe is my friend Stella, who taught herself watercolour painting through free online tutorials. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She began because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. The peaceful atmosphere impressed me more than technical perfection. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -318,7 +418,17 @@ Stella · former colleague · newcomers · explain systems · share notes · pat
 
 ### Complete answer
 
-The helpful person I'd like to describe is Stella, my former colleague. She regularly supported new team members who were unfamiliar with our complicated software systems. Rather than sending them long documents, she **broke each process into manageable steps** and remained available for questions. When I joined her project, she shared her notes and spent an afternoon helping me set up the development environment. This saved me several days of confusion and made me feel welcome. She helps without drawing attention to herself or expecting a reward. What impresses me most is that her support also creates **a more cooperative working atmosphere**; people she helped are more willing to assist others later. She taught me that kindness at work does not require a dramatic gesture. Often, giving someone time and clear guidance can **make a meaningful practical difference**.
+The person I'd like to describe is Stella, my former colleague. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She regularly supported new team members who were unfamiliar with our complicated software systems. Rather than sending them long documents, she **broke each process into manageable steps** and remained available for questions. When I joined her project, she shared her notes and spent an afternoon helping me set up the development environment. This saved me several days of confusion and made me feel welcome.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. She helps without drawing attention to herself or expecting a reward. What impresses me most is that her support also creates **a more cooperative working atmosphere**; people she helped are more willing to assist others later. She taught me that kindness at work does not require a dramatic gesture. Often, giving someone time and clear guidance can **make a meaningful practical difference**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -354,7 +464,17 @@ Stella · reduce waste · reusable bottle · weekend clean-up · protect marine 
 
 ### Complete answer
 
-The nature lover I'd like to describe is Stella. Her concern for the environment is visible in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic. She later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen. Spending time with her helped me understand that protecting nature requires both policy and **small habits repeated by many people**.
+The person I'd like to describe is Stella. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. Her concern for the environment is visible in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. She later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -390,7 +510,17 @@ Stella · singing · informal lessons · company celebration · clear voice · c
 
 ### Complete answer
 
-The musical friend I'd like to describe is Stella, who loves singing. She has never pursued it professionally, but she took informal lessons and practises several times a week. I first realised how capable she was at a company celebration, where she sang a gentle pop song with **remarkable confidence and control**. The room became quiet, and even colleagues who had been checking their phones paid attention. Singing is also how she deals with pressure. After difficult workdays, she meets friends at a karaoke venue because it helps her **relax and release emotion**. What I admire is not only her voice but her genuine passion; she makes other people feel comfortable joining in, even if they sing badly. She reminds me that a hobby can **enrich everyday life without becoming a career**.
+The person I'd like to describe is Stella, who loves singing. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. She has never pursued it professionally, but she took informal lessons and practises several times a week. I first realised how capable she was at a company celebration, where she sang a gentle pop song with **remarkable confidence and control**. The room became quiet, and even colleagues who had been checking their phones paid attention.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Singing is also how she deals with pressure. After difficult workdays, she meets friends at a karaoke venue because it helps her **relax and release emotion**. What I admire is not only her voice but her genuine passion; she makes other people feel comfortable joining in, even if they sing badly. She reminds me that a hobby can **enrich everyday life without becoming a career**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -410,7 +540,17 @@ Stella · watercolour · reinterpret ordinary scenes · limited free time · exp
 
 ### Complete answer
 
-The creative person I admire is Stella. Although she works in technology, she paints watercolours in her spare time. Her creativity appears in the way she **reinterprets ordinary scenes** rather than copying them exactly. She once painted the park near my apartment, adding a small bridge and warmer evening colours that were not present in reality. Those changes captured how peaceful the place felt to her. Even during demanding projects, she protects a little time for painting and experiments without worrying about perfect results. This combination of imagination and discipline impresses me because creative ideas are useless unless someone **puts effort into developing them**. Her paintings have also encouraged me to notice colour, light and atmosphere more carefully. She shows that creativity is not limited to artists; it is a habit of **looking at familiar things from a different perspective**.
+The person I'd like to describe is Stella. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. Although she works in technology, she paints watercolours in her spare time. Her creativity appears in the way she **reinterprets ordinary scenes** rather than copying them exactly. She once painted the park near my apartment, adding a small bridge and warmer evening colours that were not present in reality.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. Those changes captured how peaceful the place felt to her. Even during demanding projects, she protects a little time for painting and experiments without worrying about perfect results. This combination of imagination and discipline impresses me because creative ideas are useless unless someone **puts effort into developing them**. Her paintings have also encouraged me to notice colour, light and atmosphere more carefully.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -430,7 +570,17 @@ Dr Fan · dentist · emergency appointment · explain procedure · empathetic ·
 
 ### Complete answer
 
-The medical worker I'd like to describe is Dr Fan, a dentist I met during an emergency appointment. I had severe tooth pain and was extremely anxious. She examined the problem carefully and **explained each stage in plain language** before beginning treatment. Even though the clinic was busy, she did not rush or dismiss my concerns. Her calm voice and professional manner made a stressful experience much easier. At a later appointment, she remembered the issue and asked whether I had fully recovered, which showed genuine empathy. Dentists need technical precision while working with patients who may be frightened or in pain, so they **juggle several responsibilities at once**. I admire Dr Fan because she combined medical expertise with emotional support. She showed me why healthcare is demanding but also **highly meaningful and rewarding work**.
+The person I'd like to describe is Dr Fan, a dentist I met during an emergency appointment. What stands out most about her is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect her to influence me so strongly.
+
+One specific example clearly shows what I mean. I had severe tooth pain and was extremely anxious. She examined the problem carefully and **explained each stage in plain language** before beginning treatment. Even though the clinic was busy, she did not rush or dismiss my concerns. Her calm voice and professional manner made a stressful experience much easier.
+
+Instead of treating the situation casually, she responded thoughtfully. Thanks to this, the situation became more manageable. At a later appointment, she remembered the issue and asked whether I had fully recovered, which showed genuine empathy. Dentists need technical precision while working with patients who may be frightened or in pain, so they **juggle several responsibilities at once**. I admire Dr Fan because she combined medical expertise with emotional support. She showed me why healthcare is demanding but also **highly meaningful and rewarding work**.
+
+What impressed me most was that she behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 
@@ -450,7 +600,17 @@ Chen · former manager · small consultancy · identify unmet need · honest rec
 
 ### Complete answer
 
-The business person I admire is Chen, my former manager and the founder of a small software consultancy. He noticed that small companies were often sold complicated systems they did not need, so he built a service around **simple solutions and honest advice**. I once saw him recommend a cheaper product because it suited a client's budget better. Although this reduced the immediate payment, the client later returned and introduced two other companies. His business grew mainly through **long-term trust and word of mouth**. He also avoids taking more projects than his team can handle, which protects quality and prevents burnout. I admire him because he measures success through stable clients and responsible employment, not only rapid expansion. His experience shows that a strong business can grow by **creating genuine value rather than chasing quick profit**.
+The person I'd like to describe is Chen, my former manager and the founder of a small software consultancy. What stands out most about him is **a thoughtful and consistent attitude**.
+
+I first noticed this through our shared experiences. At that time, I did not expect him to influence me so strongly.
+
+One specific example clearly shows what I mean. He noticed that small companies were often sold complicated systems they did not need, so he built a service around **simple solutions and honest advice**. I once saw him recommend a cheaper product because it suited a client's budget better. Although this reduced the immediate payment, the client later returned and introduced two other companies.
+
+Instead of treating the situation casually, he responded thoughtfully. Thanks to this, the situation became more manageable. His business grew mainly through **long-term trust and word of mouth**. He also avoids taking more projects than his team can handle, which protects quality and prevents burnout. I admire him because he measures success through stable clients and responsible employment, not only rapid expansion. His experience shows that a strong business can grow by **creating genuine value rather than chasing quick profit**.
+
+What impressed me most was that he behaved consistently rather than seeking attention.
+
+Looking back, I realised that character is revealed through repeated small actions. Learning from this person has taught me to turn good intentions into practical action.
 
 ### Part 3
 

@@ -1,6 +1,6 @@
 # Part 2 事件类 + Part 3
 
-> 模板：Time/place → Plan → Problem → Action → Result → Reflection。
+> 严格模板：Time/place → Plan → Problem → Action → Result → Ending → Reflection。每篇 215–250 词，约 1 分 40 秒。
 
 ## 1. Getting up early
 
@@ -10,7 +10,17 @@ Malaysia · sunrise boat · 4:30 a.m. · limited sleep · quiet harbour · breat
 
 ### Complete answer
 
-The occasion took place during my Malaysia trip with Stella. We had booked an early boat to watch the sunrise near Semporna, so I had to get up at 4:30 a.m. I normally struggle with early mornings and initially felt **half awake and slightly irritable**. However, the harbour was unusually quiet, and the cool air gradually woke me up. Once the boat reached open water, the sky changed from dark blue to orange and the sea reflected the light. The view was **far more impressive than I had expected**. We took only a few photographs and spent most of the time enjoying the silence. I was tired later, but the experience was completely **worth the effort**. It taught me that getting up early can reveal a side of a place that most visitors miss.
+The event I'd like to describe took place when I experienced **getting up early**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The occasion took place during my Malaysia trip with Stella. We had booked an early boat to watch the sunrise near Semporna, so I had to get up at 4:30 a.m.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I normally struggle with early mornings and initially felt **half awake and slightly irritable**. However, the harbour was unusually quiet, and the cool air gradually woke me up. Once the boat reached open water, the sky changed from dark blue to orange and the sea reflected the light.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The view was **far more impressive than I had expected**. We took only a few photographs and spent most of the time enjoying the silence. I was tired later, but the experience was completely **worth the effort**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -30,7 +40,17 @@ Malaysia · island trip · bad weather · cancelled boat · indoor market · loc
 
 ### Complete answer
 
-I had to change a plan during my Malaysia trip last May. Stella and I were supposed to take a boat to a small island, but the operator cancelled it because of **strong wind and unsafe sea conditions**. At first, I was disappointed because the island was one of the main reasons for the trip. Stella suggested visiting a local market and cooking a Malaysian dish at our accommodation instead. We bought unfamiliar spices, asked a vendor for advice and spent the afternoon experimenting. The meal was imperfect but surprisingly tasty, and the conversation with local people made the day memorable. The new plan was less dramatic, yet it gave us **a more authentic cultural experience**. Looking back, the change taught me that flexibility can turn disappointment into **an opportunity we would otherwise have missed**.
+The event I'd like to describe took place when I experienced **changing a plan**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I had to change a plan during my Malaysia trip last May.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Stella and I were supposed to take a boat to a small island, but the operator cancelled it because of **strong wind and unsafe sea conditions**. At first, I was disappointed because the island was one of the main reasons for the trip. Stella suggested visiting a local market and cooking a Malaysian dish at our accommodation instead.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. We bought unfamiliar spices, asked a vendor for advice and spent the afternoon experimenting. The meal was imperfect but surprisingly tasty, and the conversation with local people made the day memorable. The new plan was less dramatic, yet it gave us **a more authentic cultural experience**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -50,7 +70,17 @@ software project · four colleagues · tight deadline · unclear roles · divide
 
 ### Complete answer
 
-The group experience I remember was a software project at my former company. Four of us had six weeks to build an internal reporting tool. Initially, responsibilities were unclear, so two people worked on the same feature while another important task was ignored. Tension began to rise because the deadline was approaching. I suggested that we **divide the work according to individual strengths** and hold a ten-minute check-in each morning. Stella handled design, I built the main system, and the others tested data and user access. The short meetings revealed problems early without wasting much time. We completed the project on schedule, and staff used it to reduce repetitive work. The experience showed me that teamwork is valuable when communication is clear; otherwise, a group can **create duplication rather than efficiency**.
+The event I'd like to describe took place when I experienced **working in a group**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The group experience I remember was a software project at my former company. Four of us had six weeks to build an internal reporting tool.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Initially, responsibilities were unclear, so two people worked on the same feature while another important task was ignored. Tension began to rise because the deadline was approaching. I suggested that we **divide the work according to individual strengths** and hold a ten-minute check-in each morning.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. Stella handled design, I built the main system, and the others tested data and user access. The short meetings revealed problems early without wasting much time. We completed the project on schedule, and staff used it to reduce repetitive work.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -70,7 +100,17 @@ layoff · eight-year career · initial shock · stop dwelling · learn AI · reb
 
 ### Complete answer
 
-An important decision I made was to stop dwelling on my layoff and focus on rebuilding my career. I had worked as a software engineer for about eight years, so losing the job was **a major emotional shock**. For several weeks, I questioned my ability and avoided making plans. After reading a useful psychology book and speaking with my mother, I decided to treat the setback as a turning point. I created a daily routine, updated my AI skills and began practising English consistently. Progress was slow, but completing small projects gradually helped me **regain my confidence**. The decision was important because it changed something I could not control into a direction I could influence. It taught me that resilience does not mean ignoring disappointment; it means **taking constructive action despite it**.
+The event I'd like to describe took place when I experienced **important decision**.
+
+At that time, I was supposed to follow the original plan without much difficulty. An important decision I made was to stop dwelling on my layoff and focus on rebuilding my career.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I had worked as a software engineer for about eight years, so losing the job was **a major emotional shock**. For several weeks, I questioned my ability and avoided making plans. After reading a useful psychology book and speaking with my mother, I decided to treat the setback as a turning point.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I created a daily routine, updated my AI skills and began practising English consistently. Progress was slow, but completing small projects gradually helped me **regain my confidence**. The decision was important because it changed something I could not control into a direction I could influence.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -94,7 +134,17 @@ badminton final · Beijing arena · Stella · close match · energetic crowd · 
 
 ### Complete answer
 
-The live event was a badminton final in Beijing that I watched with Stella. We chose it because we both played casually at university and wanted to experience **a professional match at close range**. Our seats were not near the court, but the view was clear and the crowd was energetic. One player lost the first game and fell behind in the second, then changed tactics and made a dramatic comeback. Every long rally created enormous tension, and strangers around us reacted together. The match was exciting, but what I enjoyed most was the **shared atmosphere that television cannot reproduce**. We discussed the tactics on the way home and felt motivated to play again ourselves. It reminded me that live sport is valuable not only as entertainment but as **a collective emotional experience**.
+The event I'd like to describe took place when I experienced **live sports event**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The live event was a badminton final in Beijing that I watched with Stella. We chose it because we both played casually at university and wanted to experience **a professional match at close range**.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Our seats were not near the court, but the view was clear and the crowd was energetic. One player lost the first game and fell behind in the second, then changed tactics and made a dramatic comeback. Every long rally created enormous tension, and strangers around us reacted together.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The match was exciting, but what I enjoyed most was the **shared atmosphere that television cannot reproduce**. We discussed the tactics on the way home and felt motivated to play again ourselves. It reminded me that live sport is valuable not only as entertainment but as **a collective emotional experience**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -114,7 +164,17 @@ presentation day · laptop update · would not start · tight deadline · stay c
 
 ### Complete answer
 
-The problem occurred before an important project presentation. My laptop installed an update overnight and then refused to start properly. All my slides were on it, and the meeting was due in forty minutes, so I felt **a sudden wave of panic**. Instead of repeatedly restarting it, I checked my cloud storage and found a recent backup. Stella lent me her laptop, and I downloaded the slides, corrected two missing images and tested the connection. We began only a few minutes late and completed the presentation successfully. The incident was challenging because of the deadline rather than the technical fault itself. It taught me to keep important files in more than one place and **test essential equipment in advance**. Staying calm helped me identify the simplest solution instead of making the problem worse.
+The event I'd like to describe took place when I experienced **technological problem**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The problem occurred before an important project presentation. My laptop installed an update overnight and then refused to start properly.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. All my slides were on it, and the meeting was due in forty minutes, so I felt **a sudden wave of panic**. Instead of repeatedly restarting it, I checked my cloud storage and found a recent backup. Stella lent me her laptop, and I downloaded the slides, corrected two missing images and tested the connection. We began only a few minutes late and completed the presentation successfully.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The incident was challenging because of the deadline rather than the technical fault itself. It taught me to keep important files in more than one place and **test essential equipment in advance**. Staying calm helped me identify the simplest solution instead of making the problem worse.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -138,7 +198,17 @@ old laptop · overheated · work deadline · sudden shutdown · clean fan · ser
 
 ### Complete answer
 
-My old laptop broke while I was finishing a small freelance project at home. It had been overheating for weeks, but I ignored the warning until it suddenly shut down and would not restart. I was worried about missing the deadline and losing several files. First, I contacted the client and **explained the situation honestly**. Then I used another computer to recover the files from cloud storage and took the laptop to a service centre. The technician cleaned the cooling system and replaced a worn component, which was far cheaper than buying a new machine. I delivered the project one day late. The experience taught me not to ignore minor faults and to **repair equipment before replacing it unnecessarily**. It also confirmed the importance of automatic backups.
+The event I'd like to describe took place when I experienced **broken electronic device**.
+
+At that time, I was supposed to follow the original plan without much difficulty. My old laptop broke while I was finishing a small freelance project at home. It had been overheating for weeks, but I ignored the warning until it suddenly shut down and would not restart.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I was worried about missing the deadline and losing several files. First, I contacted the client and **explained the situation honestly**. Then I used another computer to recover the files from cloud storage and took the laptop to a service centre. The technician cleaned the cooling system and replaced a worn component, which was far cheaper than buying a new machine.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I delivered the project one day late. The experience taught me not to ignore minor faults and to **repair equipment before replacing it unnecessarily**. It also confirmed the importance of automatic backups.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -154,7 +224,17 @@ Malaysia · lost route · no signal · Stella · offline map · ask tourists · 
 
 ### Complete answer
 
-The experience happened during my Malaysia trip with Stella. Our navigation app lost its signal in a mountainous area, and we took the wrong route. I became frustrated because the light was fading and we did not know how far we had walked. Stella helped by **remaining calm and breaking the problem into steps**. She checked an offline screenshot, identified a nearby landmark and approached other tourists for directions. She also made a joke that reduced the tension. Within half an hour, we found the main path and reached our destination. I felt grateful not simply because she knew what to do, but because her attitude stopped me from panicking. The experience showed me that useful help often combines a practical solution with **emotional reassurance at the right moment**.
+The event I'd like to describe took place when I experienced **receiving help to solve a problem**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The experience happened during my Malaysia trip with Stella. Our navigation app lost its signal in a mountainous area, and we took the wrong route.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I became frustrated because the light was fading and we did not know how far we had walked. Stella helped by **remaining calm and breaking the problem into steps**. She checked an offline screenshot, identified a nearby landmark and approached other tourists for directions.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. She also made a joke that reduced the tension. Within half an hour, we found the main path and reached our destination. I felt grateful not simply because she knew what to do, but because her attitude stopped me from panicking.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -170,7 +250,17 @@ former manager · job proposal · major commitment · unclear conditions · comp
 
 ### Complete answer
 
-I once received a message from a former manager offering me a short freelance project. The work sounded interesting, but the deadline was tight and several conditions were unclear. I did not want to accept immediately and later disappoint him, so I **took time to consider the commitment properly**. I reviewed my schedule, listed questions about payment and scope, and drafted a careful reply. It took almost a day before I responded. I explained that I was interested but needed a more realistic deadline. He appreciated the honesty, and we agreed on revised terms. I initially worried that the delay seemed rude, yet a rushed answer could have caused a larger problem. The experience taught me that prompt replies are normally polite, but complex decisions deserve **a thoughtful and unambiguous response**.
+The event I'd like to describe took place when I experienced **taking a long time to reply**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I once received a message from a former manager offering me a short freelance project. The work sounded interesting, but the deadline was tight and several conditions were unclear.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I did not want to accept immediately and later disappoint him, so I **took time to consider the commitment properly**. I reviewed my schedule, listed questions about payment and scope, and drafted a careful reply. It took almost a day before I responded.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I explained that I was interested but needed a more realistic deadline. He appreciated the honesty, and we agreed on revised terms. I initially worried that the delay seemed rude, yet a rushed answer could have caused a larger problem.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -188,7 +278,17 @@ art museum · special exhibition · protect artwork · avoid disturbance · lock
 
 ### Complete answer
 
-The occasion was a special exhibition at an art museum in Beijing. Visitors had to silence and store their phones because photography could damage sensitive works and screens would disturb the atmosphere. At first, I felt slightly uncomfortable because I normally use my phone for notes and photographs. However, without notifications, I **paid much closer attention to the artwork** and discussed details with Stella instead of immediately searching online. One large landscape painting held our attention for several minutes, something that rarely happens when I can check messages. By the end, the rule felt reasonable rather than restrictive. It protected both the objects and the experience of other visitors. I realised that temporary limits on technology can **improve concentration and genuine engagement**, provided the purpose is clearly explained.
+The event I'd like to describe took place when I experienced **phone-not-allowed occasion**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The occasion was a special exhibition at an art museum in Beijing. Visitors had to silence and store their phones because photography could damage sensitive works and screens would disturb the atmosphere.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. At first, I felt slightly uncomfortable because I normally use my phone for notes and photographs. However, without notifications, I **paid much closer attention to the artwork** and discussed details with Stella instead of immediately searching online. One large landscape painting held our attention for several minutes, something that rarely happens when I can check messages.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. By the end, the rule felt reasonable rather than restrictive. It protected both the objects and the experience of other visitors. I realised that temporary limits on technology can **improve concentration and genuine engagement**, provided the purpose is clearly explained.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -212,7 +312,17 @@ Stella · layoffs · heavier workload · burned out · listen first · daily rou
 
 ### Complete answer
 
-I gave advice to Stella after our former company went through major layoffs. She had taken on **a much heavier workload** and was becoming impatient and completely burned out. Before offering solutions, I listened and asked which problem affected her most. I suggested separating urgent tasks from optional ones, discussing unrealistic deadlines with her manager and protecting a basic routine of sleep and exercise. I also reminded her that one difficult period did not define her professional value. She did not change overnight, but she gradually became calmer and established clearer boundaries. I gave the advice because I had recently experienced a layoff myself and understood the fear behind her stress. The conversation taught me that useful advice should not be a lecture; it should combine **careful listening with realistic next steps**.
+The event I'd like to describe took place when I experienced **giving advice**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I gave advice to Stella after our former company went through major layoffs. She had taken on **a much heavier workload** and was becoming impatient and completely burned out.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Before offering solutions, I listened and asked which problem affected her most. I suggested separating urgent tasks from optional ones, discussing unrealistic deadlines with her manager and protecting a basic routine of sleep and exercise. I also reminded her that one difficult period did not define her professional value.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. She did not change overnight, but she gradually became calmer and established clearer boundaries. I gave the advice because I had recently experienced a layoff myself and understood the fear behind her stress. The conversation taught me that useful advice should not be a lecture; it should combine **careful listening with realistic next steps**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -236,7 +346,17 @@ birthday dinner · small gathering · Malaysia story · lottery tickets · Stell
 
 ### Complete answer
 
-The occasion was my birthday dinner last year. I invited Stella and two close friends to my apartment and cooked a simple meal. After dinner, we recalled our Malaysia trip and the lottery tickets Stella and I had bought at the airport. Neither ticket won, and I had looked disappointed. Stella joked that we had not wasted the money; we had simply **bought back our luck**. Everyone laughed, partly because she delivered the line so seriously. The joke led to more travel stories, and even a friend who had arrived tired became cheerful. What made the evening special was not an expensive celebration but the **warm and relaxed atmosphere**. Seeing everyone smile reminded me that close relationships are built through small shared moments and that humour can **strengthen an emotional connection**.
+The event I'd like to describe took place when I experienced **smiling occasion**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The occasion was my birthday dinner last year. I invited Stella and two close friends to my apartment and cooked a simple meal.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. After dinner, we recalled our Malaysia trip and the lottery tickets Stella and I had bought at the airport. Neither ticket won, and I had looked disappointed. Stella joked that we had not wasted the money; we had simply **bought back our luck**. Everyone laughed, partly because she delivered the line so seriously.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The joke led to more travel stories, and even a friend who had arrived tired became cheerful. What made the evening special was not an expensive celebration but the **warm and relaxed atmosphere**. Seeing everyone smile reminded me that close relationships are built through small shared moments and that humour can **strengthen an emotional connection**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -260,7 +380,17 @@ mother · community accounts · volunteer work · careful records · no payment 
 
 ### Complete answer
 
-I felt proud of my mother last year when she volunteered to manage the accounts for a small community group. Although she was already retired, she used her experience as an accountant to organise confused records and explain the budget in plain language. She spent several evenings checking receipts and created **a transparent and practical system** without accepting payment. Her work helped the group continue activities for older residents. I was proud because she did not seek recognition; she simply saw a problem and used her skills to help. Her patience and reliability reminded me that achievement is not limited to promotions or awards. Sometimes it means **making a quiet contribution that others can depend on**.
+The event I'd like to describe took place when I experienced **proud of a family member**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I felt proud of my mother last year when she volunteered to manage the accounts for a small community group.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Although she was already retired, she used her experience as an accountant to organise confused records and explain the budget in plain language. She spent several evenings checking receipts and created **a transparent and practical system** without accepting payment. Her work helped the group continue activities for older residents.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I was proud because she did not seek recognition; she simply saw a problem and used her skills to help. Her patience and reliability reminded me that achievement is not limited to promotions or awards. Sometimes it means **making a quiet contribution that others can depend on**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -284,7 +414,17 @@ Malaysia coast · Stella · rented car · flexible route · local villages · na
 
 ### Complete answer
 
-The car trip I'd like to take again is a coastal journey in Malaysia with Stella. A car allowed us to stop at small beaches and villages that public transport did not reach. We planned a flexible route and set off early, but our navigation signal disappeared in a mountainous area. After taking a wrong turn, we **came across a hidden garden** and asked other visitors for directions. The mistake delayed us, yet it became the most memorable part of the day. I would choose a car again because it combines comfort with the freedom to change plans, especially in places with limited transport. The journey taught me that a trip does not need to follow the route perfectly to **leave a lasting impression**.
+The event I'd like to describe took place when I experienced **vehicle trip**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The car trip I'd like to take again is a coastal journey in Malaysia with Stella.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. A car allowed us to stop at small beaches and villages that public transport did not reach. We planned a flexible route and set off early, but our navigation signal disappeared in a mountainous area. After taking a wrong turn, we **came across a hidden garden** and asked other visitors for directions.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The mistake delayed us, yet it became the most memorable part of the day. I would choose a car again because it combines comfort with the freedom to change plans, especially in places with limited transport. The journey taught me that a trip does not need to follow the route perfectly to **leave a lasting impression**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -308,7 +448,17 @@ outdoor festival · colleague invitation · excessive volume · poor sound quali
 
 ### Complete answer
 
-The event was an outdoor music festival that I attended with colleagues. I went because Stella enjoyed one of the bands and I expected a relaxed evening. However, the speakers were **uncomfortably loud and badly balanced**, so the vocals were difficult to hear. The venue was overcrowded, and people constantly pushed past us to take videos. After an hour, I had a headache and could not have a proper conversation, so I left earlier than planned. I did not dislike the musicians; the poor organisation and sound quality ruined the experience. Looking back, I realised that I prefer smaller live performances where the audience can **focus on the music rather than the spectacle**.
+The event I'd like to describe took place when I experienced **music event you did not enjoy**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The event was an outdoor music festival that I attended with colleagues.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I went because Stella enjoyed one of the bands and I expected a relaxed evening. However, the speakers were **uncomfortably loud and badly balanced**, so the vocals were difficult to hear. The venue was overcrowded, and people constantly pushed past us to take videos.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. After an hour, I had a headache and could not have a proper conversation, so I left earlier than planned. I did not dislike the musicians; the poor organisation and sound quality ruined the experience.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change. This final point is still relevant to the way I think and behave today.
 
 ### Part 3
 
@@ -330,7 +480,17 @@ software prototype · vague request · no existing example · sketch workflow ·
 
 ### Complete answer
 
-I needed imagination when building a small software prototype for a client whose request was extremely vague. There was no existing example to copy, so I had to **turn an abstract idea into a concrete workflow**. I sketched several possible screens, imagined how a first-time user might behave and built a simple version rather than a polished product. The first design was too complicated, but user feedback helped me remove unnecessary steps. The task was difficult because creativity still had to respect time and technical limits. Eventually, the client approved a clearer version. I felt satisfied because imagination was not decorative; it helped solve a real problem. The experience showed me that useful creativity often grows from **working within practical constraints**.
+The event I'd like to describe took place when I experienced **using imagination**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I needed imagination when building a small software prototype for a client whose request was extremely vague.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. There was no existing example to copy, so I had to **turn an abstract idea into a concrete workflow**. I sketched several possible screens, imagined how a first-time user might behave and built a simple version rather than a polished product. The first design was too complicated, but user feedback helped me remove unnecessary steps.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The task was difficult because creativity still had to respect time and technical limits. Eventually, the client approved a clearer version. I felt satisfied because imagination was not decorative; it helped solve a real problem.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -354,7 +514,17 @@ Stella · burnout · unwilling to exercise · short daily walk · no pressure ·
 
 ### Complete answer
 
-I encouraged Stella to begin exercising when she was burned out after company layoffs. She did not want another demanding task, so I did not suggest a gym programme. Instead, I invited her to take **a short, pressure-free walk** with me after work. I promised we could stop after fifteen minutes and mainly used the time to talk. She reluctantly agreed, then noticed she slept better that night. We repeated the walk several times, and she gradually began going alone. I encouraged her because stress had reduced both her energy and confidence, and a small action felt more realistic than a dramatic lifestyle change. Her reaction taught me that encouragement works best when it **reduces the first barrier and respects the person's choice**.
+The event I'd like to describe took place when I experienced **encouraging someone**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I encouraged Stella to begin exercising when she was burned out after company layoffs. She did not want another demanding task, so I did not suggest a gym programme.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. Instead, I invited her to take **a short, pressure-free walk** with me after work. I promised we could stop after fifteen minutes and mainly used the time to talk. She reluctantly agreed, then noticed she slept better that night.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. We repeated the walk several times, and she gradually began going alone. I encouraged her because stress had reduced both her energy and confidence, and a small action felt more realistic than a dramatic lifestyle change. Her reaction taught me that encouragement works best when it **reduces the first barrier and respects the person's choice**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -376,7 +546,17 @@ Malaysia · three-month software project · remote collaboration · local start-
 
 ### Complete answer
 
-I would like a three-month software job with a small technology company in Malaysia. I learned about similar projects through former colleagues and was attracted by the chance to combine work with **short-term cultural immersion**. I would help build a simple tourism application and train local staff to maintain it. The role would require technical ability, clear English and sensitivity to different working styles. I prefer a short contract because it offers international experience without requiring a permanent move away from family. Malaysia is also familiar from my trip with Stella, so the transition would feel manageable. I want the job because it could broaden my professional network and show me whether I can **adapt effectively to an international workplace**.
+The event I'd like to describe took place when I experienced **short-term overseas job**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I would like a three-month software job with a small technology company in Malaysia.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I learned about similar projects through former colleagues and was attracted by the chance to combine work with **short-term cultural immersion**. I would help build a simple tourism application and train local staff to maintain it. The role would require technical ability, clear English and sensitivity to different working styles.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I prefer a short contract because it offers international experience without requiring a permanent move away from family. Malaysia is also familiar from my trip with Stella, so the transition would feel manageable. I want the job because it could broaden my professional network and show me whether I can **adapt effectively to an international workplace**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -398,7 +578,17 @@ ten-day Malaysia stay · limited annual leave · local food · island trip · wr
 
 ### Complete answer
 
-The short stay abroad I remember was a ten-day trip to Malaysia with Stella. It was brief because we had limited annual leave, but we planned a mixture of city walks, local food and island activities. The trip was not trouble-free: our navigation failed in the mountains, and we took the wrong route before finding a hidden garden and asking tourists for help. That unexpected episode became **more memorable than the planned attractions**. I enjoyed the natural scenery and the opportunity to use English in real situations. The stay **broadened my horizons** and strengthened my friendship with Stella. Most importantly, stepping away from deadlines reminded me that life should include curiosity and meaningful experiences beyond work.
+The event I'd like to describe took place when I experienced **short stay abroad**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The short stay abroad I remember was a ten-day trip to Malaysia with Stella.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. It was brief because we had limited annual leave, but we planned a mixture of city walks, local food and island activities. The trip was not trouble-free: our navigation failed in the mountains, and we took the wrong route before finding a hidden garden and asking tourists for help. That unexpected episode became **more memorable than the planned attractions**.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I enjoyed the natural scenery and the opportunity to use English in real situations. The stay **broadened my horizons** and strengthened my friendship with Stella. Most importantly, stepping away from deadlines reminded me that life should include curiosity and meaningful experiences beyond work.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -414,7 +604,17 @@ freediving · Semporna · safety briefing · nervous excitement · control breat
 
 ### Complete answer
 
-The new activity was freediving near Semporna during my Malaysia trip. I was excited but nervous because I was not used to holding my breath underwater. An instructor gave us a safety briefing and taught us to **slow our breathing and remain relaxed**. My first attempt was awkward, but gradually I became calmer. Then I saw a sea turtle moving below us, and the sight made me forget my anxiety. I never dived very deep, yet the feeling of moving quietly through clear water was unforgettable. The activity showed me that excitement often comes from a mixture of fear and curiosity. With proper guidance, stepping outside my comfort zone can **create confidence as well as a lasting memory**.
+The event I'd like to describe took place when I experienced **exciting new activity**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The new activity was freediving near Semporna during my Malaysia trip. I was excited but nervous because I was not used to holding my breath underwater.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. An instructor gave us a safety briefing and taught us to **slow our breathing and remain relaxed**. My first attempt was awkward, but gradually I became calmer. Then I saw a sea turtle moving below us, and the sight made me forget my anxiety.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I never dived very deep, yet the feeling of moving quietly through clear water was unforgettable. The activity showed me that excitement often comes from a mixture of fear and curiosity. With proper guidance, stepping outside my comfort zone can **create confidence as well as a lasting memory**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -430,7 +630,17 @@ job interview result · one week · check email repeatedly · uncertainty · mai
 
 ### Complete answer
 
-I once waited a week for the result of an important job interview. The role offered more flexible work and AI projects, so I cared deeply about the outcome. During the first two days, I **checked my email far too frequently** and struggled to concentrate. I then decided to follow my normal study and exercise routine and check messages only three times a day. The company eventually offered me a second interview rather than the job itself, but I still felt relieved because the uncertainty had ended. Waiting was difficult because I could not influence the decision after the interview. The experience taught me to separate what I can control from what I cannot and to **avoid putting the rest of my life on hold**.
+The event I'd like to describe took place when I experienced **waiting for something special**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I once waited a week for the result of an important job interview.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. The role offered more flexible work and AI projects, so I cared deeply about the outcome. During the first two days, I **checked my email far too frequently** and struggled to concentrate. I then decided to follow my normal study and exercise routine and check messages only three times a day.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The company eventually offered me a second interview rather than the job itself, but I still felt relieved because the uncertainty had ended. Waiting was difficult because I could not influence the decision after the interview.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -446,7 +656,17 @@ summer evening · apartment · sudden blackout · no Wi-Fi · use phone light ·
 
 ### Complete answer
 
-The power cut happened in my Beijing apartment on a hot summer evening. I was working online when the lights, Wi-Fi and air conditioning suddenly stopped. At first I felt frustrated because I had an unfinished task. I saved my laptop battery, contacted the client by phone and used **a small emergency light**. In the corridor, neighbours shared updates and helped an older resident contact the property manager. The electricity returned after about two hours. Without screens, I sat by the window and had an unexpectedly long conversation with a neighbour. The event was inconvenient, but it revealed how strongly daily life **depends on a stable electricity supply**. It also showed that disruption can briefly encourage people to cooperate and notice those living nearby.
+The event I'd like to describe took place when I experienced **power cut**.
+
+At that time, I was supposed to follow the original plan without much difficulty. The power cut happened in my Beijing apartment on a hot summer evening. I was working online when the lights, Wi-Fi and air conditioning suddenly stopped.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. At first I felt frustrated because I had an unfinished task. I saved my laptop battery, contacted the client by phone and used **a small emergency light**. In the corridor, neighbours shared updates and helped an older resident contact the property manager. The electricity returned after about two hours.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. Without screens, I sat by the window and had an unexpectedly long conversation with a neighbour. The event was inconvenient, but it revealed how strongly daily life **depends on a stable electricity supply**. It also showed that disruption can briefly encourage people to cooperate and notice those living nearby.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -462,7 +682,17 @@ Malaysia mountains · lost signal · wrong path · frustration · offline screen
 
 ### Complete answer
 
-I got lost with Stella during our Malaysia trip when our navigation app lost its signal in a mountainous area. We followed the wrong path for about twenty minutes before realising the scenery no longer matched our screenshot. I became frustrated, but Stella **remained calm and optimistic**. We returned to a visible landmark, found a hidden garden and asked other tourists for directions. They showed us a shorter path to the main road, and we eventually reached our destination. Although the mistake delayed us, the garden became one of my favourite memories from the trip. The experience taught me to keep offline maps and pay attention to physical landmarks. It also reminded me that **things can still end well when a plan fails**.
+The event I'd like to describe took place when I experienced **getting lost**.
+
+At that time, I was supposed to follow the original plan without much difficulty. I got lost with Stella during our Malaysia trip when our navigation app lost its signal in a mountainous area. We followed the wrong path for about twenty minutes before realising the scenery no longer matched our screenshot.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I became frustrated, but Stella **remained calm and optimistic**. We returned to a visible landmark, found a hidden garden and asked other tourists for directions. They showed us a shorter path to the main road, and we eventually reached our destination.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. Although the mistake delayed us, the garden became one of my favourite memories from the trip. The experience taught me to keep offline maps and pay attention to physical landmarks. It also reminded me that **things can still end well when a plan fails**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -478,7 +708,17 @@ free park · packed lunch · Stella · public transport · art market · low cos
 
 ### Complete answer
 
-One inexpensive day out was a Sunday I spent with Stella in Beijing. We took the subway to a large public park, brought homemade sandwiches and walked around a free weekend art market nearby. We did not buy anything except two cups of tea. Instead, we discussed work, looked at local paintings and sat beside a lake. The whole day cost very little but gave us **a genuine break from our routines**. I enjoyed it more than some expensive outings because we were not rushing between paid attractions. The experience reminded me that the quality of a day depends mainly on company, attention and atmosphere, not on **how much money is spent**.
+The event I'd like to describe took place when I experienced **going out cheaply**.
+
+At that time, I was supposed to follow the original plan without much difficulty. One inexpensive day out was a Sunday I spent with Stella in Beijing.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. We took the subway to a large public park, brought homemade sandwiches and walked around a free weekend art market nearby. We did not buy anything except two cups of tea. Instead, we discussed work, looked at local paintings and sat beside a lake.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. The whole day cost very little but gave us **a genuine break from our routines**. I enjoyed it more than some expensive outings because we were not rushing between paid attractions. The experience reminded me that the quality of a day depends mainly on company, attention and atmosphere, not on **how much money is spent**.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 
@@ -494,7 +734,17 @@ coastal clean-up · Zhanjiang · local volunteers · plastic waste · community 
 
 ### Complete answer
 
-A piece of local news that interested me concerned a coastal clean-up in Zhanjiang, my hometown. I read it through an official local news account. Residents, students and fishing businesses worked together to remove plastic waste after a busy holiday. The report included photographs, the amount collected and interviews with volunteers, so it felt **specific and credible rather than promotional**. I was interested because I grew up near that coastline and have seen how rubbish damages an otherwise beautiful environment. The story was modest compared with national news, but it showed how coordinated local action can **produce an immediate visible result**. It encouraged me to reduce disposable packaging and reminded me that local news matters when it connects public issues with places people personally know.
+The event I'd like to describe took place when I experienced **local news**.
+
+At that time, I was supposed to follow the original plan without much difficulty. A piece of local news that interested me concerned a coastal clean-up in Zhanjiang, my hometown.
+
+However, things took an unexpected turn. Suddenly, the main challenge became real, and I had to respond rather than simply worry about it. I read it through an official local news account. Residents, students and fishing businesses worked together to remove plastic waste after a busy holiday. The report included photographs, the amount collected and interviews with volunteers, so it felt **specific and credible rather than promotional**.
+
+Then, I decided to focus on what I could control. With the help of what was available, I managed to move forward step by step. I was interested because I grew up near that coastline and have seen how rubbish damages an otherwise beautiful environment. The story was modest compared with national news, but it showed how coordinated local action can **produce an immediate visible result**. It encouraged me to reduce disposable packaging and reminded me that local news matters when it connects public issues with places people personally know.
+
+In the end, the outcome was worthwhile and gave me **a genuine sense of relief**.
+
+Looking back, I realised that preparation matters, but flexibility matters just as much. The experience taught me to stay calm and adjust when circumstances change.
 
 ### Part 3
 

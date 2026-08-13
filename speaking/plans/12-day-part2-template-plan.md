@@ -1,13 +1,15 @@
-# IELTS Speaking Part 2：12 天模板检索计划
+# IELTS Speaking Part 2：12 天结构检索计划
 
-目标：用 4 类模板覆盖题库 Part 2。每题先分类，再套模板，再换故事重点。
+目标：用 4 类检索结构覆盖题库 Part 2。每题先分类，再选择信息槽位和结尾方向；结构可以复用，完整句不能机械复用。
 
 原则：
 
 - 不写完整稿。
 - 每题只写 8-10 个关键词。
 - 每天练 3 个 cue cards。
-- 每题必须先选模板：人物 / 事件 / 事物 / 地点。
+- 每题必须先选结构：人物 / 事件 / 事物 / 地点。
+- 固定的是信息顺序，不是完整句子；所有概括都必须由该题的具体细节支撑。
+- 结尾只完成一个功能，控制在 1–2 句，不强制上升到人生哲理。
 - 每次复盘只改 3 个错误：时态、冠词/单复数、句子没说完。
 
 每天固定流程：
@@ -15,34 +17,33 @@
 1. 5 分钟：复习昨天 3 个错误。
 2. 3 分钟：给今天题目分类。
 3. 1 分钟：每题写 8-10 个关键词。
-4. 2 分钟：按模板回答。
+4. 2 分钟：按所选信息结构回答。
 5. 2 分钟：同题重答，减少错误。
 6. 3 分钟：记录 3 个错误和 1 个可复用表达。
 
 ---
 
-## 4 类通用模板
+## 4 类半固定检索结构
+
+使用规则：
+
+1. 方括号表示需要检索的信息，不是要逐字说出的句子。
+2. 每题选 5–7 个槽位即可，不必说完所有槽位。
+3. 每篇最多使用 1–2 个通用衔接句，后面立即接题目专属细节。
+4. 结尾从建议方向中选一个；不重复总结，也不用万能感悟。
 
 ### 人物类
 
-重点：**Who → Quality → Background → Example → Result → Impression → Reflection**
+重点：**Who → Quality → Context → Example → Reaction/result → Why this person matters**
 
 ```text
-The person I'd like to describe is [name], who is [relationship].
-
-What stands out most about him/her is [quality].
-
-I first met/knew him/her [when/where].
-At that time, [background].
-
-One specific example is [event].
-Instead of [normal reaction], he/she [specific action].
-Thanks to this, [result].
-
-What impressed me most was [deeper quality/personality].
-
-Looking back, I realised [lesson].
-Spending time with / learning from this person has taught me [value].
+[name + relationship]
+[one precise quality]
+[when/where you knew or noticed the person]
+[one specific incident]
+[what the person actually said or did]
+[the immediate result or your reaction]
+[choose one ending: admiration / influence / relationship / memorable quality]
 ```
 
 常用表达：
@@ -58,20 +59,16 @@ Spending time with / learning from this person has taught me [value].
 
 ### 事件类
 
-重点：起因 - 冲突 - 转折 - 结局 - 感悟。
+重点：**Context → Expectation → Change/problem → Response → Outcome → Why it remains memorable**
 
 ```text
-The event I'd like to describe took place [time/place].
-At that time, I was supposed to [original plan].
-
-However, things took an unexpected turn.
-Suddenly, [problem/conflict], and I felt [feeling].
-
-Then, I decided to [action].
-With the help of [person/tool], I managed to [result].
-
-In the end, [ending].
-Looking back, I realised [lesson].
+[time/place and people involved]
+[what you expected]
+[what changed or became difficult]
+[your real feeling]
+[the action taken and any help received]
+[the concrete outcome]
+[choose one ending: lesson / emotional change / unexpected benefit / lasting memory]
 ```
 
 常用表达：
@@ -90,18 +87,12 @@ Looking back, I realised [lesson].
 重点：背后的情感 / 实用价值，不只描述外观。
 
 ```text
-The thing I'm going to talk about is [object].
-It was [source: gift / bought / discovered online].
-
-At first, I used it mainly for [basic use].
-But gradually, it became more than just [object].
-
-What makes it special is not only its [function/appearance],
-but also the [emotional/practical value] behind it.
-For instance, whenever I [use/see] it, it reminds me of [memory/value].
-
-It has become an important part of my life because [reason].
-That's the story behind it.
+[identify the thing clearly]
+[where it came from or how you found it]
+[appearance, content or basic function—only if relevant]
+[one specific occasion when you used, watched or read it]
+[what changed, helped or interested you]
+[choose one ending: usefulness / emotional association / changed habit / curiosity]
 ```
 
 常用表达：
@@ -117,21 +108,15 @@ That's the story behind it.
 
 ### 地点类
 
-重点：多感官描述 + 独特氛围。
+重点：**Where/visit → Selected detail → Activity → Contrast → Personal meaning**。感官细节只选真正记得的，不强凑视觉、声音和气味。
 
 ```text
-The place I'd like to describe is [place].
-It is located in [where], and I went there [when/with whom].
-
-What impressed me first was [visual detail].
-I could also hear [sound] and smell [smell],
-which created a [atmosphere] atmosphere.
-
-Compared with other places, it felt [unique point].
-I usually [activity there], especially when I want to [purpose].
-
-Looking back, this place matters to me because [personal meaning].
-It gives me a chance to [relax/reflect/escape/feel connected].
+[place and location]
+[when/with whom you went]
+[one or two memorable details]
+[what you did there]
+[a useful contrast or limitation]
+[choose one ending: atmosphere / memory / activity / desire to revisit]
 ```
 
 常用表达：
@@ -149,7 +134,7 @@ It gives me a chance to [relax/reflect/escape/feel connected].
 
 ## 12 天安排
 
-### Day 1：四类模板基线
+### Day 1：四类结构基线
 
 - Person who plans（人物类）：谁？怎么认识？做什么计划？感受？
 - Phone not allowed（事件类）：何时何地？为什么禁用？感受？
@@ -187,7 +172,15 @@ Looking back, I realised that good planning is a valuable skill because it can h
     → good reflection ending (also matches your notebook preference)
 
 A key improvement for you: your original answer already had the right **story structure**. Your main problem was not ideas; it was **real-time language control**. For Band 7, keep this story skeleton and practise saying it without memorising every sentence:
-**Stella → quality → Malaysia trip → specific example → result → lesson.**
+
+- Stella
+- planning ability
+- Malaysia trip
+- detailed itinerary
+- wrong route
+- stayed calm
+- smooth trip
+- practical influence
 
 ---
 
@@ -218,7 +211,7 @@ Looking back, I’ve realised how much her support has influenced me. What truly
 - **take good care of someone**
 - **care too much about other people’s opinions**
 - **look at things from a different perspective**
-- **make someone feel understood and supported** ← 你的模板原有表达 
+- **make someone feel understood and supported** ← 可复用衔接表达
 - **stand by someone’s side**
 - **what truly matters is…**
 
@@ -233,9 +226,16 @@ Looking back, I’ve realised how much her support has influenced me. What truly
 
 这题的**8个关键词**可以直接压缩成：
 
-**mother → caring/supportive → primary school → shy/judgment → listened → practical advice → understood/supported → stand by me**
+- mother
+- caring and supportive
+- primary school
+- shy and afraid of judgement
+- listened patiently
+- practical advice
+- felt understood
+- stood by me
 
-下一次重答时，不要背上面的完整答案，只看这 8 个词，再按人物模板自己检索出来。这样才是在强化模板，而不是换成背另一篇稿。
+下一次重答时，不要背上面的完整答案，只看这 8 个词，再按人物结构自己检索出来。这样是在强化信息顺序，而不是换成背另一篇稿。
 
 ---
 
@@ -376,11 +376,11 @@ Looking back, I’ve realised that solving a problem isn’t always about fixing
 
 覆盖规则：
 
-- Day 1-12 用四类模板覆盖题库全部 68 个 Part 2 topics；完整分类与答案见 [`../answers/`](../answers/README.md)。
+- Day 1-12 用四类结构覆盖题库全部 68 个 Part 2 topics；完整分类与答案见 [`../answers/`](../answers/README.md)。
 - Day 12 的 Random 4-topic retest 不算新题，只做混合检索。
-- 如果题目可跨类，先用主模板，再用故事重点微调。
+- 如果题目可跨类，先用主结构，再用故事重点微调。
 
-主模板分类：人物 16 题、事件 25 题、事物 18 题、地点 9 题。唯一清单见 [`../topics/question-bank.md`](../topics/question-bank.md)，避免在计划内重复维护。
+主结构分类：人物 16 题、事件 25 题、事物 18 题、地点 9 题。唯一清单见 [`../topics/question-bank.md`](../topics/question-bank.md)，避免在计划内重复维护。
 
 ---
 

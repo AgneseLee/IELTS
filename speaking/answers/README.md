@@ -11,7 +11,7 @@
 ## 统一人设
 
 - 湛江人，目前住北京；软件工程师，从业约八年。
-- 好友 Stella：中学同学，后来在北京成为同事；一起去过 Malaysia。
+- 好友 Stella：前同事，认识约三年；一起去过 Malaysia。
 - 母亲：退休会计，耐心、务实、支持我。
 - 高频事物：ChatGPT、童年作文、心理学书、笔记本电脑。
 - 高频地点：湛江海边、北京公园、艺术馆、Malaysia/Semporna。
@@ -19,8 +19,8 @@
 ## 使用方法
 
 1. P1 只记加粗部分和一个个人细节。
-2. P2 先确认答案中的 `Template + Story ID`，再逐行看关键词复述。
-3. 只记 8 个核心故事；同 Story 的核心三段原样复用，只替换 opening、focus 和 ending。
+2. P2 先确认答案中的 `Template + Bank + Modules`，再逐行看关键词复述。
+3. 记 8 个素材库；每题只选择 2–3 个直接相关 modules，不复述整个 Bank。
 4. P3 使用“立场—原因—例子—限制”结构。
 5. 每次录音只修三个重复错误，然后立即重答。
 
@@ -33,6 +33,6 @@
 
 ## Part 2 维护规则
 
-- 4 个模板和 8 个核心故事见 [12 天模板检索计划](../plans/12-day-part2-template-plan.md)。
-- Story 定义与固定 collocations 见 [20 天 Band 7 计划](../plans/20-day-band7.md#8-个核心故事)。
+- 4 个模板和 8 个素材库见 [12 天模块检索计划](../plans/12-day-part2-template-plan.md)。
+- Bank modules 与固定 collocations 见 [20 天 Band 7 计划](../plans/20-day-band7.md#8-个素材库)。
 - 68 篇完整答案保留，方便抽题练习；它们不是 68 套独立背诵材料。

@@ -5,16 +5,16 @@
 核心原则：
 
 - 不为每个 cue card 单独背答案。
-- 使用 8 个核心故事覆盖 Part 2。
-- 每个故事准备关键词，不写完整稿。
-- Day 8-20 用故事迁移补齐题库缺口。
+- 使用 8 个素材库覆盖 Part 2。
+- 每个素材库准备关键词，不写完整稿。
+- Day 8-20 用模块迁移补齐题库缺口。
 
 每天固定训练结构：
 
 - 15 分钟：跟读和发音。
 - 15 分钟：学习 3 个可迁移表达。
 - 30 分钟：Part 1 快问快答。
-- 35 分钟：Part 2 故事迁移。
+- 35 分钟：Part 2 模块迁移。
 - 20 分钟：Part 3 观点展开。
 - 10 分钟：听录音，记录 3 个错误并重答。
 
@@ -26,22 +26,23 @@
 
 ---
 
-## 8 个核心故事
+## 8 个素材库
 
-| 故事 | 固定素材 | 固定 collocations | 主要覆盖 |
+| Bank | 可选素材 modules | 固定 collocations | 主要覆盖 |
 |---|---|---|---|
-| Story 1 | Stella：同学、同事、语言、绘画、唱歌、计划 | `plan well in advance` · `stay calm and optimistic` · `learn from mistakes` | 人物兴趣、能力与性格 |
-| Story 2 | 心理学书、Little Prince、The Martian、家庭笔记 | `regain my confidence` · `look at setbacks from a different perspective` · `carry emotional value` | 书、故事、电影、家庭物品 |
-| Story 3 | Malaysia、迷路、hidden garden、Semporna、海龟 | `broaden my horizons` · `leave a lasting impression` · `step outside my comfort zone` | 旅行、城市、自然、活动 |
-| Story 4 | 裁员、母亲建议、Stella 帮助、软件项目 | `feel understood and supported` · `focus on what I could control` · `manageable steps` | 建议、决定、工作、帮助 |
-| Story 5 | laptop、ChatGPT、技术故障、维修 | `boost my productivity` · `turn ideas into working results` · `test equipment in advance` | App、科技、法律、媒体 |
-| Story 6 | 生日、饺子、羽毛球、唱歌、家庭旧物 | `a genuine sense of achievement` · `shared family memory` · `warm and relaxed atmosphere` | 庆祝、食物、运动、音乐 |
-| Story 7 | 北京 studio、skyscraper、museum、park | `clear my head` · `take a break from my busy daily routine` · `practical comfort` | 建筑、住所、无聊、放松 |
-| Story 8 | 湛江社区活动、母亲、Lin、Chen、Mia、本地新闻 | `remain calm under pressure` · `make a meaningful practical difference` · `a visible community result` | 社区、医疗、商业、环保 |
+| B1 | childhood friend · plans · languages · painting · singing · support | `plan well in advance` · `stay calm and optimistic` · `learn from mistakes` | 人物兴趣、能力与性格 |
+| B2 | Counselling for Toads · Little Prince · The Martian · sequel · family essay | `regain my confidence` · `look at setbacks from a different perspective` · `carry emotional value` | 书、故事、电影、家庭物品 |
+| B3 | sunrise · cancelled boat · lost route · car trip · freediving · city · Semporna | `broaden my horizons` · `leave a lasting impression` · `step outside my comfort zone` | 旅行、城市、自然、活动 |
+| B4 | layoff · group project · advice · reply · overseas job · imagination | `feel understood and supported` · `focus on what I could control` · `manageable steps` | 建议、决定、工作、帮助 |
+| B5 | rocket video · AI programme · ChatGPT · laptop failure · repair · law · headphones | `boost my productivity` · `turn ideas into working results` · `test equipment in advance` | App、科技、法律、媒体 |
+| B6 | birthday · dumplings · badminton · singing · family memory | `a genuine sense of achievement` · `shared family memory` · `warm and relaxed atmosphere` | 庆祝、食物、运动、音乐 |
+| B7 | skyscraper · airport · studio · museum · park · cheap outing | `clear my head` · `take a break from my busy daily routine` · `practical comfort` | 建筑、住所、无聊、放松 |
+| B8 | balcony garden · nurse · business · clean-up · power cut · local news · environment | `remain calm under pressure` · `make a meaningful practical difference` · `a visible community result` | 社区、医疗、商业、环保 |
 
-迁移规则：
+模块规则：
 
-- 同一个故事只换重点，不换事实。
+- 每题只选 2–3 个直接相关 modules；不讲整个 Bank。
+- 已选 module 的事实不变；未选 module 不得出现。
 - 人物题突出性格和关系。
 - 地点题突出位置、外观和感受。
 - 事件题突出过程、冲突和结果。
@@ -70,11 +71,11 @@ Part 3：
 
 - 完整模拟一次口语考试。
 - 记录停顿、重复、语法错误和 Part 2 时长。
-- 写出 8 个核心故事的中文标题。
+- 写出 8 个素材库的中文标题。
 
 ---
 
-## Day 2：人物故事 1
+## Day 2：人物素材库 B1
 
 Part 1：
 
@@ -82,7 +83,7 @@ Part 1：
 - Food
 - Walking
 
-Story 1：家人、朋友或同事
+B1：人物关系与技能
 
 准备关键词：
 
@@ -97,11 +98,11 @@ Story 1：家人、朋友或同事
 
 - Person Who Plans
 - Creative Person
-- Proud of Family Member
+- Person Good at Languages
 
 ---
 
-## Day 3：人物故事迁移
+## Day 3：人物模块迁移
 
 Part 1：
 
@@ -109,13 +110,12 @@ Part 1：
 - Hobby
 - Childhood Activities
 
-Story 1 继续迁移：
+B1 继续迁移：
 
-- Famous Person
+- Childhood Friend
 - Musical Friend
 - Friend Who Draws
-- Smart Solver
-- Nature Lover
+- Self-taught Friend
 
 Part 3：
 
@@ -126,7 +126,7 @@ Part 3：
 
 ---
 
-## Day 4：书本故事 2
+## Day 4：书本素材库 B2
 
 Part 1：
 
@@ -134,7 +134,7 @@ Part 1：
 - Typing
 - Writing
 
-Story 2：一本有用的书或故事
+B2：一本有用的书或故事
 
 准备关键词：
 
@@ -153,7 +153,7 @@ Story 2：一本有用的书或故事
 
 ---
 
-## Day 5：书本故事迁移与家庭礼物
+## Day 5：书本模块迁移与家庭礼物
 
 Part 1：
 
@@ -161,7 +161,7 @@ Part 1：
 - Sports Team
 - Sharing
 
-Story 2 继续迁移：
+B2 继续迁移：
 
 - A gift you received
 - A story you read recently
@@ -175,7 +175,7 @@ Part 3：
 
 ---
 
-## Day 6：旅行故事 3
+## Day 6：旅行素材库 B3
 
 Part 1：
 
@@ -183,7 +183,7 @@ Part 1：
 - Geography
 - Weather
 
-Story 3：Malaysia 旅行或迷路
+B3：Malaysia 旅行或迷路
 
 准备关键词：
 
@@ -203,7 +203,7 @@ Story 3：Malaysia 旅行或迷路
 
 ---
 
-## Day 7：旅行故事迁移与城市
+## Day 7：旅行模块迁移与城市
 
 Part 1：
 
@@ -211,7 +211,7 @@ Part 1：
 - Scenery/Views
 - Park
 
-Story 3 继续迁移：
+B3 继续迁移：
 
 - Short Stay Abroad
 - Favorite City
@@ -226,7 +226,7 @@ Part 3：
 
 ---
 
-## Day 8：建议故事 4
+## Day 8：建议素材库 B4
 
 Part 1：
 
@@ -235,7 +235,7 @@ Part 1：
 - Public Places
 - Teachers
 
-Story 4：给别人建议或被别人帮助
+B4：给别人建议或被别人帮助
 
 准备关键词：
 
@@ -271,7 +271,7 @@ Part 1：
 - Housework
 - Tidiness
 
-Story 6：开心、自豪或家庭场合
+B2 + B6 + B7 + B8 按题选择：
 
 可迁移 Part 2：
 
@@ -289,7 +289,7 @@ Part 3：
 
 ---
 
-## Day 10：科技故事 5
+## Day 10：科技素材库 B5
 
 Part 1：
 
@@ -299,7 +299,7 @@ Part 1：
 - Phone Calls
 - Text Messages
 
-Story 5：App 或科技产品
+B5 为主；Phone Not Allowed 使用 B7：
 
 准备关键词：
 
@@ -335,7 +335,7 @@ Part 1：
 - Machines
 - Headphones
 
-Story 5 + Story 8 迁移：
+B5 + B8 迁移：
 
 - Local News
 - Medical Field Person
@@ -351,7 +351,7 @@ Part 3：
 
 ---
 
-## Day 12：场合故事 6
+## Day 12：场合素材库 B6
 
 Part 1：
 
@@ -360,7 +360,7 @@ Part 1：
 - Smiling
 - Day Off
 
-Story 6：开心、自豪或庆祝场合
+B6 为主；Proud of a Family Member 使用 B8：
 
 准备关键词：
 
@@ -387,7 +387,7 @@ Part 3：
 
 ---
 
-## Day 13：食物、活动与等待故事 8
+## Day 13：食物、活动与等待模块
 
 Part 1：
 
@@ -396,7 +396,7 @@ Part 1：
 - Dreams
 - Patience
 
-Story 8：特别食物、兴奋活动或等待经历
+B6 + B3 + B4 + B8 按题选择：
 
 准备关键词：
 
@@ -423,7 +423,7 @@ Part 3：
 
 ---
 
-## Day 14：建筑、地点与无聊故事 7
+## Day 14：建筑、地点与无聊素材库 B7
 
 Part 1：
 
@@ -432,7 +432,7 @@ Part 1：
 - Crowded Places
 - Going Out
 
-Story 7：一次外出、建筑或无聊经历
+B7：一次外出、建筑或无聊经历
 
 准备关键词：
 
@@ -468,7 +468,7 @@ Part 1：
 - Plants
 - Spending Time with Older People
 
-Story 1 + Story 3 迁移：
+B3 + B8 迁移：
 
 - Wild Animal
 - Nature Lover
@@ -493,7 +493,7 @@ Part 1：
 - Thanking
 - Memory
 
-Story 1 + Story 8 迁移：
+B4 + B5 + B8 迁移：
 
 - Perfect Job
 - Famous Person
@@ -532,11 +532,11 @@ Part 1 快问快答：
 - 每题必须包含一个个人例子。
 - 录音后挑出最弱的 5 题重答。
 
-故事复习：
+素材库复习：
 
-- Story 2：Gift / Book
-- Story 5：Technology / Can't Live Without
-- Story 7：Boring Place / Place to Relax
+- B2：Gift / Book
+- B5：Technology / Can't Live Without
+- B7：Boring Place / Place to Relax
 
 ---
 
@@ -561,11 +561,11 @@ Part 1 快问快答：
 - 每题回答 20-30 秒。
 - 不写完整答案。
 
-故事随机迁移：
+素材库随机迁移：
 
-- Story 3：Lost Way / City / Short Stay Abroad
-- Story 4：Advice / Help Solve Problem
-- Story 8：Waiting / Lost Power / Special Meal
+- B3：Lost Way / City / Short Stay Abroad
+- B4：Advice / Help Solve Problem
+- B8：Waiting / Lost Power / Special Meal
 
 ---
 
@@ -579,7 +579,7 @@ Part 1 快问快答：
 
 重点检查：
 
-- 是否能在 1 分钟内把 cue card 归入 8 个故事之一。
+- 是否能在 1 分钟内把 cue card 归入 8 个素材库之一。
 - 是否能改变故事重点，而不是硬背同一版本。
 - Part 3 是否有观点、理由、例子和让步。
 
@@ -600,15 +600,15 @@ Part 1 快问快答：
 
 覆盖核查：
 
-- 8 个故事是否都能讲到 1 分 40 秒以上。
-- 每个故事是否至少能迁移到 4 个 cue cards。
+- 每个抽到的 module 组合是否都能讲到 1 分 40 秒以上。
+- 每个素材库是否至少能迁移到 4 个 cue cards。
 - Part 1 高频话题是否都有 2-3 个个人例子。
 - Part 3 是否能从个人经历上升到社会层面。
 - 是否还有明显不会说的 topic。
 
 最后只复习：
 
-- 8 个故事关键词。
+- 8 个素材库关键词。
 - Part 1 缺口话题 collocations。
 - 10 个个人高频语法错误。
 - 让步、对比和举例结构。
@@ -631,9 +631,9 @@ Part 1 快问快答：
 
 ---
 
-## 故事准备模板
+## 素材库准备模板
 
-每个故事只写一页关键词：
+每个素材库只写一页关键词：
 
 ```text
 Topic:

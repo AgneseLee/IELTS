@@ -6,30 +6,26 @@
 
 ### Keywords and collocations
 
-- getting up early
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
-- lost signal
-- hidden garden
-- sea turtle
+- Malaysia
+- sunrise boat
+- 4:30 a.m.
+- limited sleep
+- quiet harbour
+- breathtaking view
+- worth the effort
+- lasting memory
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: 4:30-a.m. / sunrise-boat / worth-the-effort -->
 
-The occasion I'd like to describe was getting up before dawn during our Malaysia trip.
+The occasion took place during my Malaysia trip with Stella. We had booked an early boat to watch the sunrise near Semporna, so I had to get up at 4:30 a.m.
 
-We expected the early boat to be tiring, but the quiet harbour and sunrise made the effort worthwhile.
+I normally struggle with early mornings and initially felt **half awake and slightly irritable**. However, the harbour was unusually quiet, and the cool air gradually woke me up. Once the boat reached open water, the sky changed from dark blue to orange and the sea reflected the light.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+The view was **far more impressive than I had expected**. We took only a few photographs and spent most of the time enjoying the silence. I was tired later, but the experience was completely **worth the effort**.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-I would not wake that early every day, but I would happily do it again for such a clear purpose.
+What made the morning memorable was the contrast with my normal routine in Beijing, where I usually wake up to traffic and immediately look at a screen. On the boat, there were no messages to answer and almost nobody was speaking. After returning to the harbour, we had a simple breakfast and compared the colours we had noticed. I would not get up that early every day, but for a rare experience with a clear purpose, I would happily do it again. It remains one of the clearest and most peaceful memories from that holiday.
 
 ### Part 3
 
@@ -45,30 +41,26 @@ I would not wake that early every day, but I would happily do it again for such 
 
 ### Keywords and collocations
 
-- changing a plan
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
-- lost signal
-- hidden garden
-- sea turtle
+- Malaysia
+- island trip
+- bad weather
+- cancelled boat
+- indoor market
+- local food
+- adapt quickly
+- unexpected benefit
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: cancelled-boat / local-market / unexpected-benefit -->
 
-A time I changed a plan was when bad weather cancelled part of our Malaysia itinerary.
+I had to change a plan during my Malaysia trip last May.
 
-We replaced the boat trip with the local drive and treated the change as a chance to explore differently.
+Stella and I were supposed to take a boat to a small island, but the operator cancelled it because of **strong wind and unsafe sea conditions**. At first, I was disappointed because the island was one of the main reasons for the trip. Stella suggested visiting a local market and cooking a Malaysian dish at our accommodation instead.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+We bought unfamiliar spices, asked a vendor for advice and spent the afternoon experimenting. The meal was imperfect but surprisingly tasty, and the conversation with local people made the day memorable. The new plan was less dramatic, yet it gave us **a more authentic cultural experience**.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-The alternative became memorable because it gave us an unexpected experience rather than a wasted day.
+The vendor showed us how to balance the spices and laughed when we admitted that we had no idea what we were doing. Back at the accommodation, Stella handled the recipe while I prepared the ingredients, and we gradually adjusted the flavour. That evening made me less disappointed about the cancelled boat. It also changed how I plan trips: I still book important activities, but I now keep one or two simple alternatives so that bad weather does not ruin the entire day. The unexpected meal became a story we laugh about whenever we travel.
 
 ### Part 3
 
@@ -84,30 +76,26 @@ The alternative became memorable because it gave us an unexpected experience rat
 
 ### Keywords and collocations
 
-- working in a group
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
+- software project
+- four colleagues
+- tight deadline
+- unclear roles
+- divide responsibilities
 - daily check-in
-- regain my confidence
+- resolve disagreement
+- complementary strengths
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: unclear-roles / daily-check-in / completed-project -->
 
-The group experience I'd like to describe was building a small software prototype after my layoff.
+The group experience I remember was a software project at my former company. Four of us had six weeks to build an internal reporting tool.
 
-The main problem was unclear responsibility, so I proposed short check-ins and divided work by individual strengths.
+Initially, responsibilities were unclear, so two people worked on the same feature while another important task was ignored. Tension began to rise because the deadline was approaching. I suggested that we **divide the work according to individual strengths** and hold a ten-minute check-in each morning.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+Stella handled design, I built the main system, and the others tested data and user access. The short meetings revealed problems early without wasting much time. We completed the project on schedule, and staff used it to reduce repetitive work.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-Finishing the prototype showed me that clear coordination matters as much as individual technical ability.
+The most difficult part was not the coding but admitting that our original way of working had failed. Once the responsibilities were visible, disagreements became easier to discuss because we could focus on the task rather than blame individuals. At the end, our manager asked us to demonstrate the tool to another department, which made the group feel genuinely proud. Since then, I have used the same brief check-in method on other projects, especially when several people depend on one another's progress. It also made me more willing to raise process problems early, before frustration damages teamwork or wastes time.
 
 ### Part 3
 
@@ -123,30 +111,26 @@ Finishing the prototype showed me that clear coordination matters as much as ind
 
 ### Keywords and collocations
 
-- important decision
 - layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- eight-year career
+- initial shock
+- stop dwelling
+- learn AI
+- rebuild routine
+- regain confidence
+- personal turning point
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: layoff / daily-routine / career-recovery -->
 
-The important decision I made was to stop dwelling on my layoff and rebuild my career step by step.
+An important decision I made was to stop dwelling on my layoff and focus on rebuilding my career.
 
-I chose a routine of AI study, English practice and small projects instead of waiting to feel confident first.
+I had worked as a software engineer for about eight years, so losing the job was **a major emotional shock**. For several weeks, I questioned my ability and avoided making plans. After reading a useful psychology book and speaking with my mother, I decided to treat the setback as a turning point.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+I created a daily routine, updated my AI skills and began practising English consistently. Progress was slow, but completing small projects gradually helped me **regain my confidence**. The decision was important because it changed something I could not control into a direction I could influence.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-The decision did not erase the setback, but it changed the direction of my life.
+I began with very small commitments: one technical lesson, one English practice session and one job-related task each day. Recording them on a simple calendar showed me that I was moving forward even when I did not feel confident. Several months later, I could discuss new AI tools more comfortably and had a clearer idea of the work I wanted. The decision did not remove the disappointment of the layoff, but it stopped that event from controlling all my later choices. That period is difficult to remember, but I value the direction I chose afterwards.
 
 ### Part 3
 
@@ -166,30 +150,26 @@ The decision did not erase the setback, but it changed the direction of my life.
 
 ### Keywords and collocations
 
-- live sports event
-- birthday dinner
-- dumplings
 - badminton final
-- warm and relaxed atmosphere
-- Stella singing
-- outdoor festival
-- childhood essay
+- Beijing arena
+- Stella
+- close match
+- energetic crowd
+- dramatic comeback
+- shared excitement
+- live atmosphere
 
 ### Complete answer
 
-<!-- Template: Events | Story: S6 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B6 | Modules: badminton-final / comeback / shared-atmosphere -->
 
-The live sports event I'd like to describe was a badminton final that Stella and I watched before my birthday dinner.
+The live event was a badminton final in Beijing that I watched with Stella. We chose it because we both played casually at university and wanted to experience **a professional match at close range**.
 
-The dramatic comeback and the shared reaction of the crowd created an atmosphere television cannot reproduce.
+Our seats were not near the court, but the view was clear and the crowd was energetic. One player lost the first game and fell behind in the second, then changed tactics and made a dramatic comeback. Every long rally created enormous tension, and strangers around us reacted together.
 
-Last year my family and close friends gathered at my apartment for my birthday. We made dumplings together, so my mother prepared the filling while the rest of us folded uneven shapes and talked around the table. The familiar food turned a simple meal into a shared family memory.
+The match was exciting, but what I enjoyed most was the **shared atmosphere that television cannot reproduce**. We discussed the tactics on the way home and felt motivated to play again ourselves. It reminded me that live sport is valuable not only as entertainment but as **a collective emotional experience**.
 
-Earlier that day, Stella and I had watched a live badminton final. One player recovered from a poor start, and the crowd reacted together during every long rally. At dinner we tried to copy the player's movements, which made everyone laugh. Stella then sang a gentle pop song, and even my usually quiet mother joined the chorus. The relaxed atmosphere was much better than an outdoor music festival I had attended before, where excessive volume and poor organisation had ruined the performance.
-
-My friends later brought out a handwritten childhood essay that my mother had kept for years. The day gave me **a genuine sense of achievement and belonging**. It reminded me that celebrations become memorable through participation, humour and emotional connection rather than expensive gifts.
-
-The event became even more memorable because we carried its energy into the celebration afterwards.
+The following weekend, Stella and I booked a court and tried to copy one of the player's defensive techniques. We were nowhere near the same level, but the attempt made us laugh and gave the event a life beyond the stadium. I would attend another final if tickets were reasonably priced, although I would choose seats closer to the court next time. Hearing the speed of the shuttle and the players' movement directly made the skill involved much easier to appreciate.
 
 ### Part 3
 
@@ -205,30 +185,26 @@ The event became even more memorable because we carried its energy into the cele
 
 ### Keywords and collocations
 
-- technological problem
-- laptop and ChatGPT
-- rocket video
-- boost my productivity
-- failed update
-- cloud backup
-- repair one component
-- human judgement
+- presentation day
+- laptop update
+- would not start
+- tight deadline
+- stay calm
+- backup copy
+- borrow device
+- preventive lesson
 
 ### Complete answer
 
-<!-- Template: Events | Story: S5 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B5 | Modules: failed-update / cloud-backup / presentation -->
 
-The technological problem happened when my laptop failed shortly before an important presentation.
+The problem occurred before an important project presentation. My laptop installed an update overnight and then refused to start properly.
 
-The deadline created panic, but cloud storage and Stella's computer gave me a simple way forward.
+All my slides were on it, and the meeting was due in forty minutes, so I felt **a sudden wave of panic**. Instead of repeatedly restarting it, I checked my cloud storage and found a recent backup. Stella lent me her laptop, and I downloaded the slides, corrected two missing images and tested the connection. We began only a few minutes late and completed the presentation successfully.
 
-Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
+The incident was challenging because of the deadline rather than the technical fault itself. It taught me to keep important files in more than one place and **test essential equipment in advance**. Staying calm helped me identify the simplest solution instead of making the problem worse.
 
-That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
-
-Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
-
-It taught me to test essential equipment in advance and solve the immediate problem before analysing the cause.
+After the meeting, I changed my routine rather than treating the successful presentation as proof that everything was fine. I enabled automatic backups, kept a PDF copy of important slides and wrote down the few setup steps needed on another computer. These precautions take only a minute but remove a major source of risk. The experience also made me grateful that Stella responded immediately without making me feel careless. Her practical help allowed me to focus on the audience instead of the broken machine. I still follow that routine for future work.
 
 ### Part 3
 
@@ -248,30 +224,26 @@ It taught me to test essential equipment in advance and solve the immediate prob
 
 ### Keywords and collocations
 
-- broken electronic device
-- laptop and ChatGPT
-- rocket video
-- boost my productivity
-- failed update
-- cloud backup
-- repair one component
-- human judgement
+- old laptop
+- overheated
+- work deadline
+- sudden shutdown
+- clean fan
+- service centre
+- recover files
+- repair before replace
 
 ### Complete answer
 
-<!-- Template: Events | Story: S5 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B5 | Modules: overheating-laptop / repair / backups -->
 
-The broken device was my laptop, which stopped working during an important work task.
+My old laptop broke while I was finishing a small freelance project at home. It had been overheating for weeks, but I ignored the warning until it suddenly shut down and would not restart.
 
-Repairing one component saved both money and electronic waste, while the backup protected my files.
+I was worried about missing the deadline and losing several files. First, I contacted the client and **explained the situation honestly**. Then I used another computer to recover the files from cloud storage and took the laptop to a service centre. The technician cleaned the cooling system and replaced a worn component, which was far cheaper than buying a new machine.
 
-Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
+I delivered the project one day late. The experience taught me not to ignore minor faults and to **repair equipment before replacing it unnecessarily**. It also confirmed the importance of automatic backups.
 
-That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
-
-Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
-
-Since then, I have dealt with warning signs earlier instead of replacing equipment after a preventable crisis.
+The client accepted the delay because I had warned them early and shared the recovered draft, so the situation did not damage our relationship. The repair centre also showed me how much dust had blocked the fan, which made the cause easy to understand. Since then, I clean the laptop regularly and pay attention when it becomes unusually hot or noisy. Keeping the device for another two years saved money and felt more responsible than replacing an otherwise useful machine. It remained reliable on later projects.
 
 ### Part 3
 
@@ -283,30 +255,26 @@ Since then, I have dealt with warning signs earlier instead of replacing equipme
 
 ### Keywords and collocations
 
-- receiving help to solve a problem
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- Malaysia
+- lost route
+- no signal
+- Stella
+- offline map
+- ask tourists
+- remain calm
+- grateful
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: lost-route / Stella-help / found-path -->
 
-The help I remember most came from my mother and Stella after I lost my job.
+The experience happened during my Malaysia trip with Stella. Our navigation app lost its signal in a mountainous area, and we took the wrong route.
 
-They listened first, then helped me break an emotional problem into realistic daily actions.
+I became frustrated because the light was fading and we did not know how far we had walked. Stella helped by **remaining calm and breaking the problem into steps**. She checked an offline screenshot, identified a nearby landmark and approached other tourists for directions.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+She also made a joke that reduced the tension. Within half an hour, we found the main path and reached our destination. I felt grateful not simply because she knew what to do, but because her attitude stopped me from panicking.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-Their support mattered because it restored my ability to act rather than merely making me feel better briefly.
+Once we were safe, we sat down for a few minutes and reviewed where we had gone wrong. We realised that we had relied completely on the moving map and had ignored a sign near the beginning of the route. For the rest of the trip, we saved screenshots and agreed on a visible meeting point before walking anywhere unfamiliar. Stella's help therefore solved both the immediate problem and the weakness in our planning. It also showed me how emotional control can be a practical form of assistance. Her support changed a travel mistake into a lesson I still remember.
 
 ### Part 3
 
@@ -318,30 +286,26 @@ Their support mattered because it restored my ability to act rather than merely 
 
 ### Keywords and collocations
 
-- taking a long time to reply
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- former manager
+- job proposal
+- major commitment
+- unclear conditions
+- compare options
+- draft carefully
+- respectful response
+- mixed feelings
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: freelance-offer / clarify-terms / careful-reply -->
 
-I once took almost a day to reply to a former manager's overseas project offer.
+I once received a message from a former manager offering me a short freelance project. The work sounded interesting, but the deadline was tight and several conditions were unclear.
 
-I needed to check the scope, deadline and existing commitments before making a promise I might regret.
+I did not want to accept immediately and later disappoint him, so I **took time to consider the commitment properly**. I reviewed my schedule, listed questions about payment and scope, and drafted a careful reply. It took almost a day before I responded.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+I explained that I was interested but needed a more realistic deadline. He appreciated the honesty, and we agreed on revised terms. I initially worried that the delay seemed rude, yet a rushed answer could have caused a larger problem.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-The careful reply led to clearer terms and taught me that speed is not always the same as professionalism.
+Once the details were clear, I accepted the project and completed it without sacrificing my existing commitments. My former manager later said that the questions had made the scope clearer for him as well. That response changed the way I think about professional messages. Replying quickly is useful when the answer is simple, but a meaningful commitment deserves careful thought. Now, if I need time, I send a short acknowledgement first and state when the other person can expect a full decision. Since then, I have tried to communicate uncertainty early instead of disappearing while I make a decision.
 
 ### Part 3
 
@@ -355,30 +319,26 @@ The careful reply led to clearer terms and taught me that speed is not always th
 
 ### Keywords and collocations
 
-- phone-not-allowed occasion
-- clear my head
-- Stella.s studio
-- glass skyscraper
 - art museum
-- phone ban
-- boring lobby
-- neighbourhood park
+- special exhibition
+- protect artwork
+- avoid disturbance
+- lock phone
+- initially inconvenient
+- focused attention
+- worthwhile restriction
 
 ### Complete answer
 
-<!-- Template: Events | Story: S7 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B7 | Modules: museum-rule / close-attention / justified-limit -->
 
-The phone-not-allowed occasion was a special exhibition at an art museum in Beijing.
+The occasion was a special exhibition at an art museum in Beijing. Visitors had to silence and store their phones because photography could damage sensitive works and screens would disturb the atmosphere.
 
-Without photographs or notifications, I paid closer attention and discussed the works directly with Stella.
+At first, I felt slightly uncomfortable because I normally use my phone for notes and photographs. However, without notifications, I **paid much closer attention to the artwork** and discussed details with Stella instead of immediately searching online. One large landscape painting held our attention for several minutes, something that rarely happens when I can check messages.
 
-One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+By the end, the rule felt reasonable rather than restrictive. It protected both the objects and the experience of other visitors. I realised that temporary limits on technology can **improve concentration and genuine engagement**, provided the purpose is clearly explained.
 
-We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
-
-The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
-
-In that setting, the temporary restriction improved concentration rather than feeling like punishment.
+After leaving the exhibition, Stella and I sat in the café and wrote down the works we remembered most. Surprisingly, our descriptions were more detailed than the photographs I normally take and never view again. I would not support banning phones in every museum, because visitors may need translation or accessibility tools. In this particular exhibition, however, the limited period without a device matched the quiet setting. It allowed the paintings to become the main experience rather than material for an online post.
 
 ### Part 3
 
@@ -398,30 +358,27 @@ In that setting, the temporary restriction improved concentration rather than fe
 
 ### Keywords and collocations
 
-- giving advice
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- Stella
+- layoffs
+- heavier workload
+- burned out
+- listen first
+- daily routine
+- realistic boundaries
+- gradual recovery
+- supportive conversation
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: Stella-burnout / priorities / boundaries -->
 
-I gave advice to Stella when work pressure made her feel completely burned out.
+I gave advice to Stella after our former company went through major layoffs. She had taken on **a much heavier workload** and was becoming impatient and completely burned out.
 
-I suggested separating urgent tasks, discussing unrealistic deadlines and rebuilding one small daily routine.
+Before offering solutions, I listened and asked which problem affected her most. I suggested separating urgent tasks from optional ones, discussing unrealistic deadlines with her manager and protecting a basic routine of sleep and exercise. I also reminded her that one difficult period did not define her professional value.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+She did not change overnight, but she gradually became calmer and established clearer boundaries. I gave the advice because I had recently experienced a layoff myself and understood the fear behind her stress. The conversation taught me that useful advice should not be a lecture; it should combine **careful listening with realistic next steps**.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-The conversation taught me that useful advice combines careful listening with realistic next steps.
+A week later, she told her manager which deadlines were impossible and asked the team to agree on priorities. Not every problem disappeared, but she stopped trying to solve all of them alone. I also checked in without repeatedly asking whether she had followed my suggestions, because that would have created more pressure. What mattered was giving her a place to think clearly. The experience made me more cautious about advice: even a sensible solution only helps when it fits the other person's actual circumstances.
 
 ### Part 3
 
@@ -441,30 +398,26 @@ The conversation taught me that useful advice combines careful listening with re
 
 ### Keywords and collocations
 
-- smiling occasion
 - birthday dinner
-- dumplings
-- badminton final
-- warm and relaxed atmosphere
-- Stella singing
-- outdoor festival
-- childhood essay
+- small gathering
+- Malaysia story
+- lottery tickets
+- Stella's joke
+- lighten the mood
+- shared laughter
+- emotional connection
 
 ### Complete answer
 
-<!-- Template: Events | Story: S6 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B6 | Modules: birthday-dinner / lottery-joke / reconnecting -->
 
-The occasion when many people smiled was my birthday dinner last year.
+The occasion was my birthday dinner last year. I invited Stella and two close friends to my apartment and cooked a simple meal.
 
-The uneven dumplings, our imitation of the badminton player and Stella's song made everyone laugh naturally.
+After dinner, we recalled our Malaysia trip and the lottery tickets Stella and I had bought at the airport. Neither ticket won, and I had looked disappointed. Stella joked that we had not wasted the money; we had simply **bought back our luck**. Everyone laughed, partly because she delivered the line so seriously.
 
-Last year my family and close friends gathered at my apartment for my birthday. We made dumplings together, so my mother prepared the filling while the rest of us folded uneven shapes and talked around the table. The familiar food turned a simple meal into a shared family memory.
+The joke led to more travel stories, and even a friend who had arrived tired became cheerful. What made the evening special was not an expensive celebration but the **warm and relaxed atmosphere**. Seeing everyone smile reminded me that close relationships are built through small shared moments and that humour can **strengthen an emotional connection**.
 
-Earlier that day, Stella and I had watched a live badminton final. One player recovered from a poor start, and the crowd reacted together during every long rally. At dinner we tried to copy the player's movements, which made everyone laugh. Stella then sang a gentle pop song, and even my usually quiet mother joined the chorus. The relaxed atmosphere was much better than an outdoor music festival I had attended before, where excessive volume and poor organisation had ruined the performance.
-
-My friends later brought out a handwritten childhood essay that my mother had kept for years. The day gave me **a genuine sense of achievement and belonging**. It reminded me that celebrations become memorable through participation, humour and emotional connection rather than expensive gifts.
-
-I remember the smiles because they came from shared participation rather than a planned performance.
+Later, my friends brought out a tiny cake that they had hidden in the kitchen, and Stella repeated the lottery joke while lighting the candles. I remember the sound of everyone laughing more clearly than the gifts I received. The evening also felt important because we had all been busy and had not met as a group for several months. It gave us a chance to reconnect without a complicated plan, and it remains one of the happiest birthday memories I have.
 
 ### Part 3
 
@@ -484,30 +437,26 @@ I remember the smiles because they came from shared participation rather than a 
 
 ### Keywords and collocations
 
-- proud of a family member
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- mother
+- community accounts
+- volunteer work
+- careful records
+- no payment
+- dependable
+- quiet contribution
+- lead by example
 
 ### Complete answer
 
-<!-- Template: Events | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B8 | Modules: mother / community-accounts / quiet-contribution -->
 
-I felt especially proud of my mother during the community clean-up and family fair.
+I felt proud of my mother last year when she volunteered to manage the accounts for a small community group.
 
-She used her accounting experience and home-grown vegetables to support the event without seeking recognition.
+Although she was already retired, she used her experience as an accountant to organise confused records and explain the budget in plain language. She spent several evenings checking receipts and created **a transparent and practical system** without accepting payment. Her work helped the group continue activities for older residents.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+I was proud because she did not seek recognition; she simply saw a problem and used her skills to help. Her patience and reliability reminded me that achievement is not limited to promotions or awards. Sometimes it means **making a quiet contribution that others can depend on**.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-Her quiet contribution reminded me that achievement can mean becoming someone other people depend on.
+At the next community meeting, an older resident thanked her because the clearer records had protected funding for a weekly meal programme. My mother mentioned this only casually, but I could see that the result meant a great deal to her. I later helped her turn the spreadsheet into a reusable template so another volunteer could manage it. The experience showed me that skills developed during a career can remain valuable after retirement and can give someone a renewed sense of purpose. It remains an achievement that reflects how dependable she has always been.
 
 ### Part 3
 
@@ -527,30 +476,26 @@ Her quiet contribution reminded me that achievement can mean becoming someone ot
 
 ### Keywords and collocations
 
-- vehicle trip
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
+- Malaysia coast
+- Stella
 - rented car
-- lost signal
+- flexible route
+- local villages
+- navigation failure
 - hidden garden
-- sea turtle
+- scenic freedom
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: coastal-drive / hidden-garden / flexible-route -->
 
-The vehicle trip I'd like to take again is our car journey along the Malaysian coast.
+The car trip I'd like to take again is a coastal journey in Malaysia with Stella.
 
-The car gave us comfort, flexible stops and access to villages that public transport did not reach.
+A car allowed us to stop at small beaches and villages that public transport did not reach. We planned a flexible route and set off early, but our navigation signal disappeared in a mountainous area. After taking a wrong turn, we **came across a hidden garden** and asked other visitors for directions.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+The mistake delayed us, yet it became the most memorable part of the day. I would choose a car again because it combines comfort with the freedom to change plans, especially in places with limited transport. The journey taught me that a trip does not need to follow the route perfectly to **leave a lasting impression**.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-I would download better offline maps next time, but I would keep the route flexible enough for discoveries.
+We stopped at the garden for nearly an hour, spoke with a local family and took a few photographs before returning to the coast. Later, we ate seafood at a small village restaurant that we would never have reached by bus. I enjoyed the balance between movement and choice: we could carry water and equipment, yet stop whenever the scenery changed. Next time, I would download an offline map and share the driving, but I would keep the route flexible enough for unexpected discoveries. That freedom remains important for me.
 
 ### Part 3
 
@@ -570,30 +515,26 @@ I would download better offline maps next time, but I would keep the route flexi
 
 ### Keywords and collocations
 
-- music event you did not enjoy
-- birthday dinner
-- dumplings
-- badminton final
-- warm and relaxed atmosphere
-- Stella singing
 - outdoor festival
-- childhood essay
+- colleague invitation
+- excessive volume
+- poor sound quality
+- crowded venue
+- little interaction
+- leave early
+- mismatched expectations
 
 ### Complete answer
 
-<!-- Template: Events | Story: S6 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B6 | Modules: outdoor-festival / poor-sound / leave-early -->
 
-The music event I did not enjoy was an overcrowded outdoor festival before the family celebration.
+The event was an outdoor music festival that I attended with colleagues.
 
-The speakers were badly balanced, so excessive volume made both the vocals and conversation difficult to hear.
+It took place in a city park on a warm summer evening. I went because Stella enjoyed one of the bands, and I expected to sit on the grass, listen to music and have a relaxed evening with the group. However, the speakers were **uncomfortably loud and badly balanced**, so the vocals were difficult to hear. The venue was overcrowded, and people constantly pushed past us to take videos.
 
-Last year my family and close friends gathered at my apartment for my birthday. We made dumplings together, so my mother prepared the filling while the rest of us folded uneven shapes and talked around the table. The familiar food turned a simple meal into a shared family memory.
+After an hour, I had a headache and could not have a proper conversation, so I left earlier than planned. I did not dislike the musicians; the poor organisation and sound quality ruined the experience. Since then, I have preferred smaller indoor performances, where I can actually hear the music and feel less trapped by the crowd.
 
-Earlier that day, Stella and I had watched a live badminton final. One player recovered from a poor start, and the crowd reacted together during every long rally. At dinner we tried to copy the player's movements, which made everyone laugh. Stella then sang a gentle pop song, and even my usually quiet mother joined the chorus. The relaxed atmosphere was much better than an outdoor music festival I had attended before, where excessive volume and poor organisation had ruined the performance.
-
-My friends later brought out a handwritten childhood essay that my mother had kept for years. The day gave me **a genuine sense of achievement and belonging**. It reminded me that celebrations become memorable through participation, humour and emotional connection rather than expensive gifts.
-
-The contrast with Stella's simple indoor performance showed me that atmosphere matters more than scale.
+Stella stayed for another band, so I took the subway home alone and listened to one of their recordings through headphones. The same song sounded clear and expressive, which confirmed that the performers were not the main problem. I later gave Stella an honest explanation rather than pretending I had enjoyed myself, and she understood. If I attended another outdoor festival, I would check reviews of the venue, stand farther from the speakers and choose a less crowded area instead of leaving immediately.
 
 ### Part 3
 
@@ -611,30 +552,26 @@ The contrast with Stella's simple indoor performance showed me that atmosphere m
 
 ### Keywords and collocations
 
-- using imagination
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- software prototype
+- vague request
+- no existing example
+- sketch workflow
+- test alternatives
+- user feedback
+- turn idea into reality
+- creative constraint
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: vague-request / prototype / user-feedback -->
 
-The time I used imagination was when a client gave our group an extremely vague software request.
+I needed imagination when building a small software prototype for a client whose request was extremely vague.
 
-I sketched several possible workflows and tested a simple prototype rather than waiting for a perfect specification.
+There was no existing example to copy, so I had to **turn an abstract idea into a concrete workflow**. I sketched several possible screens, imagined how a first-time user might behave and built a simple version rather than a polished product. The first design was too complicated, but user feedback helped me remove unnecessary steps.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+The task was difficult because creativity still had to respect time and technical limits. Eventually, the client approved a clearer version. I felt satisfied because imagination was not decorative; it helped solve a real problem.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-The final result showed me that professional imagination means turning an abstract possibility into something usable.
+The final prototype allowed staff to move information between three stages with a simple visual board. During the demonstration, one user completed the process without asking for instructions, which was the clearest sign that the idea worked. I also kept the sketches that had failed, because they showed why certain choices were removed. This project changed my view of imagination. In professional work, it often means testing several possible futures, observing how people respond and then turning the best possibility into something practical. It also gave me a reusable process for handling vague requests instead of passively waiting for perfect instructions from clients.
 
 ### Part 3
 
@@ -654,30 +591,26 @@ The final result showed me that professional imagination means turning an abstra
 
 ### Keywords and collocations
 
-- encouraging someone
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- Stella
+- burnout
+- unwilling to exercise
+- short daily walk
+- no pressure
+- accompany her
+- gradual habit
+- improved mood
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: burnout / short-walk / gradual-change -->
 
-The person I encouraged was Stella when work pressure had reduced her energy and confidence.
+I encouraged Stella to begin exercising when she was burned out after company layoffs. She did not want another demanding task, so I did not suggest a gym programme.
 
-I suggested one manageable action and offered company instead of demanding an immediate lifestyle change.
+Instead, I invited her to take **a short, pressure-free walk** with me after work. I promised we could stop after fifteen minutes and mainly used the time to talk. She reluctantly agreed, then noticed she slept better that night.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+We repeated the walk several times, and she gradually began going alone. I encouraged her because stress had reduced both her energy and confidence, and a small action felt more realistic than a dramatic lifestyle change. Her reaction taught me that encouragement works best when it **reduces the first barrier and respects the person's choice**.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-Her gradual improvement showed me that encouragement works best when it lowers the first barrier.
+After a few weeks, she suggested a longer route through a nearby park and began tracking her steps for her own interest. I was careful not to turn the activity into a competition or comment on her appearance. The goal was simply to give her a manageable break from work. We still walk together occasionally, but she no longer needs me to persuade her. Seeing that gradual change made me proud because it came from her own decision rather than pressure from somebody else. The approach works in daily life.
 
 ### Part 3
 
@@ -695,30 +628,26 @@ Her gradual improvement showed me that encouragement works best when it lowers t
 
 ### Keywords and collocations
 
-- short-term overseas job
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- Malaysia
+- three-month software project
+- remote collaboration
+- local start-up
+- English communication
+- cultural exposure
+- limited commitment
+- professional growth
 
 ### Complete answer
 
-<!-- Template: Events | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: Malaysia-contract / software / cultural-immersion -->
 
-The short-term overseas job I considered was a three-month software project in Malaysia.
+I would like a three-month software job with a small technology company in Malaysia.
 
-It offered technical work, spoken-English practice and cultural experience without requiring a permanent move.
+I learned about similar projects through former colleagues and was attracted by the chance to combine work with **short-term cultural immersion**. I would help build a simple tourism application and train local staff to maintain it. The role would require technical ability, clear English and sensitivity to different working styles.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+I prefer a short contract because it offers international experience without requiring a permanent move away from family. Malaysia is also familiar from my trip with Stella, so the transition would feel manageable. I want the job because it could broaden my professional network and show me whether I can **adapt effectively to an international workplace**.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-I would accept only with clear responsibilities, but the challenge could broaden my professional perspective.
+Outside work, I would use weekends to improve my spoken English, explore local neighbourhoods and understand how colleagues live rather than staying only in tourist areas. The main challenge would be adjusting quickly to a different communication style while still delivering useful software within three months. I would therefore ask for clear responsibilities and accommodation before accepting. Even if the contract did not lead to a permanent role, the experience could make me more confident working with international clients in the future. That balance between challenge and familiarity strongly appeals to me.
 
 ### Part 3
 
@@ -736,30 +665,26 @@ I would accept only with clear responsibilities, but the challenge could broaden
 
 ### Keywords and collocations
 
-- short stay abroad
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
-- lost signal
+- ten-day Malaysia stay
+- limited annual leave
+- local food
+- island trip
+- wrong route
 - hidden garden
-- sea turtle
+- broaden horizons
+- life beyond work
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: ten-day-trip / real-English / wider-perspective -->
 
-The short stay abroad I'd like to describe was our ten-day visit to Malaysia.
+The short stay abroad I remember was a ten-day trip to Malaysia with Stella.
 
-Although the trip was brief, the city, coast, wrong route and new activity gave it a surprisingly rich structure.
+It was brief because we had limited annual leave, but we planned a mixture of city walks, local food and island activities. The trip was not trouble-free: our navigation failed in the mountains, and we took the wrong route before finding a hidden garden and asking tourists for help. That unexpected episode became **more memorable than the planned attractions**.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+I enjoyed the natural scenery and the opportunity to use English in real situations. The stay **broadened my horizons** and strengthened my friendship with Stella. Most importantly, stepping away from deadlines reminded me that life should include curiosity and meaningful experiences beyond work.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-It broadened my horizons and made me want to return at a slower pace.
+Because the visit was short, we could not explore every region, but that limitation made us choose our time carefully. We spent less time shopping and more time talking with local people, trying unfamiliar food and observing daily life. After returning to Beijing, I organised the photographs and wrote down several moments before they faded from memory. I would like to revisit Malaysia more slowly one day, although the intensity of that first ten-day stay is part of what made it special. That is why the short visit still feels rich rather than incomplete.
 
 ### Part 3
 
@@ -771,30 +696,26 @@ It broadened my horizons and made me want to return at a slower pace.
 
 ### Keywords and collocations
 
-- exciting new activity
-- Malaysia with Stella
-- broaden my horizons
+- freediving
 - Semporna
-- rented car
-- lost signal
-- hidden garden
+- safety briefing
+- nervous excitement
+- control breathing
 - sea turtle
+- calm underwater
+- step outside comfort zone
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: freediving / sea-turtle / safe-challenge -->
 
-The exciting new activity was freediving near Semporna during our Malaysia trip.
+The new activity was freediving near Semporna during my Malaysia trip. I was excited but nervous because I was not used to holding my breath underwater.
 
-I was nervous at first, but clear guidance and the sight of a sea turtle helped me remain calm underwater.
+An instructor gave us a safety briefing and taught us to **slow our breathing and remain relaxed**. My first attempt was awkward, but gradually I became calmer. Then I saw a sea turtle moving below us, and the sight made me forget my anxiety.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+I never dived very deep, yet the feeling of moving quietly through clear water was unforgettable. The activity showed me that excitement often comes from a mixture of fear and curiosity. With proper guidance, stepping outside my comfort zone can **create confidence as well as a lasting memory**.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-The activity was exciting because curiosity overcame hesitation without making me ignore safety.
+After returning to the boat, I felt physically tired but unusually calm. Stella and I talked about the turtle for the rest of the day, and I became more interested in the effect of plastic waste on marine animals. I would try freediving again, but only with qualified supervision and in conditions suitable for my ability. The experience was exciting precisely because I respected the risk instead of ignoring it. That balance allowed me to enjoy something new without behaving recklessly. It remains a clear example of curiosity overcoming hesitation in my life.
 
 ### Part 3
 
@@ -806,30 +727,26 @@ The activity was exciting because curiosity overcame hesitation without making m
 
 ### Keywords and collocations
 
-- waiting for something special
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
-- lost signal
-- hidden garden
-- sea turtle
+- job interview result
+- one week
+- check email repeatedly
+- uncertainty
+- maintain routine
+- positive message
+- relief
+- patience
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B4 | Modules: job-result / email-checking / second-interview -->
 
-The waiting experience happened when bad weather delayed our boat near Semporna.
+I once waited a week for the result of an important job interview.
 
-The uncertain departure time felt more tiring than the wait itself, so we kept checking updates and alternatives.
+The role offered more flexible work and AI projects, so I cared deeply about the outcome. During the first two days, I **checked my email far too frequently** and struggled to concentrate. I then decided to follow my normal study and exercise routine and check messages only three times a day.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+The company eventually offered me a second interview rather than the job itself, but I still felt relieved because the uncertainty had ended. Waiting was difficult because I could not influence the decision after the interview.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-When the trip finally continued, the clear water made the long wait feel worthwhile.
+I prepared for the next stage by reviewing the questions I had answered poorly and writing clearer examples from my software experience. That gave the waiting period a purpose and reduced the temptation to imagine every possible outcome. I eventually reached the final round, although another candidate received the position. Naturally, I was disappointed, but the process taught me that waiting becomes easier when I separate useful preparation from anxious checking. It also left me better prepared for later interviews. Although the result was not what I hoped for, completing the process gave me evidence that I could compete for this kind of role. That was worth the uncomfortable wait.
 
 ### Part 3
 
@@ -841,30 +758,26 @@ When the trip finally continued, the clear water made the long wait feel worthwh
 
 ### Keywords and collocations
 
-- power cut
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- summer evening
+- apartment
+- sudden blackout
+- no Wi-Fi
+- use phone light
+- neighbours cooperate
+- quiet conversation
+- dependence on electricity
 
 ### Complete answer
 
-<!-- Template: Events | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B8 | Modules: Beijing-apartment / neighbour-help / preparation -->
 
-The power cut happened during the coastal community event in Zhanjiang.
+The power cut happened in my Beijing apartment on a hot summer evening. I was working online when the lights, Wi-Fi and air conditioning suddenly stopped.
 
-The interruption affected records and equipment, but people switched to offline forms and manual checks.
+At first I felt frustrated because I had an unfinished task. I saved my laptop battery, contacted the client by phone and used **a small emergency light**. In the corridor, neighbours shared updates and helped an older resident contact the property manager. The electricity returned after about two hours.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+Without screens, I sat by the window and had an unexpectedly long conversation with a neighbour. The event was inconvenient, but it revealed how strongly daily life **depends on a stable electricity supply**. It also showed that disruption can briefly encourage people to cooperate and notice those living nearby.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-The response showed how preparation and cooperation can keep a public event moving during disruption.
+After the power returned, I charged the emergency light and bought a small power bank rather than assuming the problem would never happen again. I also saved the property manager's number offline. The preparation is simple, but it would make another interruption much easier to handle. What I remember most, however, is the change in the building's atmosphere. People who normally passed silently in the lift shared water, information and jokes, so the dark corridor briefly felt more like a community. I now feel better prepared during future emergencies at home.
 
 ### Part 3
 
@@ -876,30 +789,26 @@ The response showed how preparation and cooperation can keep a public event movi
 
 ### Keywords and collocations
 
-- getting lost
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
+- Malaysia mountains
 - lost signal
-- hidden garden
-- sea turtle
+- wrong path
+- frustration
+- offline screenshot
+- ask tourists
+- reach destination
+- unexpected discovery
 
 ### Complete answer
 
-<!-- Template: Events | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
 
-I got lost with Stella during our car journey in Malaysia.
+I got lost with Stella during our Malaysia trip when our navigation app lost its signal in a mountainous area. We followed the wrong path for about twenty minutes before realising the scenery no longer matched our screenshot.
 
-When the signal disappeared, we returned to a landmark, used an offline screenshot and asked travellers for help.
+I became frustrated, but Stella **remained calm and optimistic**. We returned to a visible landmark, found a hidden garden and asked other tourists for directions. They showed us a shorter path to the main road, and we eventually reached our destination.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+Although the mistake delayed us, the garden became one of my favourite memories from the trip. The experience taught me to keep offline maps and pay attention to physical landmarks. It also reminded me that **things can still end well when a plan fails**.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-Although the mistake delayed us, the hidden garden turned it into one of the trip's best memories.
+The garden contained bright tropical flowers and a small viewing platform, so we rested there before continuing. If the app had worked perfectly, we would have walked straight past it. Later that evening, we marked the correct route and sent it to another traveller at our accommodation. I would not deliberately get lost again, but the incident made me less afraid of minor travel problems. Careful preparation matters, yet curiosity and calm communication can turn a mistake into a worthwhile part of the journey. That lesson still helps while travelling abroad.
 
 ### Part 3
 
@@ -911,30 +820,26 @@ Although the mistake delayed us, the hidden garden turned it into one of the tri
 
 ### Keywords and collocations
 
-- going out cheaply
-- clear my head
-- Stella.s studio
-- glass skyscraper
-- art museum
-- phone ban
-- boring lobby
-- neighbourhood park
+- free park
+- packed lunch
+- Stella
+- public transport
+- art market
+- low cost
+- meaningful conversation
+- enjoyment not spending
 
 ### Complete answer
 
-<!-- Template: Events | Story: S7 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B7 | Modules: public-park / free-art-market / low-budget -->
 
-The inexpensive day out was our walk from the Beijing museum to the neighbourhood park.
+One inexpensive day out was a Sunday I spent with Stella in Beijing.
 
-We used public transport, brought our own food and spent most of the day in free public spaces.
+We took the subway to a large public park, brought homemade sandwiches and walked around a free weekend art market nearby. We did not buy anything except two cups of tea. Instead, we discussed work, looked at local paintings and sat beside a lake.
 
-One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+The whole day cost very little but gave us **a genuine break from our routines**. I enjoyed it more than some expensive outings because we were not rushing between paid attractions. The experience reminded me that the quality of a day depends mainly on company, attention and atmosphere, not on **how much money is spent**.
 
-We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
-
-The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
-
-The outing proved that good company and an interesting atmosphere matter more than a large budget.
+My favourite part was sitting near the lake while Stella sketched one of the trees and I read a few pages of a book. We had enough time to talk without checking a schedule, and the park became quieter toward sunset. Since then, we have repeated similar days in different neighbourhoods. We usually set a small budget, bring our own food and choose one free place to explore. This makes going out easy to arrange even when money or energy is limited. It is now one of our easiest ways to protect the friendship during busy periods of work.
 
 ### Part 3
 
@@ -946,30 +851,26 @@ The outing proved that good company and an interesting atmosphere matter more th
 
 ### Keywords and collocations
 
-- local news
+- coastal clean-up
 - Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- local volunteers
+- plastic waste
+- community action
+- practical impact
+- credible source
+- personal relevance
 
 ### Complete answer
 
-<!-- Template: Events | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: Events | Bank: B8 | Modules: Zhanjiang-clean-up / credible-report / personal-connection -->
 
-The local news that interested me was a report about the coastal clean-up in my hometown.
+A piece of local news that interested me concerned a coastal clean-up in Zhanjiang, my hometown.
 
-It included figures, photographs and volunteer interviews, so the result felt specific rather than promotional.
+I read it through an official local news account. Residents, students and fishing businesses worked together to remove plastic waste after a busy holiday. The report included photographs, the amount collected and interviews with volunteers, so it felt **specific and credible rather than promotional**.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+I was interested because I grew up near that coastline and have seen how rubbish damages an otherwise beautiful environment. The story was modest compared with national news, but it showed how coordinated local action can **produce an immediate visible result**. It encouraged me to reduce disposable packaging and reminded me that local news matters when it connects public issues with places people personally know.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-Because I knew the people and coastline involved, the report made a public issue personal and concrete.
+I shared the report with my mother, and she told me that the cleaned section was close to a beach we had visited when I was young. That personal connection made the figures more meaningful than a general article about pollution. I also appreciated that the report mentioned continued monitoring rather than presenting one clean-up as a complete solution. If I am in Zhanjiang during a future event, I would like to volunteer. Reading the story made participation feel practical rather than abstract. I hope to join one day.
 
 ### Part 3
 

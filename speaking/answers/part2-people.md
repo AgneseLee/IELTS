@@ -6,30 +6,28 @@
 
 ### Keywords and collocations
 
-- person who grows vegetables
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- mother
+- retired accountant
+- balcony garden
+- leafy vegetables
+- water regularly
+- avoid chemicals
+- home-grown produce
+- sense of achievement
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
 
-The person I'd like to describe is my mother, who grows vegetables on her balcony.
+The person I'd like to describe is my mother, a retired accountant who grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
 
-What stands out most is her patience and the way she turns a hobby into practical help.
+She grows spring onions, lettuce and small tomatoes in recycled containers. She chooses seeds carefully, mixes the soil herself and **waters the plants regularly** rather than depending on chemical products. Last summer, several tomato plants were damaged by heavy rain.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
+Whenever I visit, she shows me which plants are growing well and explains what she has changed since the previous week. She never treats the harvest as the only goal; even a few spring onions are enough to make her happy. Her attitude has encouraged me to grow herbs beside my own window. I still lack her patience, but the small routine helps me slow down after work and appreciate gradual progress.
 
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-For this reason, I admire her not simply as a gardener but as someone who makes steady, useful contributions.
+More importantly, the hobby gives her independence and something positive to discuss with younger family members.
 
 ### Part 3
 
@@ -45,30 +43,26 @@ A: It is common among older people and families with balconies or gardens. Young
 
 ### Keywords and collocations
 
-- childhood friend
-- Stella
-- secondary school
-- Beijing project
-- plan well in advance
-- languages and painting
-- wrong route
-- stay calm and optimistic
+- primary school
+- same neighbourhood
+- shy child
+- cycle after school
+- keep in touch
+- shared memories
+- dependable
+- lasting friendship
 
 ### Complete answer
 
-<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: school-friend / broken-bicycle / lasting-friendship -->
 
-The childhood friend I'd like to describe is Stella, whom I first met at secondary school.
+The person I'd like to describe is Ming, whom I met in primary school in Zhanjiang. What I value most about him is that he is **quietly dependable**.
 
-What I value most is that our relationship has continued naturally through school, work and adult life.
+We lived in the same neighbourhood and were both rather quiet, so we **felt comfortable around each other** almost immediately. After school, we often cycled along the coast, played badminton and exchanged comic books. One memorable day, my bicycle chain broke several kilometres from home.
 
-I have known Stella since secondary school, and years later we happened to work on the same software project in Beijing. That shared history is useful because I have seen how her interests developed over time rather than only seeing the final result. She learns languages through short podcasts and weekly exchanges, paints watercolours several times a month and still enjoys singing with friends at weekends.
+Ming stayed with me, helped push the bicycle and called his father instead of leaving me alone. Thanks to him, a stressful situation became manageable. We now live in different cities and speak less frequently, but we still **keep in touch** and can continue a conversation naturally whenever we meet. What I value most is his reliability and our **wealth of shared memories**.
 
-Before our Malaysia trip, she also **planned well in advance**, comparing flights, preparing a realistic itinerary and saving offline maps. When we took a wrong route, she managed to **stay calm and optimistic**, asked other travellers for help and even noticed a hidden garden beside the path. She later painted that garden and used the picture to practise both colour and perspective.
-
-What I value is her consistent method. She starts with simple materials, learns from mistakes and protects time for interests outside work. Her example shows me that confidence and creativity usually grow through regular practice, curiosity and a willingness to keep going when the first attempt is imperfect.
-
-That long shared history is why she remains one of my most dependable friends.
+The last time I returned to Zhanjiang, we cycled along the same coastal road and talked about how much our lives had changed. Nothing dramatic happened, yet the afternoon felt completely natural. That is what makes the friendship special to me. We do not need constant messages or carefully planned entertainment to remain close. Knowing that he would still help me in a difficult moment gives the relationship a quiet sense of security, even today.
 
 ### Part 3
 
@@ -100,30 +94,26 @@ A: Yes. It makes long-distance contact effortless, but it can also encourage **m
 
 ### Keywords and collocations
 
-- person entering the medical field
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- cousin Lin
+- nursing student
+- grandmother's illness
+- practical care
+- calm under pressure
+- demanding career
+- emotional support
+- meaningful contribution
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: nursing / first-aid / career-motivation -->
 
-The person I'd like to describe is my cousin Lin, who is training to become a nurse.
+The person I'd like to describe is my cousin Lin, who is studying nursing. Her strongest qualities are **empathy and the ability to remain calm under pressure**.
 
-Her strongest qualities are empathy, practical judgement and the ability to remain calm under pressure.
+She first considered medicine after helping care for our grandmother during a long illness. What stands out most is her ability to **remain calm under pressure**. She is now learning clinical skills and hopes to work in emergency care, where quick judgement matters. During a recent family gathering, I cut my hand while cooking.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+Lin cleaned the wound, checked it carefully and explained what to watch for without making everyone panic. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-The event confirmed that she understands both the technical and emotional demands of medical work.
+Her training schedule is already demanding, with lectures, clinical practice and night shifts, so her decision is based on experience rather than an idealised image of the job. When we talk, she is honest about feeling tired, but she also describes the satisfaction of helping a frightened patient feel more secure. That balance makes me respect her choice. I think she has both the judgement and emotional strength needed for a long and successful medical career.
 
 ### Part 3
 
@@ -139,30 +129,26 @@ A: It can be, especially when lessons connect theory to the human body or local 
 
 ### Keywords and collocations
 
-- person with a successful business
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- former manager Chen
+- small software consultancy
+- market gap
+- reliable service
+- word-of-mouth
+- steady growth
+- loyal clients
+- sustainable success
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: consultancy / honest-advice / sustainable-growth -->
 
-The person I'd like to describe is Chen, my former manager, who runs a small software consultancy.
+The person I'd like to describe is Chen, a former manager who runs a small software consultancy. I admire his **practical judgement and long-term approach to business**.
 
-I admire his long-term approach: he provides simple solutions, builds trust and avoids expanding recklessly.
+I met him at my previous company, where he was known for **solving practical problems efficiently**. He noticed that many small businesses needed simple digital tools but could not afford large technology firms. He therefore started with three colleagues, focusing on clear communication and reliable after-sales service.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+One client initially wanted an expensive system, but Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-To me, the project shows why honest service and useful results are better measures of business success than publicity.
+I also saw how he handled a project that fell behind schedule. He informed the client early, explained the technical problem and offered a revised plan instead of hiding the delay. The conversation was uncomfortable, but the client appreciated the transparency and continued working with the company. That response showed me that business success is not simply about avoiding mistakes. It also depends on taking responsibility and protecting relationships when something goes wrong, especially over time.
 
 ### Part 3
 
@@ -178,30 +164,26 @@ A: Yes, selectively. Loans and training can encourage innovation, but applicants
 
 ### Keywords and collocations
 
-- person good at languages
 - Stella
-- secondary school
-- Beijing project
-- plan well in advance
-- languages and painting
-- wrong route
-- stay calm and optimistic
+- English and Japanese
+- daily exposure
+- shadow podcasts
+- language exchange
+- learn from mistakes
+- communicate confidently
+- consistent practice
 
 ### Complete answer
 
-<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: podcasts / language-exchange / Malaysia-directions -->
 
-The person I'd like to describe is Stella, who speaks English confidently and has learned conversational Japanese.
+The person I'd like to describe is Stella, my close friend and former colleague. She is especially good at languages because she is **disciplined and unafraid of making mistakes**.
 
-What stands out is her consistent method and her willingness to communicate without waiting for perfect grammar.
+Besides English, she speaks conversational Japanese. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists.
 
-I have known Stella since secondary school, and years later we happened to work on the same software project in Beijing. That shared history is useful because I have seen how her interests developed over time rather than only seeing the final result. She learns languages through short podcasts and weekly exchanges, paints watercolours several times a month and still enjoys singing with friends at weekends.
+She also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life.
 
-Before our Malaysia trip, she also **planned well in advance**, comparing flights, preparing a realistic itinerary and saving offline maps. When we took a wrong route, she managed to **stay calm and optimistic**, asked other travellers for help and even noticed a hidden garden beside the path. She later painted that garden and used the picture to practise both colour and perspective.
-
-What I value is her consistent method. She starts with simple materials, learns from mistakes and protects time for interests outside work. Her example shows me that confidence and creativity usually grow through regular practice, curiosity and a willingness to keep going when the first attempt is imperfect.
-
-Her example has changed my own language study, because I now value repeated use over endless preparation.
+Sometimes we practise together, and she asks me to retell a short story without checking a dictionary. She corrects only the mistakes that block meaning, which keeps the conversation moving and makes the exercise less intimidating. This method has influenced my own English study. I now try to retrieve familiar expressions under time pressure instead of endlessly collecting new vocabulary. Her progress proves that confidence comes from repeated use in real situations, not from waiting until every sentence is perfect.
 
 ### Part 3
 
@@ -229,30 +211,26 @@ A: Most combine instruction with practice. Knowledge becomes useful only when le
 
 ### Keywords and collocations
 
-- famous person to meet
-- laptop and ChatGPT
-- rocket video
-- boost my productivity
-- failed update
-- cloud backup
-- repair one component
-- human judgement
+- Elon Musk
+- documentary
+- reusable rockets
+- ambitious goal
+- repeated failures
+- long-term thinking
+- ask about innovation
+- mixed admiration
 
 ### Complete answer
 
-<!-- Template: People | Story: S5 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B5 | Modules: SpaceX / repeated-failure / engineering-question -->
 
-The famous person I'd like to meet is Elon Musk, mainly because of his connection with reusable-rocket technology.
+The person I'd like to describe is Elon Musk, whom I first learned about through a documentary on SpaceX. I am most interested in his **ambitious, long-term approach to engineering problems**.
 
-I am interested in how he evaluates ambitious technical goals and responds when expensive experiments fail.
+I do not agree with everything he says, but I am interested in his **willingness to pursue ambitious technical goals**. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction.
 
-Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
+As a software engineer, I am curious about how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
 
-That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
-
-Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
-
-I would ask about the judgement behind difficult projects rather than celebrity life itself.
+I would also ask about the limits of that approach, because ambitious projects can consume enormous amounts of money and place pressure on employees. A brief public speech would not satisfy me; I would prefer a serious conversation in which he had to explain both successful and failed decisions. Even if I disagreed with some answers, hearing the reasoning directly would be valuable. It might help me judge bold technical claims more carefully in my own field.
 
 ### Part 3
 
@@ -284,30 +262,28 @@ A: No. I would prefer professional recognition without losing privacy because a 
 
 ### Keywords and collocations
 
-- person who plans
 - Stella
-- secondary school
-- Beijing project
-- plan well in advance
-- languages and painting
-- wrong route
-- stay calm and optimistic
+- former colleague
+- six months ahead
+- detailed itinerary
+- realistic budget
+- leave free time
+- stay calm
+- manage uncertainty
 
 ### Complete answer
 
-<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: Malaysia-itinerary / offline-map / flexible-planning -->
 
-The person I'd like to describe is Stella, one of my closest friends.
+The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**.
 
-What stands out most is that she plans well in advance without making an experience rigid.
+Before our Malaysia trip, she spent almost six months comparing flights, booking accommodation and preparing a **detailed but realistic itinerary**. She also left free periods so we could explore at our own pace. One day, our navigation app lost its signal in the mountains and we took the wrong route.
 
-I have known Stella since secondary school, and years later we happened to work on the same software project in Beijing. That shared history is useful because I have seen how her interests developed over time rather than only seeing the final result. She learns languages through short podcasts and weekly exchanges, paints watercolours several times a month and still enjoys singing with friends at weekends.
+Rather than panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
 
-Before our Malaysia trip, she also **planned well in advance**, comparing flights, preparing a realistic itinerary and saving offline maps. When we took a wrong route, she managed to **stay calm and optimistic**, asked other travellers for help and even noticed a hidden garden beside the path. She later painted that garden and used the picture to practise both colour and perspective.
+This is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it.
 
-What I value is her consistent method. She starts with simple materials, learns from mistakes and protects time for interests outside work. Her example shows me that confidence and creativity usually grow through regular practice, curiosity and a willingness to keep going when the first attempt is imperfect.
-
-Her approach has taught me that good planning should reduce avoidable stress while leaving room for surprise.
+That change has made my recent journeys calmer, cheaper and easier to manage.
 
 ### Part 3
 
@@ -339,30 +315,26 @@ A: Sometimes, particularly in medicine or engineering, but transferable skills a
 
 ### Keywords and collocations
 
-- child who loves drawing
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- niece Mia
+- eight years old
+- watercolours
+- observe details
+- park scene
+- patient concentration
+- express feelings
+- creative outlet
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: Mia / park-painting / creative-freedom -->
 
-The child I'd like to describe is my niece Mia, who loves drawing and painting.
+The person I'd like to describe is my eight-year-old niece Mia. What I notice most is her **patience and close observation of ordinary details**.
 
-What I notice most is her patient observation and the freedom with which she reinterprets ordinary scenes.
+She began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. The picture was not technically perfect, but it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-The poster showed that encouragement and a real purpose can help a child become more confident about being creative.
+She later gave the painting to her grandmother, who placed it beside the dining table. Mia was proud, but she began explaining what she wanted to improve next time. I liked that mixture of confidence and curiosity. Rather than comparing her work with art, the family asks about the story behind each picture. I think this response protects her enjoyment and gives her a reason to keep practising without turning the hobby into another form of homework.
 
 ### Part 3
 
@@ -394,30 +366,26 @@ A: Books allow deep, self-paced explanation, whereas museums provide **direct vi
 
 ### Keywords and collocations
 
-- smart problem-solver
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- mother
+- childhood shyness
+- identify root cause
+- listen without judging
+- practical advice
+- gradual confidence
+- emotional intelligence
+- lasting impact
 
 ### Complete answer
 
-<!-- Template: People | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B4 | Modules: childhood-shyness / small-steps / confidence -->
 
-The smart problem-solver I'd like to describe is my mother.
+The person I'd like to describe is my mother. She is a smart problem-solver because she **listens carefully and looks for the cause before offering advice**.
 
-She listens carefully, identifies the real cause and turns a large emotional problem into manageable steps.
+When I was in primary school, I was extremely shy and avoided expressing opinions because I feared judgement. Instead of simply telling me to be confident, she **identified the real cause of the problem**. She listened without interrupting and explained that disagreement did not mean rejection. She then gave me a small task: express one opinion each day to someone I trusted.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+This gradual approach felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-Her support taught me that an intelligent solution often begins with understanding the person behind the problem.
+Years later, I used a similar method when a junior colleague was afraid to speak during meetings. Instead of demanding an immediate presentation, I first asked him to explain one small technical issue to me privately. He became more comfortable contributing to the group. That experience made me recognise how practical my mother's advice had been. She did not solve the problem for me; she gave me a safe way to build the ability myself.
 
 ### Part 3
 
@@ -449,30 +417,26 @@ A: Yes, but labels should remain flexible. Schools should provide opportunities 
 
 ### Keywords and collocations
 
-- self-taught friend
 - Stella
-- secondary school
-- Beijing project
-- plan well in advance
-- languages and painting
-- wrong route
-- stay calm and optimistic
+- watercolour painting
+- online tutorials
+- practise consistently
+- learn through imitation
+- seek feedback
+- flexible pace
+- self-discipline
 
 ### Complete answer
 
-<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: online-tutorials / watercolour / recorded-progress -->
 
-The self-taught person I'd like to describe is Stella, who learned watercolour painting through online tutorials.
+The person I'd like to describe is my friend Stella, who taught herself watercolour painting through free online tutorials. What impressed me was her **self-discipline and willingness to learn gradually**.
 
-I admire her self-discipline: she uses simple resources, seeks feedback and learns at her own pace.
+She began because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks.
 
-I have known Stella since secondary school, and years later we happened to work on the same software project in Beijing. That shared history is useful because I have seen how her interests developed over time rather than only seeing the final result. She learns languages through short podcasts and weekly exchanges, paints watercolours several times a month and still enjoys singing with friends at weekends.
+The peaceful atmosphere impressed me more than technical perfection. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
 
-Before our Malaysia trip, she also **planned well in advance**, comparing flights, preparing a realistic itinerary and saving offline maps. When we took a wrong route, she managed to **stay calm and optimistic**, asked other travellers for help and even noticed a hidden garden beside the path. She later painted that garden and used the picture to practise both colour and perspective.
-
-What I value is her consistent method. She starts with simple materials, learns from mistakes and protects time for interests outside work. Her example shows me that confidence and creativity usually grow through regular practice, curiosity and a willingness to keep going when the first attempt is imperfect.
-
-Her progress proves that independent learning works when practice has a clear purpose.
+Over time, she created a small folder showing the same subjects painted several months apart. The improvement in colour and perspective was easy to see, which gave her motivation when an individual painting went badly. She also learned to choose tutorials for a specific weakness instead of watching random videos. I found that approach useful for my own technical study. It showed me that self-teaching becomes much more effective when progress is recorded and each practice session has a clear purpose.
 
 ### Part 3
 
@@ -504,30 +468,26 @@ A: Yes. Learning maintains confidence, cognitive activity and social connection 
 
 ### Keywords and collocations
 
-- helpful person
-- layoff
-- mother and Stella
-- manageable steps
-- focus on what I could control
-- group project
-- daily check-in
-- regain my confidence
+- Stella
+- former colleague
+- newcomers
+- explain systems
+- share notes
+- patient support
+- no expectation of reward
+- supportive culture
 
 ### Complete answer
 
-<!-- Template: People | Story: S4 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B4 | Modules: new-colleague / setup-notes / cooperative-culture -->
 
-The helpful person I'd like to describe is Stella, my close friend and former colleague.
+The person I'd like to describe is Stella, my former colleague. I remember her as someone who **patiently helps others without expecting a reward**.
 
-She made me feel understood and supported, then helped me focus on what I could control.
+She regularly supported new team members who were unfamiliar with our complicated software systems. Rather than sending them long documents, she **broke each process into manageable steps** and remained available for questions. When I joined her project, she shared her notes and spent an afternoon helping me set up the development environment. This saved me several days of confusion and made me feel welcome.
 
-After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
+She helps without drawing attention to herself or expecting a reward. What impresses me most is that her support also creates **a more cooperative working atmosphere**; people she helped are more willing to assist others later. She taught me that kindness at work does not require a dramatic gesture. Often, giving someone time and clear guidance can **make a meaningful practical difference**.
 
-I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
-
-The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
-
-Her help mattered because it produced action without adding pressure or taking the decision away from me.
+Later, I reused her notes when another colleague joined the team, and I tried to explain the system in the same patient way. That was when I realised her help had improved more than my individual experience. It had created a process that other people could pass on. We still talk about work, and I often ask how she would introduce a complicated task to a beginner. Her answers are practical because they come from attention to other people's difficulties.
 
 ### Part 3
 
@@ -559,30 +519,26 @@ A: They may fear appearing incompetent or being judged. Managers can reduce this
 
 ### Keywords and collocations
 
-- nature lover
-- Malaysia with Stella
-- broaden my horizons
-- Semporna
-- rented car
-- lost signal
-- hidden garden
-- sea turtle
+- Stella
+- reduce waste
+- reusable bottle
+- weekend clean-up
+- protect marine life
+- consistent habits
+- influence others
+- shared responsibility
 
 ### Complete answer
 
-<!-- Template: People | Story: S3 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: Semporna / clean-up / daily-habits -->
 
-The nature lover I'd like to describe is Stella, who became especially interested in marine protection after our Malaysia trip.
+The person I'd like to describe is Stella. What I admire is the way she **turns concern for nature into everyday habits**.
 
-Her concern is visible in practical habits, such as choosing responsible tours and avoiding unnecessary plastic.
+Her concern for the environment is visible in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic.
 
-Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+She later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen.
 
-One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
-
-The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
-
-I admire the way direct experience changed her everyday behaviour rather than becoming only a photograph.
+Since then, she has continued making small changes rather than treating the clean-up as a one-off event. She checks whether seafood comes from responsible sources and reminds friends to leave natural areas exactly as they found them. I have adopted some of these habits, especially carrying a reusable bottle and refusing unnecessary bags. What I value is her consistency: spending time outdoors has made her protective of nature, and that concern is visible in choices she makes throughout ordinary life, even when nobody is paying attention.
 
 ### Part 3
 
@@ -614,30 +570,26 @@ A: Yes, through practical projects rather than slogans. Measuring waste or growi
 
 ### Keywords and collocations
 
-- musical friend
-- birthday dinner
-- dumplings
-- badminton final
-- warm and relaxed atmosphere
-- Stella singing
-- outdoor festival
-- childhood essay
+- Stella
+- singing
+- informal lessons
+- company celebration
+- clear voice
+- cope with stress
+- lift the mood
+- genuine passion
 
 ### Complete answer
 
-<!-- Template: People | Story: S6 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B6 | Modules: company-celebration / karaoke / stress-relief -->
 
-The musical friend I'd like to describe is Stella, who has enjoyed singing since school.
+The person I'd like to describe is Stella, who loves singing. What stands out is her **clear voice and the confidence she gains from music**.
 
-What stands out is her clear voice and the way she uses music to help other people relax and join in.
+She has never pursued it professionally, but she took informal lessons and practises several times a week. I first realised how capable she was at a company celebration, where she sang a gentle pop song with **remarkable confidence and control**. The room became quiet, and even colleagues who had been checking their phones paid attention.
 
-Last year my family and close friends gathered at my apartment for my birthday. We made dumplings together, so my mother prepared the filling while the rest of us folded uneven shapes and talked around the table. The familiar food turned a simple meal into a shared family memory.
+Singing is also how she deals with pressure. After difficult workdays, she meets friends at a karaoke venue because it helps her **relax and release emotion**. What I admire is not only her voice but her genuine passion; she makes other people feel comfortable joining in, even if they sing badly. She reminds me that a hobby can **enrich everyday life without becoming a career**.
 
-Earlier that day, Stella and I had watched a live badminton final. One player recovered from a poor start, and the crowd reacted together during every long rally. At dinner we tried to copy the player's movements, which made everyone laugh. Stella then sang a gentle pop song, and even my usually quiet mother joined the chorus. The relaxed atmosphere was much better than an outdoor music festival I had attended before, where excessive volume and poor organisation had ruined the performance.
-
-My friends later brought out a handwritten childhood essay that my mother had kept for years. The day gave me **a genuine sense of achievement and belonging**. It reminded me that celebrations become memorable through participation, humour and emotional connection rather than expensive gifts.
-
-Her performance showed me that a hobby can strengthen relationships without becoming a career.
+At one gathering, she persuaded me to sing a song even though I was worried about sounding foolish. She chose an easy chorus, joined in when I forgot the words and kept the atmosphere light. I ended up enjoying the experience much more than I expected. That moment captures why her musical ability matters to me: it is not simply something she performs for attention. She uses it to connect people and make an ordinary evening feel more memorable.
 
 ### Part 3
 
@@ -653,30 +605,26 @@ A: Young listeners often follow current global trends; older people favour music
 
 ### Keywords and collocations
 
-- creative person
 - Stella
-- secondary school
-- Beijing project
-- plan well in advance
-- languages and painting
-- wrong route
-- stay calm and optimistic
+- watercolour
+- reinterpret ordinary scenes
+- limited free time
+- experiment with colour
+- fresh perspective
+- emotional expression
+- disciplined creativity
 
 ### Complete answer
 
-<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B1 | Modules: watercolour / reinterpretation / software-creativity -->
 
-The creative person I'd like to describe is Stella, a software worker who paints watercolours in her spare time.
+The person I'd like to describe is Stella. I think she is creative because she **notices possibilities in scenes that other people might overlook**.
 
-Her creativity lies in noticing possibilities in familiar scenes and developing them through regular practice.
+Although she works in technology, she paints watercolours in her spare time. Her creativity appears in the way she **reinterprets ordinary scenes** rather than copying them exactly. She once painted the park near my apartment, adding a small bridge and warmer evening colours that were not present in reality.
 
-I have known Stella since secondary school, and years later we happened to work on the same software project in Beijing. That shared history is useful because I have seen how her interests developed over time rather than only seeing the final result. She learns languages through short podcasts and weekly exchanges, paints watercolours several times a month and still enjoys singing with friends at weekends.
+Those changes captured how peaceful the place felt to her. Even during demanding projects, she protects a little time for painting and experiments without worrying about perfect results. This combination of imagination and discipline impresses me because creative ideas are useless unless someone **puts effort into developing them**. Her paintings have also encouraged me to notice colour, light and atmosphere more carefully.
 
-Before our Malaysia trip, she also **planned well in advance**, comparing flights, preparing a realistic itinerary and saving offline maps. When we took a wrong route, she managed to **stay calm and optimistic**, asked other travellers for help and even noticed a hidden garden beside the path. She later painted that garden and used the picture to practise both colour and perspective.
-
-What I value is her consistent method. She starts with simple materials, learns from mistakes and protects time for interests outside work. Her example shows me that confidence and creativity usually grow through regular practice, curiosity and a willingness to keep going when the first attempt is imperfect.
-
-She has encouraged me to see creativity as disciplined observation rather than sudden inspiration.
+She once showed me two versions of the same street, one painted in realistic grey tones and another in warm colours from memory. The second was less accurate but much more expressive, and it changed the way I understood creativity. It does not always mean inventing something completely new; it can mean selecting familiar details and presenting them from a personal angle. That idea is relevant to my software work, where useful innovation often begins by seeing an ordinary problem differently.
 
 ### Part 3
 
@@ -692,30 +640,26 @@ A: Partly. People can expose themselves to varied ideas, practise experimentatio
 
 ### Keywords and collocations
 
-- medical worker
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- Dr Fan
+- dentist
+- emergency appointment
+- explain procedure
+- empathetic
+- professional judgement
+- reduce anxiety
+- demanding but rewarding
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: Dr-Fan / dental-emergency / patient-trust -->
 
-The medical worker I'd like to describe is my cousin Lin, a nurse in training.
+The person I'd like to describe is Dr Fan, a dentist I met during an emergency appointment. What stood out immediately was her **calm and reassuring professionalism**.
 
-I was impressed by the way she combined accurate first aid with calm explanations that reassured everyone nearby.
+I had severe tooth pain and was extremely anxious. She examined the problem carefully and **explained each stage in plain language** before beginning treatment. Even though the clinic was busy, she did not rush or dismiss my concerns. Her calm voice and professional manner made a stressful experience much easier.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+At a later appointment, she remembered the issue and asked whether I had fully recovered, which showed genuine empathy. Dentists need technical precision while working with patients who may be frightened or in pain, so they **juggle several responsibilities at once**. I admire Dr Fan because she combined medical expertise with emotional support. She showed me why healthcare is demanding but also **highly meaningful and rewarding work**.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-That balance of practical skill and empathy is why I think medical work suits her.
+Before meeting her, I tended to delay dental visits because I associated them with pain and embarrassment. Her clear explanations changed that attitude, and I now arrange regular checks instead of waiting for an emergency. This may seem like a small result, but preventive care depends heavily on whether patients trust the professional treating them. Dr Fan made that trust possible through the way she communicated, so I remember her not only as a skilled dentist but as someone who changed my behaviour.
 
 ### Part 3
 
@@ -731,30 +675,26 @@ A: Expertise, careful communication, resilience and empathy. Technical skill alo
 
 ### Keywords and collocations
 
-- business person you admire
-- Zhanjiang
-- community event
-- mother's vegetables
-- Lin's first aid
-- Chen's software
-- make a meaningful practical difference
-- local news
+- Chen
+- former manager
+- small consultancy
+- identify unmet need
+- honest recommendation
+- loyal clients
+- manageable growth
+- long-term trust
 
 ### Complete answer
 
-<!-- Template: People | Story: S8 | Adapted: opening / focus / ending -->
+<!-- Template: People | Bank: B8 | Modules: consultancy / client-trust / responsible-growth -->
 
-The business person I admire is Chen, my former manager and the founder of a software consultancy.
+The person I'd like to describe is Chen, my former manager and the founder of a small software consultancy. I admire the way he **puts honest advice ahead of short-term profit**.
 
-He puts honest advice and reliable service ahead of short-term profit or dramatic growth.
+He noticed that small companies were often sold complicated systems they did not need, so he built a service around **simple solutions and honest advice**. I once saw him recommend a cheaper product because it suited a client's budget better. Although this reduced the immediate payment, the client later returned and introduced two other companies.
 
-Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
+His business grew mainly through **long-term trust and word of mouth**. He also avoids taking more projects than his team can handle, which protects quality and prevents burnout. I admire him because he measures success through stable clients and responsible employment, not only rapid expansion. His experience shows that a strong business can grow by **creating genuine value rather than chasing quick profit**.
 
-During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
-
-What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
-
-His contribution showed me that a good business creates genuine value and takes responsibility when conditions change.
+When I worked with him, he encouraged engineers to explain technical decisions to clients instead of hiding behind sales language. That made projects slower at the beginning but reduced misunderstanding later. His company is not famous and probably never will be, yet it has survived difficult periods while keeping its staff and customers. For me, that record is more convincing than rapid growth followed by layoffs. It is the kind of success I would want if I ran a business.
 
 ### Part 3
 

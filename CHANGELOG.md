@@ -75,6 +75,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 Speaking Part 2 从整段故事复用改为 8 个模块化素材库，恢复 68 篇紧扣 cue card 的答案并标注每题所用 modules
 - 将 68 篇 Speaking Part 2 答案统一到 4 个固定模板与 8 个核心故事，核心内容约 80% 原样复用，并接入 20 天计划的固定 collocations
 - 将 68 篇 Speaking Part 2 示范稿逐题扩展至 210–230 词，并按 Band 7 自然语速校准到约 1 分 40 秒
 - 将 Speaking Part 2 四类严格句子模板改为半固定检索结构，清理 68 篇答案的万能填充句，并将关键词统一为每行一个

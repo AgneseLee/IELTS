@@ -19,13 +19,13 @@
 
 <!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: 4:30-a.m. / sunrise-boat / worth-the-effort -->
 
-The occasion took place during my Malaysia trip with Stella. We had booked an early boat to watch the sunrise near Semporna, so I had to get up at 4:30 a.m.
+The event I'd like to describe happened during my Malaysia trip with Stella, near Semporna. We had expected a quiet but spectacular morning because we had booked a small boat specifically to watch the sunrise from the open water.
 
-I normally struggle with early mornings and initially felt **half awake and slightly irritable**. However, the harbour was unusually quiet, and the cool air gradually woke me up. Once the boat reached open water, the sky changed from dark blue to orange and the sea reflected the light.
+The main challenge was getting up at 4:30 a.m. after very limited sleep. At first, I felt **half awake and slightly irritable**, since early mornings are not part of my normal routine. However, the harbour was unusually peaceful, and the cool air gradually woke me up while the crew prepared the boat.
 
-The view was **far more impressive than I had expected**. We took only a few photographs and spent most of the time enjoying the silence. I was tired later, but the experience was completely **worth the effort**.
+Instead of complaining or going back to bed, I followed the guide, boarded the boat and kept my phone in my bag for most of the journey. As a result, I noticed the sky changing from dark blue to orange and saw the light reflected across the sea. The moment that best captures the experience was when everyone became silent as the sun appeared.
 
-What made the morning memorable was the contrast with my normal routine in Beijing, where I usually wake up to traffic and immediately look at a screen. On the boat, there were no messages to answer and almost nobody was speaking. After returning to the harbour, we had a simple breakfast and compared the colours we had noticed. I would not get up that early every day, but for a rare experience with a clear purpose, I would happily do it again. It remains one of the clearest and most peaceful memories from that holiday.
+This event remains memorable because the calm scene **left a lasting impression** and felt completely different from waking up to traffic in Beijing. Since then, I have become more willing to **step outside my comfort zone** when an unusual experience has a clear purpose. I would not get up that early every day, but I would happily do it again for another sunrise trip, which is why the tiredness felt completely **worth the effort**.
 
 ### Part 3
 

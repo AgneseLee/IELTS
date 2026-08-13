@@ -75,6 +75,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将四类 Speaking Part 2 各一篇样稿改为固定句架填空式拓展，并补充四套可直接套用的正文模板
 - 为 68 篇 Speaking Part 2 答案增加可验证的模板段落代码，统一 People、Events、Places 为四段并统一 Things 为五段
 - 将 Speaking Part 2 从整段故事复用改为 8 个模块化素材库，恢复 68 篇紧扣 cue card 的答案并标注每题所用 modules
 - 将 68 篇 Speaking Part 2 答案统一到 4 个固定模板与 8 个核心故事，核心内容约 80% 原样复用，并接入 20 天计划的固定 collocations

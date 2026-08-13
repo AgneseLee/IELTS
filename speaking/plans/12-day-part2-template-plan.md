@@ -25,41 +25,68 @@
 ### People
 
 ```text
-P1 Who + relationship + relevant quality
-P2 Relevant background/context
-P3 Cue-specific example + action/result
-P4 Further evidence/influence + direct evaluation
+P1 The person I'd like to describe is [who], who [relationship/background].
+   What stands out most is [cue-specific quality].
+P2 I first noticed this clearly when [relevant context].
+   At the time, [background/problem].
+   [Person] normally [relevant routine/details].
+P3 Instead of [ordinary response], [person] [specific action].
+   As a result, [concrete result].
+   This example proves [direct evaluation].
+P4 This matters to me because [personal relevance].
+   Since then, [specific influence/change].
+   That is why I see [person] as [direct answer], rather than [contrast].
 ```
 
 ### Events
 
 ```text
-E1 What/when/where + relevant expectation
-E2 Background/problem + response/feeling
-E3 Key development/action + result
-E4 Further detail/later effect + direct evaluation
+E1 The [event/experience] I'd like to describe [happened/would take place] [when/where].
+   I had expected [expectation], because [reason].
+E2 The main [challenge/change] was [cue-specific problem].
+   At first, I felt [feeling], since [reason].
+   However, [relevant development].
+E3 Instead of [ordinary response], I/we [specific action].
+   As a result, [concrete result].
+   The moment that best captures the experience was [key detail].
+E4 This [event/experience] remains memorable because [direct evaluation].
+   Since then, [later effect/change].
+   I would [future judgement], which is why [direct answer].
 ```
 
 ### Things
 
 ```text
-T1 What + source
-T2 Relevant background/basic content
-T3 Key feature/development
-T4 Cue-specific example/evaluation
-T5 Further example/limitation + personal value
+T1 The thing I'd like to describe is [what].
+   I [found/learned about/thought of] it [source/time], when [context].
+T2 It mainly [function/content].
+   What made it [relevant quality] was [supporting detail].
+T3 What interested me most was [key feature/development].
+   Instead of [surface impression], it [deeper explanation].
+T4 A specific example was [cue-specific example].
+   [Further detail].
+   As a result, [effect/evaluation].
+T5 I value/recommend it because [direct answer].
+   It also [limitation/personal influence].
+   That is why it remains [evaluation], rather than [contrast].
 ```
 
 ### Places
 
 ```text
-L1 Where + visit + selected detail
-L2 Atmosphere/experience + relevant activity
-L3 Key detail/contrast/limitation + evaluation
-L4 Further evidence + lasting meaning/recommendation
+L1 The place I'd like to describe is [where], which I [visit relationship].
+   The detail that first caught my attention was [selected detail].
+L2 When I visited, I [relevant activity].
+   The atmosphere felt [description] because [cue-specific evidence].
+L3 What I liked/disliked most was [key feature].
+   However, [contrast/limitation].
+   This contrast showed me [direct evaluation].
+L4 I remember this place because [lasting meaning].
+   If I could [change/recommend/revisit] it, I would [specific judgement].
+   That is why [direct answer to cue card].
 ```
 
-模板固定段数、顺序与功能；斜线表示按 cue card 选相关项，不要求每项都写。每段必须含题目专属信息，不固定整段句子。
+固定句首与段落顺序；方括号内填 cue-card-specific 内容。允许在槽内增加从句；禁止另加万能感悟。
 
 ---
 

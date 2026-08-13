@@ -19,15 +19,15 @@
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: reusable-rockets / failed-tests / learning-process -->
 
-The thing I'm going to talk about is a short documentary explaining how reusable rockets land.
+The thing I'd like to describe is a short documentary about how reusable rockets land. I found it online after reading about SpaceX, when I wanted a clear explanation of a technology that looked almost impossible to me.
 
-I found it online after reading about SpaceX. It combined animation with real launch footage, so a technically difficult subject became **clear and visually engaging**.
+It mainly explains how the engines, guidance system and landing process work together. What made the video easy to follow was its combination of simple animation and real launch footage, which turned a complex engineering idea into something **clear and visually engaging**.
 
-What interested me most was the explanation of repeated failed tests and how engineers used each one to improve the design. I watched it because software work has made me curious about complex systems and **how ambitious ideas become practical technology**.
+What interested me most was the account of repeated failed tests. Instead of presenting the final landing as a sudden success, the documentary showed how engineers recorded each failure, identified a specific cause and then changed the design before the next attempt.
 
-The video did more than entertain me; it showed that failure can produce useful evidence when people analyse it carefully. It left me motivated to approach my own technical mistakes with more patience and **treat them as part of the learning process**.
+A specific example was an early rocket losing control only seconds before landing. The animation showed how later software corrected the angle more precisely. As a result, I understood that ambitious teams **turn ideas into working results** through careful testing, not through one perfect attempt.
 
-I watched it twice, pausing the animation to understand how the engines and guidance system worked together during landing. Afterwards, I discussed it with a colleague who knew more about control systems, and that conversation made the engineering feel even more impressive. I would recommend the video to people who assume successful technology appears in one perfect attempt. Its strongest message is that repeated testing only becomes valuable when a team records the result, changes the design and tries again with a clearer hypothesis. The lesson remains useful even now.
+I value the video because it made practical innovation understandable without oversimplifying the learning process. It also changed how I respond to mistakes in my own software work: I now try to collect evidence before changing anything. That is why it **left a lasting impression** on me, rather than becoming another entertaining clip that I forgot immediately.
 
 ### Part 3
 

@@ -19,13 +19,13 @@
 
 <!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: office-skyscraper / city-view / daily-comfort -->
 
-The place I'd like to describe is an office skyscraper near my former workplace in Beijing. Its glass exterior reflects the sky, and the entrance opens into a bright atrium filled with natural light. From the upper floors, I could see **the city stretching in every direction**, which was impressive at sunset.
+The place I'd like to describe is an office skyscraper near my former workplace in Beijing, which I visited several times for meetings. The detail that first caught my attention was its glass exterior, followed by a bright atrium and **a city view that stretched in every direction**.
 
-I could also hear office conversations and lift doors and smell coffee from the lobby café. I liked the building because it used limited urban land efficiently and placed offices, cafés and transport links close together. However, the lifts became crowded during rush hour, and the sealed windows sometimes made the interior feel disconnected from nature.
+When I visited the upper floors, I usually arrived through a busy lobby, took a crowded lift and then worked in a meeting room with plenty of natural light. The atmosphere felt modern and professional because offices, cafés and transport links were all close together, giving employees a high level of **practical comfort**.
 
-Overall, I like its clean design and convenience, but I would not want every building to look the same. A successful tall building should combine visual impact with **a comfortable experience for the people inside**.
+What I liked most was the efficient use of limited urban land and the impressive sunset view. However, the lifts became frustrating during rush hour, and the sealed windows sometimes made the interior feel disconnected from fresh air and nature. This contrast showed me that a building can look excellent in a photograph but still create small problems for its daily users.
 
-I visited the upper floors several times for meetings, and the view was always the part guests mentioned first. However, employees cared more about practical details such as waiting for lifts, finding a quiet desk and getting fresh air during long days. That contrast changed how I judge architecture. A building can look impressive in a photograph and still create small frustrations for the people using it daily. I would keep the bright public spaces but add accessible outdoor areas and more natural ventilation.
+I remember the skyscraper because it changed how I judge architecture: visual impact matters, but ordinary experience matters more. If I could change it, I would add accessible outdoor areas, better lift management and more natural ventilation. That is why I like the building overall, while still believing that future skyscrapers should offer more than height and a dramatic skyline.
 
 ### Part 3
 

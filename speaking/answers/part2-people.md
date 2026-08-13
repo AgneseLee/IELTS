@@ -19,13 +19,13 @@
 
 <!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
 
-The person I'd like to describe is my mother, a retired accountant who grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
+The person I'd like to describe is my mother, who is a retired accountant and grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
 
-She grows spring onions, lettuce and small tomatoes in recycled containers. She chooses seeds carefully, mixes the soil herself and **waters the plants regularly** rather than depending on chemical products. Last summer, several tomato plants were damaged by heavy rain.
+I first noticed this clearly last summer, when heavy rain damaged several of her tomato plants. At the time, the leaves were broken and the soil was far too wet. She normally grows spring onions, lettuce and tomatoes in recycled containers, chooses the seeds carefully, mixes the soil herself and **waters the plants regularly** without relying heavily on chemicals.
 
-Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine.
+Instead of abandoning the damaged plants, she moved them indoors, removed the weakest leaves and adjusted how often she watered them. As a result, most of the plants recovered, and we later used the tomatoes in a family meal. This example proves that her gardening skill comes from steady observation, rather than luck.
 
-Whenever I visit, she shows me which plants are growing well and explains what she has changed since the previous week. She never treats the harvest as the only goal; even a few spring onions are enough to make her happy. Her attitude has encouraged me to grow herbs beside my own window. I still lack her patience, but the small routine helps me slow down after work and appreciate gradual progress. More importantly, the hobby gives her independence and something positive to discuss with younger family members.
+This matters to me because her balcony garden is not just a source of home-grown produce; it gives her a peaceful daily routine and **a genuine sense of achievement**. Since then, I have started growing herbs beside my own window and paying more attention to gradual progress. That is why I see her as someone who **makes a meaningful practical difference** through small actions, rather than someone who merely talks about healthy living.
 
 ### Part 3
 

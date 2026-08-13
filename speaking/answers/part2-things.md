@@ -6,26 +6,30 @@
 
 ### Keywords and collocations
 
-- reusable rockets
-- documentary clip
-- engineering failure
-- visual explanation
-- complex idea
-- spark curiosity
-- practical innovation
-- lasting impression
+- interesting video
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is a short documentary explaining how reusable rockets land.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-I found it online after reading about SpaceX. It combined animation with real launch footage, so a technically difficult subject became **clear and visually engaging**.
+The interesting video I'd like to describe explains how reusable rockets land.
 
-What interested me most was the explanation of repeated failed tests and how engineers used each one to improve the design. I watched it because software work has made me curious about complex systems and **how ambitious ideas become practical technology**.
+Its animation and test footage made a difficult engineering process clear and visually engaging.
 
-The video did more than entertain me; it showed that failure can produce useful evidence when people analyse it carefully. It left me motivated to approach my own technical mistakes with more patience and **treat them as part of the learning process**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-I watched it twice, pausing the animation to understand how the engines and guidance system worked together during landing. Afterwards, I discussed it with a colleague who knew more about control systems, and that conversation made the engineering feel even more impressive. I would recommend the video to people who assume successful technology appears in one perfect attempt. Its strongest message is that repeated testing only becomes valuable when a team records the result, changes the design and tries again with a clearer hypothesis. The lesson remains useful even now.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+I remember it because it showed that failure becomes useful when people analyse evidence and improve the design.
 
 ### Part 3
 
@@ -41,26 +45,30 @@ I watched it twice, pausing the animation to understand how the engines and guid
 
 ### Keywords and collocations
 
-- right to repair
-- electronic devices
-- spare parts
-- repair information
-- reduce waste
-- lower costs
-- manufacturer resistance
-- gradual implementation
+- new law to introduce
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is a right-to-repair law for electronic devices.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-Manufacturers would need to provide spare parts, basic repair information and reasonable software support for several years. I thought of it after my laptop overheated and a simple component almost forced me to replace the whole machine.
+The new law I'd introduce is a right-to-repair rule for electronic devices.
 
-The law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
+Manufacturers should provide parts, repair information and software support while protecting genuine safety concerns.
 
-I think the policy would become popular if it protected safety and did not reveal sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-The law should be introduced gradually, beginning with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+My laptop experience showed me that environmental responsibility needs a practical repair option.
 
 ### Part 3
 
@@ -80,26 +88,30 @@ The law should be introduced gradually, beginning with common products such as p
 
 ### Keywords and collocations
 
+- special-occasion food
+- birthday dinner
 - dumplings
-- Lunar New Year
-- family preparation
-- symbolic shape
-- shared task
-- familiar flavour
-- preserve tradition
-- emotional meaning
+- badminton final
+- warm and relaxed atmosphere
+- Stella singing
+- outdoor festival
+- childhood essay
 
 ### Complete answer
 
-The thing I'm going to talk about is dumplings, which my family eats during Lunar New Year.
+<!-- Template: Things | Story: S6 | Adapted: opening / focus / ending -->
 
-We prepare the filling with pork, vegetables and seasoning, then wrap it together around the table. Their shape traditionally represents wealth, but for me their real value lies in **the shared process of making them**.
+The special-occasion food I'd like to describe is the dumplings my family makes for celebrations.
 
-My mother prepares the filling, while younger family members fold dumplings in rather uneven shapes. We talk throughout the process, and the familiar smell makes the home feel festive.
+Their real value lies in the shared preparation, conversation and imperfect shapes made by different relatives.
 
-Dumplings are not rare everyday food, yet eating them at New Year carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
+Last year my family and close friends gathered at my apartment for my birthday. We made dumplings together, so my mother prepared the filling while the rest of us folded uneven shapes and talked around the table. The familiar food turned a simple meal into a shared family memory.
 
-My favourite part is the final stage, when everyone tries to recognise the dumplings they folded because each person has a slightly different shape. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family.
+Earlier that day, Stella and I had watched a live badminton final. One player recovered from a poor start, and the crowd reacted together during every long rally. At dinner we tried to copy the player's movements, which made everyone laugh. Stella then sang a gentle pop song, and even my usually quiet mother joined the chorus. The relaxed atmosphere was much better than an outdoor music festival I had attended before, where excessive volume and poor organisation had ruined the performance.
+
+My friends later brought out a handwritten childhood essay that my mother had kept for years. The day gave me **a genuine sense of achievement and belonging**. It reminded me that celebrations become memorable through participation, humour and emotional connection rather than expensive gifts.
+
+For me, they turn an ordinary meal into a familiar family ritual.
 
 ### Part 3
 
@@ -113,26 +125,30 @@ My favourite part is the final stage, when everyone tries to recognise the dumpl
 
 ### Keywords and collocations
 
-- sportswear campaign
-- famous athlete
-- online video
-- training scenes
-- memorable image
-- credibility
-- emotional appeal
-- cautious judgement
+- celebrity advertisement
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is an advertisement featuring a famous badminton player promoting sports shoes.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-I saw it online before a live match. It showed the athlete training alone early in the morning, making mistakes and gradually improving.
+The celebrity advertisement I'd like to describe features a famous athlete promoting headphones through a training story.
 
-The product appeared naturally rather than interrupting the story, and the message focused on **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
+The coherent story attracted my attention, but I still compared independent evidence instead of trusting the celebrity alone.
 
-Celebrity endorsement makes an advertisement memorable and can lend credibility when the person genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-I remembered the campaign when I later saw the same athlete in a tournament, which shows how effectively the story connected the person with the brand. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+It taught me that endorsement can create interest but cannot replace clear product information.
 
 ### Part 3
 
@@ -152,26 +168,30 @@ I remembered the campaign when I later saw the same athlete in a tournament, whi
 
 ### Keywords and collocations
 
-- technology documentary
-- AI at work
-- weekly episodes
-- real interviews
-- balanced view
-- practical examples
-- accessible explanation
-- critical thinking
+- recent tv/online programme
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is an online documentary series about AI and work.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-Each episode followed people in a different profession and showed where AI saved time and where human judgement remained essential. I watched it weekly because the interviews provided **concrete examples rather than abstract predictions**.
+The recent online programme I'd like to describe is a documentary series about AI and work.
 
-One episode followed a doctor using software to review scans while still making the final decision and explaining it to a patient. As a software engineer, I found the balanced approach useful: it neither treated AI as magic nor dismissed its benefits.
+It uses concrete professional examples to show where automation helps and where human judgement remains essential.
 
-The programme helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-After each episode, I wrote down one task that could be automated and one that still required human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+I found it useful because it made a complicated debate balanced, accessible and practical.
 
 ### Part 3
 
@@ -185,26 +205,30 @@ After each episode, I wrote down one task that could be automated and one that s
 
 ### Keywords and collocations
 
+- animal story/book
+- mother's gift
+- Counselling for Toads
+- career setback
 - The Little Prince
-- fox
-- responsibility
-- forming bonds
-- simple language
-- adult meaning
-- childhood rereading
-- emotional insight
+- The Martian
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is *The Little Prince*, which includes a fox that teaches the main character about relationships and responsibility.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-I first read it as a child because the illustrations looked simple, then returned to it as an adult. The fox explains that forming a bond makes someone unique and also creates **responsibility for that relationship**.
+The animal story I'd like to describe is *The Little Prince*, especially the conversation with the fox.
 
-As a child, I saw it as an animal adventure; now I understand its ideas about loneliness, friendship and attention. I like the book because its language is accessible while its meaning changes with the reader's experience.
+The fox explains how time and attention create a bond and responsibility for another person.
 
-The animal characters make difficult emotions less direct and easier to consider. It reminds me that valuable stories do not need complicated plots; a simple image can **express a lasting human truth**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-One scene I remember clearly is the fox asking the prince to return at the same time each day, because anticipation gives the meeting meaning. As an adult, I connect that idea with the effort needed to maintain friendships when people live in different cities. The book has therefore influenced small habits, such as arranging a proper call instead of sending endless short messages. I would recommend it to both children and adults, although they would probably notice completely different parts of the same apparently simple story.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+Its simple animal character makes a difficult idea memorable to both children and adults.
 
 ### Part 3
 
@@ -224,26 +248,30 @@ One scene I remember clearly is the fox asking the prince to return at the same 
 
 ### Keywords and collocations
 
-- plastic-bag charge
-- learned in shops
-- reduce single-use waste
-- consumers and environment
-- visible incentive
-- affordable alternatives
-- behaviour change
-- practical policy
+- environmental law
+- Zhanjiang
+- community event
+- mother's vegetables
+- Lin's first aid
+- Chen's software
+- make a meaningful practical difference
+- local news
 
 ### Complete answer
 
-The thing I'm going to talk about is the rule requiring shops to charge for disposable plastic bags.
+<!-- Template: Things | Story: S8 | Adapted: opening / focus / ending -->
 
-I first noticed it when supermarkets stopped giving bags away automatically. The fee is small, but it creates **a visible reason to bring a reusable bag**.
+The environmental law I'd support would reduce single-use plastic at community events and coastal businesses.
 
-Consumers who plan ahead save money, while the environment benefits from lower single-use plastic consumption. Retailers also become more conscious of packaging.
+A visible charge and affordable reusable alternatives could turn general concern into a repeated daily choice.
 
-The rule is not perfect because some people simply pay the fee, and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
+Last summer a community group in Zhanjiang organised a coastal clean-up and family fair. Several people I know contributed in different ways. My mother supplied vegetables from her balcony garden and helped organise the accounts. My cousin Lin, who is training as a nurse, managed basic first aid, while my former manager Chen provided simple software for recording volunteers and donations. My niece Mia painted the event poster.
 
-In my own case, the charge was just irritating enough to make me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
+During the afternoon, a short power cut interrupted the equipment and one volunteer cut his hand. Lin **remained calm under pressure**, cleaned the wound and explained what to watch for. Chen switched the records to an offline form, and my mother checked the figures manually. Their practical response allowed the event to continue. A local news account later reported how much waste had been collected and included photographs of the cleaner beach.
+
+What impressed me was that everyone used existing skills to solve problems. Their cooperation made **a meaningful practical difference**, protected an area connected with my childhood and showed how small contributions can create a visible community result.
+
+The clean-up showed me that rules work best when people can see both the reason and the result.
 
 ### Part 3
 
@@ -261,26 +289,30 @@ In my own case, the charge was just irritating enough to make me keep two reusab
 
 ### Keywords and collocations
 
-- freelance software consultant
-- remote flexibility
-- meaningful projects
-- AI skills
-- continuous learning
-- autonomy
-- stable income
-- work-life balance
+- perfect job
+- layoff
+- mother and Stella
+- manageable steps
+- focus on what I could control
+- group project
+- daily check-in
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is working as an independent software consultant on small AI projects.
+<!-- Template: Things | Story: S4 | Adapted: opening / focus / ending -->
 
-I learned about this career from former colleagues who moved into freelance work. I would need stronger AI knowledge, client communication and the ability to manage finances and deadlines independently.
+My perfect job would be independent software consulting on small AI projects.
 
-What appeals to me most is **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
+It would combine technical problem-solving, continuous learning and greater control over my working life.
 
-The job would be perfect not because it is easy; finding clients and handling uncertainty would be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
+After I was laid off, I spent several weeks avoiding decisions because I had worked as a software engineer for about eight years and had lost confidence. My mother listened without judging me, while Stella helped me turn the problem into manageable steps. Their support made me feel understood rather than pressured.
 
-My ideal week would include two or three focused client days, one day for learning and enough time for exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility.
+I created a daily routine, updated my AI skills and joined a small group project. Our first prototype failed because responsibilities were unclear, so I suggested dividing the work according to individual strengths and holding a short daily check-in. I also used imagination to turn a vague client request into a simple visual workflow. When a former manager later offered me an overseas project, I took time to clarify the scope before replying instead of accepting too quickly.
+
+The process helped me **regain my confidence** and taught me to **focus on what I could control**. Good advice did not solve everything immediately; it gave me realistic next steps. I now use the same approach when encouraging friends or helping colleagues with difficult decisions.
+
+The career-recovery story made this feel like a realistic direction rather than a fantasy without responsibility.
 
 ### Part 3
 
@@ -300,26 +332,30 @@ My ideal week would include two or three focused client days, one day for learni
 
 ### Keywords and collocations
 
-- lightweight laptop
-- long battery life
-- portable
-- AI development
-- replace old device
-- high cost
-- professional investment
-- reliable performance
+- technology to own
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is a lightweight laptop with excellent battery life and enough power for AI development.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-I discovered the model through professional reviews, and it costs considerably more than an ordinary laptop. My current computer still works, so I would wait for a discount rather than buy impulsively.
+The technology I'd like to own is a lightweight, repairable laptop with strong battery life.
 
-The new machine would let me **work efficiently away from a desk**, test small models and travel without carrying a heavy charger. Its value is practical rather than fashionable because my computer supports both my income and learning.
+It would support AI development away from a desk, but I would buy it only when the improvement justified the cost.
 
-I want it because reliable tools reduce interruptions and allow me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-Before buying, I would compare battery tests, repairability and performance under real development workloads rather than relying on the manufacturer's headline figures. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+Reliable performance, long support and repairability matter to me more than fashion.
 
 ### Part 3
 
@@ -339,26 +375,30 @@ Before buying, I would compare battery tests, repairability and performance unde
 
 ### Keywords and collocations
 
-- ChatGPT
-- daily basis
-- explain concepts
-- brainstorm
-- repetitive tasks
-- verify information
+- app/program
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
 - human judgement
-- boost productivity
 
 ### Complete answer
 
-The thing I'm going to talk about is ChatGPT.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-I discovered it online when generative AI began attracting attention, and I now use it **on a daily basis**. At work, it explains unfamiliar technical concepts, helps me brainstorm solutions and speeds up repetitive tasks.
+The program I'd like to describe is ChatGPT, which I use for software work and English study.
 
-For English study, it helps organise notes and compare expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
+It helps me explain concepts, brainstorm and reduce repetitive work, although I verify important output.
 
-What makes it valuable is not that it replaces thinking, but that it **boosts my productivity and supports exploration**. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-For instance, when I study a difficult expression, I ask for several contexts and then check whether native sources use it in the same way. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+Its value lies in supporting my judgement and exploration rather than replacing them.
 
 ### Part 3
 
@@ -378,26 +418,30 @@ For instance, when I study a difficult expression, I ask for several contexts an
 
 ### Keywords and collocations
 
-- handwritten essay
-- primary school
-- mother
-- kept two decades
-- childhood shyness
-- practical advice
-- warm memories
-- emotional value
+- important family object
+- mother's gift
+- Counselling for Toads
+- career setback
+- The Little Prince
+- The Martian
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is a handwritten essay about my mother that I wrote in primary school.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-My family has kept it for almost two decades in a folder with old photographs.
+The important family object is an old notebook containing my childhood essay and notes from useful books.
 
-At that age I was shy, and the essay described how my mother listened without judging me and gave **practical advice based on her experience**. The paper itself is ordinary and the handwriting is untidy, but reading it now **brings back warm memories** and shows how much her support influenced my confidence.
+The paper has little financial value, but it connects my mother's support with different stages of my life.
 
-Its value lies not in money or the grade, but in the emotional connection between different stages of my life. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-The essay also contains several childish spelling mistakes and an exaggerated drawing in the margin, which makes it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+I would preserve it because its untidy writing and shared history cannot be replaced.
 
 ### Part 3
 
@@ -417,26 +461,30 @@ The essay also contains several childish spelling mistakes and an exaggerated dr
 
 ### Keywords and collocations
 
+- recent enjoyable movie
+- mother's gift
+- Counselling for Toads
+- career setback
+- The Little Prince
 - The Martian
-- watched at home
-- problem-solving
-- scientific detail
-- hopeful tone
-- capable protagonist
-- engaging pace
-- resilience
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is *The Martian*.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-I watched it at home with Stella after we had discussed space exploration. It follows an astronaut stranded on Mars who survives by combining scientific knowledge with **calm, step-by-step problem-solving**.
+The recent movie I enjoyed was *The Martian*, which I watched during my career recovery.
 
-I had seen it before, but the hopeful tone felt especially relevant after my career setback. The film creates tension without making the main character helpless, and its humour prevents the story from becoming too heavy.
+Its humour, teamwork and step-by-step problem-solving made a frightening situation feel manageable.
 
-I enjoyed how different experts cooperate across distance to solve one problem. Although some details are simplified, the movie celebrates curiosity, teamwork and resilience. It reminded me that even a frightening situation becomes more manageable when people **focus on the next practical action**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-After the film, Stella and I discussed whether the main character's optimism was realistic or simply necessary for the story. We agreed that his humour worked because it accompanied careful calculation rather than replacing it. I also liked that no single genius solved everything; engineers, scientists and crew members had to share incomplete information and accept risk. That aspect connected closely with software projects I have worked on. I would watch the movie again when I need something entertaining that still respects the audience's ability to follow a technical idea. That balance still appeals to me.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+I enjoyed it because optimism was supported by practical action rather than empty motivation.
 
 ### Part 3
 
@@ -456,26 +504,30 @@ After the film, Stella and I discussed whether the main character's optimism was
 
 ### Keywords and collocations
 
-- noise-cancelling headphones
-- urgent purchase
-- airport shop
-- limited comparison
-- higher price
-- daily use
-- mixed regret
-- plan purchases
+- overpriced item
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is a pair of noise-cancelling headphones I bought at an airport before a long flight.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-My old pair had stopped working, and I wanted to block cabin noise, so I bought quickly without comparing prices. I later discovered that the same model cost much less online.
+The overpriced item was a pair of headphones I bought urgently before a work journey.
 
-I had spent **considerably more than necessary** because the airport offered limited choice and I was under time pressure. The headphones are comfortable and I use them daily, so the purchase was not useless, but I still regret the timing.
+Limited choice and time pressure made me spend far more than the same model cost online.
 
-It taught me that urgency makes consumers less price-sensitive and that I should maintain important equipment rather than wait for a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-I kept the receipt and briefly considered returning the headphones, but the airport shop was in another city and the travel cost would have removed most of the saving. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+The purchase taught me to test equipment early and distinguish genuine need from pressure to buy immediately.
 
 ### Part 3
 
@@ -495,26 +547,30 @@ I kept the receipt and briefly considered returning the headphones, but the airp
 
 ### Keywords and collocations
 
+- useful book
+- mother's gift
 - Counselling for Toads
-- after layoff
-- psychological story
-- control responses
-- healthier routine
-- refer back
-- regain confidence
-- different perspective
+- career setback
+- The Little Prince
+- The Martian
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is *Counselling for Toads: A Psychological Adventure*.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-I found it online shortly after being laid off from my software job. Through a simple fictional story, it explains how past experiences influence emotion and behaviour.
+The useful book I'd like to describe is *Counselling for Toads*.
 
-At that time, I was questioning my ability and focusing on something I could not change. The book helped me realise that I could control **how I responded to the setback**. I built a healthier routine, learned new skills and gradually **regained my confidence**.
+Its simple psychological story helped me understand my response to a layoff and identify actions I could control.
 
-I later recommended it to Stella when she was under pressure at work. I still refer back to several ideas when I feel overwhelmed. It was useful because it gave me practical language for my emotions and helped me **look at setbacks from a different perspective**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-The book did not make me positive immediately, and I do not think a story can replace professional help when someone is seriously unwell. Its value was that it helped me recognise patterns and begin a more honest conversation with myself. I wrote down a few questions from the counselling scenes and used them when planning my week. Months later, those notes still help me separate what I can influence from what I merely wish had happened differently. That practical effect is why I call the book useful.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+I call it useful because its ideas changed my routine rather than merely making me feel positive briefly.
 
 ### Part 3
 
@@ -526,26 +582,30 @@ The book did not make me positive immediately, and I do not think a story can re
 
 ### Keywords and collocations
 
+- recent story
+- mother's gift
+- Counselling for Toads
+- career setback
 - The Little Prince
-- reread recently
-- simple plot
-- fox and rose
-- responsibility
-- adult interpretation
-- emotional clarity
-- timeless lesson
+- The Martian
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is *The Little Prince*.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-It follows a young traveller who visits different planets and learns about loneliness, friendship and responsibility. I returned to it after finding my old copy at my mother's home.
+The recent story I'd like to describe is *The Little Prince*, which I reread from my family collection.
 
-The plot is simple, but the conversation with the fox now feels **far more meaningful than it did in childhood**. It suggests that time and attention make a relationship valuable and create responsibility.
+Its themes of loneliness, friendship and responsibility felt more meaningful to me as an adult.
 
-I enjoyed the story because it communicates serious ideas through clear images rather than complicated theory. Reading it at a different life stage showed me how interpretation changes with experience. Its central lesson—that people must care for the bonds they create—remains **simple, memorable and surprisingly practical**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-I finished the book in two evenings and then called my mother, partly because the story had made me think about relationships that are easy to take for granted. I also noticed passages about adults measuring everything through numbers, which felt relevant after years of focusing heavily on work. I would not describe every part as profound, but the best scenes create space for reflection without explaining the message too aggressively. That is probably why such a short children's story continues to attract adult readers. Its meaning continues to develop across different life stages.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+The rereading showed me how the same simple story can develop as the reader's experience changes.
 
 ### Part 3
 
@@ -557,26 +617,30 @@ I finished the book in two evenings and then called my mother, partly because th
 
 ### Keywords and collocations
 
-- science-fiction sequel
-- strong trailer
-- famous cast
-- weak plot
-- excessive effects
-- predictable ending
-- mismatched expectations
-- reviews cautiously
+- disappointing movie
+- mother's gift
+- Counselling for Toads
+- career setback
+- The Little Prince
+- The Martian
+- family notebook
+- regain my confidence
 
 ### Complete answer
 
-The thing I'm going to talk about is a science-fiction sequel advertised with a famous cast and spectacular trailer.
+<!-- Template: Things | Story: S2 | Adapted: opening / focus / ending -->
 
-Stella and I saw it at a cinema because the first film had explored interesting ethical questions. Unfortunately, the sequel relied on **constant action and visual effects** while giving the characters little motivation.
+The disappointing movie was a heavily advertised science-fiction sequel I watched after *The Martian*.
 
-The ending was predictable, and several important ideas appeared without development. I did not expect perfect realism, but I wanted a coherent story.
+Its visual effects were impressive, but the predictable plot and weak motivation made the budget feel wasted.
 
-The expensive production actually made the weak writing more noticeable. I felt disappointed because the marketing had created expectations the film did not meet. The experience reminded me to read several independent reviews and not assume that famous actors or a large budget will **produce meaningful entertainment**.
+My mother gave me *Counselling for Toads* shortly after I was laid off from my software job. I was questioning my ability at the time, so its simple story about emotion, responsibility and personal choice felt directly relevant. Instead of offering empty encouragement, it helped me separate what I could influence from what had already happened.
 
-On the way home, Stella and I tried to identify why the first film had worked better. We realised that its action followed the characters' choices, while the sequel seemed to move from one visual set piece to another. That conversation was more interesting than the movie itself. I do not regret going completely because the cinema was comfortable and we enjoyed discussing it afterwards, but I would not watch the film again. Now I pay more attention to comments about story and pacing than to a dramatic trailer.
+That week I also reread *The Little Prince* and watched *The Martian*. Although they use very different settings, all three works show characters responding to loneliness or difficulty through patience, relationships and practical action. By contrast, a heavily advertised science-fiction sequel that I watched later relied on visual effects and had very little character development. Comparing them made me notice why a clear story matters more than a large budget.
+
+I wrote several ideas in an old notebook that my family has kept with my childhood essays. I still refer to those notes when I feel overwhelmed. This small collection helped me **regain my confidence**, rebuild a daily routine and **look at setbacks from a different perspective**.
+
+The experience taught me to value coherent storytelling over trailers, celebrities or scale.
 
 ### Part 3
 
@@ -588,26 +652,30 @@ On the way home, Stella and I tried to identify why the first film had worked be
 
 ### Keywords and collocations
 
-- laptop
-- work and study
-- communication
-- creative projects
-- daily dependence
-- portable access
-- backups
-- useful not emotional
+- thing you cannot live without
+- laptop and ChatGPT
+- rocket video
+- boost my productivity
+- failed update
+- cloud backup
+- repair one component
+- human judgement
 
 ### Complete answer
 
-The thing I'm going to talk about is my laptop.
+<!-- Template: Things | Story: S5 | Adapted: opening / focus / ending -->
 
-As a software engineer, I use it for coding, communication, job applications and English study. It is more than a screen because it gives me **access to my main tools and professional knowledge**.
+The thing I find hardest to live without is my laptop.
 
-For example, I recently built a small AI project entirely from home and shared it with former colleagues. The laptop also stores photographs and notes, although I keep backups so one device does not control everything.
+It supports coding, communication, English study and access to the professional tools organised around my routine.
 
-I could survive without it, but my daily life would become far less efficient and many opportunities would be inaccessible. Its value is mainly practical: it helps me learn, earn and **turn ideas into working results**. That dependence also reminds me to take breaks and maintain offline relationships.
+Before an important presentation, I was using my laptop to watch a short video about reusable rockets and prepare slides with ChatGPT. The video explained how repeated failures produced useful engineering evidence, while the program helped me organise technical ideas and remove repetitive work. I treated both as tools for exploration rather than automatic sources of truth.
 
-I try to protect the laptop by keeping automatic backups, updating it carefully and using a separate monitor when I work for long periods. I also avoid carrying it everywhere on weekends because constant access can make rest feel like unfinished work. If it failed, I could borrow another machine temporarily, but rebuilding the development environment would take considerable time. That is why the device feels essential: not because of its brand or appearance, but because years of tools, habits and professional routines are organised around it.
+That evening, the laptop installed an update and refused to start. I felt a sudden wave of panic because the meeting was less than an hour away. Fortunately, my files were in cloud storage, so I borrowed Stella's computer, restored the slides and completed the presentation. A technician later replaced one worn component, which was far cheaper than buying a new machine.
+
+Since then, I have kept automatic backups, tested equipment in advance and compared products carefully instead of buying under pressure. The experience made me support the right to repair and more transparent advertising. Reliable technology can **boost my productivity** and help me **turn ideas into working results**, but human judgement and responsible maintenance still matter.
+
+Its importance is practical, which is why I back it up, maintain it and avoid treating it as a fashion item.
 
 ### Part 3
 
@@ -619,26 +687,30 @@ I try to protect the laptop by keeping automatic backups, updating it carefully 
 
 ### Keywords and collocations
 
-- sea turtle
+- wild animal
+- Malaysia with Stella
+- broaden my horizons
 - Semporna
-- freediving
-- long migration
-- calm movement
-- threatened habitat
-- marine plastic
-- conservation curiosity
+- rented car
+- lost signal
+- hidden garden
+- sea turtle
 
 ### Complete answer
 
-The thing I'm going to talk about is the sea turtle.
+<!-- Template: Things | Story: S3 | Adapted: opening / focus / ending -->
 
-I first saw one while freediving near Semporna in Malaysia. It moved slowly below us through clear water and seemed **completely calm in its natural environment**.
+The wild animal I'd like to describe is the sea turtle I saw near Semporna.
 
-Before that moment, sea turtles were simply animals I had seen in documentaries. Seeing one directly made me curious about how they navigate enormous distances, how long they live and why they return to particular beaches.
+Seeing it move calmly through clear water made migration, plastic waste and responsible tourism feel personally relevant.
 
-I also want to understand how plastic waste, fishing and tourism affect them. The experience left me with a lasting impression because such a peaceful-looking animal survives difficult migrations and a changing ocean. Learning more would make environmental protection **personal and concrete rather than abstract**.
+Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
 
-After the trip, I watched a documentary about nesting beaches and learned that artificial light can confuse young turtles moving toward the sea. I also began checking whether wildlife tours keep a respectful distance instead of attracting animals for photographs. I would like to visit a responsible conservation centre one day and hear directly from researchers about migration tracking. The turtle I saw was only in view for a short time, but that encounter gave me a specific animal to think about whenever marine protection is discussed. That brief memory has had a lasting effect on me.
+One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
+
+The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
+
+That short encounter turned environmental protection from an abstract issue into a specific memory.
 
 ### Part 3
 

@@ -1,423 +1,123 @@
-# IELTS Speaking Part 2：12 天结构检索计划
+# IELTS Speaking Part 2：12 天模板检索计划
 
-目标：用 4 类检索结构覆盖题库 Part 2。每题先分类，再选择信息槽位和结尾方向；结构可以复用，完整句不能机械复用。
+目标：**68 篇完整答案，4 个固定模板，8 个核心故事**。记故事，不记 68 套内容。
 
-原则：
+## 不可变规则
 
-- 不写完整稿。
-- 每题只写 8-10 个关键词。
-- 每天练 3 个 cue cards。
-- 每题必须先选结构：人物 / 事件 / 事物 / 地点。
-- 固定的是信息顺序，不是完整句子；所有概括都必须由该题的具体细节支撑。
-- 结尾只完成一个功能，控制在 1–2 句，不强制上升到人生哲理。
-- 完整示范稿控制在 210–230 词，按 126–138 WPM 校准到约 1 分 40 秒。
-- 每次复盘只改 3 个错误：时态、冠词/单复数、句子没说完。
+- 每题保留完整答案与 8–10 个逐行关键词。
+- 每篇 210–230 词；126–138 WPM 约为 1 分 40 秒。
+- 同一 Story 的核心三段原样复用；只改 `opening / focus / ending`。
+- 事实、人物、时间线、collocations 不随 topic 改变。
+- 适配约 20%；重复约 80%。重复是训练设计，不是缺陷。
+- 不新增 topic 专属故事、细节或万能哲理。
 
-每天固定流程：
+答案中的维护标记：
 
-1. 5 分钟：复习昨天 3 个错误。
-2. 3 分钟：给今天题目分类。
-3. 1 分钟：每题写 8-10 个关键词。
-4. 2 分钟：按所选信息结构回答。
-5. 2 分钟：同题重答，减少错误。
-6. 3 分钟：记录 3 个错误和 1 个可复用表达。
+```html
+<!-- Template: People | Story: S1 | Adapted: opening / focus / ending -->
+```
+
+修改故事时，用 Story ID 搜索全部副本；修改 topic 时，只改三个 adapter。
 
 ---
 
-## 4 类半固定检索结构
+## 4 个固定模板
 
-使用规则：
-
-1. 方括号表示需要检索的信息，不是要逐字说出的句子。
-2. 每题选 5–7 个槽位即可，不必说完所有槽位。
-3. 每篇最多使用 1–2 个通用衔接句，后面立即接题目专属细节。
-4. 结尾从建议方向中选一个；不重复总结，也不用万能感悟。
-
-### 人物类
-
-重点：**Who → Quality → Context → Example → Reaction/result → Why this person matters**
+### People
 
 ```text
-[name + relationship]
-[one precise quality]
-[when/where you knew or noticed the person]
-[one specific incident]
-[what the person actually said or did]
-[the immediate result or your reaction]
-[choose one ending: admiration / influence / relationship / memorable quality]
+P1 Opening: who + relationship
+P2 Focus: one quality required by the topic
+P3–P5 Core story: unchanged
+P6 Ending: why this person fits the topic
 ```
 
-常用表达：
-
-- what stands out most about...
-- one thing I really appreciate is...
-- plan well in advance
-- stay calm and optimistic
-- look at things from a different perspective
-- put effort into...
-- turn ambitious ideas into reality
-- make people feel understood and supported
-
-### 事件类
-
-重点：**Context → Expectation → Change/problem → Response → Outcome → Why it remains memorable**
+### Events
 
 ```text
-[time/place and people involved]
-[what you expected]
-[what changed or became difficult]
-[your real feeling]
-[the action taken and any help received]
-[the concrete outcome]
-[choose one ending: lesson / emotional change / unexpected benefit / lasting memory]
+P1 Opening: identify the occasion
+P2 Focus: expectation/problem required by the topic
+P3–P5 Core story: unchanged
+P6 Ending: result or why it remains memorable
 ```
 
-常用表达：
-
-- things took an unexpected turn
-- things did not go as planned
-- take the wrong route
-- stay calm
-- solve the problem step by step
-- lighten the mood
-- reach the destination as planned
-- what truly matters is...
-
-### 事物类
-
-重点：背后的情感 / 实用价值，不只描述外观。
+### Things
 
 ```text
-[identify the thing clearly]
-[where it came from or how you found it]
-[appearance, content or basic function—only if relevant]
-[one specific occasion when you used, watched or read it]
-[what changed, helped or interested you]
-[choose one ending: usefulness / emotional association / changed habit / curiosity]
+P1 Opening: identify the thing
+P2 Focus: function/value required by the topic
+P3–P5 Core story: unchanged
+P6 Ending: why the thing fits the topic
 ```
 
-常用表达：
-
-- not only..., but also...
-- remind me of...
-- an integral part of my life
-- on a daily basis
-- help me organise...
-- fuel my curiosity
-- create a great sense of achievement
-- carry emotional value
-
-### 地点类
-
-重点：**Where/visit → Selected detail → Activity → Contrast → Personal meaning**。感官细节只选真正记得的，不强凑视觉、声音和气味。
+### Places
 
 ```text
-[place and location]
-[when/with whom you went]
-[one or two memorable details]
-[what you did there]
-[a useful contrast or limitation]
-[choose one ending: atmosphere / memory / activity / desire to revisit]
+P1 Opening: identify the place
+P2 Focus: feature/activity required by the topic
+P3–P5 Core story: unchanged
+P6 Ending: personal meaning or recommendation
 ```
 
-常用表达：
+适配句直接扣题。核心故事不为语法变化而改写。
 
-- what impressed me first was...
-- peaceful atmosphere
-- light floral fragrance
-- take a break from my busy daily routine
-- clear my head
-- help me unwind
-- leave me feeling refreshed
-- what appeals to me most is...
+---
+
+## 8 个核心故事
+
+Story 定义及 collocations 的唯一来源：[20-day-band7.md](20-day-band7.md#8-个核心故事)。
+
+| ID | 固定故事 | 主要适配 |
+|---|---|---|
+| S1 | Stella：同学、同事、语言、绘画、唱歌、计划 | 人物能力与兴趣 |
+| S2 | 心理学书、Little Prince、The Martian、家庭笔记 | 书、故事、电影、家庭物品 |
+| S3 | Malaysia、迷路、hidden garden、Semporna、海龟 | 旅行、地点、自然、活动 |
+| S4 | 裁员、建议、帮助、软件项目 | 决定、建议、工作 |
+| S5 | laptop、ChatGPT、故障、维修 | 科技、App、法律、媒体 |
+| S6 | 生日、饺子、羽毛球、唱歌、家庭旧物 | 庆祝、食物、运动、音乐 |
+| S7 | studio、skyscraper、museum、park | 建筑、住所、无聊、放松 |
+| S8 | 湛江社区活动、母亲、Lin、Chen、Mia | 社区、医疗、商业、环保 |
+
+完整答案中的加粗表达必须来自对应 Story 的固定 collocations。
 
 ---
 
 ## 12 天安排
 
-### Day 1：四类结构基线
+每天：复习 1 个模板 + 1 个核心故事；随机迁移 3 个 cue cards；每题录两次。
 
-- Person who plans（人物类）：谁？怎么认识？做什么计划？感受？
-- Phone not allowed（事件类）：何时何地？为什么禁用？感受？
-- App（事物类）：是什么？用途？在哪找到？感受？
-- Favorite city（地点类）：哪座？何时去？做了什么？为什么喜欢？
-
-
-1. **Describe a person you know who likes to make plans.**
-
-The person I’d like to describe is Stella, who is one of my close friends and former colleagues.
-
-What stands out most about her is her ability to plan things well in advance. I first met her shortly after I moved to Beijing three years ago, and we happened to work on the same project. Over time, we gradually became close friends because we had similar interests and often shared our thoughts about work and life.
-
-One specific example I can think of was our trip to Malaysia last year. Before the trip, Stella carefully planned almost every detail, including our flights, accommodation, and daily itinerary. Rather than making decisions at the last minute after arriving there, she always prepared everything beforehand. Thanks to her detailed planning, we not only saved a considerable amount of money but also avoided unnecessary stress during the journey.
-
-What impressed me most was that she could stay calm and organised even when dealing with complicated situations. Her planning ability made the whole trip much smoother and allowed us to fully enjoy the experience instead of worrying about what to do next.
-
-Looking back, I realised that good planning is a valuable skill because it can help people manage uncertainty and make better decisions. Spending time with Stella has taught me that what truly matters is not only having goals, but also making practical plans and taking consistent action to achieve them.
-
-**Useful collocations from this answer:**
-
-- **what stands out most about someone is…**
-    → used to introduce a person’s key quality
-- **plan things well in advance**
-    → very common IELTS Part 2 phrase
-- **prepare everything beforehand**
-    → better than “book in previous”
-- **avoid unnecessary stress**
-    → useful for travel, work, study topics
-- **stay calm and organised**
-    → reusable for describing capable people
-- **manage uncertainty**
-    → strong Band 7+ phrase for planning/problem-solving
-- **what truly matters is…**
-    → good reflection ending (also matches your notebook preference)
-
-A key improvement for you: your original answer already had the right **story structure**. Your main problem was not ideas; it was **real-time language control**. For Band 7, keep this story skeleton and practise saying it without memorising every sentence:
-
-- Stella
-- planning ability
-- Malaysia trip
-- detailed itinerary
-- wrong route
-- stayed calm
-- smooth trip
-- practical influence
+| Day | 模板 / Story | 任务 |
+|---|---|---|
+| 1 | People / S1 | plans · languages · creative |
+| 2 | People / S8 | medical · business · family |
+| 3 | Things / S2 | book · story · movie |
+| 4 | Events / S3 | lost · plan change · new activity |
+| 5 | Places / S3 | city · natural place · recommendation |
+| 6 | Events / S4 | advice · decision · group work |
+| 7 | Things / S5 | app · laptop · law |
+| 8 | Events / S6 | smiling · sport · music |
+| 9 | Places / S7 | building · boring · relaxing |
+| 10 | Events / S8 | power cut · local news · proud |
+| 11 | Mixed | four templates, one random topic each |
+| 12 | Mock | two random topics; no new content |
 
 ---
 
-
-### Day 2：人物 A
-
-- Famous person（人物类）：谁？怎么认识？想在哪见？为什么？
-- Child/Friend who draws（人物类）：谁？怎么认识？多久画一次？为什么喜欢？
-- Proud family member（人物类）：何时？谁？做了什么？为什么骄傲？
-
-
-The person I’d like to talk about is my mother, who used to work as an accountant and is now retired.
-
-What stands out most about her is how caring and supportive she has always been. I spent most of my childhood with her, and she not only took good care of me physically, but also paid close attention to my feelings.
-
-One specific example I can think of happened when I was in primary school. At that time, I was extremely shy and found it difficult to express myself because I cared too much about other people’s opinions. I was constantly worried that people might judge me.
-
-When my mother noticed what I was going through, instead of criticising me or blaming me for being shy, she listened patiently and tried to understand things from my perspective. She also gave me some practical advice based on her own life experience. She taught me not to be afraid of expressing my thoughts, because communicating openly is an important way to build connections with other people.
-
-Thanks to her support, I gradually became more comfortable expressing myself and felt that there was always someone standing by my side.
-
-What impressed me most was the way she made me feel understood and supported rather than judged. Even when I was struggling, she stayed patient and caring.
-
-Looking back, I’ve realised how much her support has influenced me. What truly matters is knowing that someone will stand by you when you’re going through a difficult time. That’s probably the main reason I’m so proud of her.
-
-
-- **what stands out most about her is…**
-- **take good care of someone**
-- **care too much about other people’s opinions**
-- **look at things from a different perspective**
-- **make someone feel understood and supported** ← 可复用衔接表达
-- **stand by someone’s side**
-- **what truly matters is…**
-
-特别注意 **stand by someone / stand by someone’s side**。你刚才说：
-
-❌ _she always stand up by my side_
-
-这里 **stand up** 是“站起来”，你真正需要的是：
-
-✅ _She always stood by my side._<br>
-= 她一直支持我。
-
-这题的**8个关键词**可以直接压缩成：
-
-- mother
-- caring and supportive
-- primary school
-- shy and afraid of judgement
-- listened patiently
-- practical advice
-- felt understood
-- stood by me
-
-下一次重答时，不要背上面的完整答案，只看这 8 个词，再按人物结构自己检索出来。这样是在强化信息顺序，而不是换成背另一篇稿。
-
----
-
-The family member I’d like to talk about is my mother. She used to be an accountant, and she’s now retired.
-
-What stands out most about her is how caring, patient and thoughtful she is. I’m really proud of her, not because of any particular achievement, but because she has always **stood by my side** whenever I’ve gone through a difficult period.
-
-One specific example I can think of happened when I was in primary school. At that time, I was quite shy and introverted, and I was afraid to express my opinions because I worried that other people might judge me if I disagreed with them.
-
-When my mother noticed what I was going through, instead of criticizing me for being shy, she listened to me carefully and gave me a lot of advice based on her own life experience. She taught me that **our self-worth shouldn’t be determined by other people’s opinions** and that expressing our thoughts can actually help us **build stronger connections with others**.
-
-Thanks to her support and encouragement, I’ve gradually become much more confident about expressing my ideas, both in my personal life and at work.
-
-**What impressed me most was** the way she supported me without putting pressure on me. She simply made me feel understood and reminded me that I wasn’t alone when I was going through a difficult time.
-
-**Looking back, I realize** what a positive impact she has had on me. She taught me to believe in myself and express my thoughts with confidence, and that’s the main reason I’m so proud of her.
-
----
-The person I’d like to talk about is my friend Stella. She’s one of my best friends and also a former colleague of mine.
-
-I first met her shortly after I moved to Beijing about three years ago. We worked on the same project, and because we had quite a lot in common, we gradually became close friends.
-
-One thing I really appreciate about Stella is her passion for painting. She particularly enjoys watercolor painting and usually paints several times a month. Even though we often have tight project deadlines, she still tries to make time for this hobby. Of course, she’s busier now, so she paints less often than she used to.
-
-One painting that really impressed me was a watercolor she showed me last month. It depicted a park near my apartment, where we sometimes go to relax. There was a pond in the center, surrounded by flowers, with a few lovely ducks on the water. The whole painting created a really peaceful and relaxing atmosphere, and looking at it made me feel calm and refreshed.
-
-What impressed me most wasn’t just the painting itself, but her passion for it. Despite the fast pace of our work, she still devotes some of her spare time to something she genuinely enjoys.
-
-Overall, her experience has taught me that it’s important to make time for the things we love. I think people really shine when they’re doing something they’re genuinely passionate about.
-
----
-
-The famous person I’d like to talk about is Elon Musk. He’s a renowned entrepreneur and the founder of companies like SpaceX and Tesla.
-
-What stands out most about him is his **innovative mindset** and his willingness to **take calculated risks**. I really admire his determination to **turn ambitious ideas into reality**, even when other people doubt whether they are possible.
-
-I first learned more about him through a documentary about SpaceX. What impressed me was that SpaceX experienced a number of failures in its early years. At that time, many people doubted whether his ideas were realistic. However, instead of being discouraged by those failures, he continued to **work towards his goal**. He and his team kept improving the technology and eventually succeeded in developing reusable rockets, which can significantly reduce the cost of space exploration.
-
-What impressed me most was his persistence. I think it’s relatively easy to stay motivated when everything is going well, but it’s much harder to **stay persistent and overcome setbacks** when you’ve failed several times.
-
-If I had the chance to meet him, I’d like to ask him how he decides whether an ambitious idea is worth pursuing and how he stays determined when things don’t go as planned.
-
-Overall, his experience has taught me that intelligence alone is not enough for success. You also need to learn from failure, take calculated risks, and stay committed to your goals.
-
----
-
-
-### Day 3：人物 B
-
-- Musical friend（人物类）：谁？如何认识？擅长什么？感受？
-- Smart solver（人物类）：谁？什么问题？如何机智解决？感受？
-- Nature lover（人物类）：谁？做了什么？如何做？感受？
-
-The person I’d like to talk about is Stella, who is one of my former colleagues and also one of my best friends. One thing I really appreciate about her is her passion for singing.
-
-I first met her shortly after I moved to Beijing about three years ago. We worked on the same project, and because we had a lot in common, we gradually became close friends.
-
-As for singing, I’m not exactly sure what type of music she was trained in, but I know that she took singing lessons after school when she was in middle school. She devoted a lot of time to it, which is probably why she’s still such a good singer today.
-
-On top of that, singing has remained one of her main hobbies. She often organizes karaoke nights at weekends. One specific example I can think of is a karaoke night she organized last month. She sang several popular songs, and she honestly sounded like a professional singer. The atmosphere was really relaxing, and everybody had a blast.
-
-What I find particularly interesting is that singing is also her way of dealing with stress. Whenever she’s under a lot of pressure at work, she goes singing with her friends because it helps her relax and unwind.
-
-Spending time with her has taught me that having a hobby you’re genuinely passionate about can make a real difference to your life. Rather than focusing entirely on work, it’s important to have something that helps you cope with stress and simply enjoy yourself.
-
----
-
-The person I’d like to talk about is my mother. She’s really good at solving problems, especially when someone in our family is going through a difficult time.
-
-What stands out most about her is her ability to stay calm and look at things from a different perspective. She’s also a very patient person who always makes me feel understood and supported.
-
-One specific example happened when I was in primary school. At that time, I was extremely shy and I was worried that other people would judge me if I expressed an opinion that was different from theirs. Because of that, I found it quite difficult to communicate with other people.
-
-When my mother noticed what I was going through, instead of blaming me for being shy or simply telling me to be more confident, she listened to me carefully and gave me some advice based on her own life experience.
-
-She told me that my self-worth shouldn’t be determined by other people’s opinions. She also encouraged me to step out of my comfort zone and communicate with others, because building connections with different people could help me broaden my horizons.
-
-Thanks to her support, I gradually regained my confidence and became much more comfortable expressing myself.
-
-What impressed me most was not only the advice she gave me, but also the emotional support behind it. She made me feel understood and supported when I genuinely needed it.
-
-Looking back, I’ve realised that solving a problem isn’t always about fixing the underlying cause immediately. Sometimes, listening to someone, understanding their feelings and providing emotional support can make an equally meaningful difference.
-
----
-
-### Day 4：人物 C + 事件
-
-- Medical field person（人物类）：谁？怎么认识？做了什么？感受？
-- Business person（人物类）：谁？怎么认识？做什么生意？为什么钦佩？
-- Giving advice（事件类）：给谁？什么建议？为什么给？
-
-### Day 5：事件 A
-
-- Many people smiling（事件类）：何时何地？发生什么？为什么笑？
-- Help solve problem（事件类）：谁帮你？什么问题？如何帮？感受？
-- Sports event（事件类）：什么比赛？在哪看？和谁看？感受？
-
-### Day 6：事件 B
-
-- Excited activity（事件类）：什么活动？何时何地？难吗？感受？
-- Waiting（事件类）：等什么？在哪等？为什么特别？感受？
-- Lost power（事件类）：发生什么？什么时候？做了什么？感受？
-
-### Day 7：事件 C
-
-- Lost way（事件类）：在哪？发生什么？如何找到路？感受？
-- Bike/Car trip（事件类）：想和谁去？去哪？何时去？为什么选这种方式？
-- Local news（事件类）：关于什么？在哪听到？谁参与？为什么感兴趣？
-
-### Day 8：事件 D + 事物
-
-- Disappointing movie（事件类）：哪部？何时看？为什么失望？感受？
-- Tech to own（事物类）：是什么？多少钱？用途？为什么想拥有？
-- Can't live without（事物类）：是什么？用途？为什么离不开？
-
-### Day 9：事物 A
-
-- Perfect job（事物类）：是什么？从哪听说？需要学什么？为什么完美？
-- Family treasure（事物类）：是什么？多久了？如何得到？为什么重要？
-- Special meal（事物类）：什么食物？什么场合吃？做法？为什么特别？
-
-### Day 10：事物 + 地点
-
-- Wild animal（事物类）：是什么？在哪见到？想了解什么？
-- Interesting building（地点类）：哪座？在哪？什么样？为什么有趣？
-- Short stay abroad（地点类）：哪个国家？在那做什么？为什么短期？
-
-### Day 11：地点 A
-
-- Famous city（地点类）：哪座？在哪？为什么出名？感受？
-- Boring place（地点类）：哪儿？和谁去？在那做什么？为什么无聊？
-- High-rise building（地点类）：在哪？外观？用途？喜欢/不喜欢原因？
-
-### Day 12：地点 B + 混合检索
-
-- Place to relax（地点类）：在哪？什么样？做什么？感受？
-- Random 4-topic retest：四类各抽 1 题，1 分钟准备，2 分钟回答。
-
-覆盖规则：
-
-- Day 1-12 用四类结构覆盖题库全部 68 个 Part 2 topics；完整分类与答案见 [`../answers/`](../answers/README.md)。
-- Day 12 的 Random 4-topic retest 不算新题，只做混合检索。
-- 如果题目可跨类，先用主结构，再用故事重点微调。
-
-主结构分类：人物 16 题、事件 25 题、事物 18 题、地点 9 题。唯一清单见 [`../topics/question-bank.md`](../topics/question-bank.md)，避免在计划内重复维护。
-
----
-
-## 默认故事映射
-
-| Template | Default stories |
-|---|---|
-| 人物 | Stella / Dr. Fan / Elon Musk，按题三选一 |
-| 事件 | Malaysia, layoff/advice, power cut/waiting |
-| 事物 | ChatGPT/app, phone, family treasure/photo，都练，按题选择 |
-| 地点 | park, art museum |
-
----
-
-## 检查标准
-
-每题回答后只问 5 个问题：
-
-1. Did I choose the right template?
-2. Did I finish in 1:40-2:00?
-3. Did I include one specific detail?
-4. Did I end with reflection?
-5. What are my 3 repeated errors?
-
-合格标准：
-
-- 68 个题都能归入 4 类。
-- 每类至少 8 个题练过。
-- 每题只靠关键词，不背稿。
-- 每题都有结尾反思。
-- 重答时错误更少。
-
----
-
-## 已定默认选择
-
-- 人物类：Stella / Dr. Fan / Elon Musk 三选一，按题选择。
-- 事物类：ChatGPT/app, phone, family treasure/photo 都练，按题选择。
-- 地点类：优先用 park 和 art museum。
+## 每题训练
+
+1. 10 秒：确认 Template + Story ID。
+2. 50 秒：写 8–10 个关键词；前三个对应 adapter，其余对应核心故事。
+3. 2 分钟：第一次回答。
+4. 30 秒：只记录 3 个错误。
+5. 2 分钟：原 Story 重答；不补新事实。
+
+## 验收
+
+- 68/68 题有完整答案。
+- 只出现 4 个 Template ID、8 个 Story ID。
+- 每篇 210–230 词。
+- 同 Story 核心三段完全相同。
+- 每组关键词一行一个。
+- 录音目标 1:35–1:50；连续两次偏离才按个人 WPM 调整。
+
+答案入口：[answers/README.md](../answers/README.md)。

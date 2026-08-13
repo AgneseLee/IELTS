@@ -28,16 +28,16 @@
 
 ## 8 个核心故事
 
-| 故事 | 核心素材 | 主要覆盖 |
-|---|---|---|
-| Story 1 | 家人、朋友或同事 | Person Who Plans, Creative Person, Famous Person, Musical Friend, Friend Who Draws, Smart Solver, Nature Lover |
-| Story 2 | 一本有用的书或故事 | Useful Book, Story You Read, Gift, Reading, Advice |
-| Story 3 | Malaysia 旅行或迷路 | Lost Way, Car Trip, Natural Place, Scenery, Short Stay Abroad, Favorite City, Famous City |
-| Story 4 | 给别人建议或被帮助 | Giving Advice, Help Solve Problem, Important Conversation, Decision |
-| Story 5 | App 或科技产品 | App, Tech to Own, Phone Not Allowed, Can't Live Without, Websites, Social Media |
-| Story 6 | 开心、自豪或庆祝场合 | Smiling Occasion, Proud of Family Member, Gift, Birthday, Sports Event |
-| Story 7 | 一次外出、建筑或无聊经历 | Interesting Building, High-rise Building, Boring Place, Place to Relax, Public Place |
-| Story 8 | 特别食物、活动或等待经历 | Special Meal, Excited Activity, Waiting, Lost Power, Local News, Medical/Business Person |
+| 故事 | 固定素材 | 固定 collocations | 主要覆盖 |
+|---|---|---|---|
+| Story 1 | Stella：同学、同事、语言、绘画、唱歌、计划 | `plan well in advance` · `stay calm and optimistic` · `learn from mistakes` | 人物兴趣、能力与性格 |
+| Story 2 | 心理学书、Little Prince、The Martian、家庭笔记 | `regain my confidence` · `look at setbacks from a different perspective` · `carry emotional value` | 书、故事、电影、家庭物品 |
+| Story 3 | Malaysia、迷路、hidden garden、Semporna、海龟 | `broaden my horizons` · `leave a lasting impression` · `step outside my comfort zone` | 旅行、城市、自然、活动 |
+| Story 4 | 裁员、母亲建议、Stella 帮助、软件项目 | `feel understood and supported` · `focus on what I could control` · `manageable steps` | 建议、决定、工作、帮助 |
+| Story 5 | laptop、ChatGPT、技术故障、维修 | `boost my productivity` · `turn ideas into working results` · `test equipment in advance` | App、科技、法律、媒体 |
+| Story 6 | 生日、饺子、羽毛球、唱歌、家庭旧物 | `a genuine sense of achievement` · `shared family memory` · `warm and relaxed atmosphere` | 庆祝、食物、运动、音乐 |
+| Story 7 | 北京 studio、skyscraper、museum、park | `clear my head` · `take a break from my busy daily routine` · `practical comfort` | 建筑、住所、无聊、放松 |
+| Story 8 | 湛江社区活动、母亲、Lin、Chen、Mia、本地新闻 | `remain calm under pressure` · `make a meaningful practical difference` · `a visible community result` | 社区、医疗、商业、环保 |
 
 迁移规则：
 

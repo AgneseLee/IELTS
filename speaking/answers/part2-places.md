@@ -6,24 +6,30 @@
 
 ### Keywords and collocations
 
-- office skyscraper
-- Beijing
-- glass exterior
-- natural light
-- city view
-- efficient land use
-- crowded lifts
-- mixed feelings
+- tall building you like/dislike
+- clear my head
+- Stella.s studio
+- glass skyscraper
+- art museum
+- phone ban
+- boring lobby
+- neighbourhood park
 
 ### Complete answer
 
-The place I'd like to describe is an office skyscraper near my former workplace in Beijing. Its glass exterior reflects the sky, and the entrance opens into a bright atrium filled with natural light. From the upper floors, I could see **the city stretching in every direction**, which was impressive at sunset.
+<!-- Template: Places | Story: S7 | Adapted: opening / focus / ending -->
 
-I could also hear office conversations and lift doors and smell coffee from the lobby café. I liked the building because it used limited urban land efficiently and placed offices, cafés and transport links close together. However, the lifts became crowded during rush hour, and the sealed windows sometimes made the interior feel disconnected from nature.
+The tall building I'd like to describe is the glass skyscraper near my former Beijing office.
 
-Overall, I like its clean design and convenience, but I would not want every building to look the same. A successful tall building should combine visual impact with **a comfortable experience for the people inside**.
+I liked its bright atrium and city view, but crowded lifts and sealed windows reduced daily comfort.
 
-I visited the upper floors several times for meetings, and the view was always the part guests mentioned first. However, employees cared more about practical details such as waiting for lifts, finding a quiet desk and getting fresh air during long days. That contrast changed how I judge architecture. A building can look impressive in a photograph and still create small frustrations for the people using it daily. I would keep the bright public spaces but add accessible outdoor areas and more natural ventilation.
+One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+
+We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
+
+The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
+
+My view is mixed because a successful tall building must work for users as well as photographs.
 
 ### Part 3
 
@@ -43,24 +49,30 @@ I visited the upper floors several times for meetings, and the view was always t
 
 ### Keywords and collocations
 
-- airport waiting area
-- delayed flight
-- artificial lighting
-- crowded seats
-- repetitive announcements
-- little to do
-- trapped feeling
-- purpose matters
+- boring place
+- clear my head
+- Stella.s studio
+- glass skyscraper
+- art museum
+- phone ban
+- boring lobby
+- neighbourhood park
 
 ### Complete answer
 
-The place I'd like to describe is an airport waiting area where Stella and I spent almost six hours after a flight delay. The space had rows of hard seats, bright artificial lighting and no windows near our gate.
+<!-- Template: Places | Story: S7 | Adapted: opening / focus / ending -->
 
-The same announcements were repeated continuously, and the smell of food drifted over from cafés that were already overcrowded. We had checked in, so we could not explore the city or do anything meaningful.
+The boring place I'd like to describe is the museum waiting lobby where Stella and I spent almost an hour.
 
-We talked, read and walked around, but the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time.
+Plain seating, repetitive announcements and uncertainty made it difficult to focus on any activity.
 
-Every hour, the departure board changed without giving a useful explanation, so we could not relax or decide to have a proper meal. I tried working on my laptop, but the noise and uncomfortable seating made concentration difficult. Eventually, Stella suggested a simple game in which we invented stories about other travellers, and that helped briefly. The experience showed me that boredom is not always caused by having nothing available; uncertainty can prevent people from becoming absorbed in any one activity. I now carry downloaded books and a charger, but clear information would still matter more on delayed journeys.
+One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+
+We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
+
+The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
+
+The contrast with the exhibition showed me that waiting feels worst when people receive no useful information.
 
 ### Part 3
 
@@ -80,24 +92,30 @@ Every hour, the departure board changed without giving a useful explanation, so 
 
 ### Keywords and collocations
 
-- Kuala Lumpur
-- Malaysia trip
-- multicultural food
-- modern skyline
-- traditional streets
-- efficient transport
-- lively atmosphere
-- accessible variety
+- favourite visited city
+- Malaysia with Stella
+- broaden my horizons
+- Semporna
+- rented car
+- lost signal
+- hidden garden
+- sea turtle
 
 ### Complete answer
 
-The place I'd like to describe is Kuala Lumpur. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**.
+<!-- Template: Places | Story: S3 | Adapted: opening / focus / ending -->
 
-In the markets, we could hear several languages and smell food from different cultures within a single street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed.
+My favourite city that I've visited is Kuala Lumpur in Malaysia.
 
-We visited a museum, tried local dishes and walked around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
+I enjoyed its modern skyline, traditional food streets, cultural variety and transport that was easy for a first-time visitor.
 
-One evening, we moved from a modern shopping area to a street of older food stalls within a short walk. The change felt natural rather than staged for tourists, and a vendor patiently explained a dish we had never tried. I also appreciated that English was widely understood, which reduced stress without removing the sense of being somewhere different. I would return for a longer stay because ten days allowed us to see the main areas but not to understand the city's everyday rhythm. That unfinished feeling makes another visit especially appealing.
+Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+
+One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
+
+The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
+
+The city felt varied without becoming difficult to navigate, which is why I would happily return.
 
 ### Part 3
 
@@ -125,26 +143,30 @@ One evening, we moved from a modern shopping area to a street of older food stal
 
 ### Keywords and collocations
 
+- place you recommend
+- Malaysia with Stella
+- broaden my horizons
 - Semporna
-- Sabah
-- clear water
-- island boats
-- sea turtles
-- local seafood
-- protect environment
-- memorable escape
+- rented car
+- lost signal
+- hidden garden
+- sea turtle
 
 ### Complete answer
 
-The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life.
+<!-- Template: Places | Story: S3 | Adapted: opening / focus / ending -->
 
-I could also hear boat engines and gentle waves and smell salty sea air.
+The place I'd recommend is Semporna in Sabah, Malaysia.
 
-What impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
+Its clear water, small islands and marine life suit travellers who value nature more than luxury shopping.
 
-I would recommend it to people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a genuine break from city pressure and **deepened my appreciation for marine conservation**.
+Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
 
-The most memorable morning began before the harbour became busy. Our boat passed small homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations honestly. For the right traveller, however, the clear water and direct contact with marine life easily justify the journey.
+One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
+
+The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
+
+I would recommend responsible operators because protecting the environment is essential to the experience.
 
 ### Part 3
 
@@ -162,24 +184,30 @@ The most memorable morning began before the harbour became busy. Our boat passed
 
 ### Keywords and collocations
 
-- Stella's studio
-- city centre
-- stylish interior
-- large windows
-- convenient location
-- traffic noise
-- limited storage
-- visit-versus-live distinction
+- home you visit but would not live in
+- clear my head
+- Stella.s studio
+- glass skyscraper
+- art museum
+- phone ban
+- boring lobby
+- neighbourhood park
 
 ### Complete answer
 
-The place I'd like to describe is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
+<!-- Template: Places | Story: S7 | Adapted: opening / focus / ending -->
 
-I could also hear traffic below the windows and smell coffee and watercolour paint. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
+The home I enjoy visiting but would not live in is Stella's small studio in central Beijing.
 
-Since I work from home frequently, I also need a separate desk area. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
+Its paintings and warm light feel welcoming, but traffic noise, limited storage and no separate workspace would become difficult.
 
-When I visit, Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
+One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+
+We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
+
+The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
+
+The flat works better for short visits than for my daily routine as someone who often works from home.
 
 ### Part 3
 
@@ -195,24 +223,30 @@ When I visit, Stella usually opens the windows, makes coffee and shows me whiche
 
 ### Keywords and collocations
 
+- interesting building
+- clear my head
+- Stella.s studio
+- glass skyscraper
 - art museum
-- Beijing
-- curved white walls
-- spacious interior
-- natural light
-- guide movement
-- temporary exhibitions
-- calm reflection
+- phone ban
+- boring lobby
+- neighbourhood park
 
 ### Complete answer
 
-The place I'd like to describe is an art museum near my apartment in Beijing. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**.
+<!-- Template: Places | Story: S7 | Adapted: opening / focus / ending -->
 
-I could also hear quiet footsteps in the galleries and smell paper and polished wood. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down.
+The interesting building I'd like to describe is the art museum near my Beijing apartment.
 
-It functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
+Its curved walls, skylights and gentle route influence visitors' mood while still supporting exhibitions and public talks.
 
-During the watercolour exhibition, Stella and I noticed that the changing daylight made the same wall look different when we returned an hour later. There were also benches placed at natural pauses in the route, so visitors could rest without blocking anyone. I later attended a public talk in a smaller room and saw how easily the building shifted from quiet viewing to conversation. I would take an architecture student there because the design is memorable, yet it never competes aggressively with the art inside.
+One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
+
+We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
+
+The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
+
+I find it interesting because the architecture serves its purpose instead of merely seeking attention.
 
 ### Part 3
 
@@ -232,24 +266,30 @@ During the watercolour exhibition, Stella and I noticed that the changing daylig
 
 ### Keywords and collocations
 
-- Zhanjiang
-- southern China
-- coastline
-- seafood
-- coconut trees
-- slower pace
-- developing transport
-- personal connection
+- interesting/famous city
+- Malaysia with Stella
+- broaden my horizons
+- Semporna
+- rented car
+- lost signal
+- hidden garden
+- sea turtle
 
 ### Complete answer
 
-The place I'd like to describe is Zhanjiang, my hometown in southern China. It is famous for its coastline, fresh seafood and tropical character. Streets near the sea are lined with coconut trees, and the air often carries **a light salty smell from the coast**.
+<!-- Template: Places | Story: S3 | Adapted: opening / focus / ending -->
 
-I could also hear traffic mixed with coastal sounds and smell salty air from the sea. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited.
+The interesting city I'd like to describe is Kuala Lumpur, the starting point of our Malaysia trip.
 
-Recent transport development has made it easier to reach, while the local food and scenery remain distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
+Its mixture of modern development, several languages and older neighbourhoods gave it a clear sense of variety.
 
-Whenever I return, I walk along the coastline with my mother and eat seafood at a small restaurant our family has visited for years. Some streets have changed, but the humid air and slower evenings immediately feel familiar. I would not pretend the city offers the same professional opportunities as Beijing, and many younger people leave for that reason. Still, its mixture of developing transport, tropical scenery and strong local food culture makes it worth visiting even for someone without my personal connection.
+Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+
+One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
+
+The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
+
+I found it memorable because cultural difference was visible while everyday travel remained manageable.
 
 ### Part 3
 
@@ -269,26 +309,30 @@ Whenever I return, I walk along the coastline with my mother and eat seafood at 
 
 ### Keywords and collocations
 
+- place to relax
+- clear my head
+- Stella.s studio
+- glass skyscraper
+- art museum
+- phone ban
+- boring lobby
 - neighbourhood park
-- weekly visit
-- pond
-- birds and leaves
-- fresh smell
-- evening walk
-- clear head
-- accessible refuge
 
 ### Complete answer
 
-The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends.
+<!-- Template: Places | Story: S7 | Adapted: opening / focus / ending -->
 
-What impressed me first was a pond surrounded by flowers and tall trees.
+The place I go to relax is the neighbourhood park near my Beijing apartment.
 
-I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
+The pond, trees and fresh smell after rain help me clear my head without cost or complicated planning.
 
-Sometimes Stella joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
+One Saturday Stella and I spent a day visiting familiar places in Beijing. We met at her small studio near my former office, a glass skyscraper with a bright atrium and impressive city views. The building looked efficient, although crowded lifts and sealed windows made it less comfortable during long working days.
 
-My favourite time to go is shortly after rain, when the paths are quiet and the light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
+We then visited a nearby art museum with curved white walls and natural light from skylights. Phones were not allowed in one exhibition, so we paid closer attention to the paintings and discussed details instead of taking photographs. We waited almost an hour in a plain lobby before entering, and the repetitive announcements made that part surprisingly boring. Afterwards, we walked to a neighbourhood park with a pond, tall trees and a fresh, earthy smell after rain.
+
+The entire outing was inexpensive and required little planning. The museum stimulated my curiosity, while the park helped me **clear my head** and **take a break from my busy daily routine**. It showed me that good places balance visual character with practical comfort.
+
+Its value comes from being available every week, not from being a famous attraction.
 
 ### Part 3
 
@@ -300,24 +344,30 @@ My favourite time to go is shortly after rain, when the paths are quiet and the 
 
 ### Keywords and collocations
 
-- Semporna islands
-- Malaysia
-- turquoise water
-- coral
-- quiet waves
-- freediving
+- natural place
+- Malaysia with Stella
+- broaden my horizons
+- Semporna
+- rented car
+- lost signal
+- hidden garden
 - sea turtle
-- fragile ecosystem
 
 ### Complete answer
 
-The place I'd like to describe is the island area near Semporna in Malaysia. I visited with Stella last May. The water was so clear that we could see coral and fish from the boat, while the only constant sound was **the gentle movement of waves**.
+<!-- Template: Places | Story: S3 | Adapted: opening / focus / ending -->
 
-I could also hear gentle waves against the boat and smell clean, salty sea air. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful.
+The natural place I'd like to describe is the island area near Semporna.
 
-I spent most of the day swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
+Clear water, coral, quiet waves and the sea turtle created a peaceful contrast with crowded urban life.
 
-Our guide asked everyone to avoid standing on coral and to keep a respectful distance from the turtle. Those instructions did not reduce the enjoyment; they made us pay closer attention to how easily visitors could cause damage. Back in Beijing, the memory has influenced the tour operators I choose and the amount of disposable plastic I use while travelling. I would love to return, but only if tourism continues to protect the clear water and wildlife that make the islands worth visiting in the first place.
+Stella and I spent ten days in Malaysia last May. We explored Kuala Lumpur first and then travelled to Semporna, where the water was clear enough to see coral and fish from the boat. We rented a car for part of the journey because it gave us the freedom to visit small beaches and villages that public transport did not reach.
+
+One afternoon our navigation signal disappeared in a mountainous area and we took the wrong route. Instead of panicking, we returned to a visible landmark, checked an offline screenshot and asked other travellers for directions. The mistake led us to a hidden garden, so the unplanned stop became one of our favourite memories. Near Semporna, we also tried freediving and saw a sea turtle moving quietly below us.
+
+The trip included early starts, a cancelled boat and unfamiliar food, but those difficulties made it more memorable rather than ruining it. It **broadened my horizons**, strengthened my friendship with Stella and taught me to prepare carefully while leaving room for unexpected experiences.
+
+The place left me refreshed and more personally responsible for protecting fragile marine environments.
 
 ### Part 3
 

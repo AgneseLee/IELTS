@@ -43,7 +43,7 @@ P4 This matters to me because [personal relevance].
 ```text
 E1 The [event/experience] I'd like to describe [happened/would take place] [when/where].
    I had expected [expectation], because [reason].
-E2 The main [challenge/change] was [cue-specific problem].
+E2 The main [challenge/change/constraint/advantage] was [cue-specific point].
    At first, I felt [feeling], since [reason].
    However, [relevant development].
 E3 Instead of [ordinary response], I/we [specific action].
@@ -76,7 +76,7 @@ T5 I value/recommend it because [direct answer].
 ```text
 L1 The place I'd like to describe is [where], which I [visit relationship].
    The detail that first caught my attention was [selected detail].
-L2 When I visited, I [relevant activity].
+L2 When I [visited/visit], I [relevant activity].
    The atmosphere felt [description] because [cue-specific evidence].
 L3 What I liked/disliked most was [key feature].
    However, [contrast/limitation].
@@ -86,7 +86,7 @@ L4 I remember this place because [lasting meaning].
    That is why [direct answer to cue card].
 ```
 
-固定句首与段落顺序；方括号内填 cue-card-specific 内容。允许在槽内增加从句；禁止另加万能感悟。
+每个代码首行是必用段首句架；缩进行是可选扩展句架。方括号内只填 cue-card-specific 内容；允许增加相关从句，禁止另加万能感悟。
 
 ---
 

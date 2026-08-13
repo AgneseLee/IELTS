@@ -25,7 +25,7 @@ When I visited the upper floors, I usually arrived through a busy lobby, took a 
 
 What I liked most was the efficient use of limited urban land and the impressive sunset view. However, the lifts became frustrating during rush hour, and the sealed windows sometimes made the interior feel disconnected from fresh air and nature. This contrast showed me that a building can look excellent in a photograph but still create small problems for its daily users.
 
-I remember the skyscraper because it changed how I judge architecture: visual impact matters, but ordinary experience matters more. If I could change it, I would add accessible outdoor areas, better lift management and more natural ventilation. That is why I like the building overall, while still believing that future skyscrapers should offer more than height and a dramatic skyline.
+I remember this place because it changed how I judge architecture: visual impact matters, but ordinary experience matters more. If I could change it, I would add accessible outdoor areas, better lift management and more natural ventilation. That is why I like the building overall, while still believing that future skyscrapers should offer more than height and a dramatic skyline.
 
 ### Part 3
 
@@ -60,11 +60,11 @@ I remember the skyscraper because it changed how I judge architecture: visual im
 
 The place I'd like to describe is an airport waiting area where Stella and I spent almost six hours after a flight delay. The space had rows of hard seats, bright artificial lighting and no windows near our gate.
 
-The same announcements were repeated continuously, and the smell of food drifted over from cafés that were already overcrowded. We had checked in, so we could not explore the city or do anything meaningful.
+When I visited, the same announcements were repeated continuously, and the smell of food drifted over from cafés that were already overcrowded. We had checked in, so we could not explore the city or do anything meaningful.
 
-We talked, read and walked around, but the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time.
+What I disliked most was that although we talked, read and walked around, the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time.
 
-Every hour, the departure board changed without giving a useful explanation, so we could not relax or decide to have a proper meal. I tried working on my laptop, but the noise and uncomfortable seating made concentration difficult. Eventually, Stella suggested a simple game in which we invented stories about other travellers, and that helped briefly. The experience showed me that boredom is not always caused by having nothing available; uncertainty can prevent people from becoming absorbed in any one activity. I now carry downloaded books and a charger, but clear information would still matter more on delayed journeys.
+I remember this place because every hour the departure board changed without a useful explanation, so we could not relax or decide to have a proper meal. I tried working on my laptop, but the noise and uncomfortable seating made concentration difficult. Eventually, Stella suggested a simple game in which we invented stories about other travellers, and that helped briefly. The experience showed me that boredom is not always caused by having nothing available; uncertainty can prevent people from becoming absorbed in any one activity. I now carry downloaded books and a charger, but clear information would still matter more on delayed journeys.
 
 ### Part 3
 
@@ -99,11 +99,11 @@ Every hour, the departure board changed without giving a useful explanation, so 
 
 The place I'd like to describe is Kuala Lumpur. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**.
 
-In the markets, we could hear several languages and smell food from different cultures within a single street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed.
+When I visited, I could hear several languages and smell food from different cultures within a single market street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed.
 
-We visited a museum, tried local dishes and walked around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
+What I liked most was visiting a museum, trying local dishes and walking around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
 
-One evening, we moved from a modern shopping area to a street of older food stalls within a short walk. The change felt natural rather than staged for tourists, and a vendor patiently explained a dish we had never tried. I also appreciated that English was widely understood, which reduced stress without removing the sense of being somewhere different. I would return for a longer stay because ten days allowed us to see the main areas but not to understand the city's everyday rhythm. That unfinished feeling makes another visit especially appealing.
+I remember this place because one evening we moved from a modern shopping area to older food stalls within a short walk. The change felt natural rather than staged for tourists, and a vendor patiently explained a dish we had never tried. I also appreciated that English was widely understood, which reduced stress without removing the sense of being somewhere different. I would return for a longer stay because ten days allowed us to see the main areas but not to understand the city's everyday rhythm. That unfinished feeling makes another visit especially appealing.
 
 ### Part 3
 
@@ -146,11 +146,11 @@ One evening, we moved from a modern shopping area to a street of older food stal
 
 The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. I could also hear boat engines and gentle waves and smell salty sea air.
 
-What impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
+When I visited, what impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
 
-I would recommend it to people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a genuine break from city pressure and **deepened my appreciation for marine conservation**.
+What I liked most was that it suits people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a break from city pressure and **deepened my appreciation for marine conservation**.
 
-The most memorable morning began before the harbour became busy. Our boat passed small homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations honestly. For the right traveller, however, the clear water and direct contact with marine life easily justify the journey.
+I remember this place because our most memorable morning began before the harbour became busy. Our boat passed homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations. For the right traveller, however, the clear water and contact with marine life easily justify the journey.
 
 ### Part 3
 
@@ -183,11 +183,11 @@ The most memorable morning began before the harbour became busy. Our boat passed
 
 The place I'd like to describe is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
 
-I could also hear traffic below the windows and smell coffee and watercolour paint. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
+When I visited, I could hear traffic below the windows and smell coffee and watercolour paint. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
 
-Since I work from home frequently, I also need a separate desk area. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
+What I disliked most was the lack of a separate desk area, since I work from home frequently. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
 
-When I visit, Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
+I remember this place because Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
 
 ### Part 3
 
@@ -218,11 +218,11 @@ When I visit, Stella usually opens the windows, makes coffee and shows me whiche
 
 The place I'd like to describe is an art museum near my apartment in Beijing. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**.
 
-I could also hear quiet footsteps in the galleries and smell paper and polished wood. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down.
+When I visited, I could hear quiet footsteps in the galleries and smell paper and polished wood. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down.
 
-It functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
+What I liked most was that it functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
 
-During the watercolour exhibition, Stella and I noticed that the changing daylight made the same wall look different when we returned an hour later. There were also benches placed at natural pauses in the route, so visitors could rest without blocking anyone. I later attended a public talk in a smaller room and saw how easily the building shifted from quiet viewing to conversation. I would take an architecture student there because the design is memorable, yet it never competes aggressively with the art inside.
+I remember this place because, during a watercolour exhibition, changing daylight made the same wall look different when we returned an hour later. There were also benches placed at natural pauses in the route, so visitors could rest without blocking anyone. I later attended a public talk in a smaller room and saw how easily the building shifted from quiet viewing to conversation. I would take an architecture student there because the design is memorable, yet it never competes aggressively with the art inside.
 
 ### Part 3
 
@@ -255,13 +255,13 @@ During the watercolour exhibition, Stella and I noticed that the changing daylig
 
 <!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Zhanjiang / coastline / belonging -->
 
-The place I'd like to describe is Zhanjiang, my hometown in southern China. It is famous for its coastline, fresh seafood and tropical character. Streets near the sea are lined with coconut trees, and the air often carries **a light salty smell from the coast**.
+The place I'd like to describe is Zhanjiang, my hometown in southern China. It is famous for its coastline, fresh seafood and tropical character.
 
-I could also hear traffic mixed with coastal sounds and smell salty air from the sea. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited.
+When I visited, I could hear traffic mixed with coastal sounds and smell salty air from the sea. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited.
 
-Recent transport development has made it easier to reach, while the local food and scenery remain distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
+What I liked most was that recent transport development made it easier to reach while its local food and scenery remained distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
 
-Whenever I return, I walk along the coastline with my mother and eat seafood at a small restaurant our family has visited for years. Some streets have changed, but the humid air and slower evenings immediately feel familiar. I would not pretend the city offers the same professional opportunities as Beijing, and many younger people leave for that reason. Still, its mixture of developing transport, tropical scenery and strong local food culture makes it worth visiting even for someone without my personal connection.
+I remember this place because, whenever I return, I walk along the coastline with my mother and eat at a seafood restaurant our family has visited for years. Some streets have changed, but the humid air and slower evenings immediately feel familiar. I would not pretend the city offers the same professional opportunities as Beijing, and many younger people leave for that reason. Still, its mixture of developing transport, tropical scenery and strong local food culture makes it worth visiting even for someone without my personal connection.
 
 ### Part 3
 
@@ -296,11 +296,11 @@ Whenever I return, I walk along the coastline with my mother and eat seafood at 
 
 The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends. What impressed me first was a pond surrounded by flowers and tall trees.
 
-I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
+When I visit, I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
 
-Sometimes Stella joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
+What I like most is that Stella sometimes joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
 
-My favourite time to go is shortly after rain, when the paths are quiet and the light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
+I remember this place because shortly after rain the paths are quiet and light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
 
 ### Part 3
 
@@ -327,11 +327,11 @@ My favourite time to go is shortly after rain, when the paths are quiet and the 
 
 The place I'd like to describe is the island area near Semporna in Malaysia. I visited with Stella last May. The water was so clear that we could see coral and fish from the boat, while the only constant sound was **the gentle movement of waves**.
 
-I could also hear gentle waves against the boat and smell clean, salty sea air. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful.
+When I visited, I could hear gentle waves against the boat and smell clean, salty sea air. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful.
 
-I spent most of the day swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
+What I liked most was swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
 
-Our guide asked everyone to avoid standing on coral and to keep a respectful distance from the turtle. Those instructions did not reduce the enjoyment; they made us pay closer attention to how easily visitors could cause damage. Back in Beijing, the memory has influenced the tour operators I choose and the amount of disposable plastic I use while travelling. I would love to return, but only if tourism continues to protect the clear water and wildlife that make the islands worth visiting in the first place.
+I remember this place because our guide asked everyone to avoid standing on coral and keep a respectful distance from the turtle. Those instructions did not reduce the enjoyment; they made us pay closer attention to how easily visitors could cause damage. Back in Beijing, the memory has influenced the tour operators I choose and the amount of disposable plastic I use while travelling. I would love to return, but only if tourism continues to protect the clear water and wildlife that make the islands worth visiting in the first place.
 
 ### Part 3
 

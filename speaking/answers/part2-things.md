@@ -56,15 +56,15 @@ I value the video because it made practical innovation understandable without ov
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: right-to-repair / consumer-cost / electronic-waste -->
 
-The thing I'm going to talk about is a right-to-repair law for electronic devices.
+The thing I'd like to describe is a right-to-repair law for electronic devices.
 
-Manufacturers would need to provide spare parts, basic repair information and reasonable software support for several years. I thought of it after my laptop overheated and a simple component almost forced me to replace the whole machine.
+It mainly requires manufacturers to provide spare parts, repair information and long-term software support. I thought of it after my laptop overheated and a simple component almost forced me to replace the whole machine.
 
-The law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
+What interested me most was how the law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
 
-I think the policy would become popular if it protected safety and did not reveal sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
+A specific example would be protecting repair access without revealing sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
 
-The law should be introduced gradually, beginning with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
+I value the proposal because it could begin gradually with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
 
 ### Part 3
 
@@ -97,15 +97,15 @@ The law should be introduced gradually, beginning with common products such as p
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B6 | Modules: dumplings / family-preparation / shared-memory -->
 
-The thing I'm going to talk about is dumplings, which my family eats during Lunar New Year.
+The thing I'd like to describe is dumplings, which my family eats during Lunar New Year.
 
-We prepare the filling with pork, vegetables and seasoning, then wrap it together around the table. Their shape traditionally represents wealth, but for me their real value lies in **the shared process of making them**.
+It mainly consists of pork, vegetables and seasoning wrapped together around the family table. Their shape traditionally represents wealth, but for me their real value lies in **the shared process of making them**.
 
-My mother prepares the filling, while younger family members fold dumplings in rather uneven shapes. We talk throughout the process, and the familiar smell makes the home feel festive.
+What interested me most was how my mother prepared the filling while younger relatives folded uneven shapes. We talk throughout the process, and the familiar smell makes the home feel festive.
 
-Dumplings are not rare everyday food, yet eating them at New Year carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
+A specific example is eating them at New Year, when ordinary food carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
 
-My favourite part is the final stage, when everyone tries to recognise the dumplings they folded because each person has a slightly different shape. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family.
+I value this food because everyone finally tries to recognise the dumplings they folded. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family. That shared preparation turns cooking into a family activity rather than a routine meal.
 
 ### Part 3
 
@@ -132,15 +132,15 @@ My favourite part is the final stage, when everyone tries to recognise the dumpl
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: badminton-player / training-story / cautious-judgement -->
 
-The thing I'm going to talk about is an advertisement featuring a famous badminton player promoting sports shoes.
+The thing I'd like to describe is an advertisement featuring a famous badminton player promoting sports shoes.
 
-I saw it online before a live match. It showed the athlete training alone early in the morning, making mistakes and gradually improving.
+It mainly tells a training story, and I saw it online before a live match. It showed the athlete training alone early in the morning, making mistakes and gradually improving.
 
-The product appeared naturally rather than interrupting the story, and the message focused on **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
+What interested me most was how the product appeared naturally while the message stressed **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
 
-Celebrity endorsement makes an advertisement memorable and can lend credibility when the person genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
+A specific example is celebrity endorsement lending credibility when the athlete genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
 
-I remembered the campaign when I later saw the same athlete in a tournament, which shows how effectively the story connected the person with the brand. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well.
+I value the campaign because I remembered it when I later saw the athlete in a tournament. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well. That connection felt convincing.
 
 ### Part 3
 
@@ -173,15 +173,15 @@ I remembered the campaign when I later saw the same athlete in a tournament, whi
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: AI-and-work / doctor-example / balanced-view -->
 
-The thing I'm going to talk about is an online documentary series about AI and work.
+The thing I'd like to describe is an online documentary series about AI and work.
 
-Each episode followed people in a different profession and showed where AI saved time and where human judgement remained essential. I watched it weekly because the interviews provided **concrete examples rather than abstract predictions**.
+It mainly follows different professions and shows where AI saves time and human judgement remains essential. I watched it weekly because the interviews provided **concrete examples rather than abstract predictions**.
 
-One episode followed a doctor using software to review scans while still making the final decision and explaining it to a patient. As a software engineer, I found the balanced approach useful: it neither treated AI as magic nor dismissed its benefits.
+What interested me most was a doctor using software while still making and explaining the final decision. As a software engineer, I found the balanced approach useful: it neither treated AI as magic nor dismissed its benefits.
 
-The programme helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
+A specific example helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
 
-After each episode, I wrote down one task that could be automated and one that still required human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people.
+I value the programme because, after each episode, I noted one automatable task and one still requiring human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people. This simple comparison made its balanced message easier to remember.
 
 ### Part 3
 
@@ -208,15 +208,15 @@ After each episode, I wrote down one task that could be automated and one that s
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / fox / responsibility -->
 
-The thing I'm going to talk about is *The Little Prince*, which includes a fox that teaches the main character about relationships and responsibility.
+The thing I'd like to describe is *The Little Prince*, which includes a fox that teaches the main character about relationships and responsibility.
 
-I first read it as a child because the illustrations looked simple, then returned to it as an adult. The fox explains that forming a bond makes someone unique and also creates **responsibility for that relationship**.
+It mainly presents serious relationships through simple illustrations; I first read it as a child and returned as an adult. The fox explains that forming a bond makes someone unique and also creates **responsibility for that relationship**.
 
-As a child, I saw it as an animal adventure; now I understand its ideas about loneliness, friendship and attention. I like the book because its language is accessible while its meaning changes with the reader's experience.
+What interested me most was how an animal adventure revealed ideas about loneliness, friendship and attention. I like the book because its language is accessible while its meaning changes with the reader's experience.
 
-The animal characters make difficult emotions less direct and easier to consider. It reminds me that valuable stories do not need complicated plots; a simple image can **express a lasting human truth**.
+A specific example is the animal characters making difficult emotions less direct and easier to consider. It reminds me that valuable stories do not need complicated plots; a simple image can **express a lasting human truth**.
 
-One scene I remember clearly is the fox asking the prince to return at the same time each day, because anticipation gives the meeting meaning. As an adult, I connect that idea with the effort needed to maintain friendships when people live in different cities. The book has therefore influenced small habits, such as arranging a proper call instead of sending endless short messages. I would recommend it to both children and adults, although they would probably notice completely different parts of the same apparently simple story.
+I value the story because the fox shows how anticipation can give a meeting meaning. As an adult, I connect that idea with the effort needed to maintain friendships when people live in different cities. The book has therefore influenced small habits, such as arranging a proper call instead of sending endless short messages. I would recommend it to both children and adults, although they would probably notice completely different parts of the same apparently simple story. The scene becomes a practical lesson about responsibility.
 
 ### Part 3
 
@@ -249,15 +249,15 @@ One scene I remember clearly is the fox asking the prince to return at the same 
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B8 | Modules: plastic-bag-charge / daily-choice / policy-limit -->
 
-The thing I'm going to talk about is the rule requiring shops to charge for disposable plastic bags.
+The thing I'd like to describe is the rule requiring shops to charge for disposable plastic bags.
 
-I first noticed it when supermarkets stopped giving bags away automatically. The fee is small, but it creates **a visible reason to bring a reusable bag**.
+It mainly charges for disposable bags, and I first noticed it when supermarkets stopped giving them away. The fee is small, but it creates **a visible reason to bring a reusable bag**.
 
-Consumers who plan ahead save money, while the environment benefits from lower single-use plastic consumption. Retailers also become more conscious of packaging.
+What interested me most was how prepared consumers save money while the environment benefits from less single-use plastic. Retailers also become more conscious of packaging.
 
-The rule is not perfect because some people simply pay the fee, and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
+A specific limitation is that some people simply pay the fee and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
 
-In my own case, the charge was just irritating enough to make me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
+I value the rule because the charge made me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
 
 ### Part 3
 
@@ -288,15 +288,15 @@ In my own case, the charge was just irritating enough to make me keep two reusab
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B4 | Modules: software-consultant / autonomy / financial-preparation -->
 
-The thing I'm going to talk about is working as an independent software consultant on small AI projects.
+The thing I'd like to describe is working as an independent software consultant on small AI projects.
 
-I learned about this career from former colleagues who moved into freelance work. I would need stronger AI knowledge, client communication and the ability to manage finances and deadlines independently.
+It mainly involves independent AI projects, and I learned about it from former colleagues who became freelancers. I would need stronger AI knowledge, client communication and the ability to manage finances and deadlines independently.
 
-What appeals to me most is **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
+What interested me most was **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
 
-The job would be perfect not because it is easy; finding clients and handling uncertainty would be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
+A specific limitation is that finding clients and handling uncertainty would still be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
 
-My ideal week would include two or three focused client days, one day for learning and enough time for exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility.
+I value this career because my ideal week could balance client work, learning, exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility. That balance matters more to me than status or a prestigious title.
 
 ### Part 3
 
@@ -329,15 +329,15 @@ My ideal week would include two or three focused client days, one day for learni
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: lightweight-laptop / battery / repairability -->
 
-The thing I'm going to talk about is a lightweight laptop with excellent battery life and enough power for AI development.
+The thing I'd like to describe is a lightweight laptop with excellent battery life and enough power for AI development.
 
-I discovered the model through professional reviews, and it costs considerably more than an ordinary laptop. My current computer still works, so I would wait for a discount rather than buy impulsively.
+It mainly offers portability and AI performance; I discovered it through professional reviews, although it is expensive. My current computer still works, so I would wait for a discount rather than buy impulsively.
 
-The new machine would let me **work efficiently away from a desk**, test small models and travel without carrying a heavy charger. Its value is practical rather than fashionable because my computer supports both my income and learning.
+What interested me most was being able to **work efficiently away from a desk** and travel without a heavy charger. Its value is practical rather than fashionable because my computer supports both my income and learning.
 
-I want it because reliable tools reduce interruptions and allow me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
+A specific benefit is fewer interruptions, allowing me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
 
-Before buying, I would compare battery tests, repairability and performance under real development workloads rather than relying on the manufacturer's headline figures. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem.
+I value the idea cautiously because I would compare battery tests, repairability and real performance before buying. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem. Long battery life would also reduce stress during travel.
 
 ### Part 3
 
@@ -370,15 +370,15 @@ Before buying, I would compare battery tests, repairability and performance unde
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: ChatGPT / work-and-study / verification -->
 
-The thing I'm going to talk about is ChatGPT.
+The thing I'd like to describe is ChatGPT.
 
-I discovered it online when generative AI began attracting attention, and I now use it **on a daily basis**. At work, it explains unfamiliar technical concepts, helps me brainstorm solutions and speeds up repetitive tasks.
+It mainly supports work and study; I discovered it online and now use it **on a daily basis**. At work, it explains unfamiliar technical concepts, helps me brainstorm solutions and speeds up repetitive tasks.
 
-For English study, it helps organise notes and compare expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
+What interested me most was how it organises English notes and compares expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
 
-What makes it valuable is not that it replaces thinking, but that it **boosts my productivity and supports exploration**. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
+A specific benefit is that it **boosts my productivity and supports exploration** without replacing my thinking. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
 
-For instance, when I study a difficult expression, I ask for several contexts and then check whether native sources use it in the same way. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant.
+I value the program because I can request several contexts for an expression and verify them in native sources. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant. Verification keeps its convenience from weakening my independent judgement.
 
 ### Part 3
 
@@ -411,15 +411,15 @@ For instance, when I study a difficult expression, I ask for several contexts an
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: childhood-essay / mother / emotional-value -->
 
-The thing I'm going to talk about is a handwritten essay about my mother that I wrote in primary school.
+The thing I'd like to describe is a handwritten essay about my mother that I wrote in primary school.
 
-My family has kept it for almost two decades in a folder with old photographs.
+It mainly preserves a childhood view of my mother, and my family has kept it for almost two decades.
 
-At that age I was shy, and the essay described how my mother listened without judging me and gave **practical advice based on her experience**. The paper itself is ordinary and the handwriting is untidy, but reading it now **brings back warm memories** and shows how much her support influenced my confidence.
+What interested me most was how my shy childhood self described my mother giving **practical advice based on her experience**. The paper itself is ordinary and the handwriting is untidy, but reading it now **brings back warm memories** and shows how much her support influenced my confidence.
 
-Its value lies not in money or the grade, but in the emotional connection between different stages of my life. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
+A specific value is its emotional connection between different stages of my life, rather than its grade or price. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
 
-The essay also contains several childish spelling mistakes and an exaggerated drawing in the margin, which makes it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident.
+I value the essay because its childish spelling mistakes and drawing make it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident. No digital copy feels equally personal to me.
 
 ### Part 3
 
@@ -452,15 +452,15 @@ The essay also contains several childish spelling mistakes and an exaggerated dr
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: The-Martian / problem-solving / teamwork -->
 
-The thing I'm going to talk about is *The Martian*.
+The thing I'd like to describe is *The Martian*.
 
-I watched it at home with Stella after we had discussed space exploration. It follows an astronaut stranded on Mars who survives by combining scientific knowledge with **calm, step-by-step problem-solving**.
+It mainly follows an astronaut solving problems on Mars; I watched it with Stella after discussing space exploration. It follows an astronaut stranded on Mars who survives by combining scientific knowledge with **calm, step-by-step problem-solving**.
 
-I had seen it before, but the hopeful tone felt especially relevant after my career setback. The film creates tension without making the main character helpless, and its humour prevents the story from becoming too heavy.
+What interested me most was its hopeful tone, which felt especially relevant after my career setback. The film creates tension without making the main character helpless, and its humour prevents the story from becoming too heavy.
 
-I enjoyed how different experts cooperate across distance to solve one problem. Although some details are simplified, the movie celebrates curiosity, teamwork and resilience. It reminded me that even a frightening situation becomes more manageable when people **focus on the next practical action**.
+A specific example was different experts cooperating across distance to solve one problem. Although some details are simplified, the movie celebrates curiosity, teamwork and resilience. It reminded me that even a frightening situation becomes more manageable when people **focus on the next practical action**.
 
-After the film, Stella and I discussed whether the main character's optimism was realistic or simply necessary for the story. We agreed that his humour worked because it accompanied careful calculation rather than replacing it. I also liked that no single genius solved everything; engineers, scientists and crew members had to share incomplete information and accept risk. That aspect connected closely with software projects I have worked on. I would watch the movie again when I need something entertaining that still respects the audience's ability to follow a technical idea. That balance still appeals to me.
+I value the film because it led us to discuss whether the main character’s optimism was realistic or necessary. We agreed that his humour worked because it accompanied careful calculation rather than replacing it. I also liked that no single genius solved everything; engineers, scientists and crew members had to share incomplete information and accept risk. That aspect connected closely with software projects I have worked on. I would watch the movie again when I need something entertaining that still respects the audience's ability to follow a technical idea. That balance still appeals to me.
 
 ### Part 3
 
@@ -493,15 +493,15 @@ After the film, Stella and I discussed whether the main character's optimism was
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: airport-headphones / urgency / price-comparison -->
 
-The thing I'm going to talk about is a pair of noise-cancelling headphones I bought at an airport before a long flight.
+The thing I'd like to describe is a pair of noise-cancelling headphones I bought at an airport before a long flight.
 
-My old pair had stopped working, and I wanted to block cabin noise, so I bought quickly without comparing prices. I later discovered that the same model cost much less online.
+It mainly blocks cabin noise; I bought it quickly when my old pair failed, without comparing prices. I later discovered that the same model cost much less online.
 
-I had spent **considerably more than necessary** because the airport offered limited choice and I was under time pressure. The headphones are comfortable and I use them daily, so the purchase was not useless, but I still regret the timing.
+What interested me most afterwards was that I had spent **considerably more than necessary** under time pressure. The headphones are comfortable and I use them daily, so the purchase was not useless, but I still regret the timing.
 
-It taught me that urgency makes consumers less price-sensitive and that I should maintain important equipment rather than wait for a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
+A specific lesson was that urgency reduces price sensitivity, so I should maintain equipment before a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
 
-I kept the receipt and briefly considered returning the headphones, but the airport shop was in another city and the travel cost would have removed most of the saving. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement.
+I value the lesson because returning the headphones to another city would have removed most possible savings. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement. Since then, I have tested important equipment before travelling and compared prices before entering an airport.
 
 ### Part 3
 
@@ -534,15 +534,15 @@ I kept the receipt and briefly considered returning the headphones, but the airp
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Counselling-for-Toads / layoff / confidence -->
 
-The thing I'm going to talk about is *Counselling for Toads: A Psychological Adventure*.
+The thing I'd like to describe is *Counselling for Toads: A Psychological Adventure*.
 
-I found it online shortly after being laid off from my software job. Through a simple fictional story, it explains how past experiences influence emotion and behaviour.
+It mainly presents counselling through a fictional story; I found it online shortly after losing my software job. Through a simple fictional story, it explains how past experiences influence emotion and behaviour.
 
-At that time, I was questioning my ability and focusing on something I could not change. The book helped me realise that I could control **how I responded to the setback**. I built a healthier routine, learned new skills and gradually **regained my confidence**.
+What interested me most was its relevance while I questioned my ability and focused on something I could not change. The book helped me realise that I could control **how I responded to the setback**. I built a healthier routine, learned new skills and gradually **regained my confidence**.
 
-I later recommended it to Stella when she was under pressure at work. I still refer back to several ideas when I feel overwhelmed. It was useful because it gave me practical language for my emotions and helped me **look at setbacks from a different perspective**.
+A specific example was recommending it to Stella when she was under pressure at work. I still refer back to several ideas when I feel overwhelmed. It was useful because it gave me practical language for my emotions and helped me **look at setbacks from a different perspective**.
 
-The book did not make me positive immediately, and I do not think a story can replace professional help when someone is seriously unwell. Its value was that it helped me recognise patterns and begin a more honest conversation with myself. I wrote down a few questions from the counselling scenes and used them when planning my week. Months later, those notes still help me separate what I can influence from what I merely wish had happened differently. That practical effect is why I call the book useful.
+I value the book because it was realistic, although a story cannot replace professional help for serious illness. Its value was that it helped me recognise patterns and begin a more honest conversation with myself. I wrote down a few questions from the counselling scenes and used them when planning my week. Months later, those notes still help me separate what I can influence from what I merely wish had happened differently. That practical effect is why I call the book useful.
 
 ### Part 3
 
@@ -567,15 +567,15 @@ The book did not make me positive immediately, and I do not think a story can re
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / adult-reading / relationships -->
 
-The thing I'm going to talk about is *The Little Prince*.
+The thing I'd like to describe is *The Little Prince*.
 
-It follows a young traveller who visits different planets and learns about loneliness, friendship and responsibility. I returned to it after finding my old copy at my mother's home.
+It mainly follows a young traveller learning about loneliness, friendship and responsibility across different planets. I returned to it after finding my old copy at my mother's home.
 
-The plot is simple, but the conversation with the fox now feels **far more meaningful than it did in childhood**. It suggests that time and attention make a relationship valuable and create responsibility.
+What interested me most was the fox conversation, which now feels **far more meaningful than it did in childhood**. It suggests that time and attention make a relationship valuable and create responsibility.
 
-I enjoyed the story because it communicates serious ideas through clear images rather than complicated theory. Reading it at a different life stage showed me how interpretation changes with experience. Its central lesson—that people must care for the bonds they create—remains **simple, memorable and surprisingly practical**.
+A specific strength is communicating serious ideas through clear images rather than complicated theory. Reading it at a different life stage showed me how interpretation changes with experience. Its central lesson—that people must care for the bonds they create—remains **simple, memorable and surprisingly practical**.
 
-I finished the book in two evenings and then called my mother, partly because the story had made me think about relationships that are easy to take for granted. I also noticed passages about adults measuring everything through numbers, which felt relevant after years of focusing heavily on work. I would not describe every part as profound, but the best scenes create space for reflection without explaining the message too aggressively. That is probably why such a short children's story continues to attract adult readers. Its meaning continues to develop across different life stages.
+I value the story because, after finishing it, I called my mother and reconsidered relationships I take for granted. I also noticed passages about adults measuring everything through numbers, which felt relevant after years of focusing heavily on work. I would not describe every part as profound, but the best scenes create space for reflection without explaining the message too aggressively. That is probably why such a short children's story continues to attract adult readers. Its meaning continues to develop across different life stages. Its simple language makes that emotional effect feel particularly natural.
 
 ### Part 3
 
@@ -600,15 +600,15 @@ I finished the book in two evenings and then called my mother, partly because th
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: sci-fi-sequel / weak-plot / expectation-gap -->
 
-The thing I'm going to talk about is a science-fiction sequel advertised with a famous cast and spectacular trailer.
+The thing I'd like to describe is a science-fiction sequel advertised with a famous cast and spectacular trailer.
 
-Stella and I saw it at a cinema because the first film had explored interesting ethical questions. Unfortunately, the sequel relied on **constant action and visual effects** while giving the characters little motivation.
+It mainly continues ethical questions from the first film; Stella and I saw it together at a cinema. Unfortunately, the sequel relied on **constant action and visual effects** while giving the characters little motivation.
 
-The ending was predictable, and several important ideas appeared without development. I did not expect perfect realism, but I wanted a coherent story.
+What interested me most, unfortunately, was how its predictable ending left important ideas undeveloped. I did not expect perfect realism, but I wanted a coherent story.
 
-The expensive production actually made the weak writing more noticeable. I felt disappointed because the marketing had created expectations the film did not meet. The experience reminded me to read several independent reviews and not assume that famous actors or a large budget will **produce meaningful entertainment**.
+A specific problem was that the expensive production made its weak writing more noticeable. I felt disappointed because the marketing had created expectations the film did not meet. The experience reminded me to read several independent reviews and not assume that famous actors or a large budget will **produce meaningful entertainment**.
 
-On the way home, Stella and I tried to identify why the first film had worked better. We realised that its action followed the characters' choices, while the sequel seemed to move from one visual set piece to another. That conversation was more interesting than the movie itself. I do not regret going completely because the cinema was comfortable and we enjoyed discussing it afterwards, but I would not watch the film again. Now I pay more attention to comments about story and pacing than to a dramatic trailer.
+I value the experience only because we later identified why the first film had worked better. We realised that its action followed the characters' choices, while the sequel seemed to move from one visual set piece to another. That conversation was more interesting than the movie itself. I do not regret going completely because the cinema was comfortable and we enjoyed discussing it afterwards, but I would not watch the film again. Now I pay more attention to comments about story and pacing than to a dramatic trailer.
 
 ### Part 3
 
@@ -633,15 +633,15 @@ On the way home, Stella and I tried to identify why the first film had worked be
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: laptop / daily-work / responsible-dependence -->
 
-The thing I'm going to talk about is my laptop.
+The thing I'd like to describe is my laptop.
 
-As a software engineer, I use it for coding, communication, job applications and English study. It is more than a screen because it gives me **access to my main tools and professional knowledge**.
+It mainly supports my coding, communication, job applications and English study as a software engineer. It is more than a screen because it gives me **access to my main tools and professional knowledge**.
 
-For example, I recently built a small AI project entirely from home and shared it with former colleagues. The laptop also stores photographs and notes, although I keep backups so one device does not control everything.
+What interested me most was recently building an AI project from home and sharing it with former colleagues. The laptop also stores photographs and notes, although I keep backups so one device does not control everything.
 
-I could survive without it, but my daily life would become far less efficient and many opportunities would be inaccessible. Its value is mainly practical: it helps me learn, earn and **turn ideas into working results**. That dependence also reminds me to take breaks and maintain offline relationships.
+A specific limitation is that without it my daily life would be less efficient and many opportunities inaccessible. Its value is mainly practical: it helps me learn, earn and **turn ideas into working results**. That dependence also reminds me to take breaks and maintain offline relationships.
 
-I try to protect the laptop by keeping automatic backups, updating it carefully and using a separate monitor when I work for long periods. I also avoid carrying it everywhere on weekends because constant access can make rest feel like unfinished work. If it failed, I could borrow another machine temporarily, but rebuilding the development environment would take considerable time. That is why the device feels essential: not because of its brand or appearance, but because years of tools, habits and professional routines are organised around it.
+I value the laptop because I protect it with backups, careful updates and a separate monitor for long work periods. I also avoid carrying it everywhere on weekends because constant access can make rest feel like unfinished work. If it failed, I could borrow another machine temporarily, but rebuilding the development environment would take considerable time. That is why the device feels essential: not because of its brand or appearance, but because years of tools, habits and professional routines are organised around it. That protective routine matters.
 
 ### Part 3
 
@@ -666,15 +666,15 @@ I try to protect the laptop by keeping automatic backups, updating it carefully 
 
 <!-- Template: Things T1-T2-T3-T4-T5 | Bank: B3 | Modules: sea-turtle / Semporna / conservation -->
 
-The thing I'm going to talk about is the sea turtle.
+The thing I'd like to describe is the sea turtle.
 
-I first saw one while freediving near Semporna in Malaysia. It moved slowly below us through clear water and seemed **completely calm in its natural environment**.
+It mainly interests me through its calm movement and long migration; I first saw one while freediving near Semporna. It moved slowly below us through clear water and seemed **completely calm in its natural environment**.
 
-Before that moment, sea turtles were simply animals I had seen in documentaries. Seeing one directly made me curious about how they navigate enormous distances, how long they live and why they return to particular beaches.
+What interested me most was how a documentary animal became real when one moved quietly below me. Seeing one directly made me curious about how they navigate enormous distances, how long they live and why they return to particular beaches.
 
-I also want to understand how plastic waste, fishing and tourism affect them. The experience left me with a lasting impression because such a peaceful-looking animal survives difficult migrations and a changing ocean. Learning more would make environmental protection **personal and concrete rather than abstract**.
+A specific concern is how plastic waste, fishing and tourism affect them. The experience left me with a lasting impression because such a peaceful-looking animal survives difficult migrations and a changing ocean. Learning more would make environmental protection **personal and concrete rather than abstract**.
 
-After the trip, I watched a documentary about nesting beaches and learned that artificial light can confuse young turtles moving toward the sea. I also began checking whether wildlife tours keep a respectful distance instead of attracting animals for photographs. I would like to visit a responsible conservation centre one day and hear directly from researchers about migration tracking. The turtle I saw was only in view for a short time, but that encounter gave me a specific animal to think about whenever marine protection is discussed. That brief memory has had a lasting effect on me.
+I value learning about this animal because a later documentary showed how artificial light confuses young turtles. I also began checking whether wildlife tours keep a respectful distance instead of attracting animals for photographs. I would like to visit a responsible conservation centre one day and hear directly from researchers about migration tracking. The turtle I saw was only in view for a short time, but that encounter gave me a specific animal to think about whenever marine protection is discussed. That brief memory has had a lasting effect on me.
 
 ### Part 3
 

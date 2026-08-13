@@ -1,6 +1,6 @@
 # Part 2 事物类 + Part 3
 
-> 半固定结构：What/source → Relevant feature → Specific use/experience → Effect → Personal value。关键词一行一个；只描述与题目真正相关的特征。
+> 半固定结构：What/source → Relevant feature → Specific use/experience → Effect → Personal value。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；只描述与题目真正相关的特征。
 
 ## 1. Interesting video
 
@@ -24,6 +24,8 @@ I found it online after reading about SpaceX. It combined animation with real la
 What interested me most was the explanation of repeated failed tests and how engineers used each one to improve the design. I watched it because software work has made me curious about complex systems and **how ambitious ideas become practical technology**.
 
 The video did more than entertain me; it showed that failure can produce useful evidence when people analyse it carefully. It left me motivated to approach my own technical mistakes with more patience and **treat them as part of the learning process**.
+
+I watched it twice, pausing the animation to understand how the engines and guidance system worked together during landing. Afterwards, I discussed it with a colleague who knew more about control systems, and that conversation made the engineering feel even more impressive. I would recommend the video to people who assume successful technology appears in one perfect attempt. Its strongest message is that repeated testing only becomes valuable when a team records the result, changes the design and tries again with a clearer hypothesis. The lesson remains useful even now.
 
 ### Part 3
 
@@ -57,6 +59,8 @@ Manufacturers would need to provide spare parts, basic repair information and re
 The law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
 
 I think the policy would become popular if it protected safety and did not reveal sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
+
+The law should be introduced gradually, beginning with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
 
 ### Part 3
 
@@ -95,6 +99,8 @@ My mother prepares the filling, while younger family members fold dumplings in r
 
 Dumplings are not rare everyday food, yet eating them at New Year carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
 
+My favourite part is the final stage, when everyone tries to recognise the dumplings they folded because each person has a slightly different shape. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family.
+
 ### Part 3
 
 **Q: Why is there special food for events?** A: Food expresses cultural symbols and brings people together through **a repeated shared ritual**.
@@ -125,6 +131,8 @@ I saw it online before a live match. It showed the athlete training alone early 
 The product appeared naturally rather than interrupting the story, and the message focused on **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
 
 Celebrity endorsement makes an advertisement memorable and can lend credibility when the person genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
+
+I remembered the campaign when I later saw the same athlete in a tournament, which shows how effectively the story connected the person with the brand. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well.
 
 ### Part 3
 
@@ -163,6 +171,8 @@ One episode followed a doctor using software to review scans while still making 
 
 The programme helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
 
+After each episode, I wrote down one task that could be automated and one that still required human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people.
+
 ### Part 3
 
 **Q: How do young and old viewers differ?** A: Younger people use streaming and short clips; older viewers often follow scheduled news and drama, though platforms are **increasingly shared across ages**.
@@ -193,6 +203,8 @@ I first read it as a child because the illustrations looked simple, then returne
 As a child, I saw it as an animal adventure; now I understand its ideas about loneliness, friendship and attention. I like the book because its language is accessible while its meaning changes with the reader's experience.
 
 The animal characters make difficult emotions less direct and easier to consider. It reminds me that valuable stories do not need complicated plots; a simple image can **express a lasting human truth**.
+
+One scene I remember clearly is the fox asking the prince to return at the same time each day, because anticipation gives the meeting meaning. As an adult, I connect that idea with the effort needed to maintain friendships when people live in different cities. The book has therefore influenced small habits, such as arranging a proper call instead of sending endless short messages. I would recommend it to both children and adults, although they would probably notice completely different parts of the same apparently simple story.
 
 ### Part 3
 
@@ -231,6 +243,8 @@ Consumers who plan ahead save money, while the environment benefits from lower s
 
 The rule is not perfect because some people simply pay the fee, and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
 
+In my own case, the charge was just irritating enough to make me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
+
 ### Part 3
 
 **Q: What school rules exist in China?** A: Attendance, uniforms, classroom conduct and academic honesty are common because schools need **order and equal expectations**.
@@ -265,6 +279,8 @@ I learned about this career from former colleagues who moved into freelance work
 What appeals to me most is **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
 
 The job would be perfect not because it is easy; finding clients and handling uncertainty would be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
+
+My ideal week would include two or three focused client days, one day for learning and enough time for exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility.
 
 ### Part 3
 
@@ -303,6 +319,8 @@ The new machine would let me **work efficiently away from a desk**, test small m
 
 I want it because reliable tools reduce interruptions and allow me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
 
+Before buying, I would compare battery tests, repairability and performance under real development workloads rather than relying on the manufacturer's headline figures. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem.
+
 ### Part 3
 
 **Q: How has technology changed?** A: It is smaller, more connected and easier to use, while dependence, privacy risk and **rapid replacement cycles** have increased.
@@ -339,6 +357,8 @@ I discovered it online when generative AI began attracting attention, and I now 
 For English study, it helps organise notes and compare expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
 
 What makes it valuable is not that it replaces thinking, but that it **boosts my productivity and supports exploration**. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
+
+For instance, when I study a difficult expression, I ask for several contexts and then check whether native sources use it in the same way. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant.
 
 ### Part 3
 
@@ -377,6 +397,8 @@ At that age I was shy, and the essay described how my mother listened without ju
 
 Its value lies not in money or the grade, but in the emotional connection between different stages of my life. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
 
+The essay also contains several childish spelling mistakes and an exaggerated drawing in the margin, which makes it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident.
+
 ### Part 3
 
 **Q: What do families keep?** A: Photographs, letters, jewellery and practical objects linked to **important people or turning points**.
@@ -413,6 +435,8 @@ I watched it at home with Stella after we had discussed space exploration. It fo
 I had seen it before, but the hopeful tone felt especially relevant after my career setback. The film creates tension without making the main character helpless, and its humour prevents the story from becoming too heavy.
 
 I enjoyed how different experts cooperate across distance to solve one problem. Although some details are simplified, the movie celebrates curiosity, teamwork and resilience. It reminded me that even a frightening situation becomes more manageable when people **focus on the next practical action**.
+
+After the film, Stella and I discussed whether the main character's optimism was realistic or simply necessary for the story. We agreed that his humour worked because it accompanied careful calculation rather than replacing it. I also liked that no single genius solved everything; engineers, scientists and crew members had to share incomplete information and accept risk. That aspect connected closely with software projects I have worked on. I would watch the movie again when I need something entertaining that still respects the audience's ability to follow a technical idea. That balance still appeals to me.
 
 ### Part 3
 
@@ -451,6 +475,8 @@ I had spent **considerably more than necessary** because the airport offered lim
 
 It taught me that urgency makes consumers less price-sensitive and that I should maintain important equipment rather than wait for a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
 
+I kept the receipt and briefly considered returning the headphones, but the airport shop was in another city and the travel cost would have removed most of the saving. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement.
+
 ### Part 3
 
 **Q: Do people buy more than expected?** A: Yes, because store design, discounts and convenience encourage **unplanned additions**.
@@ -488,6 +514,8 @@ At that time, I was questioning my ability and focusing on something I could not
 
 I later recommended it to Stella when she was under pressure at work. I still refer back to several ideas when I feel overwhelmed. It was useful because it gave me practical language for my emotions and helped me **look at setbacks from a different perspective**.
 
+The book did not make me positive immediately, and I do not think a story can replace professional help when someone is seriously unwell. Its value was that it helped me recognise patterns and begin a more honest conversation with myself. I wrote down a few questions from the counselling scenes and used them when planning my week. Months later, those notes still help me separate what I can influence from what I merely wish had happened differently. That practical effect is why I call the book useful.
+
 ### Part 3
 
 **Q: Are paper books still useful?** A: Yes, for deep, distraction-free reading and reliable ownership, while digital books offer **search and portability**.
@@ -516,6 +544,8 @@ It follows a young traveller who visits different planets and learns about lonel
 The plot is simple, but the conversation with the fox now feels **far more meaningful than it did in childhood**. It suggests that time and attention make a relationship valuable and create responsibility.
 
 I enjoyed the story because it communicates serious ideas through clear images rather than complicated theory. Reading it at a different life stage showed me how interpretation changes with experience. Its central lesson—that people must care for the bonds they create—remains **simple, memorable and surprisingly practical**.
+
+I finished the book in two evenings and then called my mother, partly because the story had made me think about relationships that are easy to take for granted. I also noticed passages about adults measuring everything through numbers, which felt relevant after years of focusing heavily on work. I would not describe every part as profound, but the best scenes create space for reflection without explaining the message too aggressively. That is probably why such a short children's story continues to attract adult readers. Its meaning continues to develop across different life stages.
 
 ### Part 3
 
@@ -546,6 +576,8 @@ The ending was predictable, and several important ideas appeared without develop
 
 The expensive production actually made the weak writing more noticeable. I felt disappointed because the marketing had created expectations the film did not meet. The experience reminded me to read several independent reviews and not assume that famous actors or a large budget will **produce meaningful entertainment**.
 
+On the way home, Stella and I tried to identify why the first film had worked better. We realised that its action followed the characters' choices, while the sequel seemed to move from one visual set piece to another. That conversation was more interesting than the movie itself. I do not regret going completely because the cinema was comfortable and we enjoyed discussing it afterwards, but I would not watch the film again. Now I pay more attention to comments about story and pacing than to a dramatic trailer.
+
 ### Part 3
 
 **Q: Can reviews be trusted?** A: Individual reviews are subjective, but patterns across independent reviewers provide **useful evidence about quality and fit**.
@@ -575,6 +607,8 @@ For example, I recently built a small AI project entirely from home and shared i
 
 I could survive without it, but my daily life would become far less efficient and many opportunities would be inaccessible. Its value is mainly practical: it helps me learn, earn and **turn ideas into working results**. That dependence also reminds me to take breaks and maintain offline relationships.
 
+I try to protect the laptop by keeping automatic backups, updating it carefully and using a separate monitor when I work for long periods. I also avoid carrying it everywhere on weekends because constant access can make rest feel like unfinished work. If it failed, I could borrow another machine temporarily, but rebuilding the development environment would take considerable time. That is why the device feels essential: not because of its brand or appearance, but because years of tools, habits and professional routines are organised around it.
+
 ### Part 3
 
 **Q: Why are children attracted to electronic products?** A: Bright feedback, games and social content offer **immediate stimulation and reward**.
@@ -603,6 +637,8 @@ I first saw one while freediving near Semporna in Malaysia. It moved slowly belo
 Before that moment, sea turtles were simply animals I had seen in documentaries. Seeing one directly made me curious about how they navigate enormous distances, how long they live and why they return to particular beaches.
 
 I also want to understand how plastic waste, fishing and tourism affect them. The experience left me with a lasting impression because such a peaceful-looking animal survives difficult migrations and a changing ocean. Learning more would make environmental protection **personal and concrete rather than abstract**.
+
+After the trip, I watched a documentary about nesting beaches and learned that artificial light can confuse young turtles moving toward the sea. I also began checking whether wildlife tours keep a respectful distance instead of attracting animals for photographs. I would like to visit a responsible conservation centre one day and hear directly from researchers about migration tracking. The turtle I saw was only in view for a short time, but that encounter gave me a specific animal to think about whenever marine protection is discussed. That brief memory has had a lasting effect on me.
 
 ### Part 3
 

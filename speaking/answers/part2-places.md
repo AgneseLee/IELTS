@@ -1,6 +1,6 @@
 # Part 2 地点类 + Part 3
 
-> 半固定结构：Where/visit → Selected detail → Activity → Contrast → Personal meaning。关键词一行一个；感官细节按故事选择，不强凑视觉、声音和气味。
+> 半固定结构：Where/visit → Selected detail → Activity → Contrast → Personal meaning。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；感官细节按故事选择，不强凑视觉、声音和气味。
 
 ## 1. Tall building you like/dislike
 
@@ -22,6 +22,8 @@ The place I'd like to describe is an office skyscraper near my former workplace 
 I could also hear office conversations and lift doors and smell coffee from the lobby café. I liked the building because it used limited urban land efficiently and placed offices, cafés and transport links close together. However, the lifts became crowded during rush hour, and the sealed windows sometimes made the interior feel disconnected from nature.
 
 Overall, I like its clean design and convenience, but I would not want every building to look the same. A successful tall building should combine visual impact with **a comfortable experience for the people inside**.
+
+I visited the upper floors several times for meetings, and the view was always the part guests mentioned first. However, employees cared more about practical details such as waiting for lifts, finding a quiet desk and getting fresh air during long days. That contrast changed how I judge architecture. A building can look impressive in a photograph and still create small frustrations for the people using it daily. I would keep the bright public spaces but add accessible outdoor areas and more natural ventilation.
 
 ### Part 3
 
@@ -58,6 +60,8 @@ The same announcements were repeated continuously, and the smell of food drifted
 
 We talked, read and walked around, but the uncertainty made time move slowly. I found it boring not because airports are always uninteresting, but because we had no control over the situation and no clear departure time.
 
+Every hour, the departure board changed without giving a useful explanation, so we could not relax or decide to have a proper meal. I tried working on my laptop, but the noise and uncomfortable seating made concentration difficult. Eventually, Stella suggested a simple game in which we invented stories about other travellers, and that helped briefly. The experience showed me that boredom is not always caused by having nothing available; uncertainty can prevent people from becoming absorbed in any one activity. I now carry downloaded books and a charger, but clear information would still matter more on delayed journeys.
+
 ### Part 3
 
 **Q: Why do children find education boring?** A: Passive repetition feels disconnected from life. Choice, challenge and practical examples can **make learning personally relevant**.
@@ -92,6 +96,8 @@ The place I'd like to describe is Kuala Lumpur. I went there with Stella during 
 In the markets, we could hear several languages and smell food from different cultures within a single street. Public transport made the main areas easy to reach, yet some quieter districts still felt relaxed.
 
 We visited a museum, tried local dishes and walked around the city in the evening. Compared with cities that offer only one dominant experience, Kuala Lumpur felt varied without being impossible to navigate. It is my favourite because it combined cultural diversity, convenient transport and **a welcoming atmosphere for first-time visitors**.
+
+One evening, we moved from a modern shopping area to a street of older food stalls within a short walk. The change felt natural rather than staged for tourists, and a vendor patiently explained a dish we had never tried. I also appreciated that English was widely understood, which reduced stress without removing the sense of being somewhere different. I would return for a longer stay because ten days allowed us to see the main areas but not to understand the city's everyday rhythm. That unfinished feeling makes another visit especially appealing.
 
 ### Part 3
 
@@ -138,6 +144,8 @@ What impressed me first was **the extraordinary colour and clarity of the sea**.
 
 I would recommend it to people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a genuine break from city pressure and **deepened my appreciation for marine conservation**.
 
+The most memorable morning began before the harbour became busy. Our boat passed small homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations honestly. For the right traveller, however, the clear water and direct contact with marine life easily justify the journey.
+
 ### Part 3
 
 **Q: Where do Chinese people go on holiday?** A: Coastal cities, scenic areas and culturally famous cities remain popular because they offer **convenient, varied experiences**.
@@ -171,6 +179,8 @@ I could also hear traffic below the windows and smell coffee and watercolour pai
 
 Since I work from home frequently, I also need a separate desk area. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
 
+When I visit, Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
+
 ### Part 3
 
 **Q: Do Chinese people visit others' homes?** A: Yes, especially close friends and relatives, although urban socialising increasingly happens in **restaurants and cafés**.
@@ -201,6 +211,8 @@ The place I'd like to describe is an art museum near my apartment in Beijing. It
 I could also hear quiet footsteps in the galleries and smell paper and polished wood. The corridors gently guide visitors between galleries without making the route feel forced. I first visited with Stella for a watercolour exhibition and noticed that the building itself encouraged us to slow down.
 
 It functions as both an exhibition space and a community venue for talks and workshops. I find it interesting because the architecture supports its purpose rather than merely seeking attention. The museum shows how thoughtful design can **influence people's mood and behaviour** while remaining practical.
+
+During the watercolour exhibition, Stella and I noticed that the changing daylight made the same wall look different when we returned an hour later. There were also benches placed at natural pauses in the route, so visitors could rest without blocking anyone. I later attended a public talk in a smaller room and saw how easily the building shifted from quiet viewing to conversation. I would take an architecture student there because the design is memorable, yet it never competes aggressively with the art inside.
 
 ### Part 3
 
@@ -236,6 +248,8 @@ The place I'd like to describe is Zhanjiang, my hometown in southern China. It i
 I could also hear traffic mixed with coastal sounds and smell salty air from the sea. I knew the city through everyday childhood life rather than tourism, so ordinary places hold personal meaning. Compared with Beijing, it has a slower pace and less pressure, although career options are more limited.
 
 Recent transport development has made it easier to reach, while the local food and scenery remain distinctive. I find it interesting because it combines natural beauty with memories of family and childhood. It reminds me that a city can matter not through global fame but through **a deep sense of belonging**.
+
+Whenever I return, I walk along the coastline with my mother and eat seafood at a small restaurant our family has visited for years. Some streets have changed, but the humid air and slower evenings immediately feel familiar. I would not pretend the city offers the same professional opportunities as Beijing, and many younger people leave for that reason. Still, its mixture of developing transport, tropical scenery and strong local food culture makes it worth visiting even for someone without my personal connection.
 
 ### Part 3
 
@@ -274,6 +288,8 @@ I can hear birds and rustling leaves rather than constant traffic, and after rai
 
 Sometimes Stella joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
 
+My favourite time to go is shortly after rain, when the paths are quiet and the light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
+
 ### Part 3
 
 **Q: Why is relaxation difficult today?** A: Constant messages, long working hours and blurred boundaries keep people's attention **permanently activated**.
@@ -300,6 +316,8 @@ The place I'd like to describe is the island area near Semporna in Malaysia. I v
 I could also hear gentle waves against the boat and smell clean, salty sea air. During a freediving trip, a sea turtle passed below us, moving slowly through the turquoise water. Compared with crowded urban attractions, the area felt open and peaceful.
 
 I spent most of the day swimming, observing marine life and taking only a few photographs. The place matters to me because it gave me a direct sense of how beautiful yet fragile marine ecosystems are. I returned feeling refreshed and **more personally responsible for protecting the natural world**.
+
+Our guide asked everyone to avoid standing on coral and to keep a respectful distance from the turtle. Those instructions did not reduce the enjoyment; they made us pay closer attention to how easily visitors could cause damage. Back in Beijing, the memory has influenced the tour operators I choose and the amount of disposable plastic I use while travelling. I would love to return, but only if tourism continues to protect the clear water and wildlife that make the islands worth visiting in the first place.
 
 ### Part 3
 

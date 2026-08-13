@@ -1,6 +1,6 @@
 # Part 2 人物类 + Part 3
 
-> 半固定结构：Who → Quality → Context → Example → Reaction/result → Why this person matters。关键词一行一个；完整稿用于校正，不逐字背诵。
+> 半固定结构：Who → Quality → Context → Example → Reaction/result → Why this person matters。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；完整稿用于校正，不逐字背诵。
 
 ## 1. Person who grows vegetables
 
@@ -22,6 +22,10 @@ The person I'd like to describe is my mother, a retired accountant who grows veg
 She grows spring onions, lettuce and small tomatoes in recycled containers. She chooses seeds carefully, mixes the soil herself and **waters the plants regularly** rather than depending on chemical products. Last summer, several tomato plants were damaged by heavy rain.
 
 Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine.
+
+Whenever I visit, she shows me which plants are growing well and explains what she has changed since the previous week. She never treats the harvest as the only goal; even a few spring onions are enough to make her happy. Her attitude has encouraged me to grow herbs beside my own window. I still lack her patience, but the small routine helps me slow down after work and appreciate gradual progress.
+
+More importantly, the hobby gives her independence and something positive to discuss with younger family members.
 
 ### Part 3
 
@@ -53,6 +57,8 @@ The person I'd like to describe is Ming, whom I met in primary school in Zhanjia
 We lived in the same neighbourhood and were both rather quiet, so we **felt comfortable around each other** almost immediately. After school, we often cycled along the coast, played badminton and exchanged comic books. One memorable day, my bicycle chain broke several kilometres from home.
 
 Ming stayed with me, helped push the bicycle and called his father instead of leaving me alone. Thanks to him, a stressful situation became manageable. We now live in different cities and speak less frequently, but we still **keep in touch** and can continue a conversation naturally whenever we meet. What I value most is his reliability and our **wealth of shared memories**.
+
+The last time I returned to Zhanjiang, we cycled along the same coastal road and talked about how much our lives had changed. Nothing dramatic happened, yet the afternoon felt completely natural. That is what makes the friendship special to me. We do not need constant messages or carefully planned entertainment to remain close. Knowing that he would still help me in a difficult moment gives the relationship a quiet sense of security, even today.
 
 ### Part 3
 
@@ -101,6 +107,8 @@ She first considered medicine after helping care for our grandmother during a lo
 
 Lin cleaned the wound, checked it carefully and explained what to watch for without making everyone panic. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy.
 
+Her training schedule is already demanding, with lectures, clinical practice and night shifts, so her decision is based on experience rather than an idealised image of the job. When we talk, she is honest about feeling tired, but she also describes the satisfaction of helping a frightened patient feel more secure. That balance makes me respect her choice. I think she has both the judgement and emotional strength needed for a long and successful medical career.
+
 ### Part 3
 
 **Q: Is being a doctor easy or difficult?**
@@ -132,6 +140,8 @@ I met him at my previous company, where he was known for **solving practical pro
 
 One client initially wanted an expensive system, but Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money.
 
+I also saw how he handled a project that fell behind schedule. He informed the client early, explained the technical problem and offered a revised plan instead of hiding the delay. The conversation was uncomfortable, but the client appreciated the transparency and continued working with the company. That response showed me that business success is not simply about avoiding mistakes. It also depends on taking responsibility and protecting relationships when something goes wrong, especially over time.
+
 ### Part 3
 
 **Q: Why do people start their own businesses?**
@@ -162,6 +172,8 @@ The person I'd like to describe is Stella, my close friend and former colleague.
 Besides English, she speaks conversational Japanese. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists.
 
 She also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life.
+
+Sometimes we practise together, and she asks me to retell a short story without checking a dictionary. She corrects only the mistakes that block meaning, which keeps the conversation moving and makes the exercise less intimidating. This method has influenced my own English study. I now try to retrieve familiar expressions under time pressure instead of endlessly collecting new vocabulary. Her progress proves that confidence comes from repeated use in real situations, not from waiting until every sentence is perfect.
 
 ### Part 3
 
@@ -205,6 +217,8 @@ The person I'd like to describe is Elon Musk, whom I first learned about through
 I do not agree with everything he says, but I am interested in his **willingness to pursue ambitious technical goals**. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction.
 
 As a software engineer, I am curious about how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
+
+I would also ask about the limits of that approach, because ambitious projects can consume enormous amounts of money and place pressure on employees. A brief public speech would not satisfy me; I would prefer a serious conversation in which he had to explain both successful and failed decisions. Even if I disagreed with some answers, hearing the reasoning directly would be valuable. It might help me judge bold technical claims more carefully in my own field.
 
 ### Part 3
 
@@ -253,6 +267,10 @@ Before our Malaysia trip, she spent almost six months comparing flights, booking
 
 Rather than panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
 
+This is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it.
+
+That change has made my recent journeys calmer, cheaper and easier to manage.
+
 ### Part 3
 
 **Q: Is it important to plan ahead?**
@@ -299,6 +317,8 @@ The person I'd like to describe is my eight-year-old niece Mia. What I notice mo
 She began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk.
 
 Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. The picture was not technically perfect, but it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
+
+She later gave the painting to her grandmother, who placed it beside the dining table. Mia was proud, but she began explaining what she wanted to improve next time. I liked that mixture of confidence and curiosity. Rather than comparing her work with art, the family asks about the story behind each picture. I think this response protects her enjoyment and gives her a reason to keep practising without turning the hobby into another form of homework.
 
 ### Part 3
 
@@ -347,6 +367,8 @@ When I was in primary school, I was extremely shy and avoided expressing opinion
 
 This gradual approach felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
 
+Years later, I used a similar method when a junior colleague was afraid to speak during meetings. Instead of demanding an immediate presentation, I first asked him to explain one small technical issue to me privately. He became more comfortable contributing to the group. That experience made me recognise how practical my mother's advice had been. She did not solve the problem for me; she gave me a safe way to build the ability myself.
+
 ### Part 3
 
 **Q: Are children born smart or do they learn to be smart?**
@@ -393,6 +415,8 @@ The person I'd like to describe is my friend Stella, who taught herself watercol
 She began because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks.
 
 The peaceful atmosphere impressed me more than technical perfection. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
+
+Over time, she created a small folder showing the same subjects painted several months apart. The improvement in colour and perspective was easy to see, which gave her motivation when an individual painting went badly. She also learned to choose tutorials for a specific weakness instead of watching random videos. I found that approach useful for my own technical study. It showed me that self-teaching becomes much more effective when progress is recorded and each practice session has a clear purpose.
 
 ### Part 3
 
@@ -441,6 +465,8 @@ She regularly supported new team members who were unfamiliar with our complicate
 
 She helps without drawing attention to herself or expecting a reward. What impresses me most is that her support also creates **a more cooperative working atmosphere**; people she helped are more willing to assist others later. She taught me that kindness at work does not require a dramatic gesture. Often, giving someone time and clear guidance can **make a meaningful practical difference**.
 
+Later, I reused her notes when another colleague joined the team, and I tried to explain the system in the same patient way. That was when I realised her help had improved more than my individual experience. It had created a process that other people could pass on. We still talk about work, and I often ask how she would introduce a complicated task to a beginner. Her answers are practical because they come from attention to other people's difficulties.
+
 ### Part 3
 
 **Q: What can children do to help parents?**
@@ -487,6 +513,8 @@ The person I'd like to describe is Stella. What I admire is the way she **turns 
 Her concern for the environment is visible in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic.
 
 She later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen.
+
+Since then, she has continued making small changes rather than treating the clean-up as a one-off event. She checks whether seafood comes from responsible sources and reminds friends to leave natural areas exactly as they found them. I have adopted some of these habits, especially carrying a reusable bottle and refusing unnecessary bags. What I value is her consistency: spending time outdoors has made her protective of nature, and that concern is visible in choices she makes throughout ordinary life, even when nobody is paying attention.
 
 ### Part 3
 
@@ -535,6 +563,8 @@ She has never pursued it professionally, but she took informal lessons and pract
 
 Singing is also how she deals with pressure. After difficult workdays, she meets friends at a karaoke venue because it helps her **relax and release emotion**. What I admire is not only her voice but her genuine passion; she makes other people feel comfortable joining in, even if they sing badly. She reminds me that a hobby can **enrich everyday life without becoming a career**.
 
+At one gathering, she persuaded me to sing a song even though I was worried about sounding foolish. She chose an easy chorus, joined in when I forgot the words and kept the atmosphere light. I ended up enjoying the experience much more than I expected. That moment captures why her musical ability matters to me: it is not simply something she performs for attention. She uses it to connect people and make an ordinary evening feel more memorable.
+
 ### Part 3
 
 **Q: What music is popular today?**
@@ -565,6 +595,8 @@ The person I'd like to describe is Stella. I think she is creative because she *
 Although she works in technology, she paints watercolours in her spare time. Her creativity appears in the way she **reinterprets ordinary scenes** rather than copying them exactly. She once painted the park near my apartment, adding a small bridge and warmer evening colours that were not present in reality.
 
 Those changes captured how peaceful the place felt to her. Even during demanding projects, she protects a little time for painting and experiments without worrying about perfect results. This combination of imagination and discipline impresses me because creative ideas are useless unless someone **puts effort into developing them**. Her paintings have also encouraged me to notice colour, light and atmosphere more carefully.
+
+She once showed me two versions of the same street, one painted in realistic grey tones and another in warm colours from memory. The second was less accurate but much more expressive, and it changed the way I understood creativity. It does not always mean inventing something completely new; it can mean selecting familiar details and presenting them from a personal angle. That idea is relevant to my software work, where useful innovation often begins by seeing an ordinary problem differently.
 
 ### Part 3
 
@@ -597,6 +629,8 @@ I had severe tooth pain and was extremely anxious. She examined the problem care
 
 At a later appointment, she remembered the issue and asked whether I had fully recovered, which showed genuine empathy. Dentists need technical precision while working with patients who may be frightened or in pain, so they **juggle several responsibilities at once**. I admire Dr Fan because she combined medical expertise with emotional support. She showed me why healthcare is demanding but also **highly meaningful and rewarding work**.
 
+Before meeting her, I tended to delay dental visits because I associated them with pain and embarrassment. Her clear explanations changed that attitude, and I now arrange regular checks instead of waiting for an emergency. This may seem like a small result, but preventive care depends heavily on whether patients trust the professional treating them. Dr Fan made that trust possible through the way she communicated, so I remember her not only as a skilled dentist but as someone who changed my behaviour.
+
 ### Part 3
 
 **Q: Will AI replace doctors?**
@@ -627,6 +661,8 @@ The person I'd like to describe is Chen, my former manager and the founder of a 
 He noticed that small companies were often sold complicated systems they did not need, so he built a service around **simple solutions and honest advice**. I once saw him recommend a cheaper product because it suited a client's budget better. Although this reduced the immediate payment, the client later returned and introduced two other companies.
 
 His business grew mainly through **long-term trust and word of mouth**. He also avoids taking more projects than his team can handle, which protects quality and prevents burnout. I admire him because he measures success through stable clients and responsible employment, not only rapid expansion. His experience shows that a strong business can grow by **creating genuine value rather than chasing quick profit**.
+
+When I worked with him, he encouraged engineers to explain technical decisions to clients instead of hiding behind sales language. That made projects slower at the beginning but reduced misunderstanding later. His company is not famous and probably never will be, yet it has survived difficult periods while keeping its staff and customers. For me, that record is more convincing than rapid growth followed by layoffs. It is the kind of success I would want if I ran a business.
 
 ### Part 3
 

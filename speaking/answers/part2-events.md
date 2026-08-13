@@ -1,6 +1,6 @@
 # Part 2 事件类 + Part 3
 
-> 半固定结构：Context → Expectation → Change/problem → Response → Outcome → Why it remains memorable。关键词一行一个；结尾只保留一个方向。
+> 半固定结构：Context → Expectation → Change/problem → Response → Outcome → Why it remains memorable。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；结尾只保留一个方向。
 
 ## 1. Getting up early
 
@@ -22,6 +22,8 @@ The occasion took place during my Malaysia trip with Stella. We had booked an ea
 I normally struggle with early mornings and initially felt **half awake and slightly irritable**. However, the harbour was unusually quiet, and the cool air gradually woke me up. Once the boat reached open water, the sky changed from dark blue to orange and the sea reflected the light.
 
 The view was **far more impressive than I had expected**. We took only a few photographs and spent most of the time enjoying the silence. I was tired later, but the experience was completely **worth the effort**.
+
+What made the morning memorable was the contrast with my normal routine in Beijing, where I usually wake up to traffic and immediately look at a screen. On the boat, there were no messages to answer and almost nobody was speaking. After returning to the harbour, we had a simple breakfast and compared the colours we had noticed. I would not get up that early every day, but for a rare experience with a clear purpose, I would happily do it again. It remains one of the clearest and most peaceful memories from that holiday.
 
 ### Part 3
 
@@ -54,6 +56,8 @@ Stella and I were supposed to take a boat to a small island, but the operator ca
 
 We bought unfamiliar spices, asked a vendor for advice and spent the afternoon experimenting. The meal was imperfect but surprisingly tasty, and the conversation with local people made the day memorable. The new plan was less dramatic, yet it gave us **a more authentic cultural experience**.
 
+The vendor showed us how to balance the spices and laughed when we admitted that we had no idea what we were doing. Back at the accommodation, Stella handled the recipe while I prepared the ingredients, and we gradually adjusted the flavour. That evening made me less disappointed about the cancelled boat. It also changed how I plan trips: I still book important activities, but I now keep one or two simple alternatives so that bad weather does not ruin the entire day. The unexpected meal became a story we laugh about whenever we travel.
+
 ### Part 3
 
 **Q: Do people often change plans?** A: Yes, because weather, health and work are unpredictable. Digital tools also make changes **easier to arrange at short notice**.
@@ -85,6 +89,8 @@ Initially, responsibilities were unclear, so two people worked on the same featu
 
 Stella handled design, I built the main system, and the others tested data and user access. The short meetings revealed problems early without wasting much time. We completed the project on schedule, and staff used it to reduce repetitive work.
 
+The most difficult part was not the coding but admitting that our original way of working had failed. Once the responsibilities were visible, disagreements became easier to discuss because we could focus on the task rather than blame individuals. At the end, our manager asked us to demonstrate the tool to another department, which made the group feel genuinely proud. Since then, I have used the same brief check-in method on other projects, especially when several people depend on one another's progress. It also made me more willing to raise process problems early, before frustration damages teamwork or wastes time.
+
 ### Part 3
 
 **Q: Why do some people work alone?** A: They value concentration and control and may dislike waiting for group decisions. Individual work suits tasks requiring **deep, uninterrupted attention**.
@@ -115,6 +121,8 @@ An important decision I made was to stop dwelling on my layoff and focus on rebu
 I had worked as a software engineer for about eight years, so losing the job was **a major emotional shock**. For several weeks, I questioned my ability and avoided making plans. After reading a useful psychology book and speaking with my mother, I decided to treat the setback as a turning point.
 
 I created a daily routine, updated my AI skills and began practising English consistently. Progress was slow, but completing small projects gradually helped me **regain my confidence**. The decision was important because it changed something I could not control into a direction I could influence.
+
+I began with very small commitments: one technical lesson, one English practice session and one job-related task each day. Recording them on a simple calendar showed me that I was moving forward even when I did not feel confident. Several months later, I could discuss new AI tools more comfortably and had a clearer idea of the work I wanted. The decision did not remove the disappointment of the layoff, but it stopped that event from controlling all my later choices. That period is difficult to remember, but I value the direction I chose afterwards.
 
 ### Part 3
 
@@ -151,6 +159,8 @@ Our seats were not near the court, but the view was clear and the crowd was ener
 
 The match was exciting, but what I enjoyed most was the **shared atmosphere that television cannot reproduce**. We discussed the tactics on the way home and felt motivated to play again ourselves. It reminded me that live sport is valuable not only as entertainment but as **a collective emotional experience**.
 
+The following weekend, Stella and I booked a court and tried to copy one of the player's defensive techniques. We were nowhere near the same level, but the attempt made us laugh and gave the event a life beyond the stadium. I would attend another final if tickets were reasonably priced, although I would choose seats closer to the court next time. Hearing the speed of the shuttle and the players' movement directly made the skill involved much easier to appreciate.
+
 ### Part 3
 
 **Q: Why do people watch sports?** A: For suspense, admiration of skill and a sense of belonging. Supporting a team creates **shared identity and conversation**.
@@ -181,6 +191,8 @@ The problem occurred before an important project presentation. My laptop install
 All my slides were on it, and the meeting was due in forty minutes, so I felt **a sudden wave of panic**. Instead of repeatedly restarting it, I checked my cloud storage and found a recent backup. Stella lent me her laptop, and I downloaded the slides, corrected two missing images and tested the connection. We began only a few minutes late and completed the presentation successfully.
 
 The incident was challenging because of the deadline rather than the technical fault itself. It taught me to keep important files in more than one place and **test essential equipment in advance**. Staying calm helped me identify the simplest solution instead of making the problem worse.
+
+After the meeting, I changed my routine rather than treating the successful presentation as proof that everything was fine. I enabled automatic backups, kept a PDF copy of important slides and wrote down the few setup steps needed on another computer. These precautions take only a minute but remove a major source of risk. The experience also made me grateful that Stella responded immediately without making me feel careless. Her practical help allowed me to focus on the audience instead of the broken machine. I still follow that routine for future work.
 
 ### Part 3
 
@@ -217,6 +229,8 @@ I was worried about missing the deadline and losing several files. First, I cont
 
 I delivered the project one day late. The experience taught me not to ignore minor faults and to **repair equipment before replacing it unnecessarily**. It also confirmed the importance of automatic backups.
 
+The client accepted the delay because I had warned them early and shared the recovered draft, so the situation did not damage our relationship. The repair centre also showed me how much dust had blocked the fan, which made the cause easy to understand. Since then, I clean the laptop regularly and pay attention when it becomes unusually hot or noisy. Keeping the device for another two years saved money and felt more responsible than replacing an otherwise useful machine. It remained reliable on later projects.
+
 ### Part 3
 
 **Q: Why do people buy new electronic devices?** A: Better features, social pressure and declining repairability all contribute. Marketing can make small improvements **feel more necessary than they are**.
@@ -244,6 +258,8 @@ I became frustrated because the light was fading and we did not know how far we 
 
 She also made a joke that reduced the tension. Within half an hour, we found the main path and reached our destination. I felt grateful not simply because she knew what to do, but because her attitude stopped me from panicking.
 
+Once we were safe, we sat down for a few minutes and reviewed where we had gone wrong. We realised that we had relied completely on the moving map and had ignored a sign near the beginning of the route. For the rest of the trip, we saved screenshots and agreed on a visible meeting point before walking anywhere unfamiliar. Stella's help therefore solved both the immediate problem and the weakness in our planning. It also showed me how emotional control can be a practical form of assistance. Her support changed a travel mistake into a lesson I still remember.
+
 ### Part 3
 
 **Q: How important is it for schools to make children smarter?** A: Schools should develop reasoning, curiosity and cooperation rather than chase a narrow idea of intelligence. Their role is to **help each child learn effectively**.
@@ -270,6 +286,8 @@ I once received a message from a former manager offering me a short freelance pr
 I did not want to accept immediately and later disappoint him, so I **took time to consider the commitment properly**. I reviewed my schedule, listed questions about payment and scope, and drafted a careful reply. It took almost a day before I responded.
 
 I explained that I was interested but needed a more realistic deadline. He appreciated the honesty, and we agreed on revised terms. I initially worried that the delay seemed rude, yet a rushed answer could have caused a larger problem.
+
+Once the details were clear, I accepted the project and completed it without sacrificing my existing commitments. My former manager later said that the questions had made the scope clearer for him as well. That response changed the way I think about professional messages. Replying quickly is useful when the answer is simple, but a meaningful commitment deserves careful thought. Now, if I need time, I send a short acknowledgement first and state when the other person can expect a full decision. Since then, I have tried to communicate uncertainty early instead of disappearing while I make a decision.
 
 ### Part 3
 
@@ -299,6 +317,8 @@ The occasion was a special exhibition at an art museum in Beijing. Visitors had 
 At first, I felt slightly uncomfortable because I normally use my phone for notes and photographs. However, without notifications, I **paid much closer attention to the artwork** and discussed details with Stella instead of immediately searching online. One large landscape painting held our attention for several minutes, something that rarely happens when I can check messages.
 
 By the end, the rule felt reasonable rather than restrictive. It protected both the objects and the experience of other visitors. I realised that temporary limits on technology can **improve concentration and genuine engagement**, provided the purpose is clearly explained.
+
+After leaving the exhibition, Stella and I sat in the café and wrote down the works we remembered most. Surprisingly, our descriptions were more detailed than the photographs I normally take and never view again. I would not support banning phones in every museum, because visitors may need translation or accessibility tools. In this particular exhibition, however, the limited period without a device matched the quiet setting. It allowed the paintings to become the main experience rather than material for an online post.
 
 ### Part 3
 
@@ -336,6 +356,8 @@ Before offering solutions, I listened and asked which problem affected her most.
 
 She did not change overnight, but she gradually became calmer and established clearer boundaries. I gave the advice because I had recently experienced a layoff myself and understood the fear behind her stress. The conversation taught me that useful advice should not be a lecture; it should combine **careful listening with realistic next steps**.
 
+A week later, she told her manager which deadlines were impossible and asked the team to agree on priorities. Not every problem disappeared, but she stopped trying to solve all of them alone. I also checked in without repeatedly asking whether she had followed my suggestions, because that would have created more pressure. What mattered was giving her a place to think clearly. The experience made me more cautious about advice: even a sensible solution only helps when it fits the other person's actual circumstances.
+
 ### Part 3
 
 **Q: Should people prepare before giving advice?** A: Yes, particularly for financial or medical issues. They should understand the situation and acknowledge **the limits of their knowledge**.
@@ -370,6 +392,8 @@ The occasion was my birthday dinner last year. I invited Stella and two close fr
 After dinner, we recalled our Malaysia trip and the lottery tickets Stella and I had bought at the airport. Neither ticket won, and I had looked disappointed. Stella joked that we had not wasted the money; we had simply **bought back our luck**. Everyone laughed, partly because she delivered the line so seriously.
 
 The joke led to more travel stories, and even a friend who had arrived tired became cheerful. What made the evening special was not an expensive celebration but the **warm and relaxed atmosphere**. Seeing everyone smile reminded me that close relationships are built through small shared moments and that humour can **strengthen an emotional connection**.
+
+Later, my friends brought out a tiny cake that they had hidden in the kitchen, and Stella repeated the lottery joke while lighting the candles. I remember the sound of everyone laughing more clearly than the gifts I received. The evening also felt important because we had all been busy and had not met as a group for several months. It gave us a chance to reconnect without a complicated plan, and it remains one of the happiest birthday memories I have.
 
 ### Part 3
 
@@ -406,6 +430,8 @@ Although she was already retired, she used her experience as an accountant to or
 
 I was proud because she did not seek recognition; she simply saw a problem and used her skills to help. Her patience and reliability reminded me that achievement is not limited to promotions or awards. Sometimes it means **making a quiet contribution that others can depend on**.
 
+At the next community meeting, an older resident thanked her because the clearer records had protected funding for a weekly meal programme. My mother mentioned this only casually, but I could see that the result meant a great deal to her. I later helped her turn the spreadsheet into a reusable template so another volunteer could manage it. The experience showed me that skills developed during a career can remain valuable after retirement and can give someone a renewed sense of purpose. It remains an achievement that reflects how dependable she has always been.
+
 ### Part 3
 
 **Q: When are parents proud of children?** A: When children act responsibly, persevere or show kindness, not only when they **achieve high grades**.
@@ -440,6 +466,8 @@ The car trip I'd like to take again is a coastal journey in Malaysia with Stella
 A car allowed us to stop at small beaches and villages that public transport did not reach. We planned a flexible route and set off early, but our navigation signal disappeared in a mountainous area. After taking a wrong turn, we **came across a hidden garden** and asked other visitors for directions.
 
 The mistake delayed us, yet it became the most memorable part of the day. I would choose a car again because it combines comfort with the freedom to change plans, especially in places with limited transport. The journey taught me that a trip does not need to follow the route perfectly to **leave a lasting impression**.
+
+We stopped at the garden for nearly an hour, spoke with a local family and took a few photographs before returning to the coast. Later, we ate seafood at a small village restaurant that we would never have reached by bus. I enjoyed the balance between movement and choice: we could carry water and equipment, yet stop whenever the scenery changed. Next time, I would download an offline map and share the driving, but I would keep the route flexible enough for unexpected discoveries. That freedom remains important for me.
 
 ### Part 3
 
@@ -476,6 +504,8 @@ It took place in a city park on a warm summer evening. I went because Stella enj
 
 After an hour, I had a headache and could not have a proper conversation, so I left earlier than planned. I did not dislike the musicians; the poor organisation and sound quality ruined the experience. Since then, I have preferred smaller indoor performances, where I can actually hear the music and feel less trapped by the crowd.
 
+Stella stayed for another band, so I took the subway home alone and listened to one of their recordings through headphones. The same song sounded clear and expressive, which confirmed that the performers were not the main problem. I later gave Stella an honest explanation rather than pretending I had enjoyed myself, and she understood. If I attended another outdoor festival, I would check reviews of the venue, stand farther from the speakers and choose a less crowded area instead of leaving immediately.
+
 ### Part 3
 
 **Q: What music events are popular?** A: Festivals, concerts and small live-house performances appeal to different budgets and **levels of social atmosphere**.
@@ -508,6 +538,8 @@ I needed imagination when building a small software prototype for a client whose
 There was no existing example to copy, so I had to **turn an abstract idea into a concrete workflow**. I sketched several possible screens, imagined how a first-time user might behave and built a simple version rather than a polished product. The first design was too complicated, but user feedback helped me remove unnecessary steps.
 
 The task was difficult because creativity still had to respect time and technical limits. Eventually, the client approved a clearer version. I felt satisfied because imagination was not decorative; it helped solve a real problem.
+
+The final prototype allowed staff to move information between three stages with a simple visual board. During the demonstration, one user completed the process without asking for instructions, which was the clearest sign that the idea worked. I also kept the sketches that had failed, because they showed why certain choices were removed. This project changed my view of imagination. In professional work, it often means testing several possible futures, observing how people respond and then turning the best possibility into something practical. It also gave me a reusable process for handling vague requests instead of passively waiting for perfect instructions from clients.
 
 ### Part 3
 
@@ -544,6 +576,8 @@ Instead, I invited her to take **a short, pressure-free walk** with me after wor
 
 We repeated the walk several times, and she gradually began going alone. I encouraged her because stress had reduced both her energy and confidence, and a small action felt more realistic than a dramatic lifestyle change. Her reaction taught me that encouragement works best when it **reduces the first barrier and respects the person's choice**.
 
+After a few weeks, she suggested a longer route through a nearby park and began tracking her steps for her own interest. I was careful not to turn the activity into a competition or comment on her appearance. The goal was simply to give her a manageable break from work. We still walk together occasionally, but she no longer needs me to persuade her. Seeing that gradual change made me proud because it came from her own decision rather than pressure from somebody else. The approach works in daily life.
+
 ### Part 3
 
 **Q: How can leaders encourage employees?** A: Give clear purpose, useful feedback and fair recognition while removing unnecessary barriers to **good performance**.
@@ -576,6 +610,8 @@ I would like a three-month software job with a small technology company in Malay
 I learned about similar projects through former colleagues and was attracted by the chance to combine work with **short-term cultural immersion**. I would help build a simple tourism application and train local staff to maintain it. The role would require technical ability, clear English and sensitivity to different working styles.
 
 I prefer a short contract because it offers international experience without requiring a permanent move away from family. Malaysia is also familiar from my trip with Stella, so the transition would feel manageable. I want the job because it could broaden my professional network and show me whether I can **adapt effectively to an international workplace**.
+
+Outside work, I would use weekends to improve my spoken English, explore local neighbourhoods and understand how colleagues live rather than staying only in tourist areas. The main challenge would be adjusting quickly to a different communication style while still delivering useful software within three months. I would therefore ask for clear responsibilities and accommodation before accepting. Even if the contract did not lead to a permanent role, the experience could make me more confident working with international clients in the future. That balance between challenge and familiarity strongly appeals to me.
 
 ### Part 3
 
@@ -610,6 +646,8 @@ It was brief because we had limited annual leave, but we planned a mixture of ci
 
 I enjoyed the natural scenery and the opportunity to use English in real situations. The stay **broadened my horizons** and strengthened my friendship with Stella. Most importantly, stepping away from deadlines reminded me that life should include curiosity and meaningful experiences beyond work.
 
+Because the visit was short, we could not explore every region, but that limitation made us choose our time carefully. We spent less time shopping and more time talking with local people, trying unfamiliar food and observing daily life. After returning to Beijing, I organised the photographs and wrote down several moments before they faded from memory. I would like to revisit Malaysia more slowly one day, although the intensity of that first ten-day stay is part of what made it special. That is why the short visit still feels rich rather than incomplete.
+
 ### Part 3
 
 **Q: Why do people travel abroad?** A: To rest, experience different cultures and challenge familiar assumptions through **direct personal experience**.
@@ -636,6 +674,8 @@ The new activity was freediving near Semporna during my Malaysia trip. I was exc
 An instructor gave us a safety briefing and taught us to **slow our breathing and remain relaxed**. My first attempt was awkward, but gradually I became calmer. Then I saw a sea turtle moving below us, and the sight made me forget my anxiety.
 
 I never dived very deep, yet the feeling of moving quietly through clear water was unforgettable. The activity showed me that excitement often comes from a mixture of fear and curiosity. With proper guidance, stepping outside my comfort zone can **create confidence as well as a lasting memory**.
+
+After returning to the boat, I felt physically tired but unusually calm. Stella and I talked about the turtle for the rest of the day, and I became more interested in the effect of plastic waste on marine animals. I would try freediving again, but only with qualified supervision and in conditions suitable for my ability. The experience was exciting precisely because I respected the risk instead of ignoring it. That balance allowed me to enjoy something new without behaving recklessly. It remains a clear example of curiosity overcoming hesitation in my life.
 
 ### Part 3
 
@@ -664,6 +704,8 @@ The role offered more flexible work and AI projects, so I cared deeply about the
 
 The company eventually offered me a second interview rather than the job itself, but I still felt relieved because the uncertainty had ended. Waiting was difficult because I could not influence the decision after the interview.
 
+I prepared for the next stage by reviewing the questions I had answered poorly and writing clearer examples from my software experience. That gave the waiting period a purpose and reduced the temptation to imagine every possible outcome. I eventually reached the final round, although another candidate received the position. Naturally, I was disappointed, but the process taught me that waiting becomes easier when I separate useful preparation from anxious checking. It also left me better prepared for later interviews. Although the result was not what I hoped for, completing the process gave me evidence that I could compete for this kind of role. That was worth the uncomfortable wait.
+
 ### Part 3
 
 **Q: When do people need to wait?** A: For transport, medical services, official decisions and major purchases, especially when demand exceeds **available time or resources**.
@@ -690,6 +732,8 @@ The power cut happened in my Beijing apartment on a hot summer evening. I was wo
 At first I felt frustrated because I had an unfinished task. I saved my laptop battery, contacted the client by phone and used **a small emergency light**. In the corridor, neighbours shared updates and helped an older resident contact the property manager. The electricity returned after about two hours.
 
 Without screens, I sat by the window and had an unexpectedly long conversation with a neighbour. The event was inconvenient, but it revealed how strongly daily life **depends on a stable electricity supply**. It also showed that disruption can briefly encourage people to cooperate and notice those living nearby.
+
+After the power returned, I charged the emergency light and bought a small power bank rather than assuming the problem would never happen again. I also saved the property manager's number offline. The preparation is simple, but it would make another interruption much easier to handle. What I remember most, however, is the change in the building's atmosphere. People who normally passed silently in the lift shared water, information and jokes, so the dark corridor briefly felt more like a community. I now feel better prepared during future emergencies at home.
 
 ### Part 3
 
@@ -718,6 +762,8 @@ I became frustrated, but Stella **remained calm and optimistic**. We returned to
 
 Although the mistake delayed us, the garden became one of my favourite memories from the trip. The experience taught me to keep offline maps and pay attention to physical landmarks. It also reminded me that **things can still end well when a plan fails**.
 
+The garden contained bright tropical flowers and a small viewing platform, so we rested there before continuing. If the app had worked perfectly, we would have walked straight past it. Later that evening, we marked the correct route and sent it to another traveller at our accommodation. I would not deliberately get lost again, but the incident made me less afraid of minor travel problems. Careful preparation matters, yet curiosity and calm communication can turn a mistake into a worthwhile part of the journey. That lesson still helps while travelling abroad.
+
 ### Part 3
 
 **Q: Why do some people get lost easily?** A: They rely on turn-by-turn instructions and fail to build **a mental picture of the area**.
@@ -745,6 +791,8 @@ We took the subway to a large public park, brought homemade sandwiches and walke
 
 The whole day cost very little but gave us **a genuine break from our routines**. I enjoyed it more than some expensive outings because we were not rushing between paid attractions. The experience reminded me that the quality of a day depends mainly on company, attention and atmosphere, not on **how much money is spent**.
 
+My favourite part was sitting near the lake while Stella sketched one of the trees and I read a few pages of a book. We had enough time to talk without checking a schedule, and the park became quieter toward sunset. Since then, we have repeated similar days in different neighbourhoods. We usually set a small budget, bring our own food and choose one free place to explore. This makes going out easy to arrange even when money or energy is limited. It is now one of our easiest ways to protect the friendship during busy periods of work.
+
 ### Part 3
 
 **Q: Can people enjoy themselves without spending much?** A: Yes. Parks, walks, home meals and community events provide **low-cost social and recreational value**.
@@ -771,6 +819,8 @@ A piece of local news that interested me concerned a coastal clean-up in Zhanjia
 I read it through an official local news account. Residents, students and fishing businesses worked together to remove plastic waste after a busy holiday. The report included photographs, the amount collected and interviews with volunteers, so it felt **specific and credible rather than promotional**.
 
 I was interested because I grew up near that coastline and have seen how rubbish damages an otherwise beautiful environment. The story was modest compared with national news, but it showed how coordinated local action can **produce an immediate visible result**. It encouraged me to reduce disposable packaging and reminded me that local news matters when it connects public issues with places people personally know.
+
+I shared the report with my mother, and she told me that the cleaned section was close to a beach we had visited when I was young. That personal connection made the figures more meaningful than a general article about pollution. I also appreciated that the report mentioned continued monitoring rather than presenting one clean-up as a complete solution. If I am in Zhanjiang during a future event, I would like to volunteer. Reading the story made participation feel practical rather than abstract. I hope to join one day.
 
 ### Part 3
 

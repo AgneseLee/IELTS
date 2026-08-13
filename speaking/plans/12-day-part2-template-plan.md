@@ -13,8 +13,10 @@
 维护标记：
 
 ```html
-<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
+<!-- Source: 同桌英语 #NN | Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
 ```
+
+非同桌英语题目省略 `Source`；`#NN` 对应 [question-bank.md](../topics/question-bank.md#同桌英语优先级与覆盖5055) 的截图优先级。
 
 修改一个 topic：只改该题答案。修改共同事实或 collocation：搜索 Bank ID 后统一检查。
 

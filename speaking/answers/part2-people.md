@@ -2,7 +2,124 @@
 
 > 半固定结构：Who → Quality → Context → Example → Reaction/result → Why this person matters。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；完整稿用于校正，不逐字背诵。
 
-## 1. Person who grows vegetables
+## 1. Person good at languages
+
+### Keywords and collocations
+
+- Stella
+- English and Japanese
+- daily exposure
+- shadow podcasts
+- language exchange
+- learn from mistakes
+- communicate confidently
+- consistent practice
+
+### Complete answer
+
+<!-- Source: 同桌英语 #11 | Template: People P1-P2-P3-P4 | Bank: B1 | Modules: podcasts / language-exchange / Malaysia-directions -->
+
+The person I'd like to describe is Stella, my friend and former colleague. What stands out most is that she is **disciplined and unafraid of making mistakes** when learning languages.
+
+I first noticed this clearly when she began speaking conversational Japanese as well as English. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists.
+
+Instead of relying only on podcasts, she also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life.
+
+This matters to me because our practice affects my own study: she asks me to retell a story without checking a dictionary. She corrects the mistakes that block meaning, which keeps the conversation moving and makes the exercise less intimidating. This method has influenced my own English study. I now try to retrieve familiar expressions under time pressure instead of endlessly collecting new vocabulary. Her progress proves that confidence comes from repeated use in real situations, not from waiting until every sentence is perfect.
+
+### Part 3
+
+**Q: Are many people in China able to speak foreign languages?**
+
+A: Many have studied English, but confidence varies because exam preparation may provide limited speaking practice. Real fluency requires **regular, meaningful communication**.
+
+**Q: Does speaking other languages help at work?**
+
+A: Yes. It opens international opportunities and reduces misunderstandings with clients, giving workers **a clear competitive advantage**.
+
+**Q: Do people learn languages other than English?**
+
+A: Yes, especially Japanese, Korean, French and Spanish, often because of work, travel or **interest in another culture**.
+
+**Q: Why is learning easier for children?**
+
+A: Children are less afraid of mistakes and receive more natural repetition. Adults have stronger analytical skills but often **lack time and confidence**.
+
+**Q: How do people learn new things?**
+
+A: Most combine instruction with practice. Knowledge becomes useful only when learners **apply it repeatedly and receive feedback**.
+
+## 2. Person with a successful business
+
+### Keywords and collocations
+
+- former manager Chen
+- small software consultancy
+- market gap
+- reliable service
+- word-of-mouth
+- steady growth
+- loyal clients
+- sustainable success
+
+### Complete answer
+
+<!-- Source: 同桌英语 #20 | Template: People P1-P2-P3-P4 | Bank: B8 | Modules: consultancy / honest-advice / sustainable-growth -->
+
+The person I'd like to describe is Chen, a former manager who runs a small software consultancy. What stands out most is his **practical judgement and long-term approach to business**.
+
+I first noticed this clearly when I met him at my previous company, where he was known for **solving practical problems efficiently**. He noticed that many small businesses needed simple digital tools but could not afford large technology firms. He therefore started with three colleagues, focusing on clear communication and reliable after-sales service.
+
+Instead of selling one client an expensive system, Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money.
+
+This matters to me because I also saw how responsibly he handled a project that fell behind schedule. He informed the client early, explained the technical problem and offered a revised plan instead of hiding the delay. The conversation was uncomfortable, but the client appreciated the transparency and continued working with the company. That response showed me that business success is not simply about avoiding mistakes. It also depends on taking responsibility and protecting relationships when something goes wrong, especially over time.
+
+### Part 3
+
+**Q: Why do people start their own businesses?**
+
+A: Many want greater independence or recognise an unmet need. Others seek higher income, but lasting businesses usually require **a clear purpose and tolerance for uncertainty**.
+
+**Q: Should governments support start-ups financially?**
+
+A: Yes, selectively. Loans and training can encourage innovation, but applicants should present viable plans so public money is **allocated responsibly**.
+
+## 3. Person entering the medical field
+
+### Keywords and collocations
+
+- cousin Lin
+- nursing student
+- grandmother's illness
+- practical care
+- calm under pressure
+- demanding career
+- emotional support
+- meaningful contribution
+
+### Complete answer
+
+<!-- Source: 同桌英语 #21 | Template: People P1-P2-P3-P4 | Bank: B8 | Modules: nursing / first-aid / career-motivation -->
+
+The person I'd like to describe is my cousin Lin, who is studying nursing. What stands out most is her **empathy and ability to remain calm under pressure**.
+
+I first noticed this clearly when she helped care for our grandmother during a long illness and began considering medicine. What stands out most is her ability to **remain calm under pressure**. She is now learning clinical skills and hopes to work in emergency care, where quick judgement matters. During a recent family gathering, I cut my hand while cooking.
+
+Instead of panicking, Lin cleaned the wound, checked it carefully and explained what to watch for. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy.
+
+This matters to me because her demanding schedule of lectures, clinical practice and night shifts shows that her decision is based on experience rather than an idealised image of the job. When we talk, she is honest about feeling tired, but she also describes the satisfaction of helping a frightened patient feel more secure. That balance makes me respect her choice. I think she has both the judgement and emotional strength needed for a long and successful medical career.
+
+### Part 3
+
+**Q: Is being a doctor easy or difficult?**
+
+A: Extremely difficult. Doctors need extensive knowledge, accurate judgement and the ability to **work under a great deal of pressure**, often while supporting anxious families.
+
+**Q: Is biology interesting for children?**
+
+A: It can be, especially when lessons connect theory to the human body or local nature. Experiments make abstract knowledge **more concrete and memorable**.
+
+## 4. Person who grows vegetables
 
 ### Keywords and collocations
 
@@ -17,7 +134,7 @@
 
 ### Complete answer
 
-<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
+<!-- Source: 同桌英语 #23 | Template: People P1-P2-P3-P4 | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
 
 The person I'd like to describe is my mother, who is a retired accountant and grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
 
@@ -37,7 +154,7 @@ A: It gives people fresher produce and a relaxing routine. Caring for plants als
 
 A: It is common among older people and families with balconies or gardens. Younger urban residents increasingly grow herbs because they require **little space or specialist knowledge**.
 
-## 2. Childhood friend
+## 5. Childhood friend
 
 ### Keywords and collocations
 
@@ -52,7 +169,7 @@ A: It is common among older people and families with balconies or gardens. Young
 
 ### Complete answer
 
-<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: school-friend / broken-bicycle / lasting-friendship -->
+<!-- Source: 同桌英语 #24 | Template: People P1-P2-P3-P4 | Bank: B1 | Modules: school-friend / broken-bicycle / lasting-friendship -->
 
 The person I'd like to describe is Ming, whom I met in primary school in Zhanjiang. What stands out most is that he is **quietly dependable**.
 
@@ -88,379 +205,58 @@ A: Younger friends may share current interests, whereas older friends often offe
 
 A: Yes. It makes long-distance contact effortless, but it can also encourage **many shallow connections instead of a few deep ones**.
 
-## 3. Person entering the medical field
-
-### Keywords and collocations
-
-- cousin Lin
-- nursing student
-- grandmother's illness
-- practical care
-- calm under pressure
-- demanding career
-- emotional support
-- meaningful contribution
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: nursing / first-aid / career-motivation -->
-
-The person I'd like to describe is my cousin Lin, who is studying nursing. What stands out most is her **empathy and ability to remain calm under pressure**.
-
-I first noticed this clearly when she helped care for our grandmother during a long illness and began considering medicine. What stands out most is her ability to **remain calm under pressure**. She is now learning clinical skills and hopes to work in emergency care, where quick judgement matters. During a recent family gathering, I cut my hand while cooking.
-
-Instead of panicking, Lin cleaned the wound, checked it carefully and explained what to watch for. Her calm manner made me feel safe. She knows nursing is a **physically and emotionally demanding career**, but she wants work that directly improves people's lives. I admire her because she combines practical ability with empathy.
-
-This matters to me because her demanding schedule of lectures, clinical practice and night shifts shows that her decision is based on experience rather than an idealised image of the job. When we talk, she is honest about feeling tired, but she also describes the satisfaction of helping a frightened patient feel more secure. That balance makes me respect her choice. I think she has both the judgement and emotional strength needed for a long and successful medical career.
-
-### Part 3
-
-**Q: Is being a doctor easy or difficult?**
-
-A: Extremely difficult. Doctors need extensive knowledge, accurate judgement and the ability to **work under a great deal of pressure**, often while supporting anxious families.
-
-**Q: Is biology interesting for children?**
-
-A: It can be, especially when lessons connect theory to the human body or local nature. Experiments make abstract knowledge **more concrete and memorable**.
-
-## 4. Person with a successful business
-
-### Keywords and collocations
-
-- former manager Chen
-- small software consultancy
-- market gap
-- reliable service
-- word-of-mouth
-- steady growth
-- loyal clients
-- sustainable success
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: consultancy / honest-advice / sustainable-growth -->
-
-The person I'd like to describe is Chen, a former manager who runs a small software consultancy. What stands out most is his **practical judgement and long-term approach to business**.
-
-I first noticed this clearly when I met him at my previous company, where he was known for **solving practical problems efficiently**. He noticed that many small businesses needed simple digital tools but could not afford large technology firms. He therefore started with three colleagues, focusing on clear communication and reliable after-sales service.
-
-Instead of selling one client an expensive system, Chen recommended a smaller solution that actually matched its needs. That honesty generated strong **word-of-mouth recommendations**, and the company gradually gained loyal clients. I consider the business successful because it is profitable without expanding recklessly, and employees have manageable workloads. What impresses me most is that Chen values long-term trust over quick money.
-
-This matters to me because I also saw how responsibly he handled a project that fell behind schedule. He informed the client early, explained the technical problem and offered a revised plan instead of hiding the delay. The conversation was uncomfortable, but the client appreciated the transparency and continued working with the company. That response showed me that business success is not simply about avoiding mistakes. It also depends on taking responsibility and protecting relationships when something goes wrong, especially over time.
-
-### Part 3
-
-**Q: Why do people start their own businesses?**
-
-A: Many want greater independence or recognise an unmet need. Others seek higher income, but lasting businesses usually require **a clear purpose and tolerance for uncertainty**.
-
-**Q: Should governments support start-ups financially?**
-
-A: Yes, selectively. Loans and training can encourage innovation, but applicants should present viable plans so public money is **allocated responsibly**.
-
-## 5. Person good at languages
+## 6. Nature lover
 
 ### Keywords and collocations
 
 - Stella
-- English and Japanese
-- daily exposure
-- shadow podcasts
-- language exchange
-- learn from mistakes
-- communicate confidently
-- consistent practice
+- reduce waste
+- reusable bottle
+- weekend clean-up
+- protect marine life
+- consistent habits
+- influence others
+- shared responsibility
 
 ### Complete answer
 
-<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: podcasts / language-exchange / Malaysia-directions -->
+<!-- Source: 同桌英语 #30 | Template: People P1-P2-P3-P4 | Bank: B8 | Modules: Semporna / clean-up / daily-habits -->
 
-The person I'd like to describe is Stella, my friend and former colleague. What stands out most is that she is **disciplined and unafraid of making mistakes** when learning languages.
+The person I'd like to describe is Stella. What I admire is the way she **turns concern for nature into everyday habits**.
 
-I first noticed this clearly when she began speaking conversational Japanese as well as English. What stands out is her **consistent and practical learning method**. She listens to short podcasts every morning, shadows the speakers and records unfamiliar expressions in sentences rather than isolated lists.
+I first noticed this clearly when her concern for the environment appeared in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic.
 
-Instead of relying only on podcasts, she also attends an online language exchange once a week. When we travelled in Malaysia, she confidently used English to ask for directions after our navigation app failed. Instead of worrying about perfect grammar, she **focused on making herself understood**, and we soon found the correct route. I admire her because she treats mistakes as useful feedback and makes language learning part of daily life.
+Instead of limiting her concern to personal habits, she later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen.
 
-This matters to me because our practice affects my own study: she asks me to retell a story without checking a dictionary. She corrects the mistakes that block meaning, which keeps the conversation moving and makes the exercise less intimidating. This method has influenced my own English study. I now try to retrieve familiar expressions under time pressure instead of endlessly collecting new vocabulary. Her progress proves that confidence comes from repeated use in real situations, not from waiting until every sentence is perfect.
-
-### Part 3
-
-**Q: Are many people in China able to speak foreign languages?**
-
-A: Many have studied English, but confidence varies because exam preparation may provide limited speaking practice. Real fluency requires **regular, meaningful communication**.
-
-**Q: Does speaking other languages help at work?**
-
-A: Yes. It opens international opportunities and reduces misunderstandings with clients, giving workers **a clear competitive advantage**.
-
-**Q: Do people learn languages other than English?**
-
-A: Yes, especially Japanese, Korean, French and Spanish, often because of work, travel or **interest in another culture**.
-
-**Q: Why is learning easier for children?**
-
-A: Children are less afraid of mistakes and receive more natural repetition. Adults have stronger analytical skills but often **lack time and confidence**.
-
-**Q: How do people learn new things?**
-
-A: Most combine instruction with practice. Knowledge becomes useful only when learners **apply it repeatedly and receive feedback**.
-
-## 6. Famous person to meet
-
-### Keywords and collocations
-
-- Elon Musk
-- documentary
-- reusable rockets
-- ambitious goal
-- repeated failures
-- long-term thinking
-- ask about innovation
-- mixed admiration
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B5 | Modules: SpaceX / repeated-failure / engineering-question -->
-
-The person I'd like to describe is Elon Musk, whom I first learned about through a documentary on SpaceX. What stands out most is his **ambitious, long-term approach to engineering problems**.
-
-I first noticed this clearly when a documentary showed his **willingness to pursue ambitious technical goals**, although I do not agree with everything he says. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction.
-
-Instead of meeting him merely because he is famous, I would ask how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
-
-This matters to me because I would also ask about the limits of that approach, as ambitious projects can consume enormous amounts of money and place pressure on employees. I would prefer a serious conversation about both successful and failed decisions. Even if I disagreed with some answers, hearing the reasoning directly would be valuable. It might help me judge bold technical claims more carefully in my own field.
+This matters to me because she has continued making small changes rather than treating the clean-up as a one-off event. She checks whether seafood comes from responsible sources and reminds friends to leave natural areas exactly as they found them. I have adopted some of these habits, especially carrying a reusable bottle and refusing unnecessary bags. What I value is her consistency: spending time outdoors has made her protective of nature, and that concern is visible in choices she makes throughout ordinary life, even when nobody is paying attention.
 
 ### Part 3
 
-**Q: What are the advantages and disadvantages of being a famous child?**
+**Q: Should parents teach environmental protection?**
 
-A: Fame can provide opportunities and resources, but public attention may damage privacy and create **unhealthy pressure at a sensitive age**.
+A: Yes, through daily habits such as sorting waste and saving water. Children copy behaviour more readily than **abstract instructions**.
 
-**Q: What can children do to become famous?**
+**Q: What environmental laws are effective?**
 
-A: They may develop a genuine skill and share it responsibly, but adults should protect them from **exploitation and excessive exposure**.
+A: Rules work when targets are clear, enforcement is consistent and greener alternatives are **affordable and convenient**.
 
-**Q: What can famous children do with their fame?**
+**Q: Do people prefer rewards or punishment?**
 
-A: They can support useful causes and inspire peers, but adults should ensure publicity does not **replace education or normal development**.
+A: Rewards encourage participation initially, while penalties deter serious harm. A balanced system produces **both motivation and accountability**.
 
-**Q: Do people become famous because of talent?**
+**Q: Is it easy for urban children to experience nature?**
 
-A: Talent helps, but timing, promotion and social connections also matter. Fame is therefore **not a reliable measure of ability**.
+A: Less easy, but parks, school gardens and organised trips can provide **regular direct contact with natural environments**.
 
-**Q: Is becoming famous easy in China?**
+**Q: What can individuals do?**
 
-A: Social media makes brief attention easier, but maintaining a positive reputation requires **consistent work and public judgement**.
+A: Reduce unnecessary consumption, use public transport and support responsible companies. Collective routine choices can **create substantial demand for change**.
 
-**Q: Would you like to be famous?**
+**Q: Should schools teach environmental protection?**
 
-A: No. I would prefer professional recognition without losing privacy because a normal life gives me **greater freedom and peace of mind**.
+A: Yes, through practical projects rather than slogans. Measuring waste or growing plants makes the subject **concrete and personally relevant**.
 
-## 7. Person who plans
-
-### Keywords and collocations
-
-- Stella
-- former colleague
-- six months ahead
-- detailed itinerary
-- realistic budget
-- leave free time
-- stay calm
-- manage uncertainty
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Malaysia-itinerary / offline-map / flexible-planning -->
-
-The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**.
-
-I first noticed this clearly when she spent almost six months before our Malaysia trip comparing flights, booking accommodation and preparing a **detailed but realistic itinerary**. She also left free periods so we could explore at our own pace. One day, our navigation app lost its signal in the mountains and we took the wrong route.
-
-Instead of panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
-
-This matters to me because her method is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it. That change has made my recent journeys calmer, cheaper and easier to manage.
-
-### Part 3
-
-**Q: Is it important to plan ahead?**
-
-A: Yes, for expensive or shared activities because planning helps people **coordinate time and avoid preventable problems**. Flexibility should still remain.
-
-**Q: What activities need advance planning?**
-
-A: Travel, major projects and medical treatment, since they involve limited resources, deadlines and **several dependent decisions**.
-
-**Q: Should children plan future careers?**
-
-A: They should explore possibilities, not make an irreversible choice. Early planning gives direction, while **room to change protects curiosity**.
-
-**Q: Should children ask teachers or parents for planning advice?**
-
-A: Yes, from both. Parents know the child personally, while teachers may offer **broader academic and career information**.
-
-**Q: Are study plans popular among young people?**
-
-A: Yes, especially before major examinations. The useful plans are realistic and include rest rather than **simply filling every hour**.
-
-**Q: Is a university major closely related to a future career?**
-
-A: Sometimes, particularly in medicine or engineering, but transferable skills allow many graduates to **move into different fields**.
-
-## 8. Child who loves drawing
-
-### Keywords and collocations
-
-- niece Mia
-- eight years old
-- watercolours
-- observe details
-- park scene
-- patient concentration
-- express feelings
-- creative outlet
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Mia / park-painting / creative-freedom -->
-
-The person I'd like to describe is my eight-year-old niece Mia. What I notice most is her **patience and close observation of ordinary details**.
-
-I first noticed this clearly when she began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk.
-
-Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. This example proves that although the picture was not technically perfect, it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
-
-This matters to me because she later gave the painting to her grandmother, who placed it beside the dining table. Mia was proud, but she began explaining what she wanted to improve next time. Rather than comparing her work with art, the family asks about the story behind each picture. I think this protects her enjoyment and keeps the hobby from becoming homework.
-
-### Part 3
-
-**Q: What is the right age to learn drawing?**
-
-A: Children can begin as soon as they enjoy holding pencils. Early drawing should encourage exploration rather than **formal accuracy or competition**.
-
-**Q: Why do children draw more than adults?**
-
-A: Children have fewer concerns about judgement and use pictures to express ideas before their language is fully developed. Adults often **become overly self-critical**.
-
-**Q: Why visit galleries instead of viewing art online?**
-
-A: Original scale, texture and physical atmosphere cannot be reproduced fully on a screen. Galleries also provide **focused attention without digital distraction**.
-
-**Q: Should galleries and museums be free?**
-
-A: Basic collections should be affordable or free, while special exhibitions may charge reasonable fees to support **preservation and professional staff**.
-
-**Q: How do artworks inspire people?**
-
-A: They present familiar experiences from unexpected perspectives and can **trigger emotion, reflection or new creative ideas**.
-
-**Q: How is reading a book different from visiting a museum?**
-
-A: Books allow deep, self-paced explanation, whereas museums provide **direct visual and physical engagement** with objects.
-
-## 9. Smart problem-solver
-
-### Keywords and collocations
-
-- mother
-- childhood shyness
-- identify root cause
-- listen without judging
-- practical advice
-- gradual confidence
-- emotional intelligence
-- lasting impact
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B4 | Modules: childhood-shyness / small-steps / confidence -->
-
-The person I'd like to describe is my mother, who has helped me solve problems since childhood. What stands out most is that she **listens carefully and looks for the cause before offering advice**.
-
-I first noticed this clearly when I was in primary school and avoided expressing opinions because I feared judgement. Instead of simply telling me to be confident, she **identified the real cause of the problem**. She listened without interrupting and explained that disagreement did not mean rejection. She then gave me a small task: express one opinion each day to someone I trusted.
-
-Instead of forcing a sudden change, she gave me a gradual approach that felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
-
-This matters to me because years later, I used a similar method when a junior colleague was afraid to speak during meetings. Instead of demanding an immediate presentation, I first asked him to explain one technical issue to me. She gave me a safe way to build the ability myself.
-
-### Part 3
-
-**Q: Are children born smart or do they learn to be smart?**
-
-A: Both matter. Natural ability may affect speed, but education, curiosity and **deliberate practice** largely determine how effectively children use it.
-
-**Q: How do children become smarter at school?**
-
-A: By asking questions, solving varied problems and receiving useful feedback rather than only **memorising correct answers**.
-
-**Q: Why are some people well-rounded?**
-
-A: They receive broader opportunities and remain curious across fields. Others specialise because time and professional demands **reward deep expertise**.
-
-**Q: Why does society need different talents?**
-
-A: Modern problems require technical, creative and social abilities. Diverse specialists can **combine complementary strengths**.
-
-**Q: Are smart children happier?**
-
-A: Not necessarily. Intelligence can help solve problems, but happiness also depends on relationships, health and **realistic expectations**.
-
-**Q: Should schools identify individual talents?**
-
-A: Yes, but labels should remain flexible. Schools should provide opportunities without **limiting children to one early judgement**.
-
-## 10. Self-taught friend
-
-### Keywords and collocations
-
-- Stella
-- watercolour painting
-- online tutorials
-- practise consistently
-- learn through imitation
-- seek feedback
-- flexible pace
-- self-discipline
-
-### Complete answer
-
-<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: online-tutorials / watercolour / recorded-progress -->
-
-The person I'd like to describe is my friend Stella, who taught herself watercolour painting through free online tutorials. What impressed me was her **self-discipline and willingness to learn gradually**.
-
-I first noticed this clearly when she began painting because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks.
-
-Instead of judging her work only by technical perfection, I was more impressed by its peaceful atmosphere. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
-
-This matters to me because over time, she created a small folder showing the same subjects painted several months apart. She also learned to choose tutorials for a specific weakness instead of watching random videos. I found that approach useful for my own technical study. It showed me that self-teaching becomes much more effective when progress is recorded and each practice session has a clear purpose.
-
-### Part 3
-
-**Q: Is lifelong learning necessary?**
-
-A: Yes. Technology and work change quickly, while learning also keeps older adults **mentally active and socially engaged**.
-
-**Q: Should teachers make lessons fun?**
-
-A: Yes, provided entertainment supports the objective. Engaging examples improve attention, but students still need **effort and disciplined practice**.
-
-**Q: Do students learn too many subjects?**
-
-A: Sometimes breadth becomes superficial. A common foundation is useful, followed by **greater choice and deeper study**.
-
-**Q: Should companies train employees?**
-
-A: Yes. Training improves performance and retention, while employees should also **take responsibility for their own development**.
-
-**Q: Is it better to study a few subjects or many?**
-
-A: A broad foundation is useful early, followed by deeper study in selected areas so learners gain **both perspective and real competence**.
-
-**Q: Should older adults continue learning?**
-
-A: Yes. Learning maintains confidence, cognitive activity and social connection and helps people **adapt to practical changes**.
-
-## 11. Helpful person
+## 7. Helpful person
 
 ### Keywords and collocations
 
@@ -475,7 +271,7 @@ A: Yes. Learning maintains confidence, cognitive activity and social connection 
 
 ### Complete answer
 
-<!-- Template: People P1-P2-P3-P4 | Bank: B4 | Modules: new-colleague / setup-notes / cooperative-culture -->
+<!-- Source: 同桌英语 #34 | Template: People P1-P2-P3-P4 | Bank: B4 | Modules: new-colleague / setup-notes / cooperative-culture -->
 
 The person I'd like to describe is Stella, my former colleague. I remember her as someone who **patiently helps others without expecting a reward**.
 
@@ -511,56 +307,260 @@ A: Colleagues suit technical work issues; family members offer emotional perspec
 
 A: They may fear appearing incompetent or being judged. Managers can reduce this by creating **a psychologically safe environment**.
 
-## 12. Nature lover
+## 8. Self-taught friend
 
 ### Keywords and collocations
 
 - Stella
-- reduce waste
-- reusable bottle
-- weekend clean-up
-- protect marine life
-- consistent habits
-- influence others
-- shared responsibility
+- watercolour painting
+- online tutorials
+- practise consistently
+- learn through imitation
+- seek feedback
+- flexible pace
+- self-discipline
 
 ### Complete answer
 
-<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: Semporna / clean-up / daily-habits -->
+<!-- Source: 同桌英语 #38 | Template: People P1-P2-P3-P4 | Bank: B1 | Modules: online-tutorials / watercolour / recorded-progress -->
 
-The person I'd like to describe is Stella. What I admire is the way she **turns concern for nature into everyday habits**.
+The person I'd like to describe is my friend Stella, who taught herself watercolour painting through free online tutorials. What impressed me was her **self-discipline and willingness to learn gradually**.
 
-I first noticed this clearly when her concern for the environment appeared in **consistent everyday choices**, not dramatic claims. She carries a reusable bottle, avoids excessive packaging and uses public transport whenever practical. After our trip to Semporna, where we saw a sea turtle while freediving, she became particularly concerned about marine plastic.
+I first noticed this clearly when she began painting because work was stressful and she wanted **a quiet creative outlet**. She watched short demonstrations, copied basic techniques and practised several times a month. Instead of buying expensive equipment, she started with a small set and asked online artists for feedback. One painting showed the park near my apartment, with a pond, flowers and ducks.
 
-Instead of limiting her concern to personal habits, she later joined a weekend clean-up and invited me along. We collected bags of litter near a river and sorted recyclable material. The activity was tiring, but seeing the cleaner area created **a real sense of contribution**. She also explains environmental issues calmly instead of blaming people, which makes others more willing to listen.
+Instead of judging her work only by technical perfection, I was more impressed by its peaceful atmosphere. Self-study suited her because she could **learn at her own pace** after work. A teacher might have corrected mistakes faster, but fixed classes would have been difficult during busy periods. Her progress shows that independent learning can work when someone has clear resources, regular practice and **enough self-discipline to continue without supervision**.
 
-This matters to me because she has continued making small changes rather than treating the clean-up as a one-off event. She checks whether seafood comes from responsible sources and reminds friends to leave natural areas exactly as they found them. I have adopted some of these habits, especially carrying a reusable bottle and refusing unnecessary bags. What I value is her consistency: spending time outdoors has made her protective of nature, and that concern is visible in choices she makes throughout ordinary life, even when nobody is paying attention.
+This matters to me because over time, she created a small folder showing the same subjects painted several months apart. She also learned to choose tutorials for a specific weakness instead of watching random videos. I found that approach useful for my own technical study. It showed me that self-teaching becomes much more effective when progress is recorded and each practice session has a clear purpose.
 
 ### Part 3
 
-**Q: Should parents teach environmental protection?**
+**Q: Is lifelong learning necessary?**
 
-A: Yes, through daily habits such as sorting waste and saving water. Children copy behaviour more readily than **abstract instructions**.
+A: Yes. Technology and work change quickly, while learning also keeps older adults **mentally active and socially engaged**.
 
-**Q: What environmental laws are effective?**
+**Q: Should teachers make lessons fun?**
 
-A: Rules work when targets are clear, enforcement is consistent and greener alternatives are **affordable and convenient**.
+A: Yes, provided entertainment supports the objective. Engaging examples improve attention, but students still need **effort and disciplined practice**.
 
-**Q: Do people prefer rewards or punishment?**
+**Q: Do students learn too many subjects?**
 
-A: Rewards encourage participation initially, while penalties deter serious harm. A balanced system produces **both motivation and accountability**.
+A: Sometimes breadth becomes superficial. A common foundation is useful, followed by **greater choice and deeper study**.
 
-**Q: Is it easy for urban children to experience nature?**
+**Q: Should companies train employees?**
 
-A: Less easy, but parks, school gardens and organised trips can provide **regular direct contact with natural environments**.
+A: Yes. Training improves performance and retention, while employees should also **take responsibility for their own development**.
 
-**Q: What can individuals do?**
+**Q: Is it better to study a few subjects or many?**
 
-A: Reduce unnecessary consumption, use public transport and support responsible companies. Collective routine choices can **create substantial demand for change**.
+A: A broad foundation is useful early, followed by deeper study in selected areas so learners gain **both perspective and real competence**.
 
-**Q: Should schools teach environmental protection?**
+**Q: Should older adults continue learning?**
 
-A: Yes, through practical projects rather than slogans. Measuring waste or growing plants makes the subject **concrete and personally relevant**.
+A: Yes. Learning maintains confidence, cognitive activity and social connection and helps people **adapt to practical changes**.
+
+## 9. Smart problem-solver
+
+### Keywords and collocations
+
+- mother
+- childhood shyness
+- identify root cause
+- listen without judging
+- practical advice
+- gradual confidence
+- emotional intelligence
+- lasting impact
+
+### Complete answer
+
+<!-- Source: 同桌英语 #41 | Template: People P1-P2-P3-P4 | Bank: B4 | Modules: childhood-shyness / small-steps / confidence -->
+
+The person I'd like to describe is my mother, who has helped me solve problems since childhood. What stands out most is that she **listens carefully and looks for the cause before offering advice**.
+
+I first noticed this clearly when I was in primary school and avoided expressing opinions because I feared judgement. Instead of simply telling me to be confident, she **identified the real cause of the problem**. She listened without interrupting and explained that disagreement did not mean rejection. She then gave me a small task: express one opinion each day to someone I trusted.
+
+Instead of forcing a sudden change, she gave me a gradual approach that felt manageable, and I slowly became more willing to communicate. What made her solution smart was that it addressed my thinking rather than only the visible behaviour. She combined patience with **practical, achievable steps**. Her advice has had a lasting impact on both my personal life and work, and it taught me that intelligent solutions often begin with **understanding the person behind the problem**.
+
+This matters to me because years later, I used a similar method when a junior colleague was afraid to speak during meetings. Instead of demanding an immediate presentation, I first asked him to explain one technical issue to me. She gave me a safe way to build the ability myself.
+
+### Part 3
+
+**Q: Are children born smart or do they learn to be smart?**
+
+A: Both matter. Natural ability may affect speed, but education, curiosity and **deliberate practice** largely determine how effectively children use it.
+
+**Q: How do children become smarter at school?**
+
+A: By asking questions, solving varied problems and receiving useful feedback rather than only **memorising correct answers**.
+
+**Q: Why are some people well-rounded?**
+
+A: They receive broader opportunities and remain curious across fields. Others specialise because time and professional demands **reward deep expertise**.
+
+**Q: Why does society need different talents?**
+
+A: Modern problems require technical, creative and social abilities. Diverse specialists can **combine complementary strengths**.
+
+**Q: Are smart children happier?**
+
+A: Not necessarily. Intelligence can help solve problems, but happiness also depends on relationships, health and **realistic expectations**.
+
+**Q: Should schools identify individual talents?**
+
+A: Yes, but labels should remain flexible. Schools should provide opportunities without **limiting children to one early judgement**.
+
+## 10. Person who plans
+
+### Keywords and collocations
+
+- Stella
+- former colleague
+- six months ahead
+- detailed itinerary
+- realistic budget
+- leave free time
+- stay calm
+- manage uncertainty
+
+### Complete answer
+
+<!-- Source: 同桌英语 #47 | Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Malaysia-itinerary / offline-map / flexible-planning -->
+
+The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**.
+
+I first noticed this clearly when she spent almost six months before our Malaysia trip comparing flights, booking accommodation and preparing a **detailed but realistic itinerary**. She also left free periods so we could explore at our own pace. One day, our navigation app lost its signal in the mountains and we took the wrong route.
+
+Instead of panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
+
+This matters to me because her method is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it. That change has made my recent journeys calmer, cheaper and easier to manage.
+
+### Part 3
+
+**Q: Is it important to plan ahead?**
+
+A: Yes, for expensive or shared activities because planning helps people **coordinate time and avoid preventable problems**. Flexibility should still remain.
+
+**Q: What activities need advance planning?**
+
+A: Travel, major projects and medical treatment, since they involve limited resources, deadlines and **several dependent decisions**.
+
+**Q: Should children plan future careers?**
+
+A: They should explore possibilities, not make an irreversible choice. Early planning gives direction, while **room to change protects curiosity**.
+
+**Q: Should children ask teachers or parents for planning advice?**
+
+A: Yes, from both. Parents know the child personally, while teachers may offer **broader academic and career information**.
+
+**Q: Are study plans popular among young people?**
+
+A: Yes, especially before major examinations. The useful plans are realistic and include rest rather than **simply filling every hour**.
+
+**Q: Is a university major closely related to a future career?**
+
+A: Sometimes, particularly in medicine or engineering, but transferable skills allow many graduates to **move into different fields**.
+
+## 11. Child who loves drawing
+
+### Keywords and collocations
+
+- niece Mia
+- eight years old
+- watercolours
+- observe details
+- park scene
+- patient concentration
+- express feelings
+- creative outlet
+
+### Complete answer
+
+<!-- Source: 同桌英语 #48 | Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Mia / park-painting / creative-freedom -->
+
+The person I'd like to describe is my eight-year-old niece Mia. What I notice most is her **patience and close observation of ordinary details**.
+
+I first noticed this clearly when she began drawing seriously after receiving a small watercolour set for her birthday. What stands out is how carefully she **observes ordinary details**. She draws several times a week, usually animals, flowers and places she has visited. Last year, she painted a park after a family walk.
+
+Instead of copying a photograph, she added brighter flowers and a small imaginary bridge. This example proves that although the picture was not technically perfect, it captured the peaceful feeling of the afternoon. Drawing gives her a **creative outlet** and allows her to concentrate quietly for a long time. I think she loves it because adults do not control every decision; she can choose the colours and change reality freely. Watching her reminds me that creativity grows when children have **time, encouragement and freedom to experiment**.
+
+This matters to me because she later gave the painting to her grandmother, who placed it beside the dining table. Mia was proud, but she began explaining what she wanted to improve next time. Rather than comparing her work with art, the family asks about the story behind each picture. I think this protects her enjoyment and keeps the hobby from becoming homework.
+
+### Part 3
+
+**Q: What is the right age to learn drawing?**
+
+A: Children can begin as soon as they enjoy holding pencils. Early drawing should encourage exploration rather than **formal accuracy or competition**.
+
+**Q: Why do children draw more than adults?**
+
+A: Children have fewer concerns about judgement and use pictures to express ideas before their language is fully developed. Adults often **become overly self-critical**.
+
+**Q: Why visit galleries instead of viewing art online?**
+
+A: Original scale, texture and physical atmosphere cannot be reproduced fully on a screen. Galleries also provide **focused attention without digital distraction**.
+
+**Q: Should galleries and museums be free?**
+
+A: Basic collections should be affordable or free, while special exhibitions may charge reasonable fees to support **preservation and professional staff**.
+
+**Q: How do artworks inspire people?**
+
+A: They present familiar experiences from unexpected perspectives and can **trigger emotion, reflection or new creative ideas**.
+
+**Q: How is reading a book different from visiting a museum?**
+
+A: Books allow deep, self-paced explanation, whereas museums provide **direct visual and physical engagement** with objects.
+
+## 12. Famous person to meet
+
+### Keywords and collocations
+
+- Elon Musk
+- documentary
+- reusable rockets
+- ambitious goal
+- repeated failures
+- long-term thinking
+- ask about innovation
+- mixed admiration
+
+### Complete answer
+
+<!-- Source: 同桌英语 #53 | Template: People P1-P2-P3-P4 | Bank: B5 | Modules: SpaceX / repeated-failure / engineering-question -->
+
+The person I'd like to describe is Elon Musk, whom I first learned about through a documentary on SpaceX. What stands out most is his **ambitious, long-term approach to engineering problems**.
+
+I first noticed this clearly when a documentary showed his **willingness to pursue ambitious technical goals**, although I do not agree with everything he says. SpaceX experienced repeated failures, yet its team kept improving reusable-rocket technology instead of abandoning the project. If possible, I would meet him at an engineering event and ask how he distinguishes a realistic long-term goal from an expensive distraction.
+
+Instead of meeting him merely because he is famous, I would ask how leaders **turn unconventional ideas into working systems** and keep skilled teams motivated during setbacks. What interests me is not celebrity itself but the decision-making behind difficult projects. The meeting would remind me that innovation needs imagination, technical discipline and **the ability to learn from failure**.
+
+This matters to me because I would also ask about the limits of that approach, as ambitious projects can consume enormous amounts of money and place pressure on employees. I would prefer a serious conversation about both successful and failed decisions. Even if I disagreed with some answers, hearing the reasoning directly would be valuable. It might help me judge bold technical claims more carefully in my own field.
+
+### Part 3
+
+**Q: What are the advantages and disadvantages of being a famous child?**
+
+A: Fame can provide opportunities and resources, but public attention may damage privacy and create **unhealthy pressure at a sensitive age**.
+
+**Q: What can children do to become famous?**
+
+A: They may develop a genuine skill and share it responsibly, but adults should protect them from **exploitation and excessive exposure**.
+
+**Q: What can famous children do with their fame?**
+
+A: They can support useful causes and inspire peers, but adults should ensure publicity does not **replace education or normal development**.
+
+**Q: Do people become famous because of talent?**
+
+A: Talent helps, but timing, promotion and social connections also matter. Fame is therefore **not a reliable measure of ability**.
+
+**Q: Is becoming famous easy in China?**
+
+A: Social media makes brief attention easier, but maintaining a positive reputation requires **consistent work and public judgement**.
+
+**Q: Would you like to be famous?**
+
+A: No. I would prefer professional recognition without losing privacy because a normal life gives me **greater freedom and peace of mind**.
 
 ## 13. Musical friend
 

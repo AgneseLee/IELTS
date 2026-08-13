@@ -2,46 +2,79 @@
 
 > 半固定结构：Where/visit → Selected detail → Activity → Contrast → Personal meaning。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；感官细节按故事选择，不强凑视觉、声音和气味。
 
-## 1. Tall building you like/dislike
+## 1. Home you visit but would not live in
 
 ### Keywords and collocations
 
-- office skyscraper
-- Beijing
-- glass exterior
-- natural light
-- city view
-- efficient land use
-- crowded lifts
-- mixed feelings
+- Stella's studio
+- city centre
+- stylish interior
+- large windows
+- convenient location
+- traffic noise
+- limited storage
+- visit-versus-live distinction
 
 ### Complete answer
 
-<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: office-skyscraper / city-view / daily-comfort -->
+<!-- Source: 同桌英语 #07 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: Stella-studio / welcoming / impractical-layout -->
 
-The place I'd like to describe is an office skyscraper near my former workplace in Beijing, which I visited several times for meetings. The detail that first caught my attention was its glass exterior, followed by a bright atrium and **a city view that stretched in every direction**.
+The place I'd like to describe is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
 
-When I visited the upper floors, I usually arrived through a busy lobby, took a crowded lift and then worked in a meeting room with plenty of natural light. The atmosphere felt modern and professional because offices, cafés and transport links were all close together, giving employees a high level of **practical comfort**.
+When I visited, I could hear traffic below the windows and smell coffee and watercolour paint. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
 
-What I liked most was the efficient use of limited urban land and the impressive sunset view. However, the lifts became frustrating during rush hour, and the sealed windows sometimes made the interior feel disconnected from fresh air and nature. This contrast showed me that a building can look excellent in a photograph but still create small problems for its daily users.
+What I disliked most was the lack of a separate desk area, since I work from home frequently. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
 
-I remember this place because it changed how I judge architecture: visual impact matters, but ordinary experience matters more. If I could change it, I would add accessible outdoor areas, better lift management and more natural ventilation. That is why I like the building overall, while still believing that future skyscrapers should offer more than height and a dramatic skyline.
+I remember this place because Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
 
 ### Part 3
 
-**Q: Are there many tall buildings in China?** A: Yes, especially in large cities where land is expensive and development is **dense and fast**.
+**Q: Do Chinese people visit others' homes?** A: Yes, especially close friends and relatives, although urban socialising increasingly happens in **restaurants and cafés**.
 
-**Q: Why do tall buildings differ?** A: Function, budget, climate, regulations and local identity produce **different structural and visual choices**.
+**Q: What do visitors do?** A: Share food, drink tea, talk and sometimes bring a small gift to **show appreciation to the host**.
 
-**Q: Why are places designed differently?** A: Geography, population, history and economic needs shape how land and transport are **organised over time**.
+**Q: What homes do people prefer?** A: Safe, comfortable homes near transport and services, with enough privacy and **affordable long-term costs**.
 
-**Q: What are the advantages of living high up?** A: Views, light, security and efficient land use, balanced against lifts, evacuation and **weaker street-level connection**.
+**Q: How do city and country homes differ?** A: City homes are smaller and more connected; rural homes offer space and quiet but **fewer nearby services**.
 
-**Q: Why remodel homes themselves?** A: To save money, express identity and gain satisfaction from **direct personal involvement**.
+## 2. Place you recommend
 
-**Q: What interior styles are popular?** A: Simple modern interiors with neutral colours and practical storage because urban homes often have **limited space**.
+### Keywords and collocations
 
-## 2. Boring place
+- Semporna
+- Sabah
+- clear water
+- island boats
+- sea turtles
+- local seafood
+- protect environment
+- memorable escape
+
+### Complete answer
+
+<!-- Source: 同桌英语 #08 | Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Semporna / marine-life / responsible-tourism -->
+
+The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. I could also hear boat engines and gentle waves and smell salty sea air.
+
+When I visited, what impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
+
+What I liked most was that it suits people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a break from city pressure and **deepened my appreciation for marine conservation**.
+
+I remember this place because our most memorable morning began before the harbour became busy. Our boat passed homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations. For the right traveller, however, the clear water and contact with marine life easily justify the journey.
+
+### Part 3
+
+**Q: Where do Chinese people go on holiday?** A: Coastal cities, scenic areas and culturally famous cities remain popular because they offer **convenient, varied experiences**.
+
+**Q: Where do young people go?** A: Places with outdoor activities, distinctive food and shareable scenery, often chosen through **online recommendations**.
+
+**Q: What is the ideal holiday length?** A: About one week for many trips: enough to slow down without creating **excessive cost or work disruption**.
+
+**Q: How do people plan holidays?** A: They compare transport, accommodation, weather and reviews, then balance fixed bookings with **some flexible time**.
+
+**Q: Is advance planning important?** A: Yes for cost and availability, though an overfilled itinerary can **remove spontaneity and rest**.
+
+## 3. Boring place
 
 ### Keywords and collocations
 
@@ -56,7 +89,7 @@ I remember this place because it changed how I judge architecture: visual impact
 
 ### Complete answer
 
-<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: airport-waiting-area / uncertainty / no-control -->
+<!-- Source: 同桌英语 #25 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: airport-waiting-area / uncertainty / no-control -->
 
 The place I'd like to describe is an airport waiting area where Stella and I spent almost six hours after a flight delay. The space had rows of hard seats, bright artificial lighting and no windows near our gate.
 
@@ -80,7 +113,46 @@ I remember this place because every hour the departure board changed without a u
 
 **Q: Why are celebrity stories boring to some people?** A: They may seem repetitive and unrelated to real concerns, offering **little practical or intellectual value**.
 
-## 3. Favourite visited city
+## 4. Tall building you like/dislike
+
+### Keywords and collocations
+
+- office skyscraper
+- Beijing
+- glass exterior
+- natural light
+- city view
+- efficient land use
+- crowded lifts
+- mixed feelings
+
+### Complete answer
+
+<!-- Source: 同桌英语 #28 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: office-skyscraper / city-view / daily-comfort -->
+
+The place I'd like to describe is an office skyscraper near my former workplace in Beijing, which I visited several times for meetings. The detail that first caught my attention was its glass exterior, followed by a bright atrium and **a city view that stretched in every direction**.
+
+When I visited the upper floors, I usually arrived through a busy lobby, took a crowded lift and then worked in a meeting room with plenty of natural light. The atmosphere felt modern and professional because offices, cafés and transport links were all close together, giving employees a high level of **practical comfort**.
+
+What I liked most was the efficient use of limited urban land and the impressive sunset view. However, the lifts became frustrating during rush hour, and the sealed windows sometimes made the interior feel disconnected from fresh air and nature. This contrast showed me that a building can look excellent in a photograph but still create small problems for its daily users.
+
+I remember this place because it changed how I judge architecture: visual impact matters, but ordinary experience matters more. If I could change it, I would add accessible outdoor areas, better lift management and more natural ventilation. That is why I like the building overall, while still believing that future skyscrapers should offer more than height and a dramatic skyline.
+
+### Part 3
+
+**Q: Are there many tall buildings in China?** A: Yes, especially in large cities where land is expensive and development is **dense and fast**.
+
+**Q: Why do tall buildings differ?** A: Function, budget, climate, regulations and local identity produce **different structural and visual choices**.
+
+**Q: Why are places designed differently?** A: Geography, population, history and economic needs shape how land and transport are **organised over time**.
+
+**Q: What are the advantages of living high up?** A: Views, light, security and efficient land use, balanced against lifts, evacuation and **weaker street-level connection**.
+
+**Q: Why remodel homes themselves?** A: To save money, express identity and gain satisfaction from **direct personal involvement**.
+
+**Q: What interior styles are popular?** A: Simple modern interiors with neutral colours and practical storage because urban homes often have **limited space**.
+
+## 5. Favourite visited city
 
 ### Keywords and collocations
 
@@ -95,7 +167,7 @@ I remember this place because every hour the departure board changed without a u
 
 ### Complete answer
 
-<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Kuala-Lumpur / cultural-variety / transport -->
+<!-- Source: 同桌英语 #29 | Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Kuala-Lumpur / cultural-variety / transport -->
 
 The place I'd like to describe is Kuala Lumpur. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**.
 
@@ -127,78 +199,6 @@ I remember this place because one evening we moved from a modern shopping area t
 
 **Q: Do city residents live there by choice or necessity?** A: Usually both: jobs and services pull people in, while family and housing costs may **limit their realistic alternatives**.
 
-## 4. Place you recommend
-
-### Keywords and collocations
-
-- Semporna
-- Sabah
-- clear water
-- island boats
-- sea turtles
-- local seafood
-- protect environment
-- memorable escape
-
-### Complete answer
-
-<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Semporna / marine-life / responsible-tourism -->
-
-The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. I could also hear boat engines and gentle waves and smell salty sea air.
-
-When I visited, what impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
-
-What I liked most was that it suits people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a break from city pressure and **deepened my appreciation for marine conservation**.
-
-I remember this place because our most memorable morning began before the harbour became busy. Our boat passed homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations. For the right traveller, however, the clear water and contact with marine life easily justify the journey.
-
-### Part 3
-
-**Q: Where do Chinese people go on holiday?** A: Coastal cities, scenic areas and culturally famous cities remain popular because they offer **convenient, varied experiences**.
-
-**Q: Where do young people go?** A: Places with outdoor activities, distinctive food and shareable scenery, often chosen through **online recommendations**.
-
-**Q: What is the ideal holiday length?** A: About one week for many trips: enough to slow down without creating **excessive cost or work disruption**.
-
-**Q: How do people plan holidays?** A: They compare transport, accommodation, weather and reviews, then balance fixed bookings with **some flexible time**.
-
-**Q: Is advance planning important?** A: Yes for cost and availability, though an overfilled itinerary can **remove spontaneity and rest**.
-
-## 5. Home you visit but would not live in
-
-### Keywords and collocations
-
-- Stella's studio
-- city centre
-- stylish interior
-- large windows
-- convenient location
-- traffic noise
-- limited storage
-- visit-versus-live distinction
-
-### Complete answer
-
-<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: Stella-studio / welcoming / impractical-layout -->
-
-The place I'd like to describe is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
-
-When I visited, I could hear traffic below the windows and smell coffee and watercolour paint. Its location is also convenient for cafés and museums, so we often meet there before going out. However, I would not live there because the traffic noise continues late at night, the kitchen is tiny and there is almost no storage.
-
-What I disliked most was the lack of a separate desk area, since I work from home frequently. The flat is perfect for short visits and conversation, but daily comfort depends on practical details that visitors may not notice.
-
-I remember this place because Stella usually opens the windows, makes coffee and shows me whichever painting she is working on. For two or three hours, the limited space feels cosy because everything is close and personal. Staying overnight would be different: traffic starts early, the sofa occupies most of the living area and there is nowhere to separate work from rest. The studio helped me understand that the atmosphere I enjoy as a guest is partly created by not having to manage the practical compromises every day.
-
-### Part 3
-
-**Q: Do Chinese people visit others' homes?** A: Yes, especially close friends and relatives, although urban socialising increasingly happens in **restaurants and cafés**.
-
-**Q: What do visitors do?** A: Share food, drink tea, talk and sometimes bring a small gift to **show appreciation to the host**.
-
-**Q: What homes do people prefer?** A: Safe, comfortable homes near transport and services, with enough privacy and **affordable long-term costs**.
-
-**Q: How do city and country homes differ?** A: City homes are smaller and more connected; rural homes offer space and quiet but **fewer nearby services**.
-
 ## 6. Interesting building
 
 ### Keywords and collocations
@@ -214,7 +214,7 @@ I remember this place because Stella usually opens the windows, makes coffee and
 
 ### Complete answer
 
-<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: art-museum / natural-light / purposeful-design -->
+<!-- Source: 同桌英语 #37 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: art-museum / natural-light / purposeful-design -->
 
 The place I'd like to describe is an art museum near my apartment in Beijing. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**.
 
@@ -238,7 +238,38 @@ I remember this place because, during a watercolour exhibition, changing dayligh
 
 **Q: Is a new or old building better to live in?** A: New buildings offer efficiency; old ones offer character. Safety, maintenance and location matter **more than age alone**.
 
-## 7. Interesting/famous city
+## 7. Place to relax
+
+### Keywords and collocations
+
+- neighbourhood park
+- weekly visit
+- pond
+- birds and leaves
+- fresh smell
+- evening walk
+- clear head
+- accessible refuge
+
+### Complete answer
+
+<!-- Source: 同桌英语 #55 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: neighbourhood-park / after-rain / weekly-routine -->
+
+The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends. What impressed me first was a pond surrounded by flowers and tall trees.
+
+When I visit, I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
+
+What I like most is that Stella sometimes joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
+
+I remember this place because shortly after rain the paths are quiet and light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
+
+### Part 3
+
+**Q: Why is relaxation difficult today?** A: Constant messages, long working hours and blurred boundaries keep people's attention **permanently activated**.
+
+**Q: What are exercise's benefits?** A: It improves physical health, sleep and mood and provides **a constructive release for stress**.
+
+## 8. Interesting/famous city
 
 ### Keywords and collocations
 
@@ -276,37 +307,6 @@ I remember this place because, whenever I return, I walk along the coastline wit
 **Q: What are urbanisation's benefits?** A: Efficient services, larger labour markets and infrastructure can improve **access and productivity**.
 
 **Q: Will big Chinese cities grow larger?** A: Some will expand regionally, but planning may shift growth to connected satellite cities to **reduce central congestion**.
-
-## 8. Place to relax
-
-### Keywords and collocations
-
-- neighbourhood park
-- weekly visit
-- pond
-- birds and leaves
-- fresh smell
-- evening walk
-- clear head
-- accessible refuge
-
-### Complete answer
-
-<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: neighbourhood-park / after-rain / weekly-routine -->
-
-The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends. What impressed me first was a pond surrounded by flowers and tall trees.
-
-When I visit, I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
-
-What I like most is that Stella sometimes joins me, and we have long conversations without interruptions. Compared with commercial entertainment, the park is free, nearby and requires no planning. It matters because it gives me **a simple escape from screens and work pressure** and usually leaves me feeling calm and refreshed.
-
-I remember this place because shortly after rain the paths are quiet and light reflects from the pond. I normally leave my phone in my bag and walk one full circuit before sitting down. On stressful days, that small routine creates enough distance for me to organise my thoughts rather than continue reacting to messages. The park is not famous and has no dramatic attraction, but its convenience is exactly why it matters: I can use it regularly instead of waiting for a holiday to relax. That regular routine supports my wellbeing.
-
-### Part 3
-
-**Q: Why is relaxation difficult today?** A: Constant messages, long working hours and blurred boundaries keep people's attention **permanently activated**.
-
-**Q: What are exercise's benefits?** A: It improves physical health, sleep and mood and provides **a constructive release for stress**.
 
 ## 9. Natural place
 

@@ -2,196 +2,46 @@
 
 > 半固定结构：What/source → Relevant feature → Specific use/experience → Effect → Personal value。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；只描述与题目真正相关的特征。
 
-## 1. Interesting video
+## 1. Environmental law
 
 ### Keywords and collocations
 
-- reusable rockets
-- documentary clip
-- engineering failure
-- visual explanation
-- complex idea
-- spark curiosity
-- practical innovation
-- lasting impression
+- plastic-bag charge
+- learned in shops
+- reduce single-use waste
+- consumers and environment
+- visible incentive
+- affordable alternatives
+- behaviour change
+- practical policy
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: reusable-rockets / failed-tests / learning-process -->
+<!-- Source: 同桌英语 #04 | Template: Things T1-T2-T3-T4-T5 | Bank: B8 | Modules: plastic-bag-charge / daily-choice / policy-limit -->
 
-The thing I'd like to describe is a short documentary about how reusable rockets land. I found it online after reading about SpaceX, when I wanted a clear explanation of a technology that looked almost impossible to me.
+The thing I'd like to describe is the rule requiring shops to charge for disposable plastic bags.
 
-It mainly explains how the engines, guidance system and landing process work together. What made the video easy to follow was its combination of simple animation and real launch footage, which turned a complex engineering idea into something **clear and visually engaging**.
+It mainly charges for disposable bags, and I first noticed it when supermarkets stopped giving them away. The fee is small, but it creates **a visible reason to bring a reusable bag**.
 
-What interested me most was the account of repeated failed tests. Instead of presenting the final landing as a sudden success, the documentary showed how engineers recorded each failure, identified a specific cause and then changed the design before the next attempt.
+What interested me most was how prepared consumers save money while the environment benefits from less single-use plastic. Retailers also become more conscious of packaging.
 
-A specific example was an early rocket losing control only seconds before landing. The animation showed how later software corrected the angle more precisely. As a result, I understood that ambitious teams **turn ideas into working results** through careful testing, not through one perfect attempt.
+A specific limitation is that some people simply pay the fee and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
 
-I value the video because it made practical innovation understandable without oversimplifying the learning process. It also changed how I respond to mistakes in my own software work: I now try to collect evidence before changing anything. That is why it **left a lasting impression** on me, rather than becoming another entertaining clip that I forgot immediately.
-
-### Part 3
-
-**Q: What videos are popular in China?** A: Short comedy, food, travel and practical tutorials because they are **easy to consume and share**.
-
-**Q: Videos or books—which is more helpful?** A: Video demonstrates movement well; books provide depth and self-paced review. The best format depends on **the learning objective**.
-
-**Q: What skills can videos teach?** A: Cooking, exercise, software and craft skills, especially when viewers **pause, imitate and practise actively**.
-
-**Q: How do age groups differ?** A: Younger viewers favour short interactive content; older viewers often prefer news and longer programmes, though interests **overlap considerably**.
-
-## 2. New law to introduce
-
-### Keywords and collocations
-
-- right to repair
-- electronic devices
-- spare parts
-- repair information
-- reduce waste
-- lower costs
-- manufacturer resistance
-- gradual implementation
-
-### Complete answer
-
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: right-to-repair / consumer-cost / electronic-waste -->
-
-The thing I'd like to describe is a right-to-repair law for electronic devices.
-
-It mainly requires manufacturers to provide spare parts, repair information and long-term software support. I thought of it after my laptop overheated and a simple component almost forced me to replace the whole machine.
-
-What interested me most was how the law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
-
-A specific example would be protecting repair access without revealing sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
-
-I value the proposal because it could begin gradually with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
+I value the rule because the charge made me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
 
 ### Part 3
 
-**Q: What rules should students follow?** A: Rules protecting safety, respect and academic honesty; they should be **clear, proportionate and consistently enforced**.
+**Q: What school rules exist in China?** A: Attendance, uniforms, classroom conduct and academic honesty are common because schools need **order and equal expectations**.
 
-**Q: Do Chinese people obey laws?** A: Generally yes, especially when rules are clear and enforcement predictable. Compliance falls when people view procedures as **confusing or unfair**.
+**Q: Are school rules important?** A: Yes, when they protect learning and safety; unnecessary rules can **create resistance without benefit**.
 
-**Q: What is good behaviour?** A: Respecting others, keeping commitments and taking responsibility for consequences rather than **acting only from fear of punishment**.
+**Q: Are children unhappy with rules?** A: Sometimes, especially if rules lack explanation or ignore age. Participation in discussion can **increase acceptance**.
 
-**Q: Can children learn law outside school?** A: Yes, through family behaviour, media and community activities, though schools provide **more systematic understanding**.
+**Q: What workplace rules matter?** A: Safety, confidentiality, anti-discrimination and professional conduct protect **both employees and organisations**.
 
-**Q: What are the benefits of obeying rules?** A: Rules make behaviour predictable, protect rights and allow strangers to **cooperate with greater trust**.
+**Q: What is punishment for?** A: To deter harm, protect others and encourage responsibility, not merely to **cause suffering**.
 
-**Q: How can parents teach rules?** A: Explain reasons, model compliance and use proportionate consequences instead of **arbitrary commands**.
-
-## 3. Special-occasion food
-
-### Keywords and collocations
-
-- dumplings
-- Lunar New Year
-- family preparation
-- symbolic shape
-- shared task
-- familiar flavour
-- preserve tradition
-- emotional meaning
-
-### Complete answer
-
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B6 | Modules: dumplings / family-preparation / shared-memory -->
-
-The thing I'd like to describe is dumplings, which my family eats during Lunar New Year.
-
-It mainly consists of pork, vegetables and seasoning wrapped together around the family table. Their shape traditionally represents wealth, but for me their real value lies in **the shared process of making them**.
-
-What interested me most was how my mother prepared the filling while younger relatives folded uneven shapes. We talk throughout the process, and the familiar smell makes the home feel festive.
-
-A specific example is eating them at New Year, when ordinary food carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
-
-I value this food because everyone finally tries to recognise the dumplings they folded. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family. That shared preparation turns cooking into a family activity rather than a routine meal.
-
-### Part 3
-
-**Q: Why is there special food for events?** A: Food expresses cultural symbols and brings people together through **a repeated shared ritual**.
-
-**Q: How does everyday food differ from festival food?** A: Festival dishes require more preparation, cost and symbolism; everyday meals prioritise **speed and practicality**.
-
-**Q: How has food changed over time?** A: Ingredients and delivery are more varied and convenient, but diets also contain **more processed food**.
-
-## 4. Celebrity advertisement
-
-### Keywords and collocations
-
-- sportswear campaign
-- famous athlete
-- online video
-- training scenes
-- memorable image
-- credibility
-- emotional appeal
-- cautious judgement
-
-### Complete answer
-
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: badminton-player / training-story / cautious-judgement -->
-
-The thing I'd like to describe is an advertisement featuring a famous badminton player promoting sports shoes.
-
-It mainly tells a training story, and I saw it online before a live match. It showed the athlete training alone early in the morning, making mistakes and gradually improving.
-
-What interested me most was how the product appeared naturally while the message stressed **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
-
-A specific example is celebrity endorsement lending credibility when the athlete genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
-
-I value the campaign because I remembered it when I later saw the athlete in a tournament. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well. That connection felt convincing.
-
-### Part 3
-
-**Q: What are advertising's pros and cons?** A: It informs customers and funds media, but repetition and emotional pressure can encourage **unnecessary consumption**.
-
-**Q: Why use celebrities?** A: Their recognition attracts attention and transfers trust, although a poor match can **damage credibility**.
-
-**Q: What is the most important factor?** A: A clear, truthful message showing how the product solves **a real customer need**.
-
-**Q: Why are some adverts boring?** A: They repeat familiar claims and fail to tell a relevant story or offer **useful new information**.
-
-**Q: Is advertising important to companies?** A: Yes, because even good products need awareness, but long-term success still relies on **actual customer experience**.
-
-**Q: Online or offline advertising?** A: Online advertising targets and measures audiences better; offline media can build **broad public visibility**.
-
-## 5. Recent TV/online programme
-
-### Keywords and collocations
-
-- technology documentary
-- AI at work
-- weekly episodes
-- real interviews
-- balanced view
-- practical examples
-- accessible explanation
-- critical thinking
-
-### Complete answer
-
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: AI-and-work / doctor-example / balanced-view -->
-
-The thing I'd like to describe is an online documentary series about AI and work.
-
-It mainly follows different professions and shows where AI saves time and human judgement remains essential. I watched it weekly because the interviews provided **concrete examples rather than abstract predictions**.
-
-What interested me most was a doctor using software while still making and explaining the final decision. As a software engineer, I found the balanced approach useful: it neither treated AI as magic nor dismissed its benefits.
-
-A specific example helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
-
-I value the programme because, after each episode, I noted one automatable task and one still requiring human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people. This simple comparison made its balanced message easier to remember.
-
-### Part 3
-
-**Q: How do young and old viewers differ?** A: Younger people use streaming and short clips; older viewers often follow scheduled news and drama, though platforms are **increasingly shared across ages**.
-
-**Q: What makes a programme popular?** A: Relevant content, clear storytelling and memorable personalities, supported by **convenient distribution and promotion**.
-
-**Q: What programmes are popular in China?** A: Drama, reality shows, documentaries and short online series serve **different audiences and viewing habits**.
-
-## 6. Animal story/book
+## 2. Animal story/book
 
 ### Keywords and collocations
 
@@ -206,7 +56,7 @@ I value the programme because, after each episode, I noted one automatable task 
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / fox / responsibility -->
+<!-- Source: 同桌英语 #06 | Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / fox / responsibility -->
 
 The thing I'd like to describe is *The Little Prince*, which includes a fox that teaches the main character about relationships and responsibility.
 
@@ -232,210 +82,237 @@ I value the story because the fox shows how anticipation can give a meeting mean
 
 **Q: Why tell animal stories to children?** A: Animals make moral ideas engaging and allow children to discuss behaviour **without feeling personally criticised**.
 
-## 7. Environmental law
+## 3. Celebrity advertisement
 
 ### Keywords and collocations
 
-- plastic-bag charge
-- learned in shops
-- reduce single-use waste
-- consumers and environment
-- visible incentive
-- affordable alternatives
-- behaviour change
-- practical policy
+- sportswear campaign
+- famous athlete
+- online video
+- training scenes
+- memorable image
+- credibility
+- emotional appeal
+- cautious judgement
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B8 | Modules: plastic-bag-charge / daily-choice / policy-limit -->
+<!-- Source: 同桌英语 #14 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: badminton-player / training-story / cautious-judgement -->
 
-The thing I'd like to describe is the rule requiring shops to charge for disposable plastic bags.
+The thing I'd like to describe is an advertisement featuring a famous badminton player promoting sports shoes.
 
-It mainly charges for disposable bags, and I first noticed it when supermarkets stopped giving them away. The fee is small, but it creates **a visible reason to bring a reusable bag**.
+It mainly tells a training story, and I saw it online before a live match. It showed the athlete training alone early in the morning, making mistakes and gradually improving.
 
-What interested me most was how prepared consumers save money while the environment benefits from less single-use plastic. Retailers also become more conscious of packaging.
+What interested me most was how the product appeared naturally while the message stressed **consistent effort rather than instant success**. I enjoyed the visual style, but I did not assume the shoes were excellent simply because an athlete wore them.
 
-A specific limitation is that some people simply pay the fee and alternatives still have environmental costs. Nevertheless, it turns a general concern into a repeated daily decision. I support it because effective environmental policy often works through **small practical incentives combined with public awareness**.
+A specific example is celebrity endorsement lending credibility when the athlete genuinely uses the product. However, consumers still need to compare quality and price. My reaction was positive because the advertisement told a coherent story without **making unrealistic promises**.
 
-I value the rule because the charge made me keep two reusable bags near the door. After the habit formed, I rarely had to think about it. The policy should still be reviewed, because a very low fee may lose its effect as incomes and prices change. Shops also need to offer durable alternatives rather than thicker disposable bags presented as environmentally friendly. Its value lies in shaping routine behaviour, but education and better packaging rules are needed if the wider goal is to reduce plastic waste. That combination would make the policy stronger.
+I value the campaign because I remembered it when I later saw the athlete in a tournament. However, I still read independent reviews and tried the shoes in a shop before considering a purchase. A famous face can attract my attention, but it cannot tell me whether a product fits or will last. For me, responsible advertising should clearly separate an athlete's personal image from factual claims about performance, especially when younger viewers may copy their choices. Price transparency matters as well. That connection felt convincing.
 
 ### Part 3
 
-**Q: What school rules exist in China?** A: Attendance, uniforms, classroom conduct and academic honesty are common because schools need **order and equal expectations**.
+**Q: What are advertising's pros and cons?** A: It informs customers and funds media, but repetition and emotional pressure can encourage **unnecessary consumption**.
 
-**Q: Are school rules important?** A: Yes, when they protect learning and safety; unnecessary rules can **create resistance without benefit**.
+**Q: Why use celebrities?** A: Their recognition attracts attention and transfers trust, although a poor match can **damage credibility**.
 
-**Q: Are children unhappy with rules?** A: Sometimes, especially if rules lack explanation or ignore age. Participation in discussion can **increase acceptance**.
+**Q: What is the most important factor?** A: A clear, truthful message showing how the product solves **a real customer need**.
 
-**Q: What workplace rules matter?** A: Safety, confidentiality, anti-discrimination and professional conduct protect **both employees and organisations**.
+**Q: Why are some adverts boring?** A: They repeat familiar claims and fail to tell a relevant story or offer **useful new information**.
 
-**Q: What is punishment for?** A: To deter harm, protect others and encourage responsibility, not merely to **cause suffering**.
+**Q: Is advertising important to companies?** A: Yes, because even good products need awareness, but long-term success still relies on **actual customer experience**.
 
-## 8. Perfect job
+**Q: Online or offline advertising?** A: Online advertising targets and measures audiences better; offline media can build **broad public visibility**.
+
+## 4. Special-occasion food
 
 ### Keywords and collocations
 
-- freelance software consultant
-- remote flexibility
-- meaningful projects
-- AI skills
-- continuous learning
-- autonomy
-- stable income
-- work-life balance
+- dumplings
+- Lunar New Year
+- family preparation
+- symbolic shape
+- shared task
+- familiar flavour
+- preserve tradition
+- emotional meaning
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B4 | Modules: software-consultant / autonomy / financial-preparation -->
+<!-- Source: 同桌英语 #16 | Template: Things T1-T2-T3-T4-T5 | Bank: B6 | Modules: dumplings / family-preparation / shared-memory -->
 
-The thing I'd like to describe is working as an independent software consultant on small AI projects.
+The thing I'd like to describe is dumplings, which my family eats during Lunar New Year.
 
-It mainly involves independent AI projects, and I learned about it from former colleagues who became freelancers. I would need stronger AI knowledge, client communication and the ability to manage finances and deadlines independently.
+It mainly consists of pork, vegetables and seasoning wrapped together around the family table. Their shape traditionally represents wealth, but for me their real value lies in **the shared process of making them**.
 
-What interested me most was **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
+What interested me most was how my mother prepared the filling while younger relatives folded uneven shapes. We talk throughout the process, and the familiar smell makes the home feel festive.
 
-A specific limitation is that finding clients and handling uncertainty would still be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
+A specific example is eating them at New Year, when ordinary food carries **strong emotional and cultural meaning**. The tradition connects different generations through a simple activity. It shows that special food matters not only because of taste, but because it **turns a meal into a shared family memory**.
 
-I value this career because my ideal week could balance client work, learning, exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility. That balance matters more to me than status or a prestigious title.
+I value this food because everyone finally tries to recognise the dumplings they folded. We usually cook more than we need and eat the rest the following morning. Even when some wrappers break, nobody treats that as a failure; the uneven results are part of the occasion. Since I now live away from my hometown, preparing dumplings also gives me a familiar ritual that makes an ordinary apartment feel connected to my family. That shared preparation turns cooking into a family activity rather than a routine meal.
 
 ### Part 3
 
-**Q: What is a dream job?** A: Work matching a person's strengths, values and desired lifestyle while providing **reasonable security and growth**.
+**Q: Why is there special food for events?** A: Food expresses cultural symbols and brings people together through **a repeated shared ritual**.
 
-**Q: What jobs do children want?** A: Visible jobs such as doctor, athlete or creator because children respond to **role models and imagination**.
+**Q: How does everyday food differ from festival food?** A: Festival dishes require more preparation, cost and symbolism; everyday meals prioritise **speed and practicality**.
 
-**Q: Do ideal jobs change?** A: Yes, as people learn their abilities and responsibilities and develop **more realistic priorities**.
+**Q: How has food changed over time?** A: Ingredients and delivery are more varied and convenient, but diets also contain **more processed food**.
 
-**Q: What should people consider?** A: Interest, ability, income, development, culture and health rather than **salary alone**.
-
-**Q: Is salary the main reason?** A: It matters for security, but beyond a reasonable level, meaningful work and autonomy strongly affect **long-term satisfaction**.
-
-**Q: What jobs are popular in China?** A: Technology, healthcare, public-sector and finance roles attract people through **growth, stability or status**.
-
-## 9. Technology to own
+## 5. New law to introduce
 
 ### Keywords and collocations
 
-- lightweight laptop
-- long battery life
-- portable
-- AI development
-- replace old device
-- high cost
-- professional investment
-- reliable performance
+- right to repair
+- electronic devices
+- spare parts
+- repair information
+- reduce waste
+- lower costs
+- manufacturer resistance
+- gradual implementation
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: lightweight-laptop / battery / repairability -->
+<!-- Source: 同桌英语 #22 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: right-to-repair / consumer-cost / electronic-waste -->
 
-The thing I'd like to describe is a lightweight laptop with excellent battery life and enough power for AI development.
+The thing I'd like to describe is a right-to-repair law for electronic devices.
 
-It mainly offers portability and AI performance; I discovered it through professional reviews, although it is expensive. My current computer still works, so I would wait for a discount rather than buy impulsively.
+It mainly requires manufacturers to provide spare parts, repair information and long-term software support. I thought of it after my laptop overheated and a simple component almost forced me to replace the whole machine.
 
-What interested me most was being able to **work efficiently away from a desk** and travel without a heavy charger. Its value is practical rather than fashionable because my computer supports both my income and learning.
+What interested me most was how the law would **reduce electronic waste and unnecessary consumer spending**. Repair shops and ordinary users would benefit, although manufacturers might initially resist because it could reduce new-device sales.
 
-A specific benefit is fewer interruptions, allowing me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
+A specific example would be protecting repair access without revealing sensitive commercial information. What appeals to me is that it changes environmental responsibility from a vague request into **a practical option people can actually use**.
 
-I value the idea cautiously because I would compare battery tests, repairability and real performance before buying. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem. Long battery life would also reduce stress during travel.
+I value the proposal because it could begin gradually with common products such as phones and laptops. Companies could still require trained technicians for dangerous repairs, but they should not use safety as an excuse to block every independent option. Clear labels could show the expected support period and whether batteries or screens are replaceable. This would help buyers compare long-term value before purchasing. My own laptop experience convinced me that consumers need realistic repair choices, not simply encouragement to recycle a complete device after one component fails. That protection should remain meaningful for years after a purchase.
 
 ### Part 3
 
-**Q: How has technology changed?** A: It is smaller, more connected and easier to use, while dependence, privacy risk and **rapid replacement cycles** have increased.
+**Q: What rules should students follow?** A: Rules protecting safety, respect and academic honesty; they should be **clear, proportionate and consistently enforced**.
 
-**Q: What technology do young people like?** A: Smartphones, wearable devices and AI tools offering **convenience, entertainment and social connection**.
+**Q: Do Chinese people obey laws?** A: Generally yes, especially when rules are clear and enforcement predictable. Compliance falls when people view procedures as **confusing or unfair**.
 
-**Q: Online or face-to-face communication?** A: Online contact is efficient across distance; face-to-face interaction conveys **richer emotional information**.
+**Q: What is good behaviour?** A: Respecting others, keeping commitments and taking responsibility for consequences rather than **acting only from fear of punishment**.
 
-**Q: Has technology changed communication?** A: Yes, it makes contact constant and fast but sometimes encourages **shorter, less attentive exchanges**.
+**Q: Can children learn law outside school?** A: Yes, through family behaviour, media and community activities, though schools provide **more systematic understanding**.
 
-**Q: What negative effects affect relationships?** A: Distraction, comparison and misunderstandings caused by missing tone can weaken **trust and presence**.
+**Q: What are the benefits of obeying rules?** A: Rules make behaviour predictable, protect rights and allow strangers to **cooperate with greater trust**.
 
-**Q: How does online friendship differ?** A: It connects niche interests widely; real-life friendship usually develops through **shared physical experience and stronger accountability**.
+**Q: How can parents teach rules?** A: Explain reasons, model compliance and use proportionate consequences instead of **arbitrary commands**.
 
-## 10. App/program
+## 6. Interesting video
 
 ### Keywords and collocations
 
-- ChatGPT
-- daily basis
-- explain concepts
-- brainstorm
-- repetitive tasks
-- verify information
-- human judgement
-- boost productivity
+- reusable rockets
+- documentary clip
+- engineering failure
+- visual explanation
+- complex idea
+- spark curiosity
+- practical innovation
+- lasting impression
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: ChatGPT / work-and-study / verification -->
+<!-- Source: 同桌英语 #27 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: reusable-rockets / failed-tests / learning-process -->
 
-The thing I'd like to describe is ChatGPT.
+The thing I'd like to describe is a short documentary about how reusable rockets land. I found it online after reading about SpaceX, when I wanted a clear explanation of a technology that looked almost impossible to me.
 
-It mainly supports work and study; I discovered it online and now use it **on a daily basis**. At work, it explains unfamiliar technical concepts, helps me brainstorm solutions and speeds up repetitive tasks.
+It mainly explains how the engines, guidance system and landing process work together. What made the video easy to follow was its combination of simple animation and real launch footage, which turned a complex engineering idea into something **clear and visually engaging**.
 
-What interested me most was how it organises English notes and compares expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
+What interested me most was the account of repeated failed tests. Instead of presenting the final landing as a sudden success, the documentary showed how engineers recorded each failure, identified a specific cause and then changed the design before the next attempt.
 
-A specific benefit is that it **boosts my productivity and supports exploration** without replacing my thinking. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
+A specific example was an early rocket losing control only seconds before landing. The animation showed how later software corrected the angle more precisely. As a result, I understood that ambitious teams **turn ideas into working results** through careful testing, not through one perfect attempt.
 
-I value the program because I can request several contexts for an expression and verify them in native sources. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant. Verification keeps its convenience from weakening my independent judgement.
+I value the video because it made practical innovation understandable without oversimplifying the learning process. It also changed how I respond to mistakes in my own software work: I now try to collect evidence before changing anything. That is why it **left a lasting impression** on me, rather than becoming another entertaining clip that I forgot immediately.
 
 ### Part 3
 
-**Q: How do age groups use apps differently?** A: Younger users explore new social and creative apps; older users favour practical tools and may need **clearer interfaces and support**.
+**Q: What videos are popular in China?** A: Short comedy, food, travel and practical tutorials because they are **easy to consume and share**.
 
-**Q: Why dislike apps?** A: Privacy concerns, complexity, subscriptions and constant notifications can make apps **more burdensome than useful**.
+**Q: Videos or books—which is more helpful?** A: Video demonstrates movement well; books provide depth and self-paced review. The best format depends on **the learning objective**.
 
-**Q: What apps are popular?** A: Messaging, payment, shopping and video apps because they integrate **frequent daily needs**.
+**Q: What skills can videos teach?** A: Cooking, exercise, software and craft skills, especially when viewers **pause, imitate and practise actively**.
 
-**Q: Should parents limit games and programs?** A: Yes through schedules and content guidance, while teaching children **self-control rather than simple prohibition**.
+**Q: How do age groups differ?** A: Younger viewers favour short interactive content; older viewers often prefer news and longer programmes, though interests **overlap considerably**.
 
-**Q: Are young people increasingly reliant?** A: Yes, because education and social life are digital; the risk arises when apps replace **independent skills and offline relationships**.
-
-**Q: What about banning children from social media?** A: Age limits can protect children, but enforcement and media education are needed because bans alone are **easy to bypass**.
-
-## 11. Important family object
+## 7. Recent TV/online programme
 
 ### Keywords and collocations
 
-- handwritten essay
-- primary school
-- mother
-- kept two decades
-- childhood shyness
-- practical advice
-- warm memories
-- emotional value
+- technology documentary
+- AI at work
+- weekly episodes
+- real interviews
+- balanced view
+- practical examples
+- accessible explanation
+- critical thinking
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: childhood-essay / mother / emotional-value -->
+<!-- Source: 同桌英语 #32 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: AI-and-work / doctor-example / balanced-view -->
 
-The thing I'd like to describe is a handwritten essay about my mother that I wrote in primary school.
+The thing I'd like to describe is an online documentary series about AI and work.
 
-It mainly preserves a childhood view of my mother, and my family has kept it for almost two decades.
+It mainly follows different professions and shows where AI saves time and human judgement remains essential. I watched it weekly because the interviews provided **concrete examples rather than abstract predictions**.
 
-What interested me most was how my shy childhood self described my mother giving **practical advice based on her experience**. The paper itself is ordinary and the handwriting is untidy, but reading it now **brings back warm memories** and shows how much her support influenced my confidence.
+What interested me most was a doctor using software while still making and explaining the final decision. As a software engineer, I found the balanced approach useful: it neither treated AI as magic nor dismissed its benefits.
 
-A specific value is its emotional connection between different stages of my life, rather than its grade or price. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
+A specific example helped me understand how technology changes tasks rather than simply replacing entire jobs. I enjoyed it because it made a complicated debate **accessible, practical and thought-provoking**.
 
-I value the essay because its childish spelling mistakes and drawing make it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident. No digital copy feels equally personal to me.
+I value the programme because, after each episode, I noted one automatable task and one still requiring human responsibility. This made the series useful for my own career planning rather than passive entertainment. I particularly appreciated that workers were allowed to describe both excitement and anxiety, so the programme did not force every example into one conclusion. I have recommended it to former colleagues who worry about AI, because it provides a calmer starting point for discussing which skills we should develop and which decisions should remain accountable to people. This simple comparison made its balanced message easier to remember.
 
 ### Part 3
 
-**Q: What do families keep?** A: Photographs, letters, jewellery and practical objects linked to **important people or turning points**.
+**Q: How do young and old viewers differ?** A: Younger people use streaming and short clips; older viewers often follow scheduled news and drama, though platforms are **increasingly shared across ages**.
 
-**Q: How have valued things changed?** A: People once valued durable household possessions; many now preserve digital memories and **personally meaningful objects**.
+**Q: What makes a programme popular?** A: Relevant content, clear storytelling and memorable personalities, supported by **convenient distribution and promotion**.
 
-**Q: What do museums keep?** A: Objects with historical, artistic, scientific or cultural significance that require **professional preservation and context**.
+**Q: What programmes are popular in China?** A: Drama, reality shows, documentaries and short online series serve **different audiences and viewing habits**.
 
-**Q: How does technology influence museums?** A: Digital catalogues and interactive displays expand access, but should support rather than **overwhelm original objects**.
+## 8. Overpriced item
 
-**Q: How does technology help history learning?** A: It reconstructs places, connects archives and makes evidence searchable, enabling **more active exploration**.
+### Keywords and collocations
 
-**Q: Why visit museums?** A: To encounter authentic objects and understand how individual stories connect to **broader historical change**.
+- noise-cancelling headphones
+- urgent purchase
+- airport shop
+- limited comparison
+- higher price
+- daily use
+- mixed regret
+- plan purchases
 
-## 12. Recent enjoyable movie
+### Complete answer
+
+<!-- Source: 同桌英语 #35 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: airport-headphones / urgency / price-comparison -->
+
+The thing I'd like to describe is a pair of noise-cancelling headphones I bought at an airport before a long flight.
+
+It mainly blocks cabin noise; I bought it quickly when my old pair failed, without comparing prices. I later discovered that the same model cost much less online.
+
+What interested me most afterwards was that I had spent **considerably more than necessary** under time pressure. The headphones are comfortable and I use them daily, so the purchase was not useless, but I still regret the timing.
+
+A specific lesson was that urgency reduces price sensitivity, so I should maintain equipment before a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
+
+I value the lesson because returning the headphones to another city would have removed most possible savings. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement. Since then, I have tested important equipment before travelling and compared prices before entering an airport.
+
+### Part 3
+
+**Q: Do people buy more than expected?** A: Yes, because store design, discounts and convenience encourage **unplanned additions**.
+
+**Q: What do young people spend on?** A: Housing, technology, food, entertainment and experiences, depending strongly on **income and city costs**.
+
+**Q: Is saving important?** A: Yes, because emergency savings provide security and reduce the need for **expensive debt**.
+
+**Q: Why buy unnecessary things?** A: Emotional reward, advertising and social comparison can override **careful evaluation of need**.
+
+**Q: Must rich people donate?** A: They have greater capacity and social responsibility, but transparent taxation and institutions are **more reliable than charity alone**.
+
+**Q: What deserves a high price?** A: Durable, safe products or meaningful experiences where quality produces **long-term value**.
+
+## 9. Recent enjoyable movie
 
 ### Keywords and collocations
 
@@ -450,7 +327,7 @@ I value the essay because its childish spelling mistakes and drawing make it mor
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: The-Martian / problem-solving / teamwork -->
+<!-- Source: 同桌英语 #39 | Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: The-Martian / problem-solving / teamwork -->
 
 The thing I'd like to describe is *The Martian*.
 
@@ -476,46 +353,169 @@ I value the film because it led us to discuss whether the main character’s opt
 
 **Q: Why watch films in cinemas?** A: Large screens, sound and shared concentration create **a more immersive experience**.
 
-## 13. Overpriced item
+## 10. Important family object
 
 ### Keywords and collocations
 
-- noise-cancelling headphones
-- urgent purchase
-- airport shop
-- limited comparison
-- higher price
-- daily use
-- mixed regret
-- plan purchases
+- handwritten essay
+- primary school
+- mother
+- kept two decades
+- childhood shyness
+- practical advice
+- warm memories
+- emotional value
 
 ### Complete answer
 
-<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: airport-headphones / urgency / price-comparison -->
+<!-- Source: 同桌英语 #42 | Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: childhood-essay / mother / emotional-value -->
 
-The thing I'd like to describe is a pair of noise-cancelling headphones I bought at an airport before a long flight.
+The thing I'd like to describe is a handwritten essay about my mother that I wrote in primary school.
 
-It mainly blocks cabin noise; I bought it quickly when my old pair failed, without comparing prices. I later discovered that the same model cost much less online.
+It mainly preserves a childhood view of my mother, and my family has kept it for almost two decades.
 
-What interested me most afterwards was that I had spent **considerably more than necessary** under time pressure. The headphones are comfortable and I use them daily, so the purchase was not useless, but I still regret the timing.
+What interested me most was how my shy childhood self described my mother giving **practical advice based on her experience**. The paper itself is ordinary and the handwriting is untidy, but reading it now **brings back warm memories** and shows how much her support influenced my confidence.
 
-A specific lesson was that urgency reduces price sensitivity, so I should maintain equipment before a crisis. Now I compare prices and distinguish **a genuine need from pressure to buy immediately**.
+A specific value is its emotional connection between different stages of my life, rather than its grade or price. I hope we continue preserving it because it is a simple, physical record of **my mother's lasting impact on my personal growth**.
 
-I value the lesson because returning the headphones to another city would have removed most possible savings. Instead, I decided to use them for as long as possible and treat the extra amount as an expensive lesson. They have since been useful for flights, online meetings and English listening practice. The experience changed my travel preparation: I now test chargers and headphones several days before leaving and keep a short list of anything that genuinely needs replacement. Since then, I have tested important equipment before travelling and compared prices before entering an airport.
+I value the essay because its childish spelling mistakes and drawing make it more authentic than a polished photograph. When my mother showed it to me recently, she remembered the teacher but had forgotten that she had saved the paper. We read it together and talked about how difficult speaking up had once been for me. I would never sell or replace it, because its importance comes from that shared history and from the fact that it survived almost by accident. No digital copy feels equally personal to me.
 
 ### Part 3
 
-**Q: Do people buy more than expected?** A: Yes, because store design, discounts and convenience encourage **unplanned additions**.
+**Q: What do families keep?** A: Photographs, letters, jewellery and practical objects linked to **important people or turning points**.
 
-**Q: What do young people spend on?** A: Housing, technology, food, entertainment and experiences, depending strongly on **income and city costs**.
+**Q: How have valued things changed?** A: People once valued durable household possessions; many now preserve digital memories and **personally meaningful objects**.
 
-**Q: Is saving important?** A: Yes, because emergency savings provide security and reduce the need for **expensive debt**.
+**Q: What do museums keep?** A: Objects with historical, artistic, scientific or cultural significance that require **professional preservation and context**.
 
-**Q: Why buy unnecessary things?** A: Emotional reward, advertising and social comparison can override **careful evaluation of need**.
+**Q: How does technology influence museums?** A: Digital catalogues and interactive displays expand access, but should support rather than **overwhelm original objects**.
 
-**Q: Must rich people donate?** A: They have greater capacity and social responsibility, but transparent taxation and institutions are **more reliable than charity alone**.
+**Q: How does technology help history learning?** A: It reconstructs places, connects archives and makes evidence searchable, enabling **more active exploration**.
 
-**Q: What deserves a high price?** A: Durable, safe products or meaningful experiences where quality produces **long-term value**.
+**Q: Why visit museums?** A: To encounter authentic objects and understand how individual stories connect to **broader historical change**.
+
+## 11. Technology to own
+
+### Keywords and collocations
+
+- lightweight laptop
+- long battery life
+- portable
+- AI development
+- replace old device
+- high cost
+- professional investment
+- reliable performance
+
+### Complete answer
+
+<!-- Source: 同桌英语 #45 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: lightweight-laptop / battery / repairability -->
+
+The thing I'd like to describe is a lightweight laptop with excellent battery life and enough power for AI development.
+
+It mainly offers portability and AI performance; I discovered it through professional reviews, although it is expensive. My current computer still works, so I would wait for a discount rather than buy impulsively.
+
+What interested me most was being able to **work efficiently away from a desk** and travel without a heavy charger. Its value is practical rather than fashionable because my computer supports both my income and learning.
+
+A specific benefit is fewer interruptions, allowing me to **focus on creative and complex tasks**. However, I would only replace my current device when the improvement justified the environmental and financial cost.
+
+I value the idea cautiously because I would compare battery tests, repairability and real performance before buying. I would also check whether the memory and storage could support several years of use. A slightly heavier machine might be a better choice if it lasted longer and could be repaired. This matters because technology purchases easily become emotional, especially when a product looks elegant. Writing down the tasks my current laptop cannot handle would help me decide whether the upgrade solves a genuine problem. Long battery life would also reduce stress during travel.
+
+### Part 3
+
+**Q: How has technology changed?** A: It is smaller, more connected and easier to use, while dependence, privacy risk and **rapid replacement cycles** have increased.
+
+**Q: What technology do young people like?** A: Smartphones, wearable devices and AI tools offering **convenience, entertainment and social connection**.
+
+**Q: Online or face-to-face communication?** A: Online contact is efficient across distance; face-to-face interaction conveys **richer emotional information**.
+
+**Q: Has technology changed communication?** A: Yes, it makes contact constant and fast but sometimes encourages **shorter, less attentive exchanges**.
+
+**Q: What negative effects affect relationships?** A: Distraction, comparison and misunderstandings caused by missing tone can weaken **trust and presence**.
+
+**Q: How does online friendship differ?** A: It connects niche interests widely; real-life friendship usually develops through **shared physical experience and stronger accountability**.
+
+## 12. App/program
+
+### Keywords and collocations
+
+- ChatGPT
+- daily basis
+- explain concepts
+- brainstorm
+- repetitive tasks
+- verify information
+- human judgement
+- boost productivity
+
+### Complete answer
+
+<!-- Source: 同桌英语 #46 | Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: ChatGPT / work-and-study / verification -->
+
+The thing I'd like to describe is ChatGPT.
+
+It mainly supports work and study; I discovered it online and now use it **on a daily basis**. At work, it explains unfamiliar technical concepts, helps me brainstorm solutions and speeds up repetitive tasks.
+
+What interested me most was how it organises English notes and compares expressions. One day it identified a simple coding mistake within seconds, allowing me to focus on the larger design problem.
+
+A specific benefit is that it **boosts my productivity and supports exploration** without replacing my thinking. I still verify important information and rely on my own judgement. Used responsibly, it helps me turn ideas into reality more efficiently while avoiding **blind dependence on automated answers**.
+
+I value the program because I can request several contexts for an expression and verify them in native sources. At work, I treat generated code as a draft that needs testing and review. These habits matter because fluent output can still contain confident mistakes. The programme is most useful when I give it a clear problem, challenge the response and combine it with my own knowledge. In that role, it feels less like an automatic expert and more like a fast, flexible assistant. Verification keeps its convenience from weakening my independent judgement.
+
+### Part 3
+
+**Q: How do age groups use apps differently?** A: Younger users explore new social and creative apps; older users favour practical tools and may need **clearer interfaces and support**.
+
+**Q: Why dislike apps?** A: Privacy concerns, complexity, subscriptions and constant notifications can make apps **more burdensome than useful**.
+
+**Q: What apps are popular?** A: Messaging, payment, shopping and video apps because they integrate **frequent daily needs**.
+
+**Q: Should parents limit games and programs?** A: Yes through schedules and content guidance, while teaching children **self-control rather than simple prohibition**.
+
+**Q: Are young people increasingly reliant?** A: Yes, because education and social life are digital; the risk arises when apps replace **independent skills and offline relationships**.
+
+**Q: What about banning children from social media?** A: Age limits can protect children, but enforcement and media education are needed because bans alone are **easy to bypass**.
+
+## 13. Perfect job
+
+### Keywords and collocations
+
+- freelance software consultant
+- remote flexibility
+- meaningful projects
+- AI skills
+- continuous learning
+- autonomy
+- stable income
+- work-life balance
+
+### Complete answer
+
+<!-- Source: 同桌英语 #54 | Template: Things T1-T2-T3-T4-T5 | Bank: B4 | Modules: software-consultant / autonomy / financial-preparation -->
+
+The thing I'd like to describe is working as an independent software consultant on small AI projects.
+
+It mainly involves independent AI projects, and I learned about it from former colleagues who became freelancers. I would need stronger AI knowledge, client communication and the ability to manage finances and deadlines independently.
+
+What interested me most was **the freedom to choose meaningful projects and work from different places**. After eight years in software engineering and a layoff, I value autonomy, but I would still need stable income and professional cooperation.
+
+A specific limitation is that finding clients and handling uncertainty would still be difficult. It suits me because it combines technical problem-solving, continuous learning and **greater control over my working life**.
+
+I value this career because my ideal week could balance client work, learning, exercise and English practice. I would prefer several smaller clients to depending completely on one company, although building that network would take time. Before making the change, I would save an emergency fund and test freelance work alongside a stable role. That preparation matters because autonomy only feels positive when basic financial pressure is manageable. The job is attractive to me as a realistic direction, not a fantasy with no deadlines or responsibility. That balance matters more to me than status or a prestigious title.
+
+### Part 3
+
+**Q: What is a dream job?** A: Work matching a person's strengths, values and desired lifestyle while providing **reasonable security and growth**.
+
+**Q: What jobs do children want?** A: Visible jobs such as doctor, athlete or creator because children respond to **role models and imagination**.
+
+**Q: Do ideal jobs change?** A: Yes, as people learn their abilities and responsibilities and develop **more realistic priorities**.
+
+**Q: What should people consider?** A: Interest, ability, income, development, culture and health rather than **salary alone**.
+
+**Q: Is salary the main reason?** A: It matters for security, but beyond a reasonable level, meaningful work and autonomy strongly affect **long-term satisfaction**.
+
+**Q: What jobs are popular in China?** A: Technology, healthcare, public-sector and finance roles attract people through **growth, stability or status**.
 
 ## 14. Useful book
 

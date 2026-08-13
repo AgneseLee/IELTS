@@ -75,6 +75,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 按截图顺序新增“同桌英语”Part 2 优先级索引，重排并标注 50 篇对应答案，同时列出 5 个待补题目
 - 将剩余 64 篇 Speaking Part 2 正文迁移到四套填空式段首句架，同时保留原 cue card 事实、素材库与 Part 3
 - 将四类 Speaking Part 2 各一篇样稿改为固定句架填空式拓展，并补充四套可直接套用的正文模板
 - 为 68 篇 Speaking Part 2 答案增加可验证的模板段落代码，统一 People、Events、Places 为四段并统一 Things 为五段

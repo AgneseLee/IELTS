@@ -17,7 +17,7 @@
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: 4:30-a.m. / sunrise-boat / worth-the-effort -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: 4:30-a.m. / sunrise-boat / worth-the-effort -->
 
 The occasion took place during my Malaysia trip with Stella. We had booked an early boat to watch the sunrise near Semporna, so I had to get up at 4:30 a.m.
 
@@ -52,7 +52,7 @@ What made the morning memorable was the contrast with my normal routine in Beiji
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: cancelled-boat / local-market / unexpected-benefit -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: cancelled-boat / local-market / unexpected-benefit -->
 
 I had to change a plan during my Malaysia trip last May.
 
@@ -87,7 +87,7 @@ The vendor showed us how to balance the spices and laughed when we admitted that
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: unclear-roles / daily-check-in / completed-project -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: unclear-roles / daily-check-in / completed-project -->
 
 The group experience I remember was a software project at my former company. Four of us had six weeks to build an internal reporting tool.
 
@@ -122,7 +122,7 @@ The most difficult part was not the coding but admitting that our original way o
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: layoff / daily-routine / career-recovery -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: layoff / daily-routine / career-recovery -->
 
 An important decision I made was to stop dwelling on my layoff and focus on rebuilding my career.
 
@@ -161,7 +161,7 @@ I began with very small commitments: one technical lesson, one English practice 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B6 | Modules: badminton-final / comeback / shared-atmosphere -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B6 | Modules: badminton-final / comeback / shared-atmosphere -->
 
 The live event was a badminton final in Beijing that I watched with Stella. We chose it because we both played casually at university and wanted to experience **a professional match at close range**.
 
@@ -196,7 +196,7 @@ The following weekend, Stella and I booked a court and tried to copy one of the 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B5 | Modules: failed-update / cloud-backup / presentation -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B5 | Modules: failed-update / cloud-backup / presentation -->
 
 The problem occurred before an important project presentation. My laptop installed an update overnight and then refused to start properly.
 
@@ -235,7 +235,7 @@ After the meeting, I changed my routine rather than treating the successful pres
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B5 | Modules: overheating-laptop / repair / backups -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B5 | Modules: overheating-laptop / repair / backups -->
 
 My old laptop broke while I was finishing a small freelance project at home. It had been overheating for weeks, but I ignored the warning until it suddenly shut down and would not restart.
 
@@ -266,7 +266,7 @@ The client accepted the delay because I had warned them early and shared the rec
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: lost-route / Stella-help / found-path -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: lost-route / Stella-help / found-path -->
 
 The experience happened during my Malaysia trip with Stella. Our navigation app lost its signal in a mountainous area, and we took the wrong route.
 
@@ -297,7 +297,7 @@ Once we were safe, we sat down for a few minutes and reviewed where we had gone 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: freelance-offer / clarify-terms / careful-reply -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: freelance-offer / clarify-terms / careful-reply -->
 
 I once received a message from a former manager offering me a short freelance project. The work sounded interesting, but the deadline was tight and several conditions were unclear.
 
@@ -330,7 +330,7 @@ Once the details were clear, I accepted the project and completed it without sac
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B7 | Modules: museum-rule / close-attention / justified-limit -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B7 | Modules: museum-rule / close-attention / justified-limit -->
 
 The occasion was a special exhibition at an art museum in Beijing. Visitors had to silence and store their phones because photography could damage sensitive works and screens would disturb the atmosphere.
 
@@ -370,7 +370,7 @@ After leaving the exhibition, Stella and I sat in the café and wrote down the w
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: Stella-burnout / priorities / boundaries -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: Stella-burnout / priorities / boundaries -->
 
 I gave advice to Stella after our former company went through major layoffs. She had taken on **a much heavier workload** and was becoming impatient and completely burned out.
 
@@ -409,7 +409,7 @@ A week later, she told her manager which deadlines were impossible and asked the
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B6 | Modules: birthday-dinner / lottery-joke / reconnecting -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B6 | Modules: birthday-dinner / lottery-joke / reconnecting -->
 
 The occasion was my birthday dinner last year. I invited Stella and two close friends to my apartment and cooked a simple meal.
 
@@ -448,7 +448,7 @@ Later, my friends brought out a tiny cake that they had hidden in the kitchen, a
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B8 | Modules: mother / community-accounts / quiet-contribution -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B8 | Modules: mother / community-accounts / quiet-contribution -->
 
 I felt proud of my mother last year when she volunteered to manage the accounts for a small community group.
 
@@ -487,7 +487,7 @@ At the next community meeting, an older resident thanked her because the clearer
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: coastal-drive / hidden-garden / flexible-route -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: coastal-drive / hidden-garden / flexible-route -->
 
 The car trip I'd like to take again is a coastal journey in Malaysia with Stella.
 
@@ -526,7 +526,7 @@ We stopped at the garden for nearly an hour, spoke with a local family and took 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B6 | Modules: outdoor-festival / poor-sound / leave-early -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B6 | Modules: outdoor-festival / poor-sound / leave-early -->
 
 The event was an outdoor music festival that I attended with colleagues.
 
@@ -563,7 +563,7 @@ Stella stayed for another band, so I took the subway home alone and listened to 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: vague-request / prototype / user-feedback -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: vague-request / prototype / user-feedback -->
 
 I needed imagination when building a small software prototype for a client whose request was extremely vague.
 
@@ -602,7 +602,7 @@ The final prototype allowed staff to move information between three stages with 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: burnout / short-walk / gradual-change -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: burnout / short-walk / gradual-change -->
 
 I encouraged Stella to begin exercising when she was burned out after company layoffs. She did not want another demanding task, so I did not suggest a gym programme.
 
@@ -639,7 +639,7 @@ After a few weeks, she suggested a longer route through a nearby park and began 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: Malaysia-contract / software / cultural-immersion -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: Malaysia-contract / software / cultural-immersion -->
 
 I would like a three-month software job with a small technology company in Malaysia.
 
@@ -676,7 +676,7 @@ Outside work, I would use weekends to improve my spoken English, explore local n
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: ten-day-trip / real-English / wider-perspective -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: ten-day-trip / real-English / wider-perspective -->
 
 The short stay abroad I remember was a ten-day trip to Malaysia with Stella.
 
@@ -707,7 +707,7 @@ Because the visit was short, we could not explore every region, but that limitat
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: freediving / sea-turtle / safe-challenge -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: freediving / sea-turtle / safe-challenge -->
 
 The new activity was freediving near Semporna during my Malaysia trip. I was excited but nervous because I was not used to holding my breath underwater.
 
@@ -738,7 +738,7 @@ After returning to the boat, I felt physically tired but unusually calm. Stella 
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B4 | Modules: job-result / email-checking / second-interview -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: job-result / email-checking / second-interview -->
 
 I once waited a week for the result of an important job interview.
 
@@ -769,7 +769,7 @@ I prepared for the next stage by reviewing the questions I had answered poorly a
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B8 | Modules: Beijing-apartment / neighbour-help / preparation -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B8 | Modules: Beijing-apartment / neighbour-help / preparation -->
 
 The power cut happened in my Beijing apartment on a hot summer evening. I was working online when the lights, Wi-Fi and air conditioning suddenly stopped.
 
@@ -800,7 +800,7 @@ After the power returned, I charged the emergency light and bought a small power
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
 
 I got lost with Stella during our Malaysia trip when our navigation app lost its signal in a mountainous area. We followed the wrong path for about twenty minutes before realising the scenery no longer matched our screenshot.
 
@@ -831,7 +831,7 @@ The garden contained bright tropical flowers and a small viewing platform, so we
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B7 | Modules: public-park / free-art-market / low-budget -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B7 | Modules: public-park / free-art-market / low-budget -->
 
 One inexpensive day out was a Sunday I spent with Stella in Beijing.
 
@@ -862,7 +862,7 @@ My favourite part was sitting near the lake while Stella sketched one of the tre
 
 ### Complete answer
 
-<!-- Template: Events | Bank: B8 | Modules: Zhanjiang-clean-up / credible-report / personal-connection -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B8 | Modules: Zhanjiang-clean-up / credible-report / personal-connection -->
 
 A piece of local news that interested me concerned a coastal clean-up in Zhanjiang, my hometown.
 

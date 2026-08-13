@@ -17,7 +17,7 @@
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: reusable-rockets / failed-tests / learning-process -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: reusable-rockets / failed-tests / learning-process -->
 
 The thing I'm going to talk about is a short documentary explaining how reusable rockets land.
 
@@ -54,7 +54,7 @@ I watched it twice, pausing the animation to understand how the engines and guid
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: right-to-repair / consumer-cost / electronic-waste -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: right-to-repair / consumer-cost / electronic-waste -->
 
 The thing I'm going to talk about is a right-to-repair law for electronic devices.
 
@@ -95,7 +95,7 @@ The law should be introduced gradually, beginning with common products such as p
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B6 | Modules: dumplings / family-preparation / shared-memory -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B6 | Modules: dumplings / family-preparation / shared-memory -->
 
 The thing I'm going to talk about is dumplings, which my family eats during Lunar New Year.
 
@@ -130,7 +130,7 @@ My favourite part is the final stage, when everyone tries to recognise the dumpl
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: badminton-player / training-story / cautious-judgement -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: badminton-player / training-story / cautious-judgement -->
 
 The thing I'm going to talk about is an advertisement featuring a famous badminton player promoting sports shoes.
 
@@ -171,7 +171,7 @@ I remembered the campaign when I later saw the same athlete in a tournament, whi
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: AI-and-work / doctor-example / balanced-view -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: AI-and-work / doctor-example / balanced-view -->
 
 The thing I'm going to talk about is an online documentary series about AI and work.
 
@@ -206,7 +206,7 @@ After each episode, I wrote down one task that could be automated and one that s
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: Little-Prince / fox / responsibility -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / fox / responsibility -->
 
 The thing I'm going to talk about is *The Little Prince*, which includes a fox that teaches the main character about relationships and responsibility.
 
@@ -247,7 +247,7 @@ One scene I remember clearly is the fox asking the prince to return at the same 
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B8 | Modules: plastic-bag-charge / daily-choice / policy-limit -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B8 | Modules: plastic-bag-charge / daily-choice / policy-limit -->
 
 The thing I'm going to talk about is the rule requiring shops to charge for disposable plastic bags.
 
@@ -286,7 +286,7 @@ In my own case, the charge was just irritating enough to make me keep two reusab
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B4 | Modules: software-consultant / autonomy / financial-preparation -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B4 | Modules: software-consultant / autonomy / financial-preparation -->
 
 The thing I'm going to talk about is working as an independent software consultant on small AI projects.
 
@@ -327,7 +327,7 @@ My ideal week would include two or three focused client days, one day for learni
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: lightweight-laptop / battery / repairability -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: lightweight-laptop / battery / repairability -->
 
 The thing I'm going to talk about is a lightweight laptop with excellent battery life and enough power for AI development.
 
@@ -368,7 +368,7 @@ Before buying, I would compare battery tests, repairability and performance unde
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: ChatGPT / work-and-study / verification -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: ChatGPT / work-and-study / verification -->
 
 The thing I'm going to talk about is ChatGPT.
 
@@ -409,7 +409,7 @@ For instance, when I study a difficult expression, I ask for several contexts an
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: childhood-essay / mother / emotional-value -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: childhood-essay / mother / emotional-value -->
 
 The thing I'm going to talk about is a handwritten essay about my mother that I wrote in primary school.
 
@@ -450,7 +450,7 @@ The essay also contains several childish spelling mistakes and an exaggerated dr
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: The-Martian / problem-solving / teamwork -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: The-Martian / problem-solving / teamwork -->
 
 The thing I'm going to talk about is *The Martian*.
 
@@ -491,7 +491,7 @@ After the film, Stella and I discussed whether the main character's optimism was
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: airport-headphones / urgency / price-comparison -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: airport-headphones / urgency / price-comparison -->
 
 The thing I'm going to talk about is a pair of noise-cancelling headphones I bought at an airport before a long flight.
 
@@ -532,7 +532,7 @@ I kept the receipt and briefly considered returning the headphones, but the airp
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: Counselling-for-Toads / layoff / confidence -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Counselling-for-Toads / layoff / confidence -->
 
 The thing I'm going to talk about is *Counselling for Toads: A Psychological Adventure*.
 
@@ -565,7 +565,7 @@ The book did not make me positive immediately, and I do not think a story can re
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: Little-Prince / adult-reading / relationships -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: Little-Prince / adult-reading / relationships -->
 
 The thing I'm going to talk about is *The Little Prince*.
 
@@ -598,7 +598,7 @@ I finished the book in two evenings and then called my mother, partly because th
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B2 | Modules: sci-fi-sequel / weak-plot / expectation-gap -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B2 | Modules: sci-fi-sequel / weak-plot / expectation-gap -->
 
 The thing I'm going to talk about is a science-fiction sequel advertised with a famous cast and spectacular trailer.
 
@@ -631,7 +631,7 @@ On the way home, Stella and I tried to identify why the first film had worked be
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B5 | Modules: laptop / daily-work / responsible-dependence -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B5 | Modules: laptop / daily-work / responsible-dependence -->
 
 The thing I'm going to talk about is my laptop.
 
@@ -664,7 +664,7 @@ I try to protect the laptop by keeping automatic backups, updating it carefully 
 
 ### Complete answer
 
-<!-- Template: Things | Bank: B3 | Modules: sea-turtle / Semporna / conservation -->
+<!-- Template: Things T1-T2-T3-T4-T5 | Bank: B3 | Modules: sea-turtle / Semporna / conservation -->
 
 The thing I'm going to talk about is the sea turtle.
 

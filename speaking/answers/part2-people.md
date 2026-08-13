@@ -17,7 +17,7 @@
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: balcony-garden / rain-damage / daily-routine -->
 
 The person I'd like to describe is my mother, a retired accountant who grows vegetables on her balcony in Zhanjiang. What stands out most is her **patience and attention to detail**.
 
@@ -25,9 +25,7 @@ She grows spring onions, lettuce and small tomatoes in recycled containers. She 
 
 Instead of giving up, she moved them indoors, removed the damaged leaves and gradually brought them back to health. We later used the tomatoes in a family meal, and she had **a genuine sense of achievement**. She enjoys gardening because it provides fresh food and gives her a peaceful daily routine.
 
-Whenever I visit, she shows me which plants are growing well and explains what she has changed since the previous week. She never treats the harvest as the only goal; even a few spring onions are enough to make her happy. Her attitude has encouraged me to grow herbs beside my own window. I still lack her patience, but the small routine helps me slow down after work and appreciate gradual progress.
-
-More importantly, the hobby gives her independence and something positive to discuss with younger family members.
+Whenever I visit, she shows me which plants are growing well and explains what she has changed since the previous week. She never treats the harvest as the only goal; even a few spring onions are enough to make her happy. Her attitude has encouraged me to grow herbs beside my own window. I still lack her patience, but the small routine helps me slow down after work and appreciate gradual progress. More importantly, the hobby gives her independence and something positive to discuss with younger family members.
 
 ### Part 3
 
@@ -54,7 +52,7 @@ A: It is common among older people and families with balconies or gardens. Young
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: school-friend / broken-bicycle / lasting-friendship -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: school-friend / broken-bicycle / lasting-friendship -->
 
 The person I'd like to describe is Ming, whom I met in primary school in Zhanjiang. What I value most about him is that he is **quietly dependable**.
 
@@ -105,7 +103,7 @@ A: Yes. It makes long-distance contact effortless, but it can also encourage **m
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: nursing / first-aid / career-motivation -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: nursing / first-aid / career-motivation -->
 
 The person I'd like to describe is my cousin Lin, who is studying nursing. Her strongest qualities are **empathy and the ability to remain calm under pressure**.
 
@@ -140,7 +138,7 @@ A: It can be, especially when lessons connect theory to the human body or local 
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: consultancy / honest-advice / sustainable-growth -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: consultancy / honest-advice / sustainable-growth -->
 
 The person I'd like to describe is Chen, a former manager who runs a small software consultancy. I admire his **practical judgement and long-term approach to business**.
 
@@ -175,7 +173,7 @@ A: Yes, selectively. Loans and training can encourage innovation, but applicants
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: podcasts / language-exchange / Malaysia-directions -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: podcasts / language-exchange / Malaysia-directions -->
 
 The person I'd like to describe is Stella, my close friend and former colleague. She is especially good at languages because she is **disciplined and unafraid of making mistakes**.
 
@@ -222,7 +220,7 @@ A: Most combine instruction with practice. Knowledge becomes useful only when le
 
 ### Complete answer
 
-<!-- Template: People | Bank: B5 | Modules: SpaceX / repeated-failure / engineering-question -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B5 | Modules: SpaceX / repeated-failure / engineering-question -->
 
 The person I'd like to describe is Elon Musk, whom I first learned about through a documentary on SpaceX. I am most interested in his **ambitious, long-term approach to engineering problems**.
 
@@ -273,7 +271,7 @@ A: No. I would prefer professional recognition without losing privacy because a 
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: Malaysia-itinerary / offline-map / flexible-planning -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Malaysia-itinerary / offline-map / flexible-planning -->
 
 The person I'd like to describe is Stella, one of my closest friends and a former colleague. What stands out most is that she **plans well in advance**.
 
@@ -281,9 +279,7 @@ Before our Malaysia trip, she spent almost six months comparing flights, booking
 
 Rather than panicking, she checked an offline map and asked other tourists for directions. Thanks to her preparation, we reached our destination without losing much time. Her plans do not make experiences rigid; they reduce avoidable stress while leaving room for surprise.
 
-This is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it.
-
-That change has made my recent journeys calmer, cheaper and easier to manage.
+This is quite different from my own habit of dealing with details at the last minute. During the trip, I noticed that she had saved copies of our bookings, checked transport times and kept a small emergency budget, yet she never forced us to follow every item on the itinerary. Since then, I have started preparing the essential parts of a journey earlier. Her example taught me that good planning should create freedom rather than remove it. That change has made my recent journeys calmer, cheaper and easier to manage.
 
 ### Part 3
 
@@ -326,7 +322,7 @@ A: Sometimes, particularly in medicine or engineering, but transferable skills a
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: Mia / park-painting / creative-freedom -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: Mia / park-painting / creative-freedom -->
 
 The person I'd like to describe is my eight-year-old niece Mia. What I notice most is her **patience and close observation of ordinary details**.
 
@@ -377,7 +373,7 @@ A: Books allow deep, self-paced explanation, whereas museums provide **direct vi
 
 ### Complete answer
 
-<!-- Template: People | Bank: B4 | Modules: childhood-shyness / small-steps / confidence -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B4 | Modules: childhood-shyness / small-steps / confidence -->
 
 The person I'd like to describe is my mother. She is a smart problem-solver because she **listens carefully and looks for the cause before offering advice**.
 
@@ -428,7 +424,7 @@ A: Yes, but labels should remain flexible. Schools should provide opportunities 
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: online-tutorials / watercolour / recorded-progress -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: online-tutorials / watercolour / recorded-progress -->
 
 The person I'd like to describe is my friend Stella, who taught herself watercolour painting through free online tutorials. What impressed me was her **self-discipline and willingness to learn gradually**.
 
@@ -479,7 +475,7 @@ A: Yes. Learning maintains confidence, cognitive activity and social connection 
 
 ### Complete answer
 
-<!-- Template: People | Bank: B4 | Modules: new-colleague / setup-notes / cooperative-culture -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B4 | Modules: new-colleague / setup-notes / cooperative-culture -->
 
 The person I'd like to describe is Stella, my former colleague. I remember her as someone who **patiently helps others without expecting a reward**.
 
@@ -530,7 +526,7 @@ A: They may fear appearing incompetent or being judged. Managers can reduce this
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: Semporna / clean-up / daily-habits -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: Semporna / clean-up / daily-habits -->
 
 The person I'd like to describe is Stella. What I admire is the way she **turns concern for nature into everyday habits**.
 
@@ -581,7 +577,7 @@ A: Yes, through practical projects rather than slogans. Measuring waste or growi
 
 ### Complete answer
 
-<!-- Template: People | Bank: B6 | Modules: company-celebration / karaoke / stress-relief -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B6 | Modules: company-celebration / karaoke / stress-relief -->
 
 The person I'd like to describe is Stella, who loves singing. What stands out is her **clear voice and the confidence she gains from music**.
 
@@ -616,7 +612,7 @@ A: Young listeners often follow current global trends; older people favour music
 
 ### Complete answer
 
-<!-- Template: People | Bank: B1 | Modules: watercolour / reinterpretation / software-creativity -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B1 | Modules: watercolour / reinterpretation / software-creativity -->
 
 The person I'd like to describe is Stella. I think she is creative because she **notices possibilities in scenes that other people might overlook**.
 
@@ -651,7 +647,7 @@ A: Partly. People can expose themselves to varied ideas, practise experimentatio
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: Dr-Fan / dental-emergency / patient-trust -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: Dr-Fan / dental-emergency / patient-trust -->
 
 The person I'd like to describe is Dr Fan, a dentist I met during an emergency appointment. What stood out immediately was her **calm and reassuring professionalism**.
 
@@ -686,7 +682,7 @@ A: Expertise, careful communication, resilience and empathy. Technical skill alo
 
 ### Complete answer
 
-<!-- Template: People | Bank: B8 | Modules: consultancy / client-trust / responsible-growth -->
+<!-- Template: People P1-P2-P3-P4 | Bank: B8 | Modules: consultancy / client-trust / responsible-growth -->
 
 The person I'd like to describe is Chen, my former manager and the founder of a small software consultancy. I admire the way he **puts honest advice ahead of short-term profit**.
 

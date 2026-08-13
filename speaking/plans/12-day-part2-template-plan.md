@@ -13,7 +13,7 @@
 维护标记：
 
 ```html
-<!-- Template: Events | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
+<!-- Template: Events E1-E2-E3-E4 | Bank: B3 | Modules: lost-signal / hidden-garden / offline-map -->
 ```
 
 修改一个 topic：只改该题答案。修改共同事实或 collocation：搜索 Bank ID 后统一检查。
@@ -25,40 +25,41 @@
 ### People
 
 ```text
-Who + relationship
-Relevant quality
-One example proving that quality
-Result + why the person matters
+P1 Who + relationship + relevant quality
+P2 Relevant background/context
+P3 Cue-specific example + action/result
+P4 Further evidence/influence + direct evaluation
 ```
 
 ### Events
 
 ```text
-Time/place + expectation
-Problem or change
-Action + concrete result
-Feeling + why memorable
+E1 What/when/where + relevant expectation
+E2 Background/problem + response/feeling
+E3 Key development/action + result
+E4 Further detail/later effect + direct evaluation
 ```
 
 ### Things
 
 ```text
-What + source
-Relevant function/content
-One specific use or experience
-Value/limitation + personal meaning
+T1 What + source
+T2 Relevant background/basic content
+T3 Key feature/development
+T4 Cue-specific example/evaluation
+T5 Further example/limitation + personal value
 ```
 
 ### Places
 
 ```text
-Where + visit
-Selected physical detail
-Relevant activity/contrast
-Feeling + personal meaning/recommendation
+L1 Where + visit + selected detail
+L2 Atmosphere/experience + relevant activity
+L3 Key detail/contrast/limitation + evaluation
+L4 Further evidence + lasting meaning/recommendation
 ```
 
-模板固定“信息任务”，不固定整段句子。
+模板固定段数、顺序与功能；斜线表示按 cue card 选相关项，不要求每项都写。每段必须含题目专属信息，不固定整段句子。
 
 ---
 
@@ -111,6 +112,7 @@ Feeling + personal meaning/recommendation
 
 - 68/68 完整答案。
 - 4 个 Template、8 个 Bank。
+- People/Events/Places 固定 4 段；Things 固定 5 段；顺序必须匹配模板代码。
 - 每篇 210–230 词；关键词一行一个。
 - 每个 module 能回答当前 cue card 的一个明确问题。
 - 全文没有“可删除而不影响答题”的段落。

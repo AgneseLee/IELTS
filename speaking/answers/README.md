@@ -35,4 +35,5 @@
 
 - 4 个模板和 8 个素材库见 [12 天模块检索计划](../plans/12-day-part2-template-plan.md)。
 - Bank modules 与固定 collocations 见 [20 天 Band 7 计划](../plans/20-day-band7.md#8-个素材库)。
+- Template code 对应正文段落：People/Events/Places 各 4 段，Things 5 段；不能跳段或换序。
 - 68 篇完整答案保留，方便抽题练习；它们不是 68 套独立背诵材料。

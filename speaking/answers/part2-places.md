@@ -17,7 +17,7 @@
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B7 | Modules: office-skyscraper / city-view / daily-comfort -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: office-skyscraper / city-view / daily-comfort -->
 
 The place I'd like to describe is an office skyscraper near my former workplace in Beijing. Its glass exterior reflects the sky, and the entrance opens into a bright atrium filled with natural light. From the upper floors, I could see **the city stretching in every direction**, which was impressive at sunset.
 
@@ -56,7 +56,7 @@ I visited the upper floors several times for meetings, and the view was always t
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B7 | Modules: airport-waiting-area / uncertainty / no-control -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: airport-waiting-area / uncertainty / no-control -->
 
 The place I'd like to describe is an airport waiting area where Stella and I spent almost six hours after a flight delay. The space had rows of hard seats, bright artificial lighting and no windows near our gate.
 
@@ -95,7 +95,7 @@ Every hour, the departure board changed without giving a useful explanation, so 
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B3 | Modules: Kuala-Lumpur / cultural-variety / transport -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Kuala-Lumpur / cultural-variety / transport -->
 
 The place I'd like to describe is Kuala Lumpur. I went there with Stella during our Malaysia trip and first knew it through travel videos. What impressed me was the contrast between **a modern skyline and lively traditional neighbourhoods**.
 
@@ -142,11 +142,9 @@ One evening, we moved from a modern shopping area to a street of older food stal
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B3 | Modules: Semporna / marine-life / responsible-tourism -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Semporna / marine-life / responsible-tourism -->
 
-The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life.
-
-I could also hear boat engines and gentle waves and smell salty sea air.
+The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. I could also hear boat engines and gentle waves and smell salty sea air.
 
 What impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
 
@@ -181,7 +179,7 @@ The most memorable morning began before the harbour became busy. Our boat passed
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B7 | Modules: Stella-studio / welcoming / impractical-layout -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: Stella-studio / welcoming / impractical-layout -->
 
 The place I'd like to describe is a small studio in central Beijing. I enjoy visiting because it has large windows, warm lighting and several of her watercolour paintings. The space feels **creative, personal and extremely welcoming**.
 
@@ -216,7 +214,7 @@ When I visit, Stella usually opens the windows, makes coffee and shows me whiche
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B7 | Modules: art-museum / natural-light / purposeful-design -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: art-museum / natural-light / purposeful-design -->
 
 The place I'd like to describe is an art museum near my apartment in Beijing. Its exterior has curved white walls rather than a conventional rectangular shape. Inside, skylights allow natural light to move across the surfaces, creating **a calm and constantly changing atmosphere**.
 
@@ -255,7 +253,7 @@ During the watercolour exhibition, Stella and I noticed that the changing daylig
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B3 | Modules: Zhanjiang / coastline / belonging -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Zhanjiang / coastline / belonging -->
 
 The place I'd like to describe is Zhanjiang, my hometown in southern China. It is famous for its coastline, fresh seafood and tropical character. Streets near the sea are lined with coconut trees, and the air often carries **a light salty smell from the coast**.
 
@@ -294,11 +292,9 @@ Whenever I return, I walk along the coastline with my mother and eat seafood at 
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B7 | Modules: neighbourhood-park / after-rain / weekly-routine -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: neighbourhood-park / after-rain / weekly-routine -->
 
-The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends.
-
-What impressed me first was a pond surrounded by flowers and tall trees.
+The place I'd like to describe is a park near my Beijing apartment. I visit it roughly once a week, usually in the evening or at weekends. What impressed me first was a pond surrounded by flowers and tall trees.
 
 I can hear birds and rustling leaves rather than constant traffic, and after rain the air has **a fresh, earthy smell**. I walk slowly, listen to music or sit on a bench and read.
 
@@ -327,7 +323,7 @@ My favourite time to go is shortly after rain, when the paths are quiet and the 
 
 ### Complete answer
 
-<!-- Template: Places | Bank: B3 | Modules: Semporna-islands / freediving / fragile-ecosystem -->
+<!-- Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Semporna-islands / freediving / fragile-ecosystem -->
 
 The place I'd like to describe is the island area near Semporna in Malaysia. I visited with Stella last May. The water was so clear that we could see coral and fish from the boat, while the only constant sound was **the gentle movement of waves**.
 

@@ -1,6 +1,6 @@
 # IELTS Speaking Part 2：12 天模块检索计划
 
-目标：**68 篇完整答案，4 个模板，8 个素材库**。每段紧扣 cue card。
+目标：**73 篇完整答案，4 个模板，8 个素材库**。每段紧扣 cue card。
 
 ## 规则
 
@@ -139,7 +139,7 @@ L4 I remember this place because [lasting meaning].
 
 ## 验收
 
-- 68/68 完整答案。
+- 73/73 完整答案。
 - 4 个 Template、8 个 Bank。
 - People/Events/Places 固定 4 段；Things 固定 5 段；顺序必须匹配模板代码。
 - 每篇 210–230 词；关键词一行一个。

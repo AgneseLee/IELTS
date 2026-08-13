@@ -2,7 +2,69 @@
 
 > 半固定结构：Context → Expectation → Change/problem → Response → Outcome → Why it remains memorable。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；结尾只保留一个方向。
 
-## 1. Receiving help to solve a problem
+## 1. Recent change
+
+### Keywords and collocations
+
+- career rebuilding
+- unsustainable routine
+- morning walk
+- manageable steps
+- focused study
+- better concentration
+- mental health
+- meaningful change
+
+### Complete answer
+
+<!-- Source: 同桌英语 #01 | Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: layoff / daily-routine / manageable-steps -->
+
+The experience I'd like to describe happened recently, after I changed my daily routine while rebuilding my career. I had expected job searching to occupy every available hour because I believed constant effort was the quickest way forward.
+
+The main challenge was that this approach left me tired, distracted and unable to judge whether I was making progress. At first, I felt guilty whenever I stopped working, since being busy seemed more responsible. However, several unproductive weeks showed that the routine was not sustainable.
+
+Instead of extending my working hours, I divided each weekday into three **manageable steps**: one technical lesson, one job application and one English practice session. I also added a thirty-minute morning walk and stopped checking job messages late at night. As a result, my concentration improved and I completed tasks more consistently. The moment that best captures the change was finishing a small AI project without working through the weekend.
+
+This experience remains memorable because the change was simple but improved both my progress and mental health. Since then, I have **focused on what I can control** rather than measuring every day by external results. I would keep this routine even after finding full-time work, which is why I consider it a meaningful recent change rather than a temporary reaction to unemployment.
+
+### Part 3
+
+**Q: Why do people make changes in their lives?** A: Their needs, health or circumstances change. A clear problem often creates **enough motivation to replace an old habit**.
+
+**Q: Are small changes better than major changes?** A: Small changes are easier to maintain, while major changes may be necessary during a crisis. The best scale depends on **the urgency and available support**.
+
+## 2. Changing an important opinion
+
+### Keywords and collocations
+
+- career setback
+- asking for help
+- old belief
+- mother
+- manageable steps
+- former colleagues
+- informed perspectives
+- stronger independence
+
+### Complete answer
+
+<!-- Source: 同桌英语 #03 | Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: layoff / advice / manageable-steps -->
+
+The experience I'd like to describe happened after I lost my software job and changed an important belief about asking for help. I had expected myself to solve the setback alone because I associated independence with competence.
+
+The main challenge was that job searching, technical study and anxiety began reinforcing one another. At first, I felt embarrassed discussing the problem, since I thought other people would judge me. However, my mother noticed that I was becoming withdrawn and asked what part of the situation I could actually control.
+
+Instead of giving a quick motivational speech, she listened, helped me divide the problem into **manageable steps** and suggested contacting former colleagues for practical advice. As a result, one colleague reviewed my CV, while another recommended an AI course and a possible freelance project. The moment that best captures the change was realising that their support increased my independence rather than reducing it.
+
+This experience remains memorable because I stopped viewing help as evidence of weakness. Since then, I have asked questions earlier, shared uncertainty more honestly and also supported colleagues when they face setbacks. I would still make my own final decisions, but I now seek informed perspectives first, which is why changing this belief has made me more capable and **better connected with people I trust**.
+
+### Part 3
+
+**Q: Why do people change their opinions?** A: New evidence, direct experience and trusted advice can expose weaknesses in an old belief. Mature people should be **consistent in values but flexible about evidence**.
+
+**Q: Is it difficult to admit that an opinion was wrong?** A: Yes, because people connect beliefs with identity and fear losing respect. A calm discussion makes revision feel like **learning rather than defeat**.
+
+## 3. Receiving help to solve a problem
 
 ### Keywords and collocations
 
@@ -33,7 +95,7 @@ This experience remains memorable because her calm help led us back to the corre
 
 **Q: Why are people reluctant to ask for help?** A: They fear judgement or losing independence. Supportive environments can show that asking early is **responsible rather than weak**.
 
-## 2. Technological problem
+## 4. Technological problem
 
 ### Keywords and collocations
 
@@ -72,7 +134,7 @@ This event remains memorable because the deadline, rather than the fault itself,
 
 **Q: What can teachers do?** A: Require drafts, oral explanations and source checks so students must **demonstrate how they reached an answer**.
 
-## 3. Taking a long time to reply
+## 5. Taking a long time to reply
 
 ### Keywords and collocations
 
@@ -105,7 +167,7 @@ This event remains memorable because a careful reply produced realistic terms wi
 
 **Q: What if someone has not replied?** A: I would wait, then send one polite follow-up. Repeated messages can **create unnecessary pressure**.
 
-## 4. Important decision
+## 6. Important decision
 
 ### Keywords and collocations
 
@@ -144,7 +206,7 @@ This experience remains memorable because I began with small daily commitments t
 
 **Q: How do people make major decisions?** A: They compare options, seek advice and consider long-term consequences, though emotion and habit still **shape the final choice**.
 
-## 5. Local news
+## 7. Local news
 
 ### Keywords and collocations
 
@@ -176,7 +238,7 @@ This event remains memorable because my mother confirmed that the cleaned area w
 **Q: Do young and old people follow news differently?** A: Younger people use social platforms; older people often rely on television or established outlets, though both need **source awareness**.
 
 **Q: Is local news reliable?** A: Official reporting can be useful, but readers should compare sources and distinguish evidence from **unverified community rumours**.
-## 6. Live sports event
+## 8. Live sports event
 
 ### Keywords and collocations
 
@@ -211,7 +273,37 @@ This event remains memorable because it created a **shared atmosphere that telev
 
 **Q: Which matches suit children?** A: Safe, well-organised daytime events with positive crowds because children need **an enjoyable and manageable environment**.
 
-## 7. Working in a group
+## 9. Long-term goal
+
+### Keywords and collocations
+
+- software engineer
+- career transition
+- two years
+- no formal background
+- manageable steps
+- small applications
+- technical interview
+- long-term achievement
+
+### Complete answer
+
+<!-- Source: 同桌英语 #17 | Template: Events E1-E2-E3-E4 | Bank: B4 | Modules: career-transition / manageable-steps / first-job -->
+
+The experience I'd like to describe happened when I finally achieved my long-term goal of becoming a software engineer. I had expected the transition to take several months, but it ultimately required almost two years of study alongside full-time work.
+
+The main challenge was learning programming without a formal computer-science background. At first, I felt overwhelmed by unfamiliar concepts and compared myself with experienced developers. However, building tiny projects showed me that practical progress mattered more than understanding everything immediately.
+
+Instead of studying random tutorials, I divided the goal into **manageable steps**: complete one structured course, build three small applications and ask developers for feedback. As a result, my projects gradually became more reliable, and I eventually passed a technical interview for a junior position. The moment that best captures the achievement was receiving the offer after several earlier rejections and a notebook full of debugging notes.
+
+This experience remains memorable because the goal changed both my career and my view of ability. Since then, I have treated difficult skills as something that can be **built over time** through focused practice and useful feedback. I would follow the same staged approach for another major goal, which is why becoming an engineer remains more meaningful to me than any single promotion I received later.
+
+### Part 3
+
+**Q: Why are long-term goals important?** A: They give daily effort direction and help people tolerate slow progress. However, goals need **clear stages and periodic adjustment**.
+
+**Q: Should parents set goals for children?** A: They can offer guidance, but children need meaningful choice. Imposed goals may produce compliance without **lasting internal motivation**.
+## 10. Working in a group
 
 ### Keywords and collocations
 
@@ -246,7 +338,7 @@ This experience remains memorable because admitting our original method had fail
 
 **Q: What group tasks exist at school?** A: Experiments, presentations, sports and community projects, all of which require students to **coordinate different roles**.
 
-## 8. Changing a plan
+## 11. Changing a plan
 
 ### Keywords and collocations
 
@@ -281,7 +373,7 @@ This event remains memorable because the vendor helped us balance the spices and
 
 **Q: How does technology help planning?** A: Shared calendars, maps and instant updates improve coordination, although people may become **overdependent on digital tools**.
 
-## 9. Getting up early
+## 12. Getting up early
 
 ### Keywords and collocations
 
@@ -316,7 +408,7 @@ This event remains memorable because the calm scene **left a lasting impression*
 
 **Q: Is arriving early always good?** A: Usually, but arriving excessively early may inconvenience a host. People should use **reasonable judgement**.
 
-## 10. Short-term overseas job
+## 13. Short-term overseas job
 
 ### Keywords and collocations
 
@@ -353,7 +445,7 @@ This experience would remain memorable because it combines career development wi
 
 **Q: Why are some unwilling to work abroad?** A: Family responsibilities, uncertainty and cultural adjustment may outweigh career benefits. It is **a personal trade-off**.
 
-## 11. Encouraging someone
+## 14. Encouraging someone
 
 ### Keywords and collocations
 
@@ -390,7 +482,7 @@ This experience remains memorable because repeated walks gradually helped her ex
 
 **Q: Should children obey every request?** A: No. Requests should be safe and reasonable, and children need to learn **respectful independent judgement**.
 
-## 12. Using imagination
+## 15. Using imagination
 
 ### Keywords and collocations
 
@@ -429,7 +521,7 @@ This experience remains memorable because imagination turned an abstract request
 
 **Q: Why is imagination important to children?** A: It supports problem-solving, empathy and emotional expression and helps them **explore possibilities safely**.
 
-## 13. Music event you did not enjoy
+## 16. Music event you did not enjoy
 
 ### Keywords and collocations
 
@@ -466,7 +558,7 @@ This event remains memorable because listening later through headphones confirme
 
 **Q: Home or live music?** A: Home is comfortable and clear; live music offers **shared energy and immediate emotion**.
 
-## 14. Vehicle trip
+## 17. Vehicle trip
 
 ### Keywords and collocations
 
@@ -505,7 +597,7 @@ This experience remains memorable because the delay became the best part of the 
 
 **Q: What is the future of electric cars?** A: They will expand as batteries and charging improve, but clean electricity and recycling are needed for **genuine environmental benefits**.
 
-## 15. Giving advice
+## 18. Giving advice
 
 ### Keywords and collocations
 
@@ -545,7 +637,7 @@ This experience remains memorable because she gradually became calmer and challe
 
 **Q: When do older people ask younger people?** A: Often about technology, changing workplace practices and current culture, where younger people may have **more direct recent experience**.
 
-## 16. Proud of a family member
+## 19. Proud of a family member
 
 ### Keywords and collocations
 
@@ -584,7 +676,7 @@ This event remains memorable because an older resident thanked her for preservin
 
 **Q: What about working only for grades?** A: It may produce short-term results but encourages anxiety and **surface learning rather than curiosity**.
 
-## 17. Smiling occasion
+## 20. Smiling occasion
 
 ### Keywords and collocations
 
@@ -623,7 +715,7 @@ This event remains memorable because the joke led to travel stories, laughter an
 
 **Q: When do people pretend to smile?** A: In customer service, formal photographs or uncomfortable social situations to **maintain politeness and avoid conflict**.
 
-## 18. Phone-not-allowed occasion
+## 21. Phone-not-allowed occasion
 
 ### Keywords and collocations
 
@@ -662,7 +754,7 @@ This event remains memorable because the restriction eventually felt reasonable 
 
 **Q: How does the internet benefit people?** A: It expands access to information, services and communication, particularly for those **far from physical resources**.
 
-## 19. Broken electronic device
+## 22. Broken electronic device
 
 ### Keywords and collocations
 
@@ -693,7 +785,7 @@ This event remains memorable because honest communication limited the delay to o
 
 **Q: What impact do devices have?** A: They improve communication and productivity but also increase distraction, privacy risks and **electronic waste**.
 
-## 20. Short stay abroad
+## 23. Short stay abroad
 
 ### Keywords and collocations
 
@@ -724,7 +816,7 @@ This experience remains memorable because real English use and natural scenery b
 
 **Q: What challenges arise during a short stay?** A: Limited time encourages rushed schedules, while language and unfamiliar systems can **increase everyday stress**.
 
-## 21. Exciting new activity
+## 24. Exciting new activity
 
 ### Keywords and collocations
 
@@ -755,7 +847,7 @@ This experience remains memorable because quiet movement through clear water fel
 
 **Q: What can risky activities teach?** A: Preparation, self-awareness and respect for limits, provided trained supervision keeps the risk **controlled rather than reckless**.
 
-## 22. Waiting for something special
+## 25. Waiting for something special
 
 ### Keywords and collocations
 
@@ -786,7 +878,7 @@ This experience remains memorable because a second-interview invitation finally 
 
 **Q: Are modern people less patient?** A: Often yes, because instant digital services create expectations of immediate results, even where careful work **still requires time**.
 
-## 23. Power cut
+## 26. Power cut
 
 ### Keywords and collocations
 
@@ -817,7 +909,7 @@ This event remains memorable because the interruption created an unexpectedly us
 
 **Q: Are people too dependent on electricity?** A: Modern infrastructure necessarily depends on it, so the priority is resilient grids, backup systems and **responsible energy use**.
 
-## 24. Getting lost
+## 27. Getting lost
 
 ### Keywords and collocations
 
@@ -848,7 +940,7 @@ This experience remains memorable because the wrong route led us to a hidden tro
 
 **Q: Are paper maps still necessary?** A: Useful as backups in remote areas, although offline digital maps are more convenient for **most everyday journeys**.
 
-## 25. Going out cheaply
+## 28. Going out cheaply
 
 ### Keywords and collocations
 

@@ -623,7 +623,7 @@ Part 1 快问快答：
 
 ### Part 2 已安排
 
-68 个 topics：人物 16、事件 25、事物 18、地点 9。完整答案见 [answer bank](../answers/README.md)。
+73 个 topics：人物 17、事件 28、事物 18、地点 10。完整答案见 [answer bank](../answers/README.md)。
 
 ### 个人化状态
 

@@ -2,7 +2,41 @@
 
 > 半固定结构：Who → Quality → Context → Example → Reaction/result → Why this person matters。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；完整稿用于校正，不逐字背诵。
 
-## 1. Person good at languages
+## 1. Person who overcame difficulties
+
+### Keywords and collocations
+
+- Stella
+- company layoffs
+- severe burnout
+- heavier workload
+- manageable steps
+- clearer boundaries
+- accept support
+- healthy recovery
+
+### Complete answer
+
+<!-- Source: 同桌英语 #02 | Template: People P1-P2-P3-P4 | Bank: B4 | Modules: burnout / manageable-steps / healthier-role -->
+
+The person I'd like to describe is Stella, my former colleague and close friend, who successfully overcame severe burnout after our company went through layoffs. What stands out most is her **resilience and willingness to face a problem honestly**.
+
+I first noticed this clearly when the remaining staff received heavier workloads and Stella began sleeping badly and doubting her ability. At the time, she was trying to protect the whole team and rarely admitted that she felt exhausted. She is normally organised and optimistic, so the change was especially obvious to people who knew her well.
+
+Instead of pretending everything was fine, Stella spoke to her manager, identified impossible deadlines and divided her recovery into **manageable steps**. She began with short evening walks, stopped answering non-urgent messages at night and asked colleagues to agree on priorities. As a result, her sleep gradually improved, and several months later she moved into a healthier role with clearer boundaries.
+
+This matters to me because overcoming difficulty did not mean that she suddenly became fearless or positive. She succeeded by accepting support and **focusing on what she could control**. Since then, her example has influenced how I respond to my own career setback: I build a daily routine and ask for help before pressure becomes unmanageable. That is why I see Stella as genuinely strong, rather than someone who simply hides difficult emotions.
+
+### Part 3
+
+**Q: What difficulties do people often face at work?**
+
+A: Heavy workloads, unclear expectations and job insecurity are common. Supportive management can keep temporary pressure from becoming **a long-term health problem**.
+
+**Q: Why do some people overcome difficulties more successfully than others?**
+
+A: They may have stronger support, realistic strategies and the confidence to adjust their approach. Success usually depends on **consistent action rather than personality alone**.
+## 2. Person good at languages
 
 ### Keywords and collocations
 
@@ -49,7 +83,7 @@ A: Children are less afraid of mistakes and receive more natural repetition. Adu
 
 A: Most combine instruction with practice. Knowledge becomes useful only when learners **apply it repeatedly and receive feedback**.
 
-## 2. Person with a successful business
+## 3. Person with a successful business
 
 ### Keywords and collocations
 
@@ -84,7 +118,7 @@ A: Many want greater independence or recognise an unmet need. Others seek higher
 
 A: Yes, selectively. Loans and training can encourage innovation, but applicants should present viable plans so public money is **allocated responsibly**.
 
-## 3. Person entering the medical field
+## 4. Person entering the medical field
 
 ### Keywords and collocations
 
@@ -119,7 +153,7 @@ A: Extremely difficult. Doctors need extensive knowledge, accurate judgement and
 
 A: It can be, especially when lessons connect theory to the human body or local nature. Experiments make abstract knowledge **more concrete and memorable**.
 
-## 4. Person who grows vegetables
+## 5. Person who grows vegetables
 
 ### Keywords and collocations
 
@@ -154,7 +188,7 @@ A: It gives people fresher produce and a relaxing routine. Caring for plants als
 
 A: It is common among older people and families with balconies or gardens. Younger urban residents increasingly grow herbs because they require **little space or specialist knowledge**.
 
-## 5. Childhood friend
+## 6. Childhood friend
 
 ### Keywords and collocations
 
@@ -205,7 +239,7 @@ A: Younger friends may share current interests, whereas older friends often offe
 
 A: Yes. It makes long-distance contact effortless, but it can also encourage **many shallow connections instead of a few deep ones**.
 
-## 6. Nature lover
+## 7. Nature lover
 
 ### Keywords and collocations
 
@@ -256,7 +290,7 @@ A: Reduce unnecessary consumption, use public transport and support responsible 
 
 A: Yes, through practical projects rather than slogans. Measuring waste or growing plants makes the subject **concrete and personally relevant**.
 
-## 7. Helpful person
+## 8. Helpful person
 
 ### Keywords and collocations
 
@@ -307,7 +341,7 @@ A: Colleagues suit technical work issues; family members offer emotional perspec
 
 A: They may fear appearing incompetent or being judged. Managers can reduce this by creating **a psychologically safe environment**.
 
-## 8. Self-taught friend
+## 9. Self-taught friend
 
 ### Keywords and collocations
 
@@ -358,7 +392,7 @@ A: A broad foundation is useful early, followed by deeper study in selected area
 
 A: Yes. Learning maintains confidence, cognitive activity and social connection and helps people **adapt to practical changes**.
 
-## 9. Smart problem-solver
+## 10. Smart problem-solver
 
 ### Keywords and collocations
 
@@ -409,7 +443,7 @@ A: Not necessarily. Intelligence can help solve problems, but happiness also dep
 
 A: Yes, but labels should remain flexible. Schools should provide opportunities without **limiting children to one early judgement**.
 
-## 10. Person who plans
+## 11. Person who plans
 
 ### Keywords and collocations
 
@@ -460,7 +494,7 @@ A: Yes, especially before major examinations. The useful plans are realistic and
 
 A: Sometimes, particularly in medicine or engineering, but transferable skills allow many graduates to **move into different fields**.
 
-## 11. Child who loves drawing
+## 12. Child who loves drawing
 
 ### Keywords and collocations
 
@@ -511,7 +545,7 @@ A: They present familiar experiences from unexpected perspectives and can **trig
 
 A: Books allow deep, self-paced explanation, whereas museums provide **direct visual and physical engagement** with objects.
 
-## 12. Famous person to meet
+## 13. Famous person to meet
 
 ### Keywords and collocations
 
@@ -562,7 +596,7 @@ A: Social media makes brief attention easier, but maintaining a positive reputat
 
 A: No. I would prefer professional recognition without losing privacy because a normal life gives me **greater freedom and peace of mind**.
 
-## 13. Musical friend
+## 14. Musical friend
 
 ### Keywords and collocations
 
@@ -597,7 +631,7 @@ A: Pop remains dominant because it is accessible, while online platforms help ni
 
 A: Young listeners often follow current global trends; older people favour music linked to memories. Preference reflects **both generation and personal experience**.
 
-## 14. Creative person
+## 15. Creative person
 
 ### Keywords and collocations
 
@@ -632,7 +666,7 @@ A: Yes, because unfamiliar problems rarely have ready-made answers. Creativity h
 
 A: Partly. People can expose themselves to varied ideas, practise experimentation and work in environments where **reasonable mistakes are accepted**.
 
-## 15. Medical worker
+## 16. Medical worker
 
 ### Keywords and collocations
 
@@ -667,7 +701,7 @@ A: It will assist diagnosis and administration, but doctors provide accountabili
 
 A: Expertise, careful communication, resilience and empathy. Technical skill alone cannot create **trust between patients and professionals**.
 
-## 16. Business person you admire
+## 17. Business person you admire
 
 ### Keywords and collocations
 

@@ -1,6 +1,6 @@
 # Part 1：十种性格全题答案
 
-> 每题：直接回答 → 性格逻辑 → 个人细节。每种性格使用 3 个固定表达；同 topic 不重复，跨 topic 尽量复用。`[R]` 表示根据 topic 摘要补写的问题。
+> 每题：直接回答 → 性格逻辑 → 个人细节。每种性格使用 3 个固定表达；同 topic 不重复，跨 topic 尽量复用。`同桌英语 #NN` 是截图优先级；`[R]` 表示根据 topic 摘要补写的问题。
 
 ## 10 个固定性格
 
@@ -32,143 +32,167 @@
 
 小问优先：购买/用途 → P1；规律/效率 → P2；知识/探索 → P3；学习/进步 → P4；健康/运动 → P5；放松/舒适 → P6；人物/联系 → P7；过去/回忆 → P8；个人选择 → P9；新体验/积极态度 → P10。
 
-## Active 2026：新题
+## 同桌英语优先级（37）
 
-### Music
+### Clothing `[同桌英语 #01]`
 
-**Q: Do you prefer sad or happy music?**
+**Q: What clothes do you like wearing?**
 
-A: I prefer happy music because it can lift my mood after a long day. I usually try to **see the positive side**. I often play upbeat songs while exercising because they give me an extra burst of energy. <!-- P10-a -->
+A: I prefer simple, casual clothes such as T-shirts and trainers because they are comfortable and easy to match. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
 
-**Q: Does happy music make you feel more excited?**
+**Q: Do you prefer casual or smart clothes?**
 
-A: Yes. A lively rhythm immediately makes me feel more energetic and optimistic, especially when I am tired or under pressure. I prefer habits that **keep me active**. <!-- P5-b -->
+A: Casual clothes for daily life, but smart clothes for formal meetings. I need **some peaceful time to recharge**. I choose according to the occasion and level of comfort. <!-- P6-b -->
 
-### Teachers
+**Q: Do you like wearing T-shirts?**
 
-**Q: Do you have a favourite teacher?**
+A: Yes. They are affordable, breathable and require very little thought when I am in a hurry. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-A: Yes, my high-school English teacher. I am always **looking for ways to improve**. She explained difficult ideas clearly and always encouraged me to speak up, which gradually built my confidence. <!-- P4-a -->
+**Q: Do you spend much time choosing clothes?**
 
-**Q: Do you want to be a teacher in the future?**
+A: No. I tend to **focus on what is genuinely useful**. I keep a fairly simple wardrobe, so I can get ready efficiently. <!-- P1-a -->
 
-A: Probably not full-time, because teaching requires enormous patience. I generally prefer **a calm, uncomplicated lifestyle**. However, I would enjoy sharing practical knowledge through occasional workshops. <!-- P6-a -->
+**Q: Do you wear different styles on weekdays and weekends?**
 
-**Q: Is there a teacher from your past whom you still remember?**
+A: Slightly. I feel better when **things are well organised**. I dress more neatly for work, while at weekends I choose looser and more relaxed clothing. <!-- P2-c -->
 
-A: I still remember my English teacher because she treated mistakes as part of the learning process rather than something embarrassing. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+**Q: What colours do you like?**
 
-**Q: Are you still in touch with your primary-school teachers?**
+A: I usually wear navy, grey and white because they look clean and are easy to coordinate. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
 
-A: Not regularly. Although I place a lot of value on **close relationships**, we last exchanged messages several years ago and gradually lost touch as life became busier. <!-- P7-a -->
+### Singing `[同桌英语 #02]`
 
-**Q: In what way has your favourite teacher helped you?**
+**Q: Do you like singing?**
 
-A: She helped me become more confident about expressing different opinions. I enjoy **building my skills over time**. Her advice still influences the way I communicate at work. <!-- P4-c -->
+A: Yes, although I am not particularly talented. I usually try to **see the positive side**. Singing familiar songs helps me release stress and improve my mood. <!-- P10-a -->
 
-### Social Media
+**Q: Have you learnt how to sing?**
 
-**Q: Have you ever posted anything on social media?**
+A: I have never taken formal lessons. I am always **looking for ways to improve**. I simply sing along to music and try to follow the original melody. <!-- P4-a -->
 
-A: Yes. I tend to **attach meaning to personal memories**. I occasionally post photographs from my Malaysia trip because they bring back meaningful memories. <!-- P8-a -->
+**Q: Who would you like to sing for?**
 
-**Q: When did you start using social media?**
+A: Only close friends, because I feel relaxed around them and do not worry about being judged. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
 
-A: I started at university, mainly to keep in touch with classmates. I place a lot of value on **close relationships**. My use is more selective now. <!-- P7-a -->
+**Q: Can singing bring happiness?**
 
-**Q: Do you spend too much time on social media?**
+A: Absolutely. I make an effort to **stay connected with people**. It allows people to express emotion and can create a strong sense of connection when they sing together. <!-- P7-b -->
 
-A: Sometimes, especially when I watch short videos without noticing the time. I tend to **plan things in advance**, so I now set limits to avoid mindless scrolling. <!-- P2-b -->
+**Q: Do you like listening to other people sing?**
 
-**Q: Do your friends use social media?**
+A: Yes, especially live acoustic performances because the singer's emotions feel more immediate and genuine. I try to **keep an open mind**. <!-- P10-b -->
 
-A: Yes, most of them do. I make an effort to **stay connected with people**, so we mainly use social media to exchange updates despite busy schedules. <!-- P7-b -->
+**Q: Have you taken a singing class?**
 
-**Q: What do people often do on social media?**
+A: No, but I might take one for fun. Learning breathing techniques could help me sing with more confidence. I enjoy **building my skills over time**. <!-- P4-c -->
 
-A: They share photographs, follow news and communicate with friends. I tend to **ask questions and explore further**. Many also use it to discover useful information, although its reliability varies. <!-- P3-c -->
+### Headphones `[同桌英语 #03]`
 
-### Tidiness
+**Q: Do you use headphones?**
 
-**Q: Do you like to keep things tidy?**
+A: Yes, every day for music, online meetings and language practice. I like **having a clear routine**. They help me concentrate in a noisy environment. <!-- P2-a -->
 
-A: Yes. I tend to **focus on what is genuinely useful**. A tidy room helps me think more clearly and prevents me from wasting time looking for things. <!-- P1-a -->
+**Q: What type do you use?**
 
-**Q: Did you keep your room tidy as a child?**
+A: I use wireless noise-cancelling headphones because they are convenient and block out background noise. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
 
-A: Not really. I tend to **remember experiences that teach me something**. My mother often reminded me to put things away, but I only developed the habit after living independently. <!-- P8-c -->
+**Q: When do you use them?**
 
-**Q: How do you keep your work or study space tidy?**
+A: Mainly while commuting, exercising or working. Music helps me maintain my focus during repetitive tasks. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-A: I clear my desk every evening and store documents digitally. This simple routine gives me a clutter-free workspace the next morning. I tend to **plan things in advance**. <!-- P2-b -->
+**Q: When would you not use headphones?**
 
-**Q: Is it necessary to be tidy?**
+A: I avoid them when crossing roads or talking with someone because I need to remain aware of my surroundings. I need **some peaceful time to recharge**. <!-- P6-b -->
 
-A: Yes, within reason. I usually **weigh up the practical benefits**. Basic organisation improves efficiency, but being obsessed with perfect order can create unnecessary stress. <!-- P1-b -->
+**Q: Are headphones comfortable?**
 
-### Websites
+A: Mine are comfortable for about two hours, but wearing them all day can put pressure on my ears. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
 
-**Q: What kinds of websites do you often visit?**
+### Jokes and Comedies `[同桌英语 #04]`
 
-A: I mainly visit technology, news and language-learning websites because they help me keep my knowledge up to date. I see each experience as **a chance to learn**. <!-- P4-b -->
+**Q: Are you good at telling jokes?**
 
-**Q: What is your favourite website?**
+A: Not really. I generally prefer **a calm, uncomplicated lifestyle**. My timing is unreliable, but I sometimes make light-hearted comments that amuse close friends. <!-- P6-a -->
 
-A: GitHub is probably my favourite because I can explore real projects and learn from other developers. I naturally want to **know how things work**. <!-- P3-a -->
+**Q: Do your friends tell jokes?**
 
-**Q: Have the websites you use changed?**
+A: Yes, especially Stella. I enjoy **sharing simple experiences with people I trust**. Her positive sense of humour can lighten the mood when work becomes stressful. <!-- P7-c -->
 
-A: Yes. They have become more personalised and mobile-friendly, although they now contain more distracting recommendations. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q: Do you like comedies?**
 
-**Q: What websites are popular in China?**
+A: Yes. A well-written comedy helps me switch off without requiring too much concentration. I try to **keep an open mind**. <!-- P10-b -->
 
-A: Shopping, video and social-media platforms are extremely popular because they combine convenience with a wide range of content. I tend to **ask questions and explore further**. <!-- P3-c -->
+**Q: Have you watched a live show?**
 
-**Q: Do you prefer getting information from websites or books?**
+A: Yes, I once attended a small stand-up show in Beijing. I tend to **attach meaning to personal memories**. The audience interaction made it more engaging than television. <!-- P8-a -->
 
-A: Websites are better for current information, while books offer greater depth and structure. I am always **looking for ways to improve**. I use both for different purposes. <!-- P4-a -->
+**Q: Are comedy shows popular in China?**
 
-**Q: Would you like to have your own website?**
+A: Yes, especially online stand-up and variety shows because short humorous clips are easy to share on social media. I make an effort to **stay connected with people**. <!-- P7-b -->
 
-A: Yes. I would use it to organise my technical notes and document my learning journey without relying on a social-media algorithm. I enjoy **discovering something new**. <!-- P3-b -->
+### Mirrors `[同桌英语 #05]`
 
-### Watch
+**Q: Do you like looking at yourself in a mirror?**
 
-**Q: Do you wear a watch?**
+A: I only use one briefly before leaving home. I feel better when **things are well organised**. It is a practical habit rather than something I spend much time on. <!-- P2-c -->
 
-A: I usually wear a simple smartwatch because it lets me check the time and activity data at a glance. I like **having a clear routine**. <!-- P2-a -->
+**Q: Have you ever bought a mirror?**
 
-**Q: Have you ever received a watch as a gift?**
+A: Yes, I bought a full-length mirror for my apartment because it makes getting dressed more convenient. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-A: Yes, my mother gave me one when I graduated. I form **emotional connections with familiar places and objects**. It has considerable emotional value, although I rarely wear it now. <!-- P8-b -->
+**Q: Do you carry a mirror?**
 
-**Q: Why do some people wear expensive watches?**
+A: No. My phone camera is enough if I need to check my appearance quickly. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
 
-A: Some appreciate the craftsmanship, while others treat them as a symbol of status and success. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+**Q: Would you decorate a room with mirrors?**
 
-**Q: Is it important to wear a watch?**
+A: Possibly one large mirror, because it can make a small room feel brighter and more spacious. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
 
-A: It is useful but not essential because phones show the time. I usually **weigh up the practical benefits**. A watch is simply quicker and less distracting. <!-- P1-b -->
+### Science `[同桌英语 #06]`
 
-### Shopping
+**Q: Do you like science?**
 
-**Q: Do you like shopping?**
+A: Yes, especially astronomy and computer science because they fuel my curiosity about how the world works. I naturally want to **know how things work**. <!-- P3-a -->
 
-A: Only when I know what I need. I generally prefer **a calm, uncomplicated lifestyle**. I prefer purposeful shopping to wandering around crowded stores. <!-- P6-a -->
+**Q: When did you start learning science?**
 
-**Q: How often do you go shopping?**
+A: I began in primary school, but became genuinely interested after learning to programme because it made abstract ideas feel practical and creative. I tend to **remember experiences that teach me something**. <!-- P8-c -->
 
-A: I buy groceries once or twice a week and other items only when necessary. I feel better when **things are well organised**. This helps me avoid impulsive purchases. <!-- P2-c -->
+**Q: Which science subject interests you?**
 
-**Q: Do you prefer online or in-store shopping?**
+A: Computer science interests me most because it combines logical thinking with real-world problem-solving. I tend to **ask questions and explore further**. <!-- P3-c -->
 
-A: I prefer online shopping for everyday items because it saves time and effort, but I buy clothes in person. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+**Q: What interesting things have you done with science?**
 
-**Q: Have you ever returned something bought online?**
+A: I have built small software tools and experimented with AI. I am always **looking for ways to improve**. Turning an idea into a working product creates a strong sense of achievement. <!-- P4-a -->
 
-A: Yes, I once returned headphones that were uncomfortable. I usually **weigh up the practical benefits**. The process was surprisingly straightforward, and I received a refund quickly. <!-- P1-b -->
+**Q: Do you watch science programmes?**
 
-### Cars
+A: Yes, particularly documentaries about space and technology. I enjoy **discovering something new**. They explain complex subjects in an accessible and visual way. <!-- P3-b -->
+
+**Q: Do Chinese people visit science museums?**
+
+A: Many families do, especially during school holidays. Interactive exhibitions can make learning more engaging for children. I see each experience as **a chance to learn**. <!-- P4-b -->
+
+### Outer Space and Stars `[同桌英语 #07]`
+
+**Q: Have you learnt about outer space and stars?**
+
+A: Yes, mainly through documentaries and online articles. I tend to **remember experiences that teach me something**. The enormous scale of the universe puts everyday problems into perspective. <!-- P8-c -->
+
+**Q: Do you like science-fiction films?**
+
+A: Yes, when they explore meaningful ideas rather than relying only on special effects. I naturally want to **know how things work**. They often spark my imagination. <!-- P3-a -->
+
+**Q: Do you want to know more about outer space?**
+
+A: Definitely. I am particularly curious about whether life exists elsewhere and how humans could travel beyond Earth safely. I tend to **ask questions and explore further**. <!-- P3-c -->
+
+**Q: Do you want to go into space?**
+
+A: I would love the view, but current space travel seems too risky and expensive. I generally prefer **a calm, uncomplicated lifestyle**. For now, I would rather experience it virtually. <!-- P6-a -->
+
+### Cars `[同桌英语 #08]`
 
 **Q: Did you enjoy travelling by car as a child?**
 
@@ -194,7 +218,7 @@ A: Only slightly. I tend to **focus on what is genuinely useful**. Neutral colou
 
 A: Probably not. A car is mainly a practical tool for me, so I would rather choose reliability and value for money. I like **making my own decisions**. <!-- P9-a -->
 
-### Public Gardens and Parks
+### Public Gardens and Parks `[同桌英语 #09]`
 
 **Q: Did you like going to parks as a child?**
 
@@ -224,167 +248,400 @@ A: Modern parks have better paths, lighting and sports facilities. They are more
 
 A: I usually walk, listen to music or talk with Stella. I enjoy **sharing simple experiences with people I trust**. These activities help me clear my head and recharge. <!-- P7-c -->
 
-### Science
+### Feeling Bored `[同桌英语 #10]`
 
-**Q: Do you like science?**
+**Q: What makes you feel bored?**
 
-A: Yes, especially astronomy and computer science because they fuel my curiosity about how the world works. I naturally want to **know how things work**. <!-- P3-a -->
+A: Repetitive tasks with no clear purpose. I generally prefer **a calm, uncomplicated lifestyle**. I stay engaged when work offers a meaningful challenge. <!-- P6-a -->
 
-**Q: When did you start learning science?**
+**Q: What do you do when you feel bored?**
 
-A: I began in primary school, but became genuinely interested after learning to programme because it made abstract ideas feel practical and creative. I tend to **remember experiences that teach me something**. <!-- P8-c -->
+A: I take a short walk or learn something new, which helps me reset my attention. I try to **keep an open mind**. <!-- P10-b -->
 
-**Q: Which science subject interests you?**
+### Shopping `[同桌英语 #11]`
 
-A: Computer science interests me most because it combines logical thinking with real-world problem-solving. I tend to **ask questions and explore further**. <!-- P3-c -->
+**Q: Do you like shopping?**
 
-**Q: What interesting things have you done with science?**
+A: Only when I know what I need. I generally prefer **a calm, uncomplicated lifestyle**. I prefer purposeful shopping to wandering around crowded stores. <!-- P6-a -->
 
-A: I have built small software tools and experimented with AI. I am always **looking for ways to improve**. Turning an idea into a working product creates a strong sense of achievement. <!-- P4-a -->
+**Q: How often do you go shopping?**
 
-**Q: Do you watch science programmes?**
+A: I buy groceries once or twice a week and other items only when necessary. I feel better when **things are well organised**. This helps me avoid impulsive purchases. <!-- P2-c -->
 
-A: Yes, particularly documentaries about space and technology. I enjoy **discovering something new**. They explain complex subjects in an accessible and visual way. <!-- P3-b -->
+**Q: Do you prefer online or in-store shopping?**
 
-**Q: Do Chinese people visit science museums?**
+A: I prefer online shopping for everyday items because it saves time and effort, but I buy clothes in person. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
 
-A: Many families do, especially during school holidays. Interactive exhibitions can make learning more engaging for children. I see each experience as **a chance to learn**. <!-- P4-b -->
+**Q: Have you ever returned something bought online?**
 
-### Mirrors
+A: Yes, I once returned headphones that were uncomfortable. I usually **weigh up the practical benefits**. The process was surprisingly straightforward, and I received a refund quickly. <!-- P1-b -->
 
-**Q: Do you like looking at yourself in a mirror?**
+### Watch `[同桌英语 #12]`
 
-A: I only use one briefly before leaving home. I feel better when **things are well organised**. It is a practical habit rather than something I spend much time on. <!-- P2-c -->
+**Q: Do you wear a watch?**
 
-**Q: Have you ever bought a mirror?**
+A: I usually wear a simple smartwatch because it lets me check the time and activity data at a glance. I like **having a clear routine**. <!-- P2-a -->
 
-A: Yes, I bought a full-length mirror for my apartment because it makes getting dressed more convenient. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q: Have you ever received a watch as a gift?**
 
-**Q: Do you carry a mirror?**
+A: Yes, my mother gave me one when I graduated. I form **emotional connections with familiar places and objects**. It has considerable emotional value, although I rarely wear it now. <!-- P8-b -->
 
-A: No. My phone camera is enough if I need to check my appearance quickly. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+**Q: Why do some people wear expensive watches?**
 
-**Q: Would you decorate a room with mirrors?**
+A: Some appreciate the craftsmanship, while others treat them as a symbol of status and success. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
 
-A: Possibly one large mirror, because it can make a small room feel brighter and more spacious. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
+**Q: Is it important to wear a watch?**
 
-### Outer Space and Stars
+A: It is useful but not essential because phones show the time. I usually **weigh up the practical benefits**. A watch is simply quicker and less distracting. <!-- P1-b -->
 
-**Q: Have you learnt about outer space and stars?**
+### Websites `[同桌英语 #13]`
 
-A: Yes, mainly through documentaries and online articles. I tend to **remember experiences that teach me something**. The enormous scale of the universe puts everyday problems into perspective. <!-- P8-c -->
+**Q: What kinds of websites do you often visit?**
 
-**Q: Do you like science-fiction films?**
+A: I mainly visit technology, news and language-learning websites because they help me keep my knowledge up to date. I see each experience as **a chance to learn**. <!-- P4-b -->
 
-A: Yes, when they explore meaningful ideas rather than relying only on special effects. I naturally want to **know how things work**. They often spark my imagination. <!-- P3-a -->
+**Q: What is your favourite website?**
 
-**Q: Do you want to know more about outer space?**
+A: GitHub is probably my favourite because I can explore real projects and learn from other developers. I naturally want to **know how things work**. <!-- P3-a -->
 
-A: Definitely. I am particularly curious about whether life exists elsewhere and how humans could travel beyond Earth safely. I tend to **ask questions and explore further**. <!-- P3-c -->
+**Q: Have the websites you use changed?**
 
-**Q: Do you want to go into space?**
+A: Yes. They have become more personalised and mobile-friendly, although they now contain more distracting recommendations. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-A: I would love the view, but current space travel seems too risky and expensive. I generally prefer **a calm, uncomplicated lifestyle**. For now, I would rather experience it virtually. <!-- P6-a -->
+**Q: What websites are popular in China?**
 
-### Singing
+A: Shopping, video and social-media platforms are extremely popular because they combine convenience with a wide range of content. I tend to **ask questions and explore further**. <!-- P3-c -->
 
-**Q: Do you like singing?**
+**Q: Do you prefer getting information from websites or books?**
 
-A: Yes, although I am not particularly talented. I usually try to **see the positive side**. Singing familiar songs helps me release stress and improve my mood. <!-- P10-a -->
+A: Websites are better for current information, while books offer greater depth and structure. I am always **looking for ways to improve**. I use both for different purposes. <!-- P4-a -->
 
-**Q: Have you learnt how to sing?**
+**Q: Would you like to have your own website?**
 
-A: I have never taken formal lessons. I am always **looking for ways to improve**. I simply sing along to music and try to follow the original melody. <!-- P4-a -->
+A: Yes. I would use it to organise my technical notes and document my learning journey without relying on a social-media algorithm. I enjoy **discovering something new**. <!-- P3-b -->
 
-**Q: Who would you like to sing for?**
+### Tidiness `[同桌英语 #14]`
 
-A: Only close friends, because I feel relaxed around them and do not worry about being judged. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
+**Q: Do you like to keep things tidy?**
 
-**Q: Can singing bring happiness?**
+A: Yes. I tend to **focus on what is genuinely useful**. A tidy room helps me think more clearly and prevents me from wasting time looking for things. <!-- P1-a -->
 
-A: Absolutely. I make an effort to **stay connected with people**. It allows people to express emotion and can create a strong sense of connection when they sing together. <!-- P7-b -->
+**Q: Did you keep your room tidy as a child?**
 
-**Q: Do you like listening to other people sing?**
+A: Not really. I tend to **remember experiences that teach me something**. My mother often reminded me to put things away, but I only developed the habit after living independently. <!-- P8-c -->
 
-A: Yes, especially live acoustic performances because the singer's emotions feel more immediate and genuine. I try to **keep an open mind**. <!-- P10-b -->
+**Q: How do you keep your work or study space tidy?**
 
-**Q: Have you taken a singing class?**
+A: I clear my desk every evening and store documents digitally. This simple routine gives me a clutter-free workspace the next morning. I tend to **plan things in advance**. <!-- P2-b -->
 
-A: No, but I might take one for fun. Learning breathing techniques could help me sing with more confidence. I enjoy **building my skills over time**. <!-- P4-c -->
+**Q: Is it necessary to be tidy?**
 
-### Clothing
+A: Yes, within reason. I usually **weigh up the practical benefits**. Basic organisation improves efficiency, but being obsessed with perfect order can create unnecessary stress. <!-- P1-b -->
 
-**Q: What clothes do you like wearing?**
+### Music `[同桌英语 #15]`
 
-A: I prefer simple, casual clothes such as T-shirts and trainers because they are comfortable and easy to match. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+**Q: Do you prefer sad or happy music?**
 
-**Q: Do you prefer casual or smart clothes?**
+A: I prefer happy music because it can lift my mood after a long day. I usually try to **see the positive side**. I often play upbeat songs while exercising because they give me an extra burst of energy. <!-- P10-a -->
 
-A: Casual clothes for daily life, but smart clothes for formal meetings. I need **some peaceful time to recharge**. I choose according to the occasion and level of comfort. <!-- P6-b -->
+**Q: Does happy music make you feel more excited?**
 
-**Q: Do you like wearing T-shirts?**
+A: Yes. A lively rhythm immediately makes me feel more energetic and optimistic, especially when I am tired or under pressure. I prefer habits that **keep me active**. <!-- P5-b -->
 
-A: Yes. They are affordable, breathable and require very little thought when I am in a hurry. I usually **weigh up the practical benefits**. <!-- P1-b -->
+### Social Media `[同桌英语 #16]`
 
-**Q: Do you spend much time choosing clothes?**
+**Q: Have you ever posted anything on social media?**
 
-A: No. I tend to **focus on what is genuinely useful**. I keep a fairly simple wardrobe, so I can get ready efficiently. <!-- P1-a -->
+A: Yes. I tend to **attach meaning to personal memories**. I occasionally post photographs from my Malaysia trip because they bring back meaningful memories. <!-- P8-a -->
 
-**Q: Do you wear different styles on weekdays and weekends?**
+**Q: When did you start using social media?**
 
-A: Slightly. I feel better when **things are well organised**. I dress more neatly for work, while at weekends I choose looser and more relaxed clothing. <!-- P2-c -->
+A: I started at university, mainly to keep in touch with classmates. I place a lot of value on **close relationships**. My use is more selective now. <!-- P7-a -->
 
-**Q: What colours do you like?**
+**Q: Do you spend too much time on social media?**
 
-A: I usually wear navy, grey and white because they look clean and are easy to coordinate. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
+A: Sometimes, especially when I watch short videos without noticing the time. I tend to **plan things in advance**, so I now set limits to avoid mindless scrolling. <!-- P2-b -->
 
-### Jokes and Comedies
+**Q: Do your friends use social media?**
 
-**Q: Are you good at telling jokes?**
+A: Yes, most of them do. I make an effort to **stay connected with people**, so we mainly use social media to exchange updates despite busy schedules. <!-- P7-b -->
 
-A: Not really. I generally prefer **a calm, uncomplicated lifestyle**. My timing is unreliable, but I sometimes make light-hearted comments that amuse close friends. <!-- P6-a -->
+**Q: What do people often do on social media?**
 
-**Q: Do your friends tell jokes?**
+A: They share photographs, follow news and communicate with friends. I tend to **ask questions and explore further**. Many also use it to discover useful information, although its reliability varies. <!-- P3-c -->
 
-A: Yes, especially Stella. I enjoy **sharing simple experiences with people I trust**. Her positive sense of humour can lighten the mood when work becomes stressful. <!-- P7-c -->
+### Teachers `[同桌英语 #17]`
 
-**Q: Do you like comedies?**
+**Q: Do you have a favourite teacher?**
 
-A: Yes. A well-written comedy helps me switch off without requiring too much concentration. I try to **keep an open mind**. <!-- P10-b -->
+A: Yes, my high-school English teacher. I am always **looking for ways to improve**. She explained difficult ideas clearly and always encouraged me to speak up, which gradually built my confidence. <!-- P4-a -->
 
-**Q: Have you watched a live show?**
+**Q: Do you want to be a teacher in the future?**
 
-A: Yes, I once attended a small stand-up show in Beijing. I tend to **attach meaning to personal memories**. The audience interaction made it more engaging than television. <!-- P8-a -->
+A: Probably not full-time, because teaching requires enormous patience. I generally prefer **a calm, uncomplicated lifestyle**. However, I would enjoy sharing practical knowledge through occasional workshops. <!-- P6-a -->
 
-**Q: Are comedy shows popular in China?**
+**Q: Is there a teacher from your past whom you still remember?**
 
-A: Yes, especially online stand-up and variety shows because short humorous clips are easy to share on social media. I make an effort to **stay connected with people**. <!-- P7-b -->
+A: I still remember my English teacher because she treated mistakes as part of the learning process rather than something embarrassing. I tend to **attach meaning to personal memories**. <!-- P8-a -->
 
-### Headphones
+**Q: Are you still in touch with your primary-school teachers?**
 
-**Q: Do you use headphones?**
+A: Not regularly. Although I place a lot of value on **close relationships**, we last exchanged messages several years ago and gradually lost touch as life became busier. <!-- P7-a -->
 
-A: Yes, every day for music, online meetings and language practice. I like **having a clear routine**. They help me concentrate in a noisy environment. <!-- P2-a -->
+**Q: In what way has your favourite teacher helped you?**
 
-**Q: What type do you use?**
+A: She helped me become more confident about expressing different opinions. I enjoy **building my skills over time**. Her advice still influences the way I communicate at work. <!-- P4-c -->
 
-A: I use wireless noise-cancelling headphones because they are convenient and block out background noise. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
+### Daily Routine `[同桌英语 #18]`
 
-**Q: When do you use them?**
+**Q: Do you have a daily routine?**
 
-A: Mainly while commuting, exercising or working. Music helps me maintain my focus during repetitive tasks. I usually **weigh up the practical benefits**. <!-- P1-b -->
+A: Yes. I normally study English in the morning, handle technical work during the day and take a walk in the evening. I like **having a clear routine** because it reduces unnecessary decisions. <!-- P2-a -->
 
-**Q: When would you not use headphones?**
+**Q: Has your daily routine changed recently?**
 
-A: I avoid them when crossing roads or talking with someone because I need to remain aware of my surroundings. I need **some peaceful time to recharge**. <!-- P6-b -->
+A: Yes. Since rebuilding my career, I have divided each weekday into a few **manageable tasks** and stopped checking work messages late at night. The change has improved my concentration and sleep. <!-- P2-b -->
 
-**Q: Are headphones comfortable?**
+**Q: Is the same routine suitable for everyone?**
 
-A: Mine are comfortable for about two hours, but wearing them all day can put pressure on my ears. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+A: No. A useful routine should reflect a person's work, health and responsibilities. I try to **keep an open mind** because a rigid schedule can create stress instead of stability. <!-- P10-b -->
+### Life Stages `[同桌英语 #19]`
 
-## Active 2026：沿用题
+**Q: What did you do with friends in childhood?**
 
-### Food
+A: We cycled around our neighbourhood and played outdoors, which created simple but lasting memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+
+**Q: What is most important to you now?**
+
+A: Rebuilding my career while maintaining my health. I enjoy **building my skills over time**. I want sustainable progress rather than quick results. <!-- P4-c -->
+
+**Q: What are your plans for five years?**
+
+A: I hope to develop stronger AI skills and gain work with more flexibility and creative freedom. I tend to **ask questions and explore further**. <!-- P3-c -->
+
+**Q: How do people remember life stages?**
+
+A: Through photographs, objects and stories. I form **emotional connections with familiar places and objects**. These reminders help people connect past experiences with personal growth. <!-- P8-b -->
+
+**Q: Do you enjoy your current age?**
+
+A: Yes. I generally prefer **a calm, uncomplicated lifestyle**. I understand myself better and make decisions with greater confidence and perspective. <!-- P6-a -->
+
+**Q: At what age are people happiest?**
+
+A: There is no universal age. Happiness depends more on health, relationships and a sense of purpose. I make an effort to **stay connected with people**. <!-- P7-b -->
+
+### Views `[同桌英语 #20]`
+
+**Q: Do you photograph different views?**
+
+A: Yes, particularly coastlines and city skylines because photographs help me bring back vivid memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+
+**Q: Do you prefer urban or rural views?**
+
+A: Rural views, because greenery and open space offer a welcome escape from dense city life. I need **some peaceful time to recharge**. <!-- P6-b -->
+
+**Q: Do you prefer views in China or abroad?**
+
+A: Both can be beautiful. Foreign scenery feels novel, while Chinese landscapes often create a stronger cultural connection. I tend to **ask questions and explore further**. <!-- P3-c -->
+
+**Q: Have you seen an unforgettable view?**
+
+A: Yes, the sunrise over the sea in Malaysia. I tend to **remember experiences that teach me something**. The changing colours left me with a lasting impression. <!-- P8-c -->
+
+### Scenery `[同桌英语 #21]`
+
+**Q: Do you look at scenery while travelling?**
+
+A: Yes. I try to **keep a good balance in my life**. Looking out of the window makes a journey feel shorter and helps me notice gradual changes in the landscape. <!-- P10-c -->
+
+**Q: Do you prefer mountains or the sea?**
+
+A: The sea, because I grew up in a coastal city and find the sound of waves deeply calming. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+
+**Q: Do you take scenery pictures?**
+
+A: Yes, but only a few. I want to preserve the memory without experiencing everything through a screen. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
+
+**Q: What beautiful sight have you seen?**
+
+A: The turquoise water near Semporna was unforgettable. I naturally want to **know how things work**. Its clarity was far beyond what photographs could capture. <!-- P3-a -->
+
+### Childhood Activities `[同桌英语 #22]`
+
+**Q: What are your favourite activities?**
+
+A: Reading, walking and building small software projects because they balance relaxation with continuous learning. I try to **keep an open mind**. <!-- P10-b -->
+
+**Q: What did you enjoy as a child?**
+
+A: Cycling with friends and playing simple outdoor games. I tend to **attach meaning to personal memories**. They gave us freedom and plenty of exercise. <!-- P8-a -->
+
+**Q: Did you prefer activities alone or in groups?**
+
+A: I preferred small groups because I was shy but still enjoyed sharing the experience with close friends. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+
+**Q: Have your preferred activities changed?**
+
+A: Yes. I tend to **remember experiences that teach me something**. They are quieter now, partly because work is demanding and I value time to recharge mentally. <!-- P8-c -->
+
+### Building `[同桌英语 #23]`
+
+**Q: Are there tall buildings near your home?**
+
+A: Yes, because I live in Beijing. I generally prefer **a calm, uncomplicated lifestyle**. They provide housing efficiently but can make the area feel rather crowded. <!-- P6-a -->
+
+**Q: Do you photograph buildings?**
+
+A: Occasionally, when a building has distinctive architecture or interacts beautifully with natural light. I enjoy **discovering something new**. <!-- P3-b -->
+
+**Q: Is there a building you want to visit?**
+
+A: I would like to revisit a nearby art museum because its spacious interior creates a calm, reflective atmosphere. I tend to **ask questions and explore further**. <!-- P3-c -->
+
+**Q: Do you want to live in a tall building?**
+
+A: A middle floor would suit me. I need **some peaceful time to recharge**. It offers a good view without making me overly dependent on lifts. <!-- P6-b -->
+
+### Typing `[同桌英语 #24]`
+
+**Q: Do you prefer typing or handwriting?**
+
+A: Typing, because it is faster and lets me edit and reorganise ideas easily. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+
+**Q: Do you type every day?**
+
+A: Yes, for several hours as a software engineer. I like **having a clear routine**. It is an essential part of my work. <!-- P2-a -->
+
+**Q: When did you learn to type?**
+
+A: In secondary school, when my family bought its first computer. I improved naturally through regular daily practice. I tend to **remember experiences that teach me something**. <!-- P8-c -->
+
+**Q: How do you improve typing?**
+
+A: I focus on accuracy and use keyboard shortcuts. I enjoy **building my skills over time**. Speed increases once the movements become automatic and consistent. <!-- P4-c -->
+
+### Hobby `[同桌英语 #25]`
+
+**Q: Do you have any hobbies?**
+
+A: I enjoy reading and walking in parks because both help me unwind after work. I try to **keep an open mind**. <!-- P10-b -->
+
+**Q: Did you have hobbies as a child?**
+
+A: Yes, I enjoyed cycling and drawing simple pictures. I tend to **attach meaning to personal memories**. They gave me a creative break from schoolwork. <!-- P8-a -->
+
+**Q: Have you kept a hobby since childhood?**
+
+A: Reading is the main one. The subjects have changed, but it still satisfies my curiosity. I like **having a clear routine**. <!-- P2-a -->
+
+**Q: Do you share hobbies with your family?**
+
+A: My mother and I both enjoy walking, so we often spend quality time together when I visit home. I make an effort to **stay connected with people**. <!-- P7-b -->
+
+### Sports Team `[同桌英语 #26]`
+
+**Q: Have you been part of a sports team?**
+
+A: I played badminton doubles at university. I tend to **attach meaning to personal memories**. It taught me to coordinate with a partner rather than focus only on myself. <!-- P8-a -->
+
+**Q: Are team sports popular in China?**
+
+A: Yes, particularly basketball and football among students because they combine exercise with social interaction. I make an effort to **stay connected with people**. <!-- P7-b -->
+
+**Q: Do you like watching team games?**
+
+A: Occasionally. Close matches are exciting because the result depends on teamwork and quick decisions. I usually try to **see the positive side**. <!-- P10-a -->
+
+**Q: How are team and individual sports different?**
+
+A: Team sports require communication and shared responsibility, while individual sports offer greater personal control. I am always **looking for ways to improve**. <!-- P4-a -->
+
+### Reading `[同桌英语 #27]`
+
+**Q: Do you like reading?**
+
+A: Yes. I try to **keep an open mind**. Reading helps me unwind and recharge while also exposing me to new ideas. <!-- P10-b -->
+
+**Q: Do you prefer paper or screens?**
+
+A: Paper for long books because it reduces distractions; screens for articles because they are easy to search and store. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+
+**Q: When do you read carefully?**
+
+A: I read contracts and technical instructions carefully because overlooking one detail can lead to serious mistakes. I am always **looking for ways to improve**. <!-- P4-a -->
+
+**Q: Do you prefer scanning or detailed reading?**
+
+A: I scan first to judge relevance, then read useful sections closely. I tend to **focus on what is genuinely useful**. This is a more efficient approach. <!-- P1-a -->
+
+### Gifts `[同桌英语 #28]`
+
+**Q: Have you sent a handmade gift?**
+
+A: Yes, I made a photo album for my mother. I enjoy **sharing simple experiences with people I trust**. The effort made it more personal than a shop-bought gift. <!-- P7-c -->
+
+**Q: Have you received a great gift?**
+
+A: My mother once gave me a watch for graduation. I form **emotional connections with familiar places and objects**. It carries strong sentimental value. <!-- P8-b -->
+
+**Q: What do you consider when choosing a gift?**
+
+A: I consider the person's interests and daily needs so the gift is both thoughtful and useful. I usually **weigh up the practical benefits**. <!-- P1-b -->
+
+**Q: Are you good at choosing gifts?**
+
+A: Fairly good, because I listen for small clues and plan ahead rather than buy impulsively. I am always **looking for ways to improve**. <!-- P4-a -->
+
+**Q: What gift did you receive recently?**
+
+A: Stella gave me a notebook for organising English expressions. I tend to **attach meaning to personal memories**. It was simple but perfectly suited to my needs. <!-- P8-a -->
+
+### Morning Time `[同桌英语 #29]`
+
+**Q: Do you like getting up early?**
+
+A: Not naturally, but I enjoy the quiet atmosphere once I am awake because it helps me start the day calmly. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+
+**Q: What do you do in the morning?**
+
+A: I drink water, have breakfast and review my plan. I like **having a clear routine**. This routine helps me ease into the day. <!-- P2-a -->
+
+**Q: What did you do in the morning as a child?**
+
+A: I usually rushed through breakfast before school, so my mornings were far less organised than they are now. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+
+**Q: How are your mornings different now?**
+
+A: I now have more control over my schedule and deliberately set aside quiet time before work. I usually **weigh up the practical benefits**. <!-- P1-b -->
+
+**Q: Are weekend and weekday mornings the same?**
+
+A: No. I try to **keep a good balance in my life**. I start work early on weekdays, whereas weekends allow me to sleep in and have a leisurely breakfast. <!-- P10-c -->
+
+### Walking `[同桌英语 #30]`
+
+**Q: Do you walk a lot?**
+
+A: I walk about half an hour most days because it offsets the time I spend sitting at a computer. I prefer habits that **keep me active**. <!-- P5-b -->
+
+**Q: Did you walk outside as a child?**
+
+A: Yes, especially along the coast in Zhanjiang. I tend to **attach meaning to personal memories**. The sea breeze made those walks particularly refreshing. <!-- P8-a -->
+
+**Q: Why do people walk in parks?**
+
+A: Parks provide clean air, greenery and a safe route, allowing people to exercise without much pressure. I try to **keep a good balance in my life**. <!-- P10-c -->
+
+**Q: Where would you take a long walk?**
+
+A: Along Zhanjiang's coastline, where I could enjoy the sea and reconnect with my hometown. I tend to **ask questions and explore further**. <!-- P3-c -->
+
+**Q: Where did you walk recently?**
+
+A: I walked around the park near my apartment last weekend to clear my head after studying. I usually try to **see the positive side**. <!-- P10-a -->
+
+### Food `[同桌英语 #31]`
 
 **Q: What is your favourite food?**
 
@@ -402,7 +659,7 @@ A: Yes. I prefer light seafood in summer and warm, comforting dishes in winter. 
 
 A: Yes. I tend to **remember experiences that teach me something**. I liked sweet snacks as a child, whereas I now prefer fresh and less processed food. <!-- P8-c -->
 
-### Pets and Animals
+### Pets and Animals `[同桌英语 #32]`
 
 **Q: What is your favourite animal?**
 
@@ -436,243 +693,127 @@ A: Yes, particularly young urban residents who value the companionship and emoti
 
 A: Yes. I am always **looking for ways to improve**. It can develop empathy and help children understand responsible pet ownership and conservation. <!-- P4-a -->
 
-### Sports Team
+### The City You Live In `[同桌英语 #33]`
 
-**Q: Have you been part of a sports team?**
+**Q: What city do you live in?**
 
-A: I played badminton doubles at university. I tend to **attach meaning to personal memories**. It taught me to coordinate with a partner rather than focus only on myself. <!-- P8-a -->
+A: Beijing, where I moved about three years ago for work and better career opportunities. I enjoy **building my skills over time**. <!-- P4-c -->
 
-**Q: Are team sports popular in China?**
+**Q: Do you like it?**
 
-A: Yes, particularly basketball and football among students because they combine exercise with social interaction. I make an effort to **stay connected with people**. <!-- P7-b -->
+A: Yes, because it offers excellent cultural resources and public transport, although the pace can be physically and mentally demanding. I tend to **ask questions and explore further**. <!-- P3-c -->
 
-**Q: Do you like watching team games?**
+**Q: Has the city changed?**
 
-A: Occasionally. Close matches are exciting because the result depends on teamwork and quick decisions. I usually try to **see the positive side**. <!-- P10-a -->
+A: Yes. Digital services and transport have improved, making everyday life more efficient and connected. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-**Q: How are team and individual sports different?**
+**Q: Are the people friendly?**
 
-A: Team sports require communication and shared responsibility, while individual sports offer greater personal control. I am always **looking for ways to improve**. <!-- P4-a -->
+A: Generally yes, although people may seem hurried. I make an effort to **stay connected with people**. Once a conversation begins, most are helpful and straightforward. <!-- P7-b -->
 
-### Hobby
+**Q: Is it friendly to children and older people?**
 
-**Q: Do you have any hobbies?**
+A: Improving, with more lifts and accessible facilities, but crowded transport can still create difficulties at peak times. I need **some peaceful time to recharge**. <!-- P6-b -->
 
-A: I enjoy reading and walking in parks because both help me unwind after work. I try to **keep an open mind**. <!-- P10-b -->
+**Q: What is the weather like?**
 
-**Q: Did you have hobbies as a child?**
+A: It has four distinct seasons. Spring is pleasant, while winter is cold, dry and sometimes windy. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
 
-A: Yes, I enjoyed cycling and drawing simple pictures. I tend to **attach meaning to personal memories**. They gave me a creative break from schoolwork. <!-- P8-a -->
+**Q: Would you recommend it?**
 
-**Q: Have you kept a hobby since childhood?**
+A: Yes, especially to people interested in history, food and career opportunities. I naturally want to **know how things work**. They should still prepare for crowds and a fast pace. <!-- P3-a -->
 
-A: Reading is the main one. The subjects have changed, but it still satisfies my curiosity. I like **having a clear routine**. <!-- P2-a -->
+### Home/Accommodation `[同桌英语 #34]`
 
-**Q: Do you share hobbies with your family?**
+**Q: Do you live in a house or apartment?**
 
-A: My mother and I both enjoy walking, so we often spend quality time together when I visit home. I make an effort to **stay connected with people**. <!-- P7-b -->
+A: A compact apartment in Beijing. I need **some peaceful time to recharge**. It is not large, but it is comfortable and conveniently located. <!-- P6-b -->
 
-### Morning Time
+**Q: Who do you live with?**
 
-**Q: Do you like getting up early?**
+A: I currently live alone. I am comfortable **doing things on my own**, and this gives me privacy and lets me organise the space around my routine. <!-- P9-b -->
 
-A: Not naturally, but I enjoy the quiet atmosphere once I am awake because it helps me start the day calmly. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+**Q: What is your favourite room?**
 
-**Q: What do you do in the morning?**
+A: The living room, because I enjoy **sharing simple experiences with people I trust** there, while its natural light also makes it a pleasant place to read. <!-- P7-c -->
 
-A: I drink water, have breakfast and review my plan. I like **having a clear routine**. This routine helps me ease into the day. <!-- P2-a -->
+**Q: How long have you lived there?**
 
-**Q: What did you do in the morning as a child?**
+A: About three years. I tend to **remember experiences that teach me something**. Over time, it has gradually started to feel like home. <!-- P8-c -->
 
-A: I usually rushed through breakfast before school, so my mornings were far less organised than they are now. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+**Q: Will you live there for a long time?**
 
-**Q: How are your mornings different now?**
+A: Probably not permanently. I tend to **make decisions with real-life needs in mind**. I may move for work, although the current location suits my needs for now. <!-- P1-c -->
 
-A: I now have more control over my schedule and deliberately set aside quiet time before work. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q: What home do you want in future?**
 
-**Q: Are weekend and weekday mornings the same?**
+A: A bright apartment near a park, with a separate workspace and good access to public transport. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
 
-A: No. I try to **keep a good balance in my life**. I start work early on weekdays, whereas weekends allow me to sleep in and have a leisurely breakfast. <!-- P10-c -->
+**Q: Do you prefer a house or apartment?**
 
-### Gifts
+A: An apartment in the city because maintenance is easier and daily services are within easy reach. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-**Q: Have you sent a handmade gift?**
+**Q: Are transport facilities good?**
 
-A: Yes, I made a photo album for my mother. I enjoy **sharing simple experiences with people I trust**. The effort made it more personal than a shop-bought gift. <!-- P7-c -->
+A: Yes. I tend to **focus on what is genuinely useful**. A subway station and several bus routes are nearby, which makes commuting fairly straightforward. <!-- P1-a -->
 
-**Q: Have you received a great gift?**
+**Q: Is a comfortable home important?**
 
-A: My mother once gave me a watch for graduation. I form **emotional connections with familiar places and objects**. It carries strong sentimental value. <!-- P8-b -->
+A: Definitely. I prefer **having control over my time and space**, and a comfortable home lets me recover from daily pressure and feel secure. <!-- P9-c -->
 
-**Q: What do you consider when choosing a gift?**
+### Hometown `[同桌英语 #35]`
 
-A: I consider the person's interests and daily needs so the gift is both thoughtful and useful. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q: Where is your hometown?**
 
-**Q: Are you good at choosing gifts?**
+A: Zhanjiang, a coastal city in southern China known for its long coastline and fresh seafood. I tend to **attach meaning to personal memories**. <!-- P8-a -->
 
-A: Fairly good, because I listen for small clues and plan ahead rather than buy impulsively. I am always **looking for ways to improve**. <!-- P4-a -->
+**Q: Is it big or small?**
 
-**Q: What gift did you receive recently?**
+A: It is a medium-sized city. I need **some peaceful time to recharge**. It offers essential facilities without the overwhelming pace of a megacity. <!-- P6-b -->
 
-A: Stella gave me a notebook for organising English expressions. I tend to **attach meaning to personal memories**. It was simple but perfectly suited to my needs. <!-- P8-a -->
+**Q: What do you like most about it?**
 
-### Reading
+A: The seafood and coastal scenery. Coconut trees and the sea breeze create a relaxed and welcoming atmosphere. I make an effort to **stay connected with people**. <!-- P7-b -->
 
-**Q: Do you like reading?**
+**Q: Is there anything you dislike?**
 
-A: Yes. I try to **keep an open mind**. Reading helps me unwind and recharge while also exposing me to new ideas. <!-- P10-b -->
+A: Summers are extremely hot and humid, which can make outdoor activities rather uncomfortable. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
 
-**Q: Do you prefer paper or screens?**
+**Q: What is it famous for?**
 
-A: Paper for long books because it reduces distractions; screens for articles because they are easy to search and store. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+A: Fresh seafood, tropical fruit and its coastline, all of which reflect its distinctive coastal character. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
 
-**Q: When do you read carefully?**
+**Q: Is it good for young people's careers?**
 
-A: I read contracts and technical instructions carefully because overlooking one detail can lead to serious mistakes. I am always **looking for ways to improve**. <!-- P4-a -->
+A: It offers a pleasant lifestyle, but major cities provide a wider range of specialised jobs. I enjoy **building my skills over time**. <!-- P4-c -->
 
-**Q: Do you prefer scanning or detailed reading?**
+**Q: Would you live there in future?**
 
-A: I scan first to judge relevance, then read useful sections closely. I tend to **focus on what is genuinely useful**. This is a more efficient approach. <!-- P1-a -->
+A: Yes, possibly after retirement, because family and friends are there and life moves at a slower, more comfortable pace. I try to **keep a good balance in my life**. <!-- P10-c -->
 
-### Walking
+### The Area You Live In `[同桌英语 #36]`
 
-**Q: Do you walk a lot?**
+**Q: Do you like your area?**
 
-A: I walk about half an hour most days because it offsets the time I spend sitting at a computer. I prefer habits that **keep me active**. <!-- P5-b -->
+A: Yes. I need **some peaceful time to recharge**. It is quiet, safe and close to a park, so it offers a good balance between convenience and calm. <!-- P6-b -->
 
-**Q: Did you walk outside as a child?**
+**Q: Where do you go nearby?**
 
-A: Yes, especially along the coast in Zhanjiang. I tend to **attach meaning to personal memories**. The sea breeze made those walks particularly refreshing. <!-- P8-a -->
+A: I often visit the park and a small café where I can read and take a break from my routine. I try to **keep a good balance in my life**. <!-- P10-c -->
 
-**Q: Why do people walk in parks?**
+**Q: Do you know your neighbours?**
 
-A: Parks provide clean air, greenery and a safe route, allowing people to exercise without much pressure. I try to **keep a good balance in my life**. <!-- P10-c -->
+A: Only casually. We greet one another and sometimes accept deliveries, which creates a basic sense of community. I place a lot of value on **close relationships**. <!-- P7-a -->
 
-**Q: Where would you take a long walk?**
+**Q: Has the area changed?**
 
-A: Along Zhanjiang's coastline, where I could enjoy the sea and reconnect with my hometown. I tend to **ask questions and explore further**. <!-- P3-c -->
+A: Yes, several cafés and cycle paths have opened, making it more convenient and pedestrian-friendly. I usually **weigh up the practical benefits**. <!-- P1-b -->
 
-**Q: Where did you walk recently?**
+**Q: Is it noisy or quiet?**
 
-A: I walked around the park near my apartment last weekend to clear my head after studying. I usually try to **see the positive side**. <!-- P10-a -->
+A: Mostly quiet, although traffic increases during rush hour. I feel most comfortable in **a relaxed environment**. Closing the windows blocks out most of the noise. <!-- P6-c -->
 
-### Typing
-
-**Q: Do you prefer typing or handwriting?**
-
-A: Typing, because it is faster and lets me edit and reorganise ideas easily. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
-
-**Q: Do you type every day?**
-
-A: Yes, for several hours as a software engineer. I like **having a clear routine**. It is an essential part of my work. <!-- P2-a -->
-
-**Q: When did you learn to type?**
-
-A: In secondary school, when my family bought its first computer. I improved naturally through regular daily practice. I tend to **remember experiences that teach me something**. <!-- P8-c -->
-
-**Q: How do you improve typing?**
-
-A: I focus on accuracy and use keyboard shortcuts. I enjoy **building my skills over time**. Speed increases once the movements become automatic and consistent. <!-- P4-c -->
-
-### Scenery
-
-**Q: Do you look at scenery while travelling?**
-
-A: Yes. I try to **keep a good balance in my life**. Looking out of the window makes a journey feel shorter and helps me notice gradual changes in the landscape. <!-- P10-c -->
-
-**Q: Do you prefer mountains or the sea?**
-
-A: The sea, because I grew up in a coastal city and find the sound of waves deeply calming. I tend to **attach meaning to personal memories**. <!-- P8-a -->
-
-**Q: Do you take scenery pictures?**
-
-A: Yes, but only a few. I want to preserve the memory without experiencing everything through a screen. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
-
-**Q: What beautiful sight have you seen?**
-
-A: The turquoise water near Semporna was unforgettable. I naturally want to **know how things work**. Its clarity was far beyond what photographs could capture. <!-- P3-a -->
-
-### Building
-
-**Q: Are there tall buildings near your home?**
-
-A: Yes, because I live in Beijing. I generally prefer **a calm, uncomplicated lifestyle**. They provide housing efficiently but can make the area feel rather crowded. <!-- P6-a -->
-
-**Q: Do you photograph buildings?**
-
-A: Occasionally, when a building has distinctive architecture or interacts beautifully with natural light. I enjoy **discovering something new**. <!-- P3-b -->
-
-**Q: Is there a building you want to visit?**
-
-A: I would like to revisit a nearby art museum because its spacious interior creates a calm, reflective atmosphere. I tend to **ask questions and explore further**. <!-- P3-c -->
-
-**Q: Do you want to live in a tall building?**
-
-A: A middle floor would suit me. I need **some peaceful time to recharge**. It offers a good view without making me overly dependent on lifts. <!-- P6-b -->
-
-### Childhood Activities
-
-**Q: What are your favourite activities?**
-
-A: Reading, walking and building small software projects because they balance relaxation with continuous learning. I try to **keep an open mind**. <!-- P10-b -->
-
-**Q: What did you enjoy as a child?**
-
-A: Cycling with friends and playing simple outdoor games. I tend to **attach meaning to personal memories**. They gave us freedom and plenty of exercise. <!-- P8-a -->
-
-**Q: Did you prefer activities alone or in groups?**
-
-A: I preferred small groups because I was shy but still enjoyed sharing the experience with close friends. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
-
-**Q: Have your preferred activities changed?**
-
-A: Yes. I tend to **remember experiences that teach me something**. They are quieter now, partly because work is demanding and I value time to recharge mentally. <!-- P8-c -->
-
-### Views
-
-**Q: Do you photograph different views?**
-
-A: Yes, particularly coastlines and city skylines because photographs help me bring back vivid memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
-
-**Q: Do you prefer urban or rural views?**
-
-A: Rural views, because greenery and open space offer a welcome escape from dense city life. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-**Q: Do you prefer views in China or abroad?**
-
-A: Both can be beautiful. Foreign scenery feels novel, while Chinese landscapes often create a stronger cultural connection. I tend to **ask questions and explore further**. <!-- P3-c -->
-
-**Q: Have you seen an unforgettable view?**
-
-A: Yes, the sunrise over the sea in Malaysia. I tend to **remember experiences that teach me something**. The changing colours left me with a lasting impression. <!-- P8-c -->
-
-### Life Stages
-
-**Q: What did you do with friends in childhood?**
-
-A: We cycled around our neighbourhood and played outdoors, which created simple but lasting memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
-
-**Q: What is most important to you now?**
-
-A: Rebuilding my career while maintaining my health. I enjoy **building my skills over time**. I want sustainable progress rather than quick results. <!-- P4-c -->
-
-**Q: What are your plans for five years?**
-
-A: I hope to develop stronger AI skills and gain work with more flexibility and creative freedom. I tend to **ask questions and explore further**. <!-- P3-c -->
-
-**Q: How do people remember life stages?**
-
-A: Through photographs, objects and stories. I form **emotional connections with familiar places and objects**. These reminders help people connect past experiences with personal growth. <!-- P8-b -->
-
-**Q: Do you enjoy your current age?**
-
-A: Yes. I generally prefer **a calm, uncomplicated lifestyle**. I understand myself better and make decisions with greater confidence and perspective. <!-- P6-a -->
-
-**Q: At what age are people happiest?**
-
-A: There is no universal age. Happiness depends more on health, relationships and a sense of purpose. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-### Work or Studies
+### Work or Studies `[同桌英语 #37]`
 
 **Q: What subjects are you studying?**
 
@@ -758,137 +899,7 @@ A: I use development tools and ChatGPT to automate routine work and focus on com
 
 A: Former colleagues such as Stella. We exchange practical advice and look at problems from different perspectives. I place a lot of value on **close relationships**. <!-- P7-a -->
 
-### Home/Accommodation
-
-**Q: Do you live in a house or apartment?**
-
-A: A compact apartment in Beijing. I need **some peaceful time to recharge**. It is not large, but it is comfortable and conveniently located. <!-- P6-b -->
-
-**Q: Who do you live with?**
-
-A: I currently live alone. I am comfortable **doing things on my own**, and this gives me privacy and lets me organise the space around my routine. <!-- P9-b -->
-
-**Q: What is your favourite room?**
-
-A: The living room, because I enjoy **sharing simple experiences with people I trust** there, while its natural light also makes it a pleasant place to read. <!-- P7-c -->
-
-**Q: How long have you lived there?**
-
-A: About three years. I tend to **remember experiences that teach me something**. Over time, it has gradually started to feel like home. <!-- P8-c -->
-
-**Q: Will you live there for a long time?**
-
-A: Probably not permanently. I tend to **make decisions with real-life needs in mind**. I may move for work, although the current location suits my needs for now. <!-- P1-c -->
-
-**Q: What home do you want in future?**
-
-A: A bright apartment near a park, with a separate workspace and good access to public transport. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
-
-**Q: Do you prefer a house or apartment?**
-
-A: An apartment in the city because maintenance is easier and daily services are within easy reach. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-**Q: Are transport facilities good?**
-
-A: Yes. I tend to **focus on what is genuinely useful**. A subway station and several bus routes are nearby, which makes commuting fairly straightforward. <!-- P1-a -->
-
-**Q: Is a comfortable home important?**
-
-A: Definitely. I prefer **having control over my time and space**, and a comfortable home lets me recover from daily pressure and feel secure. <!-- P9-c -->
-
-### Hometown
-
-**Q: Where is your hometown?**
-
-A: Zhanjiang, a coastal city in southern China known for its long coastline and fresh seafood. I tend to **attach meaning to personal memories**. <!-- P8-a -->
-
-**Q: Is it big or small?**
-
-A: It is a medium-sized city. I need **some peaceful time to recharge**. It offers essential facilities without the overwhelming pace of a megacity. <!-- P6-b -->
-
-**Q: What do you like most about it?**
-
-A: The seafood and coastal scenery. Coconut trees and the sea breeze create a relaxed and welcoming atmosphere. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-**Q: Is there anything you dislike?**
-
-A: Summers are extremely hot and humid, which can make outdoor activities rather uncomfortable. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
-
-**Q: What is it famous for?**
-
-A: Fresh seafood, tropical fruit and its coastline, all of which reflect its distinctive coastal character. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
-
-**Q: Is it good for young people's careers?**
-
-A: It offers a pleasant lifestyle, but major cities provide a wider range of specialised jobs. I enjoy **building my skills over time**. <!-- P4-c -->
-
-**Q: Would you live there in future?**
-
-A: Yes, possibly after retirement, because family and friends are there and life moves at a slower, more comfortable pace. I try to **keep a good balance in my life**. <!-- P10-c -->
-
-### The Area You Live In
-
-**Q: Do you like your area?**
-
-A: Yes. I need **some peaceful time to recharge**. It is quiet, safe and close to a park, so it offers a good balance between convenience and calm. <!-- P6-b -->
-
-**Q: Where do you go nearby?**
-
-A: I often visit the park and a small café where I can read and take a break from my routine. I try to **keep a good balance in my life**. <!-- P10-c -->
-
-**Q: Do you know your neighbours?**
-
-A: Only casually. We greet one another and sometimes accept deliveries, which creates a basic sense of community. I place a lot of value on **close relationships**. <!-- P7-a -->
-
-**Q: Has the area changed?**
-
-A: Yes, several cafés and cycle paths have opened, making it more convenient and pedestrian-friendly. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-**Q: Is it noisy or quiet?**
-
-A: Mostly quiet, although traffic increases during rush hour. I feel most comfortable in **a relaxed environment**. Closing the windows blocks out most of the noise. <!-- P6-c -->
-
-### The City You Live In
-
-**Q: What city do you live in?**
-
-A: Beijing, where I moved about three years ago for work and better career opportunities. I enjoy **building my skills over time**. <!-- P4-c -->
-
-**Q: Do you like it?**
-
-A: Yes, because it offers excellent cultural resources and public transport, although the pace can be physically and mentally demanding. I tend to **ask questions and explore further**. <!-- P3-c -->
-
-**Q: Has the city changed?**
-
-A: Yes. Digital services and transport have improved, making everyday life more efficient and connected. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-**Q: Are the people friendly?**
-
-A: Generally yes, although people may seem hurried. I make an effort to **stay connected with people**. Once a conversation begins, most are helpful and straightforward. <!-- P7-b -->
-
-**Q: Is it friendly to children and older people?**
-
-A: Improving, with more lifts and accessible facilities, but crowded transport can still create difficulties at peak times. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-**Q: What is the weather like?**
-
-A: It has four distinct seasons. Spring is pleasant, while winter is cold, dry and sometimes windy. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
-
-**Q: Would you recommend it?**
-
-A: Yes, especially to people interested in history, food and career opportunities. I naturally want to **know how things work**. They should still prepare for crowds and a fast pace. <!-- P3-a -->
-
-## Carried / legacy targets
-
-### Feeling Bored `[R]`
-
-**Q: What makes you feel bored?**
-
-A: Repetitive tasks with no clear purpose. I generally prefer **a calm, uncomplicated lifestyle**. I stay engaged when work offers a meaningful challenge. <!-- P6-a -->
-
-**Q: What do you do when you feel bored?**
-
-A: I take a short walk or learn something new, which helps me reset my attention. I try to **keep an open mind**. <!-- P10-b -->
+## 其他题目（41）
 
 ### Day Off `[R]`
 

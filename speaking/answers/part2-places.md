@@ -238,7 +238,37 @@ I remember this place because, during a watercolour exhibition, changing dayligh
 
 **Q: Is a new or old building better to live in?** A: New buildings offer efficiency; old ones offer character. Safety, maintenance and location matter **more than age alone**.
 
-## 7. Place to relax
+## 7. Shopping place
+
+### Keywords and collocations
+
+- weekend art market
+- Beijing park
+- independent stalls
+- handmade notebooks
+- local artists
+- practical gifts
+- modest budget
+- relaxed atmosphere
+
+### Complete answer
+
+<!-- Source: 同桌英语 #43 | Template: Places L1-L2-L3-L4 | Bank: B7 | Modules: public-park / free-art-market / low-budget -->
+
+The place I'd like to describe is a weekend art market beside a large public park in Beijing, which I visit every few months with Stella. The detail that first caught my attention was the line of small independent stalls displaying prints, handmade notebooks and simple ceramic objects.
+
+When I visit, I usually walk through the park first and then compare the work without feeling pressured to buy anything. The atmosphere feels creative and relaxed because the sellers often explain how an object was made, and visitors can speak directly with local artists instead of dealing with aggressive sales staff.
+
+What I like most is finding practical gifts that feel personal but are still reasonably priced. However, the market operates mainly in good weather, and some stalls accept only mobile payment. This contrast showed me that a shopping place does not need luxury brands or a huge indoor space to be enjoyable.
+
+I remember this place because Stella once bought a small watercolour print there and later used its colours in one of her own paintings. If I could recommend it, I would suggest arriving early, setting a modest budget and combining the visit with a walk in the park. That is why it is my favourite shopping place: it offers **a genuine break from my routine** while supporting small creative businesses.
+
+### Part 3
+
+**Q: Why do people like shopping centres?** A: They combine shops, food and entertainment in one convenient location, although large centres can encourage **unplanned spending and long visits**.
+
+**Q: How are online and physical shopping different?** A: Online shopping offers speed and choice; physical shops let customers inspect products and receive **immediate personal service**.
+## 8. Place to relax
 
 ### Keywords and collocations
 
@@ -269,7 +299,7 @@ I remember this place because shortly after rain the paths are quiet and light r
 
 **Q: What are exercise's benefits?** A: It improves physical health, sleep and mood and provides **a constructive release for stress**.
 
-## 8. Interesting/famous city
+## 9. Interesting/famous city
 
 ### Keywords and collocations
 
@@ -308,7 +338,7 @@ I remember this place because, whenever I return, I walk along the coastline wit
 
 **Q: Will big Chinese cities grow larger?** A: Some will expand regionally, but planning may shift growth to connected satellite cities to **reduce central congestion**.
 
-## 9. Natural place
+## 10. Natural place
 
 ### Keywords and collocations
 

@@ -7,7 +7,6 @@
 `逻辑链 = 怎么展开观点：原因 → 机制 → 结果 → 深层影响`
 `当天产出 = 5个切入角度 + 4条逻辑链（2正2反）+ 1组正反论证 + 2个英文小段`
 
-下面是用你当前页面语料整理出的 **12 天 schedule**。
 
 ## Day 1 教育类
 
@@ -22,7 +21,7 @@
 ### 逻辑链
 
 1. **正向 1：** 政府必须为现代教育设施预留资源 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格教师帮助学生记住所学内容 → 教育差距缩小 → 社会流动性提高
-    `It is imperative that governments make provision for modern learning facilities → Equitable educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
+    `It is imperative that governments make provision for modern learning facilities → Equitable🥕 educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
 
 2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 更符合就业市场需求 → 青年就业压力缓解
     `Vocational education → practical skills → meet labour-market demands → alleviate youth unemployment`
@@ -39,7 +38,16 @@
 
 ### 正反论证练习
 - 正：教育提升收入潜力、促进社会流动。
+One notable advantage of education is its ability to improve individual payment and living standards. The main reason is that it equips students with practical skills through vocational education syllabus, allowing them to meet labour-market demands more easily and obtain higher salaries than those who lacks the particular job-related skills. In the long run, when more and more well-prepared students barge in the labour market across the nation, education thus improves social mobility and national productivity simultaneously. 
+
 - 反：教育竞争可能加剧心理压力和家庭经济负担。
+Nevertheless, it is important to recognize educational competition can produce harmful effects on both families and students' well-beings. A central problem is that the intense competitions among students introduce higher performance demands, which places additional pressure on students who are already subjected to heavy study loads. On the other hand, excessive after-school tutoring, which are usually supposed to be expensive, may impose extra financial burdens on students' parents. As a consequence, educational competition may undermine both students and their parents' well-beings , instead of delivering the intended benefits.
+
+#### 批改版
+
+One notable advantage of education is its ability to improve **individuals' earning potential** and living standards. The main reason is that it equips students with practical skills through **vocational curricula**, allowing them to meet labour-market demands more easily and obtain higher salaries than those who **lack relevant job-specific skills**. In the long run, when **more well-prepared students enter the labour market nationwide, education can enable people from disadvantaged backgrounds to secure better-paid jobs and move up the income ladder, thereby improving** social mobility **while raising** national productivity.
+
+Nevertheless, it is important to recognize **that** educational competition can produce harmful effects on **the well-being of both students and their families**. A central problem is that **intense competition** among students **creates** higher performance demands, which **place** additional pressure on students who are already **subject to** heavy study loads. **Moreover**, excessive after-school tutoring, which **is often expensive, may impose an additional financial burden on parents as they try to prevent their children from falling behind**. As a consequence, educational competition may undermine **the well-being of both students and their parents instead of** delivering the intended benefits.
 
 ### 扩写任务
 

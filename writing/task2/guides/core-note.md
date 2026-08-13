@@ -223,3 +223,24 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `maintain adequate assistance for people unable to work → protect vulnerable groups without weakening employment incentives`
 - `expanded welfare provision → help vulnerable groups meet basic needs → reduce poverty → enhance social stability`
 - `excessive welfare spending → divert funds away from essential services → weaken long-term social development`
+
+## 教育：收入潜力、社会流动与竞争压力
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `improve individual payment` | `improve individuals' earning potential` | `payment` 通常指一笔付款，不表示个人长期收入能力。 |
+| `through vocational education syllabus` | `through vocational curricula` / `through vocational programmes` | `syllabus` 指某一门课程的教学大纲；泛指职业教育课程体系用 `curricula` 或 `programmes`。 |
+| `barge in the labour market` | `enter the labour market` | `barge in` 带有鲁莽闯入的口语色彩，且不适合描述毕业生正常就业。 |
+| `intense competitions among students` | `intense competition among students` | 泛指竞争这一现象时，`competition` 通常作不可数名词。 |
+| `students' well-beings` | `students' well-being` / `the well-being of students` | `well-being` 在此是不可数名词，不使用复数。 |
+| `recognize educational competition can...` | `recognize that educational competition can...` | 宾语从句前需要连接词 `that`，正式写作中不宜省略。 |
+| `tutoring, which are usually supposed to be expensive` | `tutoring, which is often expensive` | `tutoring` 是不可数名词，谓语用单数；`be supposed to` 不表示“往往”。 |
+
+### 可复用逻辑链与搭配
+
+- `vocational education → practical, job-specific skills → meet labour-market demands → secure better-paid work → improve living standards`
+- `access to education for disadvantaged students → better-paid employment → upward income mobility → greater social mobility`
+- `intense educational competition → rising performance expectations → heavier psychological pressure → stress and burnout`
+- `fear of falling behind → costly after-school tutoring → an additional financial burden on parents → lower family well-being`

@@ -1,5 +1,4 @@
 approval_policy = "on-request"
-default_permissions = "ielts-workspace"
 
 [permissions.ielts-workspace]
 description = "Edit the IELTS workspace and manage its Git repository."

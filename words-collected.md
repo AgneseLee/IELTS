@@ -130,3 +130,27 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] economic renaissance → 政府类/正向 链 1
 - [x] lopsided distribution → 社会类/负向 链 3
 - [x] pressing issue → 政府类/正向 链 1
+
+## 2026-08-13
+
+- [ ] on account of
+- [ ] substitute A for B
+- [ ] substitute for
+- [ ] take the place of
+- [ ] constrain
+- [ ] be constrained by
+- [ ] constraint
+- [ ] defect
+- [ ] defective products
+- [ ] a deterrent to crime
+- [ ] demanding
+- [ ] a demanding job
+- [ ] in high demand
+- [ ] exude
+- [ ] exude confidence
+- [ ] exude an air of
+- [ ] peripheral
+- [ ] peripheral issues
+- [ ] peripheral areas
+- [ ] on the periphery of
+- [ ] induce sb to do sth

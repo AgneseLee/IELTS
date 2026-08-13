@@ -4,18 +4,18 @@
 
 ## 10 个固定性格
 
-| ID | 性格 | 3 个高频表达 |
-|---|---|---|
-| P1 | Practical 务实 | **focus on what is genuinely useful** · **weigh up the practical benefits** · **make decisions with real-life needs in mind** |
-| P2 | Organised 有条理 | **having a clear routine** · **plan things in advance** · **things are well organised** |
-| P3 | Curious 好奇 | **know how things work** · **discovering something new** · **ask questions and explore further** |
-| P4 | Growth-minded 上进 | **looking for ways to improve** · **a chance to learn** · **building my skills over time** |
-| P5 | Health-conscious 重视健康 | **look after both my physical and mental health** · **keep me active** · **my sleep and energy levels** |
-| P6 | Calm/introverted 喜静 | **a calm, uncomplicated lifestyle** · **some peaceful time to recharge** · **a relaxed environment** |
-| P7 | Caring/sociable 重感情 | **close relationships** · **stay connected with people** · **sharing simple experiences with people I trust** |
-| P8 | Reflective 重感情/善反思 | **attach meaning to personal memories** · **emotional connections with familiar places and objects** · **remember experiences that teach me something** |
-| P9 | Independent 独立 | **making my own decisions** · **doing things on my own** · **having control over my time and space** |
-| P10 | Positive/adaptable 乐观灵活 | **see the positive side** · **keep an open mind** · **keep a good balance in my life** |
+| ID  | 性格                      | 3 个高频表达                                                                                                                                                 |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| P1  | Practical 务实            | **focus on what is genuinely useful** · **weigh up the practical benefits** · **make decisions with real-life needs in mind**                           |
+| P2  | Organised 有条理           | **having a clear routine** · **plan things in advance** · **things are well organised**                                                                 |
+| P3  | Curious 好奇              | **know how things work** · **discovering something new** · **ask questions and explore further**                                                        |
+| P4  | Growth-minded 上进        | **looking for ways to improve** · **a chance to learn** · **building my skills over time**                                                              |
+| P5  | Health-conscious 重视健康   | **look after both my physical and mental health** · **keep me active** · **my sleep and energy levels**                                                 |
+| P6  | Calm/introverted 喜静     | **a calm, uncomplicated lifestyle** · **some peaceful time to recharge** · **a relaxed environment**                                                    |
+| P7  | Caring/sociable 重感情     | **close relationships** · **stay connected with people** · **sharing simple experiences with people I trust**                                           |
+| P8  | Reflective 重感情/善反思      | **attach meaning to personal memories** · **emotional connections with familiar places and objects** · **remember experiences that teach me something** |
+| P9  | Independent 独立          | **making my own decisions** · **doing things on my own** · **having control over my time and space**                                                    |
+| P10 | Positive/adaptable 乐观灵活 | **see the positive side** · **keep an open mind** · **keep a good balance in my life**                                                                  |
 
 ## 默认映射
 

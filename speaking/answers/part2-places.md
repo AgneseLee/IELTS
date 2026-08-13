@@ -4,6 +4,8 @@
 
 ## 1. Home you visit but would not live in
 
+> 来源：同桌英语 #07
+
 ### Keywords and collocations
 
 - Stella's studio
@@ -38,6 +40,8 @@ I remember this place because Stella usually opens the windows, makes coffee and
 **Q: How do city and country homes differ?** A: City homes are smaller and more connected; rural homes offer space and quiet but **fewer nearby services**.
 
 ## 2. Place you recommend
+
+> 来源：同桌英语 #08
 
 ### Keywords and collocations
 
@@ -75,6 +79,8 @@ I remember this place because our most memorable morning began before the harbou
 **Q: Is advance planning important?** A: Yes for cost and availability, though an overfilled itinerary can **remove spontaneity and rest**.
 
 ## 3. Boring place
+
+> 来源：同桌英语 #25
 
 ### Keywords and collocations
 
@@ -115,6 +121,8 @@ I remember this place because every hour the departure board changed without a u
 
 ## 4. Tall building you like/dislike
 
+> 来源：同桌英语 #28
+
 ### Keywords and collocations
 
 - office skyscraper
@@ -153,6 +161,8 @@ I remember this place because it changed how I judge architecture: visual impact
 **Q: What interior styles are popular?** A: Simple modern interiors with neutral colours and practical storage because urban homes often have **limited space**.
 
 ## 5. Favourite visited city
+
+> 来源：同桌英语 #29
 
 ### Keywords and collocations
 
@@ -201,6 +211,8 @@ I remember this place because one evening we moved from a modern shopping area t
 
 ## 6. Interesting building
 
+> 来源：同桌英语 #37
+
 ### Keywords and collocations
 
 - art museum
@@ -240,6 +252,8 @@ I remember this place because, during a watercolour exhibition, changing dayligh
 
 ## 7. Shopping place
 
+> 来源：同桌英语 #43
+
 ### Keywords and collocations
 
 - weekend art market
@@ -269,6 +283,8 @@ I remember this place because Stella once bought a small watercolour print there
 
 **Q: How are online and physical shopping different?** A: Online shopping offers speed and choice; physical shops let customers inspect products and receive **immediate personal service**.
 ## 8. Place to relax
+
+> 来源：同桌英语 #55
 
 ### Keywords and collocations
 

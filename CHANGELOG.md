@@ -75,6 +75,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 55 篇同桌英语 Part 2 的隐藏来源 metadata 同步显示为标题下方可见标注
 - 补齐同桌英语 5 篇 Part 2 与 Daily Routine Part 1，并按截图优先级重排、标注 37 个 Part 1 topics
 - 按截图顺序新增“同桌英语”Part 2 优先级索引，重排并标注 50 篇对应答案，同时列出 5 个待补题目
 - 将剩余 64 篇 Speaking Part 2 正文迁移到四套填空式段首句架，同时保留原 cue card 事实、素材库与 Part 3

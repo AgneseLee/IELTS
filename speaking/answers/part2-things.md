@@ -4,6 +4,8 @@
 
 ## 1. Environmental law
 
+> 来源：同桌英语 #04
+
 ### Keywords and collocations
 
 - plastic-bag charge
@@ -42,6 +44,8 @@ I value the rule because the charge made me keep two reusable bags near the door
 **Q: What is punishment for?** A: To deter harm, protect others and encourage responsibility, not merely to **cause suffering**.
 
 ## 2. Animal story/book
+
+> 来源：同桌英语 #06
 
 ### Keywords and collocations
 
@@ -84,6 +88,8 @@ I value the story because the fox shows how anticipation can give a meeting mean
 
 ## 3. Celebrity advertisement
 
+> 来源：同桌英语 #14
+
 ### Keywords and collocations
 
 - sportswear campaign
@@ -125,6 +131,8 @@ I value the campaign because I remembered it when I later saw the athlete in a t
 
 ## 4. Special-occasion food
 
+> 来源：同桌英语 #16
+
 ### Keywords and collocations
 
 - dumplings
@@ -159,6 +167,8 @@ I value this food because everyone finally tries to recognise the dumplings they
 **Q: How has food changed over time?** A: Ingredients and delivery are more varied and convenient, but diets also contain **more processed food**.
 
 ## 5. New law to introduce
+
+> 来源：同桌英语 #22
 
 ### Keywords and collocations
 
@@ -201,6 +211,8 @@ I value the proposal because it could begin gradually with common products such 
 
 ## 6. Interesting video
 
+> 来源：同桌英语 #27
+
 ### Keywords and collocations
 
 - reusable rockets
@@ -238,6 +250,8 @@ I value the video because it made practical innovation understandable without ov
 
 ## 7. Recent TV/online programme
 
+> 来源：同桌英语 #32
+
 ### Keywords and collocations
 
 - technology documentary
@@ -272,6 +286,8 @@ I value the programme because, after each episode, I noted one automatable task 
 **Q: What programmes are popular in China?** A: Drama, reality shows, documentaries and short online series serve **different audiences and viewing habits**.
 
 ## 8. Overpriced item
+
+> 来源：同桌英语 #35
 
 ### Keywords and collocations
 
@@ -314,6 +330,8 @@ I value the lesson because returning the headphones to another city would have r
 
 ## 9. Recent enjoyable movie
 
+> 来源：同桌英语 #39
+
 ### Keywords and collocations
 
 - The Martian
@@ -354,6 +372,8 @@ I value the film because it led us to discuss whether the main character’s opt
 **Q: Why watch films in cinemas?** A: Large screens, sound and shared concentration create **a more immersive experience**.
 
 ## 10. Important family object
+
+> 来源：同桌英语 #42
 
 ### Keywords and collocations
 
@@ -396,6 +416,8 @@ I value the essay because its childish spelling mistakes and drawing make it mor
 
 ## 11. Technology to own
 
+> 来源：同桌英语 #45
+
 ### Keywords and collocations
 
 - lightweight laptop
@@ -437,6 +459,8 @@ I value the idea cautiously because I would compare battery tests, repairability
 
 ## 12. App/program
 
+> 来源：同桌英语 #46
+
 ### Keywords and collocations
 
 - ChatGPT
@@ -477,6 +501,8 @@ I value the program because I can request several contexts for an expression and
 **Q: What about banning children from social media?** A: Age limits can protect children, but enforcement and media education are needed because bans alone are **easy to bypass**.
 
 ## 13. Perfect job
+
+> 来源：同桌英语 #54
 
 ### Keywords and collocations
 

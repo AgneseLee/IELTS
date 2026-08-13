@@ -4,6 +4,8 @@
 
 ## 1. Person who overcame difficulties
 
+> 来源：同桌英语 #02
+
 ### Keywords and collocations
 
 - Stella
@@ -37,6 +39,8 @@ A: Heavy workloads, unclear expectations and job insecurity are common. Supporti
 
 A: They may have stronger support, realistic strategies and the confidence to adjust their approach. Success usually depends on **consistent action rather than personality alone**.
 ## 2. Person good at languages
+
+> 来源：同桌英语 #11
 
 ### Keywords and collocations
 
@@ -85,6 +89,8 @@ A: Most combine instruction with practice. Knowledge becomes useful only when le
 
 ## 3. Person with a successful business
 
+> 来源：同桌英语 #20
+
 ### Keywords and collocations
 
 - former manager Chen
@@ -119,6 +125,8 @@ A: Many want greater independence or recognise an unmet need. Others seek higher
 A: Yes, selectively. Loans and training can encourage innovation, but applicants should present viable plans so public money is **allocated responsibly**.
 
 ## 4. Person entering the medical field
+
+> 来源：同桌英语 #21
 
 ### Keywords and collocations
 
@@ -155,6 +163,8 @@ A: It can be, especially when lessons connect theory to the human body or local 
 
 ## 5. Person who grows vegetables
 
+> 来源：同桌英语 #23
+
 ### Keywords and collocations
 
 - mother
@@ -189,6 +199,8 @@ A: It gives people fresher produce and a relaxing routine. Caring for plants als
 A: It is common among older people and families with balconies or gardens. Younger urban residents increasingly grow herbs because they require **little space or specialist knowledge**.
 
 ## 6. Childhood friend
+
+> 来源：同桌英语 #24
 
 ### Keywords and collocations
 
@@ -241,6 +253,8 @@ A: Yes. It makes long-distance contact effortless, but it can also encourage **m
 
 ## 7. Nature lover
 
+> 来源：同桌英语 #30
+
 ### Keywords and collocations
 
 - Stella
@@ -291,6 +305,8 @@ A: Reduce unnecessary consumption, use public transport and support responsible 
 A: Yes, through practical projects rather than slogans. Measuring waste or growing plants makes the subject **concrete and personally relevant**.
 
 ## 8. Helpful person
+
+> 来源：同桌英语 #34
 
 ### Keywords and collocations
 
@@ -343,6 +359,8 @@ A: They may fear appearing incompetent or being judged. Managers can reduce this
 
 ## 9. Self-taught friend
 
+> 来源：同桌英语 #38
+
 ### Keywords and collocations
 
 - Stella
@@ -393,6 +411,8 @@ A: A broad foundation is useful early, followed by deeper study in selected area
 A: Yes. Learning maintains confidence, cognitive activity and social connection and helps people **adapt to practical changes**.
 
 ## 10. Smart problem-solver
+
+> 来源：同桌英语 #41
 
 ### Keywords and collocations
 
@@ -445,6 +465,8 @@ A: Yes, but labels should remain flexible. Schools should provide opportunities 
 
 ## 11. Person who plans
 
+> 来源：同桌英语 #47
+
 ### Keywords and collocations
 
 - Stella
@@ -496,6 +518,8 @@ A: Sometimes, particularly in medicine or engineering, but transferable skills a
 
 ## 12. Child who loves drawing
 
+> 来源：同桌英语 #48
+
 ### Keywords and collocations
 
 - niece Mia
@@ -546,6 +570,8 @@ A: They present familiar experiences from unexpected perspectives and can **trig
 A: Books allow deep, self-paced explanation, whereas museums provide **direct visual and physical engagement** with objects.
 
 ## 13. Famous person to meet
+
+> 来源：同桌英语 #53
 
 ### Keywords and collocations
 

@@ -4,6 +4,8 @@
 
 ## 1. Recent change
 
+> 来源：同桌英语 #01
+
 ### Keywords and collocations
 
 - career rebuilding
@@ -34,6 +36,8 @@ This experience remains memorable because the change was simple but improved bot
 **Q: Are small changes better than major changes?** A: Small changes are easier to maintain, while major changes may be necessary during a crisis. The best scale depends on **the urgency and available support**.
 
 ## 2. Changing an important opinion
+
+> 来源：同桌英语 #03
 
 ### Keywords and collocations
 
@@ -66,6 +70,8 @@ This experience remains memorable because I stopped viewing help as evidence of 
 
 ## 3. Receiving help to solve a problem
 
+> 来源：同桌英语 #05
+
 ### Keywords and collocations
 
 - Malaysia
@@ -96,6 +102,8 @@ This experience remains memorable because her calm help led us back to the corre
 **Q: Why are people reluctant to ask for help?** A: They fear judgement or losing independence. Supportive environments can show that asking early is **responsible rather than weak**.
 
 ## 4. Technological problem
+
+> 来源：同桌英语 #09
 
 ### Keywords and collocations
 
@@ -136,6 +144,8 @@ This event remains memorable because the deadline, rather than the fault itself,
 
 ## 5. Taking a long time to reply
 
+> 来源：同桌英语 #10
+
 ### Keywords and collocations
 
 - former manager
@@ -168,6 +178,8 @@ This event remains memorable because a careful reply produced realistic terms wi
 **Q: What if someone has not replied?** A: I would wait, then send one polite follow-up. Repeated messages can **create unnecessary pressure**.
 
 ## 6. Important decision
+
+> 来源：同桌英语 #12
 
 ### Keywords and collocations
 
@@ -208,6 +220,8 @@ This experience remains memorable because I began with small daily commitments t
 
 ## 7. Local news
 
+> 来源：同桌英语 #13
+
 ### Keywords and collocations
 
 - coastal clean-up
@@ -239,6 +253,8 @@ This event remains memorable because my mother confirmed that the cleaned area w
 
 **Q: Is local news reliable?** A: Official reporting can be useful, but readers should compare sources and distinguish evidence from **unverified community rumours**.
 ## 8. Live sports event
+
+> 来源：同桌英语 #15
 
 ### Keywords and collocations
 
@@ -275,6 +291,8 @@ This event remains memorable because it created a **shared atmosphere that telev
 
 ## 9. Long-term goal
 
+> 来源：同桌英语 #17
+
 ### Keywords and collocations
 
 - software engineer
@@ -304,6 +322,8 @@ This experience remains memorable because the goal changed both my career and my
 
 **Q: Should parents set goals for children?** A: They can offer guidance, but children need meaningful choice. Imposed goals may produce compliance without **lasting internal motivation**.
 ## 10. Working in a group
+
+> 来源：同桌英语 #18
 
 ### Keywords and collocations
 
@@ -340,6 +360,8 @@ This experience remains memorable because admitting our original method had fail
 
 ## 11. Changing a plan
 
+> 来源：同桌英语 #19
+
 ### Keywords and collocations
 
 - Malaysia
@@ -375,6 +397,8 @@ This event remains memorable because the vendor helped us balance the spices and
 
 ## 12. Getting up early
 
+> 来源：同桌英语 #26
+
 ### Keywords and collocations
 
 - Malaysia
@@ -409,6 +433,8 @@ This event remains memorable because the calm scene **left a lasting impression*
 **Q: Is arriving early always good?** A: Usually, but arriving excessively early may inconvenience a host. People should use **reasonable judgement**.
 
 ## 13. Short-term overseas job
+
+> 来源：同桌英语 #31
 
 ### Keywords and collocations
 
@@ -447,6 +473,8 @@ This experience would remain memorable because it combines career development wi
 
 ## 14. Encouraging someone
 
+> 来源：同桌英语 #33
+
 ### Keywords and collocations
 
 - Stella
@@ -483,6 +511,8 @@ This experience remains memorable because repeated walks gradually helped her ex
 **Q: Should children obey every request?** A: No. Requests should be safe and reasonable, and children need to learn **respectful independent judgement**.
 
 ## 15. Using imagination
+
+> 来源：同桌英语 #36
 
 ### Keywords and collocations
 
@@ -523,6 +553,8 @@ This experience remains memorable because imagination turned an abstract request
 
 ## 16. Music event you did not enjoy
 
+> 来源：同桌英语 #40
+
 ### Keywords and collocations
 
 - outdoor festival
@@ -559,6 +591,8 @@ This event remains memorable because listening later through headphones confirme
 **Q: Home or live music?** A: Home is comfortable and clear; live music offers **shared energy and immediate emotion**.
 
 ## 17. Vehicle trip
+
+> 来源：同桌英语 #44
 
 ### Keywords and collocations
 
@@ -598,6 +632,8 @@ This experience remains memorable because the delay became the best part of the 
 **Q: What is the future of electric cars?** A: They will expand as batteries and charging improve, but clean electricity and recycling are needed for **genuine environmental benefits**.
 
 ## 18. Giving advice
+
+> 来源：同桌英语 #49
 
 ### Keywords and collocations
 
@@ -639,6 +675,8 @@ This experience remains memorable because she gradually became calmer and challe
 
 ## 19. Proud of a family member
 
+> 来源：同桌英语 #50
+
 ### Keywords and collocations
 
 - mother
@@ -678,6 +716,8 @@ This event remains memorable because an older resident thanked her for preservin
 
 ## 20. Smiling occasion
 
+> 来源：同桌英语 #51
+
 ### Keywords and collocations
 
 - birthday dinner
@@ -716,6 +756,8 @@ This event remains memorable because the joke led to travel stories, laughter an
 **Q: When do people pretend to smile?** A: In customer service, formal photographs or uncomfortable social situations to **maintain politeness and avoid conflict**.
 
 ## 21. Phone-not-allowed occasion
+
+> 来源：同桌英语 #52
 
 ### Keywords and collocations
 

@@ -29,8 +29,8 @@
 3. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
     `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
 
-4. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长施加僵化要求 → 学校制服与统一标准进一步压缩个体表达 → 学生出于顺从而倾向于迎合这些期待 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造力下降
-    `Schools may support learner autonomy in principle → an overbearing parent or principal imposes rigid rules → school uniforms and uniform standards further limit individual expression → out of deference, students may be disposed to conform to these expectations → Overreliance on standardised testing → focus on scores → neglect practical skills → stifle creativity`
+4. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长施加僵化要求 → 学校制服与统一标准进一步压缩个体表达 → 学生出于顺从而倾向于迎合这些期待 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造性选择受到限制 → 创造力下降
+    `Schools may support learner autonomy in principle → an overbearing parent or principal imposes rigid rules → school uniforms and uniform standards further limit individual expression → out of deference, students may be disposed to conform to these expectations → Overreliance on standardised testing → focus on scores → neglect practical skills → creative choices are constrained by exam requirements → stifle creativity`
 
 5. **负向 3：** 升学竞争加剧 → 学术诚信教育薄弱 → 学生把原创写作与高分视为互斥 → 学生更可能抄袭他人作品 → 知识产权意识被削弱 → 学校公信力下降
     `Intense academic competition → weak academic integrity education → students treat original work and high scores as mutually exclusive → some students plagiarise others' work → weaker respect for intellectual property → erode institutional credibility`
@@ -74,8 +74,8 @@ Nevertheless, it is important to recognize **that** educational competition can 
 3. **负向 1：** 网络平台大量收集数据 → 个人信息被滥用或泄露 → 隐私风险上升 → 公众信任下降
     `Extensive data collection → misuse or leaks → privacy risks → erode public trust`
 
-4. **负向 2：** 自动化替代常规岗位 → 旧技能被新技术取代 → 低技能劳动者失业 → 少数科技企业获得市场优势 → 收入差距扩大 → 社会不平等加剧
-    `Automation replaces routine jobs → older skills are superseded by new technologies → unemployment → a few technology firms gain market supremacy → wider income gaps → deepen social inequality`
+4. **负向 2：** 自动化替代常规岗位 → 企业用算法替代人工判断 → 旧技能被新技术取代 → 低技能劳动者失业 → 少数科技企业获得市场优势 → 收入差距扩大 → 社会不平等加剧
+    `Automation replaces routine jobs → firms substitute algorithms for human judgement → older skills are superseded by new technologies → unemployment → a few technology firms gain market supremacy → wider income gaps → deepen social inequality`
 
 
 ### 正反论证练习
@@ -104,11 +104,11 @@ Nevertheless, it is important to recognize **that** educational competition can 
 2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 社会凝聚力提高
     `Better public services → wider access to essentials🥕 → fairer opportunities → strengthen social cohesion`
 
-3. **负向 1：** 贫富差距扩大 → 资源分配失衡 → 弱势群体被排除在优质教育、住房与医疗之外 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
-    `A widening wealth gap → lopsided distribution of resources → disadvantaged groups are excluded from quality education, housing and healthcare → social exclusion intensifies → greater inequality → weaken social trust`
+3. **负向 1：** 贫富差距扩大 → 资源分配失衡 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
+    `A widening wealth gap → lopsided distribution of resources → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → social exclusion intensifies → greater inequality → weaken social trust`
 
-4. **负向 2：** 福利制度设计不当 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
-    `Poorly designed welfare → benefit dependency → lower labour participation → increase fiscal pressure`
+4. **负向 2：** 福利制度设计不当 → 政府把边缘问题误判为核心矛盾 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
+    `Poorly designed welfare → policymakers mistake peripheral issues for root causes → benefit dependency → lower labour participation → increase fiscal pressure`
 
 
 ### 正反论证练习
@@ -154,14 +154,14 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 政府将资源投向紧迫问题 → 政府增加教育与医疗投资 → 公共服务改善 → 国民技能和健康水平提升 → 长期生产力提高 → 经济复兴更有可能出现
     `Governments address pressing issues → Public investment → better education and healthcare → stronger human capital → raise long-term productivity → support an economic renaissance`
 
-2. **正向 2：** 政府出资翻新破败的棕地 → 防止城市持续衰败 → 政府制定并执行环保法规 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
-    `Government funding to renovate derelict brownfield sites → prevent further urban decay → Environmental regulation → lower corporate pollution → protect natural resources → improve public health`
+2. **正向 2：** 政府出资翻新破败的棕地 → 防止城市持续衰败 → 政府制定并执行环保法规 → 强制规则取代自愿承诺 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
+    `Government funding to renovate derelict brownfield sites → prevent further urban decay → Environmental regulation → binding rules take the place of voluntary pledges → lower corporate pollution → protect natural resources → improve public health`
 
 3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
     `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
 
-4. **负向 2：** 政府委托承包商执行计划 → 官员监管失误并推迟必要维修 → 薄弱监管使延误持续 → 维护成本上升而预期效益难以实现 → 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
-    `Governments commission contractors to execute a plan → officials bungle oversight and defer essential repairs → feeble monitoring allows delays to persist → maintenance costs rise while intended benefits remain elusive → Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
+4. **负向 2：** 政府委托承包商执行计划 → 官员监管失误并推迟必要维修 → 有缺陷的采购规则使劣质产品进入公共项目 → 薄弱监管使延误持续 → 因此维护成本上升而预期效益难以实现 → 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
+    `Governments commission contractors to execute a plan → officials bungle oversight and defer essential repairs → defective procurement rules let substandard products enter public projects → feeble monitoring allows delays to persist → on account of this, maintenance costs rise while intended benefits remain elusive → Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
 
 
 ### 正反论证练习
@@ -431,10 +431,13 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 企业提供持续培训 → 员工在新技能上取得进步 → 员工更能从容应对行业变化 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
     `Workplace training → employees make strides in new skills → workers can take industry changes in their stride → employers retain talent → greater job security → employee and business growth`
 
-3. **负向 1：** 全球竞争加剧 → 企业不断提高绩效要求 → 员工长期承受压力 → 焦虑和职业倦怠增加
-    `Global competition → higher performance demands → chronic stress → anxiety and burnout`
+3. **正向 3：** 管理者展现自信气质 → 团队更愿意信任决策 → 员工在不确定时期保持协作 → 企业适应力增强
+    `Managers exude confidence → teams trust decisions → employees cooperate during uncertainty → strengthen business resilience`
 
-4. **负向 2：** 远程办公减少面对面交流 → 信息沟通与协作变弱 → 团队凝聚力下降 → 企业文化被削弱
+4. **负向 1：** 全球竞争加剧 → 高需求行业制造高强度岗位 → 企业不断提高绩效要求 → 员工长期承受压力 → 焦虑和职业倦怠增加
+    `Global competition → industries in high demand create demanding jobs → higher performance demands → chronic stress → anxiety and burnout`
+
+5. **负向 2：** 远程办公减少面对面交流 → 信息沟通与协作变弱 → 团队凝聚力下降 → 企业文化被削弱
     `Remote work → fewer face-to-face interactions → weaker collaboration → reduce team cohesion`
 
 

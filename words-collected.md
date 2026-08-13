@@ -133,24 +133,24 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 
 ## 2026-08-13
 
-- [ ] on account of
-- [ ] substitute A for B
-- [ ] substitute for
-- [ ] take the place of
-- [ ] constrain
-- [ ] be constrained by
-- [ ] constraint
-- [ ] defect
-- [ ] defective products
-- [ ] a deterrent to crime
-- [ ] demanding
-- [ ] a demanding job
-- [ ] in high demand
-- [ ] exude
-- [ ] exude confidence
-- [ ] exude an air of
-- [ ] peripheral
-- [ ] peripheral issues
-- [ ] peripheral areas
-- [ ] on the periphery of
-- [ ] induce sb to do sth
+- [x] on account of → 政府类/负向 链 4
+- [x] substitute A for B → 科技类/负向 链 4
+- [x] substitute for → 科技类/负向 链 4
+- [x] take the place of → 政府类/正向 链 2
+- [x] constrain → 教育类/负向 链 4
+- [x] be constrained by → 教育类/负向 链 4
+- [x] constraint → 教育类/负向 链 4
+- [x] defect → 政府类/负向 链 4
+- [x] defective products → 政府类/负向 链 4
+- [x] a deterrent to crime → 犯罪类/正向 链 1
+- [x] demanding → 工作类/负向 链 1
+- [x] a demanding job → 工作类/负向 链 1
+- [x] in high demand → 工作类/负向 链 1
+- [x] exude → 工作类/正向 链 3
+- [x] exude confidence → 工作类/正向 链 3
+- [x] exude an air of → 工作类/正向 链 3
+- [x] peripheral → 社会类/负向 链 1
+- [x] peripheral issues → 社会类/负向 链 2
+- [x] peripheral areas → 社会类/负向 链 1
+- [x] on the periphery of → 社会类/负向 链 1
+- [x] induce sb to do sth → 媒体类/负向 链 3

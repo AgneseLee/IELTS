@@ -43,28 +43,40 @@ I remember this place because Stella usually opens the windows, makes coffee and
 
 > 来源：同桌英语 #08
 
-### Keywords and collocations
+## Keywords（Semporna, Malaysia）
 
-- Semporna
-- Sabah
-- clear water
-- island boats
-- sea turtles
-- local seafood
-- protect environment
-- memorable escape
+- Semporna, Sabah, Malaysia
+- Last year + Stella
+- Popular tourist destination
+- Authentic local dishes
+- Crystal-clear water
+- First-time free diving
+- Colourful coral reefs
+- Marine life + sea turtle
+- Friendly locals + travel tips
+- Reconnect with nature
 
-### Complete answer
+---
 
-<!-- Source: 同桌英语 #08 | Template: Places L1-L2-L3-L4 | Bank: B3 | Modules: Semporna / marine-life / responsible-tourism -->
+## Band 7 Version
 
-The place I'd like to describe is Semporna in Sabah, Malaysia. I visited it with Stella last May. It is known for clear water, small islands and rich marine life. I could also hear boat engines and gentle waves and smell salty sea air.
+The place I’d like to recommend is Semporna, which is a popular tourist destination located in Sabah, Malaysia. I travelled there last year with my best friend Stella, and we stayed there for around a week.
 
-When I visited, what impressed me first was **the extraordinary colour and clarity of the sea**. We took a boat between islands, tried local seafood and went freediving, where I saw a sea turtle moving quietly below us. The town itself is simple, but the surrounding natural environment is unforgettable.
+During our trip, we tried some authentic local dishes and visited several tourist attractions. However, what impressed me most was the breathtaking natural scenery, especially the ocean. The water was crystal-clear, and we could see colourful coral reefs and a wide variety of marine life under the surface.
 
-What I liked most was that it suits people who enjoy the sea and do not need luxury shopping or nightlife. Visitors should choose responsible operators and avoid damaging coral or leaving rubbish. The place gave me a break from city pressure and **deepened my appreciation for marine conservation**.
+The most memorable experience was trying free diving for the first time. When I went underwater, I felt as if I had entered a completely different world. I saw schools of fish swimming around me, and I even encountered a sea turtle, which moved slowly and gracefully. Although I was really excited, I kept a respectful distance and didn’t touch it because I believe protecting wildlife is extremely important.
 
-I remember this place because our most memorable morning began before the harbour became busy. Our boat passed homes built near the water, and the guide explained how local families depended on fishing and tourism. That made the islands feel like a living community rather than only beautiful scenery. Semporna is not the easiest place to reach, and parts of the town are basic, so I would describe those limitations. For the right traveller, however, the clear water and contact with marine life easily justify the journey.
+I would definitely recommend Semporna to others because it offers much more than beautiful scenery. The local people were incredibly friendly and welcoming. They shared useful travel tips with us, which helped us save time and money during our trip.
+
+Looking back, this journey helped me **immerse myself in nature** and **gain a deeper appreciation for the natural world**. It was truly **an unforgettable travel experience** that left a lasting impression on me.
+
+---
+
+## 3 New Good Collocations (Highlight)
+
+- **immerse myself in nature**
+- **gain a deeper appreciation for the natural world**
+- **an unforgettable travel experience**
 
 ### Part 3
 

@@ -13,7 +13,7 @@
 | P5  | Health-conscious 重视健康   | **look after both my physical and mental health** · **keep me active** · **my sleep and energy levels**                                                 |
 | P6  | Calm/introverted 喜静     | **a calm, uncomplicated lifestyle** · **some peaceful time to recharge** · **a relaxed environment**                                                    |
 | P7  | Caring/sociable 重感情     | **close relationships** · **stay connected with people** · **sharing simple experiences with people I trust**                                           |
-| P8  | Reflective 重感情/善反思      | **attach meaning to personal memories** · **emotional connections with familiar places and objects** · **remember experiences that teach me something** |
+| P8  | Reflective 重感情/善反思      | **personal memories mean a lot to me** · **emotional connections with familiar places and objects** · **remember experiences that teach me something** |
 | P9  | Independent 独立          | **making my own decisions** · **doing things on my own** · **having control over my time and space**                                                    |
 | P10 | Positive/adaptable 乐观灵活 | **see the positive side** · **keep an open mind** · **keep a good balance in my life**                                                                  |
 
@@ -124,7 +124,7 @@ A: Yes. A well-written comedy helps me switch off without requiring too much con
 
 **Q: Have you watched a live show?**
 
-A: Yes, I once attended a small stand-up show in Beijing. I tend to **attach meaning to personal memories**. The audience interaction made it more engaging than television. <!-- P8-a -->
+A: Yes, I once attended a small stand-up show in Beijing. **Personal memories mean a lot to me**. The audience interaction made it more engaging than television. <!-- P8-a -->
 
 **Q: Are comedy shows popular in China?**
 
@@ -196,7 +196,7 @@ A: I would love the view, but current space travel seems too risky and expensive
 
 **Q: Did you enjoy travelling by car as a child?**
 
-A: Yes. I tend to **attach meaning to personal memories**. Family car journeys felt like small adventures, and I enjoyed watching the scenery change through the window. <!-- P8-a -->
+A: Yes. **Personal memories mean a lot to me**. Family car journeys felt like small adventures, and I enjoyed watching the scenery change through the window. <!-- P8-a -->
 
 **Q: What types of cars do you like?**
 
@@ -222,7 +222,7 @@ A: Probably not. A car is mainly a practical tool for me, so I would rather choo
 
 **Q: Did you like going to parks as a child?**
 
-A: Yes. I tend to **attach meaning to personal memories**. I enjoyed riding my bicycle and playing outdoors because parks gave me a sense of freedom. <!-- P8-a -->
+A: Yes. **Personal memories mean a lot to me**. I enjoyed riding my bicycle and playing outdoors because parks gave me a sense of freedom. <!-- P8-a -->
 
 **Q: Do you still like parks now?**
 
@@ -342,17 +342,17 @@ A: Yes, within reason. I usually **weigh up the practical benefits**. Basic orga
 
 **Q: Do you prefer sad or happy music?**
 
-A: I prefer happy music because it can lift my mood after a long day. I usually try to **see the positive side**. I often play upbeat songs while exercising because they give me an extra burst of energy. <!-- P10-a -->
+A: I prefer happy music because it can lift my mood after a long day. I usually try to **see the positive side**. I often play upbeat songs while exercising because they give me an extra burst of **energy**. <!-- P10-a -->
 
 **Q: Does happy music make you feel more excited?**
 
-A: Yes. A lively rhythm immediately makes me feel more energetic and optimistic, especially when I am tired or under pressure. I prefer habits that **keep me active**. <!-- P5-b -->
+A: Yes. A lively **rhythm** immediately makes me feel more **energetic and optimistic**, especially when I am tired or under pressure. I prefer habits that **keep me active**. <!-- P5-b -->
 
 ### Social Media `[同桌英语 #16]`
 
 **Q: Have you ever posted anything on social media?**
 
-A: Yes. I tend to **attach meaning to personal memories**. I occasionally post photographs from my Malaysia trip because they bring back meaningful memories. <!-- P8-a -->
+A: Yes. **Personal memories mean a lot to me**. I occasionally post photographs from my Malaysia trip because they bring back meaningful memories. <!-- P8-a -->
 
 **Q: When did you start using social media?**
 
@@ -364,7 +364,7 @@ A: Sometimes, especially when I watch short videos without noticing the time. I 
 
 **Q: Do your friends use social media?**
 
-A: Yes, most of them do. I make an effort to **stay connected with people**, so we mainly use social media to exchange updates despite busy schedules. <!-- P7-b -->
+A: Yes, most of them do. I make an effort to **stay connected with people**, so we mainly use social media to exchange **updates** despite busy schedules. <!-- P7-b -->
 
 **Q: What do people often do on social media?**
 
@@ -382,7 +382,7 @@ A: Probably not full-time, because teaching requires enormous patience. I genera
 
 **Q: Is there a teacher from your past whom you still remember?**
 
-A: I still remember my English teacher because she treated mistakes as part of the learning process rather than something embarrassing. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: I still remember my English teacher because she treated mistakes as part of the learning process rather than something embarrassing.🥕 **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: Are you still in touch with your primary-school teachers?**
 
@@ -390,7 +390,7 @@ A: Not regularly. Although I place a lot of value on **close relationships**, we
 
 **Q: In what way has your favourite teacher helped you?**
 
-A: She helped me become more confident about expressing different opinions. I enjoy **building my skills over time**. Her advice still influences the way I communicate at work. <!-- P4-c -->
+A: 🥕 She helped me become more confident about expressing different opinions. I enjoy **building my skills over time**. Her advice still influences the way I communicate at work. <!-- P4-c -->
 
 ### Daily Routine `[同桌英语 #18]`
 
@@ -409,7 +409,7 @@ A: No. A useful routine should reflect a person's work, health and responsibilit
 
 **Q: What did you do with friends in childhood?**
 
-A: We cycled around our neighbourhood and played outdoors, which created simple but lasting memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: We cycled around our neighbourhood and played outdoors, which created simple but lasting memories. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: What is most important to you now?**
 
@@ -435,7 +435,7 @@ A: There is no universal age. Happiness depends more on health, relationships an
 
 **Q: Do you photograph different views?**
 
-A: Yes, particularly coastlines and city skylines because photographs help me bring back vivid memories. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: Yes, particularly coastlines and city skylines because photographs help me bring back vivid memories. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: Do you prefer urban or rural views?**
 
@@ -457,7 +457,7 @@ A: Yes. I try to **keep a good balance in my life**. Looking out of the window m
 
 **Q: Do you prefer mountains or the sea?**
 
-A: The sea, because I grew up in a coastal city and find the sound of waves deeply calming. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: The sea, because I grew up in a coastal city and find the sound of waves deeply calming. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: Do you take scenery pictures?**
 
@@ -475,7 +475,7 @@ A: Reading, walking and building small software projects because they balance re
 
 **Q: What did you enjoy as a child?**
 
-A: Cycling with friends and playing simple outdoor games. I tend to **attach meaning to personal memories**. They gave us freedom and plenty of exercise. <!-- P8-a -->
+A: Cycling with friends and playing simple outdoor games. **Personal memories mean a lot to me**. They gave us freedom and plenty of exercise. <!-- P8-a -->
 
 **Q: Did you prefer activities alone or in groups?**
 
@@ -529,7 +529,7 @@ A: I enjoy reading and walking in parks because both help me unwind after work. 
 
 **Q: Did you have hobbies as a child?**
 
-A: Yes, I enjoyed cycling and drawing simple pictures. I tend to **attach meaning to personal memories**. They gave me a creative break from schoolwork. <!-- P8-a -->
+A: Yes, I enjoyed cycling and drawing simple pictures. **Personal memories mean a lot to me**. They gave me a creative break from schoolwork. <!-- P8-a -->
 
 **Q: Have you kept a hobby since childhood?**
 
@@ -543,7 +543,7 @@ A: My mother and I both enjoy walking, so we often spend quality time together w
 
 **Q: Have you been part of a sports team?**
 
-A: I played badminton doubles at university. I tend to **attach meaning to personal memories**. It taught me to coordinate with a partner rather than focus only on myself. <!-- P8-a -->
+A: I played badminton doubles at university. **Personal memories mean a lot to me**. It taught me to coordinate with a partner rather than focus only on myself. <!-- P8-a -->
 
 **Q: Are team sports popular in China?**
 
@@ -595,7 +595,7 @@ A: Fairly good, because I listen for small clues and plan ahead rather than buy 
 
 **Q: What gift did you receive recently?**
 
-A: Stella gave me a notebook for organising English expressions. I tend to **attach meaning to personal memories**. It was simple but perfectly suited to my needs. <!-- P8-a -->
+A: Stella gave me a notebook for organising English expressions. **Personal memories mean a lot to me**. It was simple but perfectly suited to my needs. <!-- P8-a -->
 
 ### Morning Time `[同桌英语 #29]`
 
@@ -609,7 +609,7 @@ A: I drink water, have breakfast and review my plan. I like **having a clear rou
 
 **Q: What did you do in the morning as a child?**
 
-A: I usually rushed through breakfast before school, so my mornings were far less organised than they are now. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: I usually rushed through breakfast before school, so my mornings were far less organised than they are now. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: How are your mornings different now?**
 
@@ -627,7 +627,7 @@ A: I walk about half an hour most days because it offsets the time I spend sitti
 
 **Q: Did you walk outside as a child?**
 
-A: Yes, especially along the coast in Zhanjiang. I tend to **attach meaning to personal memories**. The sea breeze made those walks particularly refreshing. <!-- P8-a -->
+A: Yes, especially along the coast in Zhanjiang. **Personal memories mean a lot to me**. The sea breeze made those walks particularly refreshing. <!-- P8-a -->
 
 **Q: Why do people walk in parks?**
 
@@ -649,7 +649,7 @@ A: Fresh seafood, especially steamed fish from Zhanjiang. I generally prefer **a
 
 **Q: What food did you like as a child?**
 
-A: I loved my mother's fried rice because it was simple but full of familiar flavours. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: I loved my mother's fried rice because it was simple but full of familiar flavours. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: Do you eat different food at different times of year?**
 
@@ -671,7 +671,7 @@ A: Mostly indoors in cities, where they are safer, provided owners give them eno
 
 **Q: Have you had a pet?**
 
-A: I kept a small fish tank as a child. Feeding the fish taught me basic responsibility. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: I kept a small fish tank as a child. Feeding the fish taught me basic responsibility. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: What is a popular animal in China?**
 
@@ -765,7 +765,7 @@ A: Definitely. I prefer **having control over my time and space**, and a comfort
 
 **Q: Where is your hometown?**
 
-A: Zhanjiang, a coastal city in southern China known for its long coastline and fresh seafood. I tend to **attach meaning to personal memories**. <!-- P8-a -->
+A: Zhanjiang, a coastal city in southern China known for its long coastline and fresh seafood. **Personal memories mean a lot to me**. <!-- P8-a -->
 
 **Q: Is it big or small?**
 
@@ -889,7 +889,7 @@ A: Yes, if a flexible workplace offered growth and could create a relaxed atmosp
 
 **Q: Do you miss being a student?**
 
-A: Sometimes, because students can focus mainly on learning. I tend to **attach meaning to personal memories**. Working life involves more responsibility and uncertainty. <!-- P8-a -->
+A: Sometimes, because students can focus mainly on learning. **Personal memories mean a lot to me**. Working life involves more responsibility and uncertainty. <!-- P8-a -->
 
 **Q: What technology do you use at work?**
 
@@ -915,7 +915,7 @@ A: Usually close friends, although I sometimes call my family. I enjoy **sharing
 
 **Q: Do you remember your dreams?**
 
-A: Only occasionally. I tend to **attach meaning to personal memories**. They fade quickly unless they are particularly vivid or unusual. <!-- P8-a -->
+A: Only occasionally. **Personal memories mean a lot to me**. They fade quickly unless they are particularly vivid or unusual. <!-- P8-a -->
 
 **Q: Do dreams have special meanings?**
 
@@ -939,7 +939,7 @@ A: I prefer a small dinner with close friends because it creates a warm and rela
 
 **Q: How did you celebrate as a child?**
 
-A: My family bought a cake and cooked my favourite food. I tend to **attach meaning to personal memories**. The celebration was simple but made me feel valued and supported. <!-- P8-a -->
+A: My family bought a cake and cooked my favourite food. **Personal memories mean a lot to me**. The celebration was simple but made me feel valued and supported. <!-- P8-a -->
 
 **Q: Are birthdays still important?**
 
@@ -964,7 +964,7 @@ A: Technical notes, messages and study summaries. I enjoy **building my skills o
 
 **Q: Did you enjoy writing as a child?**
 
-A: Yes, particularly personal essays. I tend to **attach meaning to personal memories**. One about my mother became an important family keepsake. <!-- P8-a -->
+A: Yes, particularly personal essays. **Personal memories mean a lot to me**. One about my mother became an important family keepsake. <!-- P8-a -->
 
 ### Geography `[R]`
 
@@ -1014,7 +1014,7 @@ A: Yes, particularly logic puzzles because they train me to approach problems sy
 
 **Q: Did you do puzzles as a child?**
 
-A: Occasionally with my mother. I tend to **attach meaning to personal memories**. Completing one together gave me a small sense of achievement. <!-- P8-a -->
+A: Occasionally with my mother. **Personal memories mean a lot to me**. Completing one together gave me a small sense of achievement. <!-- P8-a -->
 
 ### Names `[R]`
 
@@ -1034,7 +1034,7 @@ A: Nuts and fresh fruit because they are convenient and provide steady energy wi
 
 **Q: Did you eat more snacks as a child?**
 
-A: Yes, especially sweets. I tend to **attach meaning to personal memories**. I am more conscious of nutrition now and choose healthier alternatives. <!-- P8-a -->
+A: Yes, especially sweets. **Personal memories mean a lot to me**. I am more conscious of nutrition now and choose healthier alternatives. <!-- P8-a -->
 
 ### Flowers `[R]`
 
@@ -1120,7 +1120,7 @@ A: Definitely. I tend to **make decisions with real-life needs in mind**. They r
 
 **Q: Do you like taking photographs?**
 
-A: Yes, especially when travelling. I tend to **attach meaning to personal memories**. Photos help me preserve details that memory may lose. <!-- P8-a -->
+A: Yes, especially when travelling. **Personal memories mean a lot to me**. Photos help me preserve details that memory may lose. <!-- P8-a -->
 
 **Q: Do you prefer people or scenery photographs?**
 

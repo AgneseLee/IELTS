@@ -23,8 +23,8 @@
 1. **正向 1：** 政府必须为现代教育设施预留资源 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格教师帮助学生记住所学内容 → 教育差距缩小 → 社会流动性提高
     `It is imperative that governments make provision for modern learning facilities → Equitable🥕 educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
 
-2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 更符合就业市场需求 → 青年就业压力缓解
-    `Vocational education → practical skills → meet labour-market demands → alleviate youth unemployment`
+2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 职业资格为毕业生带来就业优势 → 更符合就业市场需求 → 青年就业压力缓解
+    `Vocational education → practical skills → vocational qualifications confer an employment advantage on graduates → meet labour-market demands → alleviate youth unemployment`
 
 3. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
     `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
@@ -190,8 +190,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 独立媒体调查政府和企业行为 → 不当行为被曝光 → 问责机制加强 → 公共利益得到保护
     `Independent media scrutiny → expose misconduct → strengthen accountability → protect public interests`
 
-3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 用户缺乏媒体素养而难以避开误导性说法 → 虚假信息扩散 → 公共舆论被误导
-    `Advertising-driven platforms → sensational content → users with weak media literacy cannot steer clear of misleading claims → spread misinformation → distort public opinion`
+3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 用户缺乏媒体素养而难以避开误导性说法 → 受众对公共议题形成片面看法 → 虚假信息扩散 → 公共舆论被误导
+    `Advertising-driven platforms → sensational content → users with weak media literacy cannot steer clear of misleading claims → audiences develop a lopsided view of public issues → spread misinformation → distort public opinion`
 
 4. **负向 2：** 媒体追踪并公开个人信息 → 隐私受到侵犯 → 当事人承受网络骚扰 → 心理健康受损
     `Intrusive media coverage → privacy violations → online harassment → harm mental health`
@@ -220,11 +220,11 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 全球化加强国家间联系 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
-    `Globalisation → trade and knowledge sharing → wider markets → global economic growth`
+1. **正向 1：** 全球化加强国家间联系 → 经济相互依存加深 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
+    `Globalisation → deeper economic interdependence → trade and knowledge sharing → wider markets → global economic growth`
 
-2. **正向 2：** 跨国问题难以由单个国家解决 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 全球治理改善
-    `Cross-border problems → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → improve global governance`
+2. **正向 2：** 跨国问题难以由单个国家解决 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 全球治理改善
+    `Cross-border problems → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → improve global governance`
 
 3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
     `Economic dependency → exposure to external shocks → local job losses → widen inequality`
@@ -356,8 +356,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 投资可再生能源 → 对化石燃料的依赖下降 → 碳排放减少 → 气候变化得到缓解
-    `Renewable-energy investment → less reliance on fossil fuels → lower emissions → mitigate climate change`
+1. **正向 1：** 投资可再生能源 → 对化石燃料的依赖下降 → 工业污染得到遏制 → 碳排放减少 → 气候变化得到缓解
+    `Renewable-energy investment → less reliance on fossil fuels → curb industrial pollution → lower emissions → mitigate climate change`
 
 2. **正向 2：** 建设便利的垃圾处理设施 → 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善 → 防止城市环境衰败
     `Accessible waste-disposal facilities → Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems → prevent urban blight`
@@ -398,8 +398,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 可预防疾病减少 → 医疗公平与整体健康改善
     `Universal healthcare coverage → timely treatment → fewer preventable illnesses → improve health equality`
 
-3. **负向 1：** 城市生活节奏加快 → 久坐生活方式日益普遍 → 运动减少且饮食恶化 → 肥胖和慢性病增加 → 医疗系统负担加重
-    `Fast-paced urban life → a more sedentary lifestyle → unhealthy habits → chronic diseases → increase the healthcare burden`
+3. **负向 1：** 城市生活节奏加快 → 久坐生活方式日益普遍 → 运动减少且饮食恶化 → 身体健康遭到严重损害 → 肥胖和慢性病增加 → 医疗系统负担加重
+    `Fast-paced urban life → a more sedentary lifestyle → unhealthy habits → wreck physical health → chronic diseases → increase the healthcare burden`
 
 4. **负向 2：** 工作时间延长和压力增加 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
     `Long hours and work stress → anxiety and burnout → lower productivity → wider social problems`

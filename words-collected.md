@@ -154,3 +154,29 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] peripheral areas → 社会类/负向 链 1
 - [x] on the periphery of → 社会类/负向 链 1
 - [x] induce sb to do sth → 媒体类/负向 链 3
+
+## 2026-08-14
+
+- [x] a blight on → 环境类/正向 链 2
+- [x] bungle a task → 政府类/负向 链 4
+- [x] a bungled policy → 政府类/负向 链 4
+- [x] wholeheartedly concur → 国际类/正向 链 2
+- [x] confer → 国际类/正向 链 2
+- [x] confer with → 国际类/正向 链 2
+- [x] confer A on B → 教育类/正向 链 2
+- [x] curb → 环境类/正向 链 1
+- [x] curb emissions → 环境类/正向 链 1
+- [x] a curb on → 环境类/正向 链 1
+- [x] wreck → 健康类/负向 链 1
+- [x] wreck one's health → 健康类/负向 链 1
+- [ ] a nervous wreck
+- [x] dispose → 环境类/正向 链 2
+- [x] dispose of waste → 环境类/正向 链 2
+- [ ] at one's disposal
+- [x] conform to norms → 教育类/负向 链 2
+- [x] pressure to conform → 教育类/负向 链 2
+- [x] interdependence → 国际类/正向 链 1
+- [x] economic interdependence → 国际类/正向 链 1
+- [x] interdependent → 国际类/正向 链 1
+- [x] lopsided development → 社会类/负向 链 1
+- [x] a lopsided view → 媒体类/负向 链 1

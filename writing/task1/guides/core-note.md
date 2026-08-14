@@ -166,6 +166,8 @@ Overall（整体趋势 + 最大对比，两句）
 
 衔接词是辅助，不是救场工具。分组清晰后衔接自然到位。
 
+分组并非只有一种正确答案。若原文已形成可理解的顺序，修改稿可以保留该顺序，并用准确的对比关系说明组内不同走势；只有当混合分组明显妨碍理解或关键比较时，才需要重排正文。
+
 ---
 
 ### 冲 7.5 的两个关键改进
@@ -197,6 +199,16 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 ---
 
 ### 常见语法错误补充
+
+#### 变化幅度与“增长率”不要混用
+
+图表只给出人数或数值时，通常比较的是**绝对变化幅度**，不要自行写成 `rate`：
+
+- ✗ `Table tennis soared at the highest rate.`
+- ✓ `Table tennis recorded the strongest growth.`
+- ✓ `Table-tennis participation saw the largest increase.`
+
+排名始终领先时用 `remained the most popular` 或 `consistently recorded the highest figure`。`overtook` 只用于原本落后、后来反超的交叉走势。
 
 #### 比较结构
 

@@ -75,6 +75,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 重做 IELTS 19 Test 1 社交中心活动折线图批改，保留原文分组顺序，并确保最小调整版逐项解决 overview、衔接与数据覆盖卡点
 - 统一 Part 1 的个人回忆表达并重写 Semporna 推荐地点答案，补充重点 collocations
 - 将 55 篇同桌英语 Part 2 的隐藏来源 metadata 同步显示为标题下方可见标注
 - 补齐同桌英语 5 篇 Part 2 与 Daily Routine Part 1，并按截图优先级重排、标注 37 个 Part 1 topics

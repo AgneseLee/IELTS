@@ -76,6 +76,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 统一 Speaking Part 1 答案库的题目编号与可迁移表达，完善 Science 至 Watch 话题并移除旧版重复文件
 - 重做 IELTS 19 Test 1 社交中心活动折线图批改，保留原文分组顺序，并确保最小调整版逐项解决 overview、衔接与数据覆盖卡点
 - 统一 Part 1 的个人回忆表达并重写 Semporna 推荐地点答案，补充重点 collocations
 - 将 55 篇同桌英语 Part 2 的隐藏来源 metadata 同步显示为标题下方可见标注

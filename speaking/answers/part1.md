@@ -34,265 +34,279 @@
 
 ## 同桌英语优先级（37）
 
-### Clothing `[同桌英语 #01]`
+### Topic 1: Clothing 👕
 
-**Q: What clothes do you like wearing?**
+**Q1: What clothes do you like wearing?**  
+Personally speaking, I prefer **simple and casual clothes**, such as T-shirts and trainers, because they are comfortable and easy to match. I tend to **focus on what is genuinely useful** rather than following fashion trends, as I prefer **a calm and uncomplicated lifestyle**.
 
-A: I prefer simple, casual clothes such as T-shirts and trainers because they are comfortable and easy to match. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+**Q2: Do you prefer casual or smart clothes?**  
+I prefer **casual clothes for daily life** because they make me feel relaxed and comfortable. That being said, I still choose **smart clothes for formal occasions** because **dressing appropriately** is important.
 
-**Q: Do you prefer casual or smart clothes?**
+**Q3: Do you like wearing T-shirts?**  
+Yes, definitely. T-shirts are **practical and comfortable**, and they require **very little thought** when I am in a hurry. I usually **weigh up the practical benefits** rather than choosing something fashionable.
 
-A: Casual clothes for daily life, but smart clothes for formal meetings. I need **some peaceful time to recharge**. I choose according to the occasion and level of comfort. <!-- P6-b -->
+**Q4: Do you spend much time choosing clothes?**  
+Not really. I keep **a fairly simple wardrobe** because I don't want to spend too much time deciding what to wear. **What matters most is** having comfortable clothes that suit my daily routine.
 
-**Q: Do you like wearing T-shirts?**
+**Q5: Do you wear different styles on weekdays and weekends?**  
+Yes, slightly. I dress more neatly for work, while at weekends I choose **looser and more relaxed clothing**. It gives me **some peaceful time to recharge** after a busy week.
 
-A: Yes. They are affordable, breathable and require very little thought when I am in a hurry. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q6: What colours do you like?**  
+I usually prefer grey, white and navy because they **look clean and are easy to coordinate**. I feel most comfortable with these simple colours because they match my lifestyle.
 
-**Q: Do you spend much time choosing clothes?**
+---
 
-A: No. I tend to **focus on what is genuinely useful**. I keep a fairly simple wardrobe, so I can get ready efficiently. <!-- P1-a -->
+### Topic 2: Singing 🎵
 
-**Q: Do you wear different styles on weekdays and weekends?**
+**Q1: Do you like singing?**  
+Yes, although I am **not particularly talented at singing**. I usually sing for fun because it helps me **release stress and improve my mood**.
 
-A: Slightly. I feel better when **things are well organised**. I dress more neatly for work, while at weekends I choose looser and more relaxed clothing. <!-- P2-c -->
+**Q2: Have you learnt how to sing?**  
+No, I have never taken **formal lessons**. I simply **sing along with songs I like** and try to improve naturally over time.
 
-**Q: What colours do you like?**
+**Q3: Who would you like to sing for?**  
+Probably my close friends because I feel relaxed around **people I trust**. I enjoy **sharing simple experiences** with them rather than performing in front of strangers.
 
-A: I usually wear navy, grey and white because they look clean and are easy to coordinate. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
+**Q4: Can singing bring happiness?**  
+Absolutely. Singing is a simple way for people to **express emotions and connect with others**. It can also create **a positive atmosphere** when people sing together.
 
-### Singing `[同桌英语 #02]`
+**Q5: Do you like listening to other people sing?**  
+Yes, especially **live performances** because they feel more emotional and genuine. I always **try to keep an open mind** and appreciate different styles of music.
 
-**Q: Do you like singing?**
+**Q6: Have you taken a singing class?**  
+No, but I might try one in the future just for fun. I enjoy **building my skills over time** even though I am not trying to become a professional singer.
 
-A: Yes, although I am not particularly talented. I usually try to **see the positive side**. Singing familiar songs helps me release stress and improve my mood. <!-- P10-a -->
+---
 
-**Q: Have you learnt how to sing?**
+### Topic 3: Headphones 🎧
 
-A: I have never taken formal lessons. I am always **looking for ways to improve**. I simply sing along to music and try to follow the original melody. <!-- P4-a -->
+**Q1: Do you use headphones?**  
+Yes, almost every day. I use them for music, online meetings and English practice because they help me **stay focused in a noisy environment**.
 
-**Q: Who would you like to sing for?**
+**Q2: What type do you use?**  
+I use **wireless noise-cancelling headphones** because they are convenient and practical. I usually make decisions with **real-life needs in mind**.
 
-A: Only close friends, because I feel relaxed around them and do not worry about being judged. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
+**Q3: When do you use them?**  
+I mainly use them when commuting, exercising or studying English. They help me **stay focused during repetitive tasks**.
 
-**Q: Can singing bring happiness?**
+**Q4: When would you not use them?**  
+I avoid using them when I need to pay attention to my surroundings or communicate with others. Sometimes I also prefer **some peaceful time to recharge**.
 
-A: Absolutely. I make an effort to **stay connected with people**. It allows people to express emotion and can create a strong sense of connection when they sing together. <!-- P7-b -->
+**Q5: Are headphones comfortable?**  
+Yes, mine are comfortable for a couple of hours, but after wearing them all day, they **start to feel a bit uncomfortable**.
 
-**Q: Do you like listening to other people sing?**
+---
 
-A: Yes, especially live acoustic performances because the singer's emotions feel more immediate and genuine. I try to **keep an open mind**. <!-- P10-b -->
+### Topic 4: Jokes and Comedies 😂
 
-**Q: Have you taken a singing class?**
+**Q1: Are you good at telling jokes?**  
+Not really. I am not naturally good at telling jokes, but I sometimes make simple comments to **make my friends laugh**.
 
-A: No, but I might take one for fun. Learning breathing techniques could help me sing with more confidence. I enjoy **building my skills over time**. <!-- P4-c -->
+**Q2: Do your friends tell jokes?**  
+Yes, especially Stella. She has **a positive sense of humour** and can easily **lighten the mood** when we are under pressure.
 
-### Headphones `[同桌英语 #03]`
+**Q3: Do you like comedies?**  
+Yes, definitely. A good comedy helps me relax and temporarily **forget about my stress** after a busy day.
 
-**Q: Do you use headphones?**
+**Q4: Have you watched a live show?**  
+Yes, I once watched a stand-up comedy show in Beijing. The **interaction between performers and the audience** made the experience more memorable.
 
-A: Yes, every day for music, online meetings and language practice. I like **having a clear routine**. They help me concentrate in a noisy environment. <!-- P2-a -->
+**Q5: Are comedy shows popular in China?**  
+Yes, especially online comedy shows and short videos. They are popular because people can easily watch them during breaks and **share funny moments with others**.
 
-**Q: What type do you use?**
+---
 
-A: I use wireless noise-cancelling headphones because they are convenient and block out background noise. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
+### Topic 5: Mirrors 🪞
 
-**Q: When do you use them?**
+**Q1: Do you like looking at yourself in a mirror?**  
+I only check myself briefly before leaving home. For me, it is just **a practical habit** rather than something I spend much time on.
 
-A: Mainly while commuting, exercising or working. Music helps me maintain my focus during repetitive tasks. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q2: Have you ever bought a mirror?**  
+Yes, I bought a full-length mirror for my apartment because it makes **getting dressed more convenient**. I usually **weigh up the practical benefits** before buying things.
 
-**Q: When would you not use headphones?**
+**Q3: Do you carry a mirror?**  
+No, I don't. My phone camera is enough if I need to check my appearance quickly, so carrying an extra mirror is unnecessary.
 
-A: I avoid them when crossing roads or talking with someone because I need to remain aware of my surroundings. I need **some peaceful time to recharge**. <!-- P6-b -->
+**Q4: Would you decorate a room with mirrors?**  
+Maybe one large mirror because it can make a small room feel brighter and more spacious. I prefer **a simple design** because I feel more comfortable in **a relaxed environment**.
 
-**Q: Are headphones comfortable?**
+### Science 🔬 `[同桌英语 #06]`
 
-A: Mine are comfortable for about two hours, but wearing them all day can put pressure on my ears. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+**Q1: Do you like science?**
 
-### Jokes and Comedies `[同桌英语 #04]`
+A: Yes, I do. I find science fascinating because it satisfies my curiosity and helps me **understand how the world works**. What appeals to me most is that scientific discoveries can turn abstract ideas into practical solutions. <!-- P3-a -->
 
-**Q: Are you good at telling jokes?**
+**Q2: When did you start learning science?**
 
-A: Not really. I generally prefer **a calm, uncomplicated lifestyle**. My timing is unreliable, but I sometimes make light-hearted comments that amuse close friends. <!-- P6-a -->
+A: I started learning science in primary school. However, I became genuinely interested after learning to programme because it showed me how abstract concepts could be applied to **solve real-world problems**. <!-- P8-c -->
 
-**Q: Do your friends tell jokes?**
+**Q3: Which science subject interests you most?**
 
-A: Yes, especially Stella. I enjoy **sharing simple experiences with people I trust**. Her positive sense of humour can lighten the mood when work becomes stressful. <!-- P7-c -->
+A: Computer science interests me most because it combines logical thinking with **real-world problem-solving**. I also enjoy creating products that can solve practical problems. <!-- P3-c -->
 
-**Q: Do you like comedies?**
+**Q4: What interesting things have you done with science?**
 
-A: Yes. A well-written comedy helps me switch off without requiring too much concentration. I try to **keep an open mind**. <!-- P10-b -->
+A: Most of my experience is related to computer science. I have built small software tools and experimented with AI, which allowed me to **turn ideas into useful products** rather than simply learn theories. <!-- P4-a -->
 
-**Q: Have you watched a live show?**
+**Q5: Do you like watching science programmes?**
 
-A: Yes, I once attended a small stand-up show in Beijing. **Personal memories mean a lot to me**. The audience interaction made it more engaging than television. <!-- P8-a -->
+A: It depends on the programme. I enjoy those that explain scientific concepts in an **easy-to-understand way** because they can broaden my horizons, but I lose interest when complicated topics are not explained clearly. <!-- P3-b -->
 
-**Q: Are comedy shows popular in China?**
+**Q6: Do Chinese people often visit science museums?**
 
-A: Yes, especially online stand-up and variety shows because short humorous clips are easy to share on social media. I make an effort to **stay connected with people**. <!-- P7-b -->
+A: I think it depends on the city and people's interests. In large cities like Beijing, many families visit science museums during school holidays because interactive exhibitions can **spark children's curiosity**. <!-- P4-b -->
 
-### Mirrors `[同桌英语 #05]`
+### Outer Space and Stars 🌌 `[同桌英语 #07]`
 
-**Q: Do you like looking at yourself in a mirror?**
+**Q1: Have you ever learnt about outer space and stars?**
 
-A: I only use one briefly before leaving home. I feel better when **things are well organised**. It is a practical habit rather than something I spend much time on. <!-- P2-c -->
+A: Yes, I have. I learnt some basic facts at school, such as how the solar system works and how planets move. Although I do not study astronomy professionally, I still **find it fascinating** because it helps me understand more about the universe. <!-- P8-c -->
 
-**Q: Have you ever bought a mirror?**
+**Q2: Do you enjoy watching science-fiction films set in space?**
 
-A: Yes, I bought a full-length mirror for my apartment because it makes getting dressed more convenient. I usually **weigh up the practical benefits**. <!-- P1-b -->
+A: Yes, occasionally. I enjoy them because they allow me to **imagine future technologies and different possibilities**. What appeals to me most is how they combine scientific ideas with creative storytelling. <!-- P3-a -->
 
-**Q: Do you carry a mirror?**
+**Q3: Do you want to know more about outer space?**
 
-A: No. My phone camera is enough if I need to check my appearance quickly. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+A: Definitely. I am curious about mysteries such as whether life exists on other planets. On top of that, learning about space can **broaden my horizons** and help me see the universe from a different perspective. <!-- P3-c -->
 
-**Q: Would you decorate a room with mirrors?**
+**Q4: Would you like to go into outer space in the future?**
 
-A: Possibly one large mirror, because it can make a small room feel brighter and more spacious. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
+A: I would love to experience it, but only if space travel became much safer and more affordable. It would be **an unforgettable experience**, although I currently prefer exploring space through technology rather than taking the risk myself. <!-- P6-a -->
 
-### Science `[同桌英语 #06]`
+### Cars 🚗 `[同桌英语 #08]`
 
-**Q: Do you like science?**
+**Q1: Did you enjoy travelling by car when you were a child?**
 
-A: Yes, especially astronomy and computer science because they fuel my curiosity about how the world works. I naturally want to **know how things work**. <!-- P3-a -->
+A: Yes, I did. I enjoyed family trips because they gave me a chance to **spend quality time with my family** and visit different places. What I remember most is the excitement of seeing new scenery along the way. <!-- P8-a -->
 
-**Q: When did you start learning science?**
+**Q2: What types of cars do you like?**
 
-A: I began in primary school, but became genuinely interested after learning to programme because it made abstract ideas feel practical and creative. I tend to **remember experiences that teach me something**. <!-- P8-c -->
+A: Personally speaking, I prefer practical and **technology-oriented cars**, especially electric vehicles. What appeals to me most is their intelligent features and environmental benefits. <!-- P1-b -->
 
-**Q: Which science subject interests you?**
+**Q3: Do you prefer to be a driver or a passenger?**
 
-A: Computer science interests me most because it combines logical thinking with real-world problem-solving. I tend to **ask questions and explore further**. <!-- P3-c -->
+A: I prefer being a driver because I enjoy **having control over the journey**. That being said, on long trips I sometimes prefer being a passenger so I can relax and enjoy the scenery. <!-- P9-a -->
 
-**Q: What interesting things have you done with science?**
+**Q4: What do you usually do when there is a traffic jam?**
 
-A: I have built small software tools and experimented with AI. I am always **looking for ways to improve**. Turning an idea into a working product creates a strong sense of achievement. <!-- P4-a -->
+A: I try to stay patient and avoid getting stressed. I might listen to music or a podcast, and if possible, I use a navigation app to **find an alternative route**. <!-- P10-b -->
 
-**Q: Do you watch science programmes?**
+**Q5: Do you think car colours are important?**
 
-A: Yes, particularly documentaries about space and technology. I enjoy **discovering something new**. They explain complex subjects in an accessible and visual way. <!-- P3-b -->
+A: They are relatively important, but not the main factor when buying a car. While colours can reflect personal taste, I think **safety and practicality matter more**. <!-- P1-a -->
 
-**Q: Do Chinese people visit science museums?**
+**Q6: Will you buy an expensive car?**
 
-A: Many families do, especially during school holidays. Interactive exhibitions can make learning more engaging for children. I see each experience as **a chance to learn**. <!-- P4-b -->
+A: Probably not. A car is mainly a practical tool for me, so I would rather choose one that is reliable and offers **good value for money**. <!-- P1-b -->
 
-### Outer Space and Stars `[同桌英语 #07]`
+### Public Gardens and Parks 🌳 `[同桌英语 #09]`
 
-**Q: Have you learnt about outer space and stars?**
+**Q1: Did you like going to parks as a child?**
 
-A: Yes, mainly through documentaries and online articles. I tend to **remember experiences that teach me something**. The enormous scale of the universe puts everyday problems into perspective. <!-- P8-c -->
+A: Yes, I did. I enjoyed going with my parents because it gave us a chance to **spend quality time together**, and I could play outdoors. What I remember most is exploring the park and enjoying the feeling of freedom. <!-- P8-a -->
 
-**Q: Do you like science-fiction films?**
+**Q2: Do you still like going to parks now?**
 
-A: Yes, when they explore meaningful ideas rather than relying only on special effects. I naturally want to **know how things work**. They often spark my imagination. <!-- P3-a -->
+A: Yes, although I do not go as often as I did when I was younger. Nowadays, I visit parks to **clear my head and unwind** after a busy day at work. <!-- P5-a -->
 
-**Q: Do you want to know more about outer space?**
+**Q3: Would you like to see more parks in your city?**
 
-A: Definitely. I am particularly curious about whether life exists elsewhere and how humans could travel beyond Earth safely. I tend to **ask questions and explore further**. <!-- P3-c -->
+A: Definitely. More parks would make the city more pleasant because they **provide green spaces** where people can relax and exercise. They can also improve people's quality of life, especially in crowded urban areas. <!-- P5-b -->
 
-**Q: Do you want to go into space?**
+**Q4: Are there any parks you want to visit in the future?**
 
-A: I would love the view, but current space travel seems too risky and expensive. I generally prefer **a calm, uncomplicated lifestyle**. For now, I would rather experience it virtually. <!-- P6-a -->
+A: I would like to visit larger natural parks, especially those with beautiful landscapes and hiking trails. What appeals to me most is the opportunity to **escape from city life** and enjoy a peaceful environment. <!-- P3-c -->
 
-### Cars `[同桌英语 #08]`
+**Q5: Do you prefer a private garden or a public garden?**
 
-**Q: Did you enjoy travelling by car as a child?**
+A: I prefer public gardens because they provide more space and varied scenery. That being said, a private garden would offer more privacy and convenience, but it is **not practical for me financially** at the moment. <!-- P6-a -->
 
-A: Yes. **Personal memories mean a lot to me**. Family car journeys felt like small adventures, and I enjoyed watching the scenery change through the window. <!-- P8-a -->
+**Q6: How are parks today different from those you visited as a child?**
 
-**Q: What types of cars do you like?**
+A: Parks today are more modern and better equipped, with facilities such as fitness equipment, walking paths and children's areas. They are designed not only for relaxation but also to **promote a healthier lifestyle**. <!-- P1-b -->
 
-A: I prefer compact electric cars because they are quiet, practical and more environmentally friendly for city travel. I usually **weigh up the practical benefits**. <!-- P1-b -->
+**Q7: What do you like to do when visiting a park?**
 
-**Q: Would you rather be a driver or a passenger?**
+A: I usually take a walk, enjoy the scenery or listen to music. Sometimes I take photos because parks can **bring back happy memories** and help me take a break from my busy routine. <!-- P7-c -->
 
-A: I prefer being a passenger on long trips because I can relax and take in the scenery. I try to **keep an open mind**. <!-- P10-b -->
+### Feeling Bored 😐 `[同桌英语 #10]`
 
-**Q: What do you do in a traffic jam?**
+**Q1: Do you often feel bored?**
 
-A: I normally listen to podcasts or music. I tend to **make decisions with real-life needs in mind**. It helps me make productive use of the time instead of becoming impatient. <!-- P1-c -->
+A: Not really. I have a busy schedule because of my work and personal interests, so I rarely have time to feel bored. That being said, it can happen when I have nothing meaningful to do. <!-- P2-a -->
 
-**Q: Are car colours important?**
+**Q2: Did you ever find school boring when you were a child?**
 
-A: Only slightly. I tend to **focus on what is genuinely useful**. Neutral colours are easier to maintain and may have better resale value, but safety matters far more. <!-- P1-a -->
+A: Yes, sometimes, especially when lessons focused on memorising information rather than understanding ideas. However, I enjoyed subjects that **encouraged creativity and problem-solving**. <!-- P8-c -->
 
-**Q: Will you buy an expensive car?**
+**Q3: What sort of things do you find most boring now?**
 
-A: Probably not. A car is mainly a practical tool for me, so I would rather choose reliability and value for money. I like **making my own decisions**. <!-- P9-a -->
+A: I find repetitive tasks the most boring, especially those that take a long time but involve little creativity. Doing the same routine work repeatedly can make me **lose interest quite quickly**. <!-- P6-a -->
 
-### Public Gardens and Parks `[同桌英语 #09]`
+**Q4: What do you do to stop yourself feeling bored?**
 
-**Q: Did you like going to parks as a child?**
+A: I try to do something that **keeps my mind active**. I might read, learn something new, exercise or work on a personal project, which helps me feel more productive. <!-- P4-b -->
 
-A: Yes. **Personal memories mean a lot to me**. I enjoyed riding my bicycle and playing outdoors because parks gave me a sense of freedom. <!-- P8-a -->
+**Q5: When do you usually feel bored?**
 
-**Q: Do you still like parks now?**
+A: I usually feel bored when I have to wait for a long time without anything interesting to do, such as standing in a queue. For me, boredom often comes from a lack of **meaningful activities**. <!-- P6-a -->
 
-A: Definitely. I try to **keep a good balance in my life**. A park near my apartment gives me a peaceful break from city life. <!-- P10-c -->
+**Q6: What do you do when you feel bored?**
 
-**Q: Would you like more parks in your city?**
+A: I switch to something more engaging, such as a science-fiction film, a new technology or English practice. These activities help me relax and **regain my motivation**. <!-- P10-b -->
 
-A: Yes. I try to **look after both my physical and mental health**. More green spaces would improve air quality and give residents room to exercise and unwind. <!-- P5-a -->
+**Q7: Do you think childhood or adulthood is more boring?**
 
-**Q: Is there a park you want to visit?**
+A: I would say adulthood can be more boring because people often have more responsibilities and less free time. While childhood has boring moments, children usually have more opportunities to **explore and try new things**. <!-- P10-b -->
 
-A: I would like to visit Zhangjiajie National Forest Park for its dramatic landscape and breathtaking natural scenery. I tend to **ask questions and explore further**. <!-- P3-c -->
+### Shopping 🛒 `[同桌英语 #11]`
 
-**Q: Do you prefer a private garden or a public park?**
+**Q1: Do you like shopping?**
 
-A: A public park, because it offers more space and makes nature accessible to the whole community. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
+A: Yes, although I am not a big fan of window shopping. I usually shop when I need something practical, such as clothes or electronics. What appeals to me most is finding something that offers **good value for money**. <!-- P6-a -->
 
-**Q: How are parks different from those in your childhood?**
+**Q2: How often do you go shopping?**
 
-A: Modern parks have better paths, lighting and sports facilities. They are more inclusive and convenient for different age groups. I usually **weigh up the practical benefits**. <!-- P1-b -->
+A: I do not shop very often because I have a busy work schedule. I usually shop once every few weeks or whenever necessary, and I prefer to **plan my purchases** rather than buy things impulsively. <!-- P2-c -->
 
-**Q: What do you do in a park?**
+**Q3: Do you prefer online or in-store shopping?**
 
-A: I usually walk, listen to music or talk with Stella. I enjoy **sharing simple experiences with people I trust**. These activities help me clear my head and recharge. <!-- P7-c -->
+A: I prefer online shopping because it lets me compare products and read reviews before making a decision. It saves time, although I still visit physical stores when I need to **check the quality in person**. <!-- P1-a -->
 
-### Feeling Bored `[同桌英语 #10]`
+**Q4: Do you compare prices when you shop? Why?**
 
-**Q: What makes you feel bored?**
+A: Yes, I usually do because I want to get **good value for my money**. For expensive products, I tend to compare prices, features and reviews before making a purchase. <!-- P1-b -->
 
-A: Repetitive tasks with no clear purpose. I generally prefer **a calm, uncomplicated lifestyle**. I stay engaged when work offers a meaningful challenge. <!-- P6-a -->
+**Q5: Is it difficult for you to make choices when you shop?**
 
-**Q: What do you do when you feel bored?**
+A: Not really, because I usually know what I need before shopping. However, when there are too many similar products, I spend extra time **weighing up the pros and cons**. <!-- P1-b -->
 
-A: I take a short walk or learn something new, which helps me reset my attention. I try to **keep an open mind**. <!-- P10-b -->
+**Q6: Do you think expensive products are always better than cheaper ones?**
 
-### Shopping `[同桌英语 #11]`
+A: Not necessarily. While expensive products may offer better quality or more advanced features, price does not guarantee better performance. I focus on practicality and whether a product **meets my needs**. <!-- P1-a -->
 
-**Q: Do you like shopping?**
+**Q7: Have you ever returned anything you bought online?**
 
-A: Only when I know what I need. I generally prefer **a calm, uncomplicated lifestyle**. I prefer purposeful shopping to wandering around crowded stores. <!-- P6-a -->
+A: Yes, I once returned a product because its quality differed from what I expected and from its online description. Since then, I have checked customer reviews carefully before **making a purchase**. <!-- P8-c -->
 
-**Q: How often do you go shopping?**
+### Watch ⌚ `[同桌英语 #12]`
 
-A: I buy groceries once or twice a week and other items only when necessary. I feel better when **things are well organised**. This helps me avoid impulsive purchases. <!-- P2-c -->
+**Q1: Do you wear a watch?**
 
-**Q: Do you prefer online or in-store shopping?**
+A: No, I do not. Although smartwatches are popular nowadays, I prefer to **keep my wrist free** and check the time on my phone instead. <!-- P6-a -->
 
-A: I prefer online shopping for everyday items because it saves time and effort, but I buy clothes in person. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
+**Q2: Have you ever received a watch as a gift?**
 
-**Q: Have you ever returned something bought online?**
+A: Yes, I once received one from a family member. I appreciated it because it was useful and had **sentimental value**, and I still keep it as a reminder of that special occasion. <!-- P8-b -->
 
-A: Yes, I once returned headphones that were uncomfortable. I usually **weigh up the practical benefits**. The process was surprisingly straightforward, and I received a refund quickly. <!-- P1-b -->
+**Q3: Why do some people wear expensive watches?**
 
-### Watch `[同桌英语 #12]`
+A: Some people appreciate their craftsmanship and design, while others see them as **a symbol of success** or personal taste. For many people, a watch is also a way to express their identity. <!-- P1-a -->
 
-**Q: Do you wear a watch?**
+**Q4: Do you think it is important to wear a watch? Why?**
 
-A: I usually wear a simple smartwatch because it lets me check the time and activity data at a glance. I like **having a clear routine**. <!-- P2-a -->
-
-**Q: Have you ever received a watch as a gift?**
-
-A: Yes, my mother gave me one when I graduated. I form **emotional connections with familiar places and objects**. It has considerable emotional value, although I rarely wear it now. <!-- P8-b -->
-
-**Q: Why do some people wear expensive watches?**
-
-A: Some appreciate the craftsmanship, while others treat them as a symbol of status and success. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
-
-**Q: Is it important to wear a watch?**
-
-A: It is useful but not essential because phones show the time. I usually **weigh up the practical benefits**. A watch is simply quicker and less distracting. <!-- P1-b -->
+A: Personally speaking, I do not think it is essential because smartphones can show the time. However, watches remain meaningful to some people because they can be stylish, convenient and **have emotional value**. <!-- P1-b -->
 
 ### Websites `[同桌英语 #13]`
 

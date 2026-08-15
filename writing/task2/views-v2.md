@@ -226,8 +226,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 全球化加强国家间联系 → 经济相互依存加深 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
     `Globalisation → deeper economic interdependence → trade and knowledge sharing → wider markets → global economic growth`
 
-2. **正向 2：** 跨国问题难以由单个国家解决 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 全球治理改善
-    `Cross-border problems → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → improve global governance`
+2. **正向 2：** 跨国问题难以由单个国家解决 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 救援和医疗物资更快送达 → 危机中的死亡人数下降 → 全球治理改善
+    `Cross-border problems → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → faster delivery of relief and medical supplies → a lower death toll in crises → improve global governance`
 
 3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
     `Economic dependency → exposure to external shocks → local job losses → widen inequality`

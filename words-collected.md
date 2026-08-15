@@ -208,6 +208,6 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] mass transit → 环境类/正向 链 3
 - [x] toll → 环境类/正向 链 3
 - [x] take a toll on → 工作类/负向 链 1
-- [ ] death toll
+- [x] death toll → 国际类/正向 链 2
 - [x] congestion toll → 环境类/正向 链 3
 - [x] toll road → 环境类/正向 链 3

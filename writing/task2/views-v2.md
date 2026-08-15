@@ -26,13 +26,16 @@
 2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 职业资格为毕业生带来就业优势 → 更符合就业市场需求 → 青年就业压力缓解
     `Vocational education → practical skills → vocational qualifications confer an employment advantage on graduates → meet labour-market demands → alleviate youth unemployment`
 
-3. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
+3. **正向 3：** 家庭与学校提供积极榜样 → 儿童的品格受到正向塑造 → 自律与同理心增强 → 公民责任感提高 → 社会凝聚力增强
+    `Supportive families and schools → positive role models mould children's character → stronger self-discipline and empathy → responsible citizenship → stronger social cohesion`
+
+4. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
     `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
 
-4. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长施加僵化要求 → 学校制服与统一标准进一步压缩个体表达 → 学生出于顺从而倾向于迎合这些期待 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造性选择受到限制 → 创造力下降
+5. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长施加僵化要求 → 学校制服与统一标准进一步压缩个体表达 → 学生出于顺从而倾向于迎合这些期待 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造性选择受到限制 → 创造力下降
     `Schools may support learner autonomy in principle → an overbearing parent or principal imposes rigid rules → school uniforms and uniform standards further limit individual expression → out of deference, students may be disposed to conform to these expectations → Overreliance on standardised testing → focus on scores → neglect practical skills → creative choices are constrained by exam requirements → stifle creativity`
 
-5. **负向 3：** 升学竞争加剧 → 学术诚信教育薄弱 → 学生把原创写作与高分视为互斥 → 学生更可能抄袭他人作品 → 知识产权意识被削弱 → 学校公信力下降
+6. **负向 3：** 升学竞争加剧 → 学术诚信教育薄弱 → 学生把原创写作与高分视为互斥 → 学生更可能抄袭他人作品 → 知识产权意识被削弱 → 学校公信力下降
     `Intense academic competition → weak academic integrity education → students treat original work and high scores as mutually exclusive → some students plagiarise others' work → weaker respect for intellectual property → erode institutional credibility`
 
 
@@ -104,8 +107,8 @@ Nevertheless, it is important to recognize **that** educational competition can 
 2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 社会凝聚力提高
     `Better public services → wider access to essentials🥕 → fairer opportunities → strengthen social cohesion`
 
-3. **负向 1：** 贫富差距扩大 → 资源分配失衡 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
-    `A widening wealth gap → lopsided distribution of resources → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → social exclusion intensifies → greater inequality → weaken social trust`
+3. **负向 1：** 贫富差距扩大 → 资源分配失衡 → 数字鸿沟持续存在 → 数字服务进一步边缘化低收入用户 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
+    `A widening wealth gap → lopsided distribution of resources → a persistent digital divide → digital services marginalise low-income users → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → social exclusion intensifies → greater inequality → weaken social trust`
 
 4. **负向 2：** 福利制度设计不当 → 政府把边缘问题误判为核心矛盾 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
     `Poorly designed welfare → policymakers mistake peripheral issues for root causes → benefit dependency → lower labour participation → increase fiscal pressure`
@@ -190,8 +193,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 独立媒体调查政府和企业行为 → 不当行为被曝光 → 问责机制加强 → 公共利益得到保护
     `Independent media scrutiny → expose misconduct → strengthen accountability → protect public interests`
 
-3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 用户缺乏媒体素养而难以避开误导性说法 → 受众对公共议题形成片面看法 → 虚假信息扩散 → 公共舆论被误导
-    `Advertising-driven platforms → sensational content → users with weak media literacy cannot steer clear of misleading claims → audiences develop a lopsided view of public issues → spread misinformation → distort public opinion`
+3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 网络人物靠挑衅性言论博取恶名 → 用户缺乏媒体素养而难以避开误导性说法 → 受众对公共议题形成片面看法 → 虚假信息扩散 → 公共舆论被误导
+    `Advertising-driven platforms → sensational content → online figures gain notoriety for provocative claims → users with weak media literacy cannot steer clear of misleading claims → audiences develop a lopsided view of public issues → spread misinformation → distort public opinion`
 
 4. **负向 2：** 媒体追踪并公开个人信息 → 隐私受到侵犯 → 当事人承受网络骚扰 → 心理健康受损
     `Intrusive media coverage → privacy violations → online harassment → harm mental health`
@@ -362,14 +365,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 建设便利的垃圾处理设施 → 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善 → 防止城市环境衰败
     `Accessible waste-disposal facilities → Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems → prevent urban blight`
 
-3. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
+3. **正向 3：** 征收拥堵费 → 驾车者减少不必要的私家车出行 → 收入投入公共交通 → 城市通勤更加顺畅 → 交通排放下降 → 空气质量与公共健康改善
+    `Congestion tolls → fewer unnecessary car journeys → revenue funds mass transit → smoother urban journeys → lower transport emissions → better air quality and public health`
+
+4. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
     `Industrial production and car use → higher emissions → air and water pollution → harm public health`
 
-4. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 能源供应不稳定 → 产品价格上涨或岗位减少 → 低收入群体遭受更沉重的生活压力
+5. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 能源供应不稳定 → 产品价格上涨或岗位减少 → 低收入群体遭受更沉重的生活压力
     `Rapid environmental transition → higher business costs → erratic energy supplies → price rises or job losses → low-income groups are subjected to greater financial pressure`
 
-5. **负向 3：** 城市夜间照明过度扩张 → 光污染干扰夜行动物和昼行生物的节律 → 栖息、觅食和繁殖行为被扰乱 → 生物多样性下降 → 生态系统稳定性受损
-    `Excessive urban lighting at night → light pollution disrupts nocturnal animals and diurnal species → feeding and breeding patterns are disturbed → biodiversity declines → weaken ecosystem stability`
+6. **负向 3：** 城市夜间照明过度扩张 → 光污染干扰夜行动物和昼行生物的节律 → 晨昏活动物种失去黄昏时段的重要觅食机会 → 栖息、觅食和繁殖行为被扰乱 → 生物多样性下降 → 生态系统稳定性受损
+    `Excessive urban lighting at night → light pollution disrupts nocturnal animals and diurnal species → crepuscular species lose critical feeding time at dusk → feeding and breeding patterns are disturbed → biodiversity declines → weaken ecosystem stability`
 
 
 ### 正反论证练习
@@ -425,8 +431,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作满意度和效率提高 → 企业竞争力增强
-    `Remote work → less commuting → better work-life balance → higher productivity and competitiveness`
+1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作与生活更加平衡 → 工作满意度和效率提高 → 企业竞争力增强
+    `Remote work → less commuting → employees have more time at their disposal → better work-life balance → higher productivity and competitiveness`
 
 2. **正向 2：** 企业提供持续培训 → 员工在新技能上取得进步 → 员工更能从容应对行业变化 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
     `Workplace training → employees make strides in new skills → workers can take industry changes in their stride → employers retain talent → greater job security → employee and business growth`
@@ -434,8 +440,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 3. **正向 3：** 管理者展现自信气质 → 团队更愿意信任决策 → 员工在不确定时期保持协作 → 企业适应力增强
     `Managers exude confidence → teams trust decisions → employees cooperate during uncertainty → strengthen business resilience`
 
-4. **负向 1：** 全球竞争加剧 → 高需求行业制造高强度岗位 → 企业不断提高绩效要求 → 员工长期承受压力 → 焦虑和职业倦怠增加
-    `Global competition → industries in high demand create demanding jobs → higher performance demands → chronic stress → anxiety and burnout`
+4. **负向 1：** 全球竞争加剧 → 高需求行业制造高强度岗位 → 企业不断提高绩效要求 → 员工长期承受压力 → 这种压力严重损害心理健康 → 部分员工变得精神崩溃 → 焦虑和职业倦怠增加
+    `Global competition → industries in high demand create demanding jobs → higher performance demands → chronic stress → this pressure takes a heavy toll on mental health → some employees become nervous wrecks → anxiety and burnout`
 
 5. **负向 2：** 远程办公减少面对面交流 → 信息沟通与协作变弱 → 团队凝聚力下降 → 企业文化被削弱
     `Remote work → fewer face-to-face interactions → weaker collaboration → reduce team cohesion`

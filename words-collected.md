@@ -169,10 +169,10 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] a curb on → 环境类/正向 链 1
 - [x] wreck → 健康类/负向 链 1
 - [x] wreck one's health → 健康类/负向 链 1
-- [ ] a nervous wreck
+- [x] a nervous wreck → 工作类/负向 链 1
 - [x] dispose → 环境类/正向 链 2
 - [x] dispose of waste → 环境类/正向 链 2
-- [ ] at one's disposal
+- [x] at one's disposal → 工作类/正向 链 1
 - [x] conform to norms → 教育类/负向 链 2
 - [x] pressure to conform → 教育类/负向 链 2
 - [x] interdependence → 国际类/正向 链 1
@@ -180,3 +180,34 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] interdependent → 国际类/正向 链 1
 - [x] lopsided development → 社会类/负向 链 1
 - [x] a lopsided view → 媒体类/负向 链 1
+
+## 2026-08-15
+
+- [x] mould → 教育类/正向 链 3
+- [x] mould someone's character → 教育类/正向 链 3
+- [x] be moulded by → 教育类/正向 链 3
+- [x] crepuscular → 环境类/负向 链 3
+- [x] nocturnal animal → 环境类/负向 链 3
+- [x] nocturnal habits → 环境类/负向 链 3
+- [x] notoriety → 媒体类/负向 链 1
+- [x] notorious → 媒体类/负向 链 1
+- [x] infamous → 媒体类/负向 链 1
+- [x] gain notoriety → 媒体类/负向 链 1
+- [x] be notorious for → 媒体类/负向 链 1
+- [x] exclusion → 社会类/负向 链 1
+- [x] exclusive → 社会类/负向 链 1
+- [x] excluding → 社会类/负向 链 1
+- [x] be excluded from → 社会类/负向 链 1
+- [x] marginalise → 社会类/负向 链 1
+- [x] digital divide → 社会类/负向 链 1
+- [x] transit → 环境类/正向 链 3
+- [x] in transit → 环境类/正向 链 3
+- [x] transit through → 环境类/正向 链 3
+- [x] transit to → 环境类/正向 链 3
+- [x] transit into → 环境类/正向 链 3
+- [x] mass transit → 环境类/正向 链 3
+- [x] toll → 环境类/正向 链 3
+- [x] take a toll on → 工作类/负向 链 1
+- [ ] death toll
+- [x] congestion toll → 环境类/正向 链 3
+- [x] toll road → 环境类/正向 链 3

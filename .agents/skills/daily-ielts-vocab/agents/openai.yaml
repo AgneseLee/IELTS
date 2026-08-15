@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily IELTS Vocabulary"
+  short_description: "Integrate collected vocabulary into Task 2 logic chains"
+  default_prompt: "Use $daily-ielts-vocab to integrate today’s collected IELTS vocabulary."

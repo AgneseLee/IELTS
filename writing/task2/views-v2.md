@@ -20,8 +20,8 @@
 
 ### 逻辑链
 
-1. **正向 1：** 政府必须为现代教育设施预留资源 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格教师帮助学生记住所学内容 → 教育差距缩小 → 社会流动性提高
-    `It is imperative that governments make provision for modern learning facilities → Equitable🥕 educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
+1. **正向 1：** 政府必须为现代教育设施预留资源 → 公共拨款支持学生和校园研究 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格教师帮助学生记住所学内容 → 教育差距缩小 → 社会流动性提高
+    `It is imperative that governments make provision for modern learning facilities → public grants support students and campus research → Equitable🥕 educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
 
 2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 职业资格为毕业生带来就业优势 → 更符合就业市场需求 → 青年就业压力缓解
     `Vocational education → practical skills → vocational qualifications confer an employment advantage on graduates → meet labour-market demands → alleviate youth unemployment`
@@ -104,11 +104,11 @@ Nevertheless, it is important to recognize **that** educational competition can 
 1. **正向 1：** 扩大社会保障 → 弱势群体获得基本支持 → 贫困率下降 → 社会稳定性增强
     `Expanded social welfare → support vulnerable groups → reduce poverty → enhance social stability`
 
-2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 社会凝聚力提高
-    `Better public services → wider access to essentials🥕 → fairer opportunities → strengthen social cohesion`
+2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 不同背景群体形成更多接触 → 社会凝聚力提高
+    `Better public services → wider access to essentials🥕 → fairer opportunities → more contact among people from disparate backgrounds → strengthen social cohesion`
 
-3. **负向 1：** 贫富差距扩大 → 资源分配失衡 → 数字鸿沟持续存在 → 数字服务进一步边缘化低收入用户 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
-    `A widening wealth gap → lopsided distribution of resources → a persistent digital divide → digital services marginalise low-income users → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → social exclusion intensifies → greater inequality → weaken social trust`
+3. **负向 1：** 贫富差距扩大 → 收入差距扩大 → 资源分配失衡 → 数字鸿沟持续存在 → 数字服务进一步边缘化低收入用户 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 弱势社区的困境恶化 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
+    `A widening wealth gap → income disparity grows → lopsided distribution of resources → a persistent digital divide → digital services marginalise low-income users → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → the plight of disadvantaged communities worsens → social exclusion intensifies → greater inequality → weaken social trust`
 
 4. **负向 2：** 福利制度设计不当 → 政府把边缘问题误判为核心矛盾 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
     `Poorly designed welfare → policymakers mistake peripheral issues for root causes → benefit dependency → lower labour participation → increase fiscal pressure`
@@ -157,8 +157,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 政府将资源投向紧迫问题 → 政府增加教育与医疗投资 → 公共服务改善 → 国民技能和健康水平提升 → 长期生产力提高 → 经济复兴更有可能出现
     `Governments address pressing issues → Public investment → better education and healthcare → stronger human capital → raise long-term productivity → support an economic renaissance`
 
-2. **正向 2：** 政府出资翻新破败的棕地 → 防止城市持续衰败 → 政府制定并执行环保法规 → 强制规则取代自愿承诺 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
-    `Government funding to renovate derelict brownfield sites → prevent further urban decay → Environmental regulation → binding rules take the place of voluntary pledges → lower corporate pollution → protect natural resources → improve public health`
+2. **正向 2：** 政府出资翻新破败的棕地 → 防止城市持续衰败 → 政府制定并执行环保法规 → 官员履行监管职责 → 强制规则取代自愿承诺 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
+    `Government funding to renovate derelict brownfield sites → prevent further urban decay → Environmental regulation → officials discharge their regulatory duties → binding rules take the place of voluntary pledges → lower corporate pollution → protect natural resources → improve public health`
 
 3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
     `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
@@ -226,8 +226,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 全球化加强国家间联系 → 经济相互依存加深 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
     `Globalisation → deeper economic interdependence → trade and knowledge sharing → wider markets → global economic growth`
 
-2. **正向 2：** 跨国问题难以由单个国家解决 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 救援和医疗物资更快送达 → 危机中的死亡人数下降 → 全球治理改善
-    `Cross-border problems → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → faster delivery of relief and medical supplies → a lower death toll in crises → improve global governance`
+2. **正向 2：** 跨国问题难以由单个国家解决 → 同时发生的危机拉伸各国能力 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 救援和医疗物资更快送达 → 危机中的死亡人数下降 → 全球治理改善
+    `Cross-border problems → concurrent crises stretch national capacity → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → faster delivery of relief and medical supplies → a lower death toll in crises → improve global governance`
 
 3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
     `Economic dependency → exposure to external shocks → local job losses → widen inequality`
@@ -295,11 +295,11 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 举办文化节并支持博物馆 → 公众更了解本地历史 → 传统图案和核心主题重新进入公共生活 → 文化认同增强 → 传统得以代际传承 → 文化复兴获得动力
     `Festivals and museums → greater historical awareness → traditional motifs and central themes re-enter public life → stronger cultural identity → preserve traditions → encourage a cultural renaissance`
 
-2. **正向 2：** 不同文化持续交流 → 创作者接触新思想 → 文化表达更加多样 → 文化创新能力提高
-    `Cross-cultural exchange → exposure to new ideas → diverse expression → foster cultural innovation`
+2. **正向 2：** 不同文化持续交流 → 创作者接触新思想 → 原本互不相干的领域相互启发 → 文化表达更加多样 → 文化创新能力提高
+    `Cross-cultural exchange → exposure to new ideas → disparate fields inspire one another → diverse expression → foster cultural innovation`
 
-3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人疏离传统并抛弃本地习俗 → 传统逐渐消失 → 文化同质化加剧
-    `Global media → marginalise local content → weaker ties to traditions as younger generations forsake local customs → erosion of heritage → cultural homogenisation`
+3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人把传统视为理所当然并疏离本地习俗 → 传统逐渐消失 → 文化同质化加剧
+    `Global media → marginalise local content → younger generations take traditions for granted and forsake local customs → erosion of heritage → cultural homogenisation`
 
 4. **负向 2：** 传统活动过度迎合游客 → 仪式被简化和表演化 → 原有意义被扭曲 → 文化真实性下降
     `Excessive commercialisation → simplify traditions for tourists → distort original meaning → reduce authenticity`
@@ -368,8 +368,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 3. **正向 3：** 征收拥堵费 → 驾车者减少不必要的私家车出行 → 收入投入公共交通 → 城市通勤更加顺畅 → 交通排放下降 → 空气质量与公共健康改善
     `Congestion tolls → fewer unnecessary car journeys → revenue funds mass transit → smoother urban journeys → lower transport emissions → better air quality and public health`
 
-4. **负向 1：** 工业生产和私家车使用增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
-    `Industrial production and car use → higher emissions → air and water pollution → harm public health`
+4. **负向 1：** 工业生产和私家车使用增加 → 工厂将废物排入河流 → 工业废水和生活污水增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
+    `Industrial production and car use → factories discharge waste into rivers → more industrial effluent and sewage → higher emissions → air and water pollution → harm public health`
 
 5. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 能源供应不稳定 → 产品价格上涨或岗位减少 → 低收入群体遭受更沉重的生活压力
     `Rapid environmental transition → higher business costs → erratic energy supplies → price rises or job losses → low-income groups are subjected to greater financial pressure`
@@ -401,14 +401,14 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 加强健康教育和定期筛查 → 公众预防意识提高 → 疾病更早发现和控制 → 长期医疗成本下降
     `Health education and screening → preventive awareness → early diagnosis → reduce long-term healthcare costs`
 
-2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 可预防疾病减少 → 医疗公平与整体健康改善
-    `Universal healthcare coverage → timely treatment → fewer preventable illnesses → improve health equality`
+2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 孕产妇获得安全引产等必要服务 → 患者恢复后顺利出院 → 可预防疾病减少 → 医疗公平与整体健康改善
+    `Universal healthcare coverage → timely treatment → safe induced labour and other maternal services → patients are discharged from hospital after recovery → fewer preventable illnesses → improve health equality`
 
 3. **负向 1：** 城市生活节奏加快 → 久坐生活方式日益普遍 → 运动减少且饮食恶化 → 身体健康遭到严重损害 → 肥胖和慢性病增加 → 医疗系统负担加重
     `Fast-paced urban life → a more sedentary lifestyle → unhealthy habits → wreck physical health → chronic diseases → increase the healthcare burden`
 
-4. **负向 2：** 工作时间延长和压力增加 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
-    `Long hours and work stress → anxiety and burnout → lower productivity → wider social problems`
+4. **负向 2：** 工作时间延长和压力增加 → 工作压力可能诱发失眠和焦虑 → 依赖助眠药物带来药物性副作用 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
+    `Long hours and work stress → pressure can induce insomnia and anxiety → reliance on sleep aids creates drug-induced side effects → anxiety and burnout → lower productivity → wider social problems`
 
 
 ### 正反论证练习
@@ -434,8 +434,8 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作与生活更加平衡 → 工作满意度和效率提高 → 企业竞争力增强
     `Remote work → less commuting → employees have more time at their disposal → better work-life balance → higher productivity and competitiveness`
 
-2. **正向 2：** 企业提供持续培训 → 员工在新技能上取得进步 → 员工更能从容应对行业变化 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
-    `Workplace training → employees make strides in new skills → workers can take industry changes in their stride → employers retain talent → greater job security → employee and business growth`
+2. **正向 2：** 企业提供持续培训 → 有效入职培训帮助员工理解流程 → 员工在新技能上取得进步 → 员工更能从容应对行业变化 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
+    `Workplace training → effective induction helps employees understand procedures → employees make strides in new skills → workers can take industry changes in their stride → employers retain talent → greater job security → employee and business growth`
 
 3. **正向 3：** 管理者展现自信气质 → 团队更愿意信任决策 → 员工在不确定时期保持协作 → 企业适应力增强
     `Managers exude confidence → teams trust decisions → employees cooperate during uncertainty → strengthen business resilience`

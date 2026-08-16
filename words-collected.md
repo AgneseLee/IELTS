@@ -211,3 +211,45 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] death toll → 国际类/正向 链 2
 - [x] congestion toll → 环境类/正向 链 3
 - [x] toll road → 环境类/正向 链 3
+
+## 2026-08-16
+
+- [x] discharge (v. 排放/出院/解雇/履行; n. 排放物) → 环境类/负向 链 4；健康类/正向 链 2；政府类/正向 链 2
+- [x] discharge waste into rivers 将废物排入河流 → 环境类/负向 链 4
+- [x] industrial discharge 工业排放 → 环境类/负向 链 4
+- [x] sewage discharge 污水排放 → 环境类/负向 链 4
+- [x] be discharged from hospital 出院 → 健康类/正向 链 2
+- [x] discharge one's duties 履行职责 → 政府类/正向 链 2
+- [x] induce 引起/诱导 (cause, trigger, give rise to) → 健康类/负向 链 2
+- [x] induce sleep/stress 诱导入睡/引发压力 → 健康类/负向 链 2
+- [x] drug-induced 药物引起的 → 健康类/负向 链 2
+- [x] induced labour 引产 → 健康类/正向 链 2
+- [x] induction 入职培训/归纳法 (concurrent 同时的) → 工作类/正向 链 2
+- [x] grant 授予/同意/承认 (v.); 拨款/补助金 (n.) → 教育类/正向 链 1
+- [x] grant permission/a degree/a visa 授予许可/学位/签证 → 教育类/正向 链 1
+- [x] government grant 政府拨款 → 教育类/正向 链 1
+- [x] research grant 研究经费 → 教育类/正向 链 1
+- [x] student grant 学生助学金 → 教育类/正向 链 1
+- [x] take sth for granted 认为理所当然 → 文化类/负向 链 1
+- [ ] granted that... 诚然/就算
+- [x] award (因成就颁发) / fund (提供资金) → 教育类/正向 链 1
+- [x] blight (v. 使枯萎/破坏; n. 祸害) → 环境类/正向 链 2
+- [x] urban blight 城市衰败 → 环境类/正向 链 2
+- [ ] potato blight 马铃薯晚疫病
+- [x] a blight on sth ......的祸害 → 环境类/正向 链 2
+- [x] plight 困境 (形近辨析) → 社会类/负向 链 1
+- [x] concur with sb/sth 同意某人/某事 → 国际类/正向 链 2
+- [x] concur that... 一致认为 → 国际类/正向 链 2
+- [x] concurrence 同意/同时发生 → 国际类/正向 链 2
+- [x] concurrent/concurrently 同时的/同时地 → 国际类/正向 链 2
+- [x] elusive 难以捉摸的/难以实现的 → 政府类/负向 链 2
+- [x] an elusive goal 难以实现的目标 → 政府类/负向 链 2
+- [x] remains an elusive goal for... 对......仍是难以实现的目标 → 政府类/负向 链 2
+- [x] elusive concept 难以理解的概念 → 政府类/负向 链 2
+- [ ] illusive/illusory 虚幻的 (形近辨析)
+- [x] disparate 迥异的/异质的 → 社会类/正向 链 2；文化类/正向 链 2
+- [x] disparate cultures/backgrounds/views 迥异的文化/背景/观点 → 社会类/正向 链 2
+- [x] disparate fields 互不相干的领域 → 文化类/正向 链 2
+- [x] disparity 差距/不平等 (income disparity 收入差距) → 社会类/负向 链 1
+- [x] diverse 多样化的 (对比 disparate) → 文化类/正向 链 2
+- [x] desperate 绝望的 (形近辨析) → 犯罪类/负向 链 1

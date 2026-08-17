@@ -20,23 +20,23 @@
 
 ### 逻辑链
 
-1. **正向 1：** 政府必须为现代教育设施预留资源 → 公共拨款支持学生和校园研究 → 政府公平分配教育资源 → 弱势学生获得更多机会 → 合格教师帮助学生记住所学内容 → 教育差距缩小 → 社会流动性提高
-    `It is imperative that governments make provision for modern learning facilities → public grants support students and campus research → Equitable🥕 educational resources → equal opportunities → qualified faculty members help students retain information → narrow educational gaps → improve social mobility`
+1. **正向 1：** 政府公平投入师资与教学设施 → 弱势学生获得优质教育 → 学习成果差距缩小 → 升学与就业机会更加公平 → 社会流动性提高
+    `Equitable public investment in teachers and facilities → disadvantaged students gain access to quality education → narrower learning gaps → fairer academic and employment opportunities → greater social mobility`
 
-2. **正向 2：** 加强职业教育 → 学生掌握实用技能 → 职业资格为毕业生带来就业优势 → 更符合就业市场需求 → 青年就业压力缓解
-    `Vocational education → practical skills → vocational qualifications confer an employment advantage on graduates → meet labour-market demands → alleviate youth unemployment`
+2. **正向 2：** 加强职业教育 → 学生掌握岗位所需技能 → 毕业生更符合劳动力市场需求 → 就业能力提高 → 青年失业率下降
+    `Stronger vocational education → job-specific skills → a better match with labour-market needs → greater graduate employability → lower youth unemployment`
 
-3. **正向 3：** 家庭与学校提供积极榜样 → 儿童的品格受到正向塑造 → 自律与同理心增强 → 公民责任感提高 → 社会凝聚力增强
-    `Supportive families and schools → positive role models mould children's character → stronger self-discipline and empathy → responsible citizenship → stronger social cohesion`
+3. **正向 3：** 家庭与学校树立积极榜样 → 儿童形成自律与同理心 → 公民责任感增强 → 社会凝聚力提高
+    `Positive role models at home and school → greater self-discipline and empathy → stronger civic responsibility → greater social cohesion`
 
-4. **负向 1：** 教育资源分配不均 → 城乡及家庭背景差距扩大 → 学生机会不同 → 社会阶层固化
-    `Uneven educational resources → unequal opportunities → wider social gaps → social stratification`
+4. **负向 1：** 教育资源分配不均 → 学习成果因地区和家庭背景而分化 → 升学与就业机会不平等 → 社会阶层固化
+    `Unequal educational resources → achievement gaps by region and family background → unequal academic and employment opportunities → entrenched social divisions`
 
-5. **负向 2：** 学校原则上支持自主学习 → 专横的家长或校长施加僵化要求 → 学校制服与统一标准进一步压缩个体表达 → 学生出于顺从而倾向于迎合这些期待 → 过度依赖标准化考试 → 学生只关注分数 → 实践技能被忽视 → 创造性选择受到限制 → 创造力下降
-    `Schools may support learner autonomy in principle → an overbearing parent or principal imposes rigid rules → school uniforms and uniform standards further limit individual expression → out of deference, students may be disposed to conform to these expectations → Overreliance on standardised testing → focus on scores → neglect practical skills → creative choices are constrained by exam requirements → stifle creativity`
+5. **负向 2：** 过度依赖标准化考试 → 教学围绕分数展开 → 实践活动和开放式探索被挤压 → 学生独立思考与创造力下降
+    `Overreliance on standardised tests → score-driven teaching → less time for practical work and open-ended inquiry → weaker independent thinking and creativity`
 
-6. **负向 3：** 升学竞争加剧 → 学术诚信教育薄弱 → 学生把原创写作与高分视为互斥 → 学生更可能抄袭他人作品 → 知识产权意识被削弱 → 学校公信力下降
-    `Intense academic competition → weak academic integrity education → students treat original work and high scores as mutually exclusive → some students plagiarise others' work → weaker respect for intellectual property → erode institutional credibility`
+6. **负向 3：** 升学竞争激烈且诚信教育不足 → 部分学生为追求高分而抄袭 → 学术诚信受到破坏 → 学校公信力下降
+    `Intense academic competition and weak integrity education → plagiarism in pursuit of high scores → damaged academic integrity → weaker institutional credibility`
 
 
 ### 正反论证练习
@@ -68,17 +68,17 @@ Nevertheless, it is important to recognize **that** educational competition can 
 
 ### 逻辑链
 
-1. **正向 1：** AI 与自动化承担重复任务 → 员工处理更高价值工作 → 生产力提高 → 企业与经济增长
-    `AI and automation → reduce repetitive work → raise productivity → boost economic growth`
+1. **正向 1：** AI 与自动化承担重复任务 → 员工转向更高价值的工作 → 单位时间产出增加 → 企业生产力提高
+    `AI and automation handle repetitive tasks → employees focus on higher-value work → greater output per hour → higher business productivity`
 
-2. **正向 2：** 数字技术进入教育和医疗 → 偏远地区获得在线服务 → 机会差距缩小 → 公共福祉改善
-    `Digital technology → remote education and healthcare → wider access → improve public well-being`
+2. **正向 2：** 在线教育与远程医疗普及 → 偏远地区居民更易获得专业服务 → 地域造成的机会差距缩小 → 公共福祉改善
+    `Online education and telemedicine → better access to specialist services in remote areas → narrower geographic inequalities → improved public well-being`
 
-3. **负向 1：** 网络平台大量收集数据 → 个人信息被滥用或泄露 → 隐私风险上升 → 公众信任下降
-    `Extensive data collection → misuse or leaks → privacy risks → erode public trust`
+3. **负向 1：** 网络平台过度收集个人数据 → 数据被滥用或泄露 → 用户隐私受损 → 公众对数字服务的信任下降
+    `Excessive collection of personal data → misuse or leaks → loss of user privacy → declining trust in digital services`
 
-4. **负向 2：** 自动化替代常规岗位 → 企业用算法替代人工判断 → 旧技能被新技术取代 → 低技能劳动者失业 → 少数科技企业获得市场优势 → 收入差距扩大 → 社会不平等加剧
-    `Automation replaces routine jobs → firms substitute algorithms for human judgement → older skills are superseded by new technologies → unemployment → a few technology firms gain market supremacy → wider income gaps → deepen social inequality`
+4. **负向 2：** 自动化取代常规岗位 → 低技能劳动者难以及时转型 → 失业或工资停滞 → 收入差距扩大
+    `Automation replaces routine jobs → low-skilled workers struggle to retrain → unemployment or wage stagnation → wider income inequality`
 
 
 ### 正反论证练习
@@ -102,16 +102,16 @@ Nevertheless, it is important to recognize **that** educational competition can 
 ### 逻辑链
 
 1. **正向 1：** 扩大社会保障 → 弱势群体获得基本支持 → 贫困率下降 → 社会稳定性增强
-    `Expanded social welfare → support vulnerable groups → reduce poverty → enhance social stability`
+    `Expanded social protection → basic support for vulnerable groups → lower poverty rates → greater social stability`
 
-2. **正向 2：** 改善公共服务 → 教育、医疗与住房更可及 → 机会更加公平 → 不同背景群体形成更多接触 → 社会凝聚力提高
-    `Better public services → wider access to essentials🥕 → fairer opportunities → more contact among people from disparate backgrounds → strengthen social cohesion`
+2. **正向 2：** 改善教育、医疗与住房服务 → 基本服务更加可及 → 不同背景群体的机会差距缩小 → 社会凝聚力提高
+    `Better education, healthcare and housing services → wider access to basic services → narrower opportunity gaps across social groups → stronger social cohesion`
 
-3. **负向 1：** 贫富差距扩大 → 收入差距扩大 → 资源分配失衡 → 数字鸿沟持续存在 → 数字服务进一步边缘化低收入用户 → 偏远地区的弱势群体被排除在优质教育、住房与医疗之外 → 弱势社区的困境恶化 → 社会排斥加剧 → 社会不平等加剧 → 社会信任下降
-    `A widening wealth gap → income disparity grows → lopsided distribution of resources → a persistent digital divide → digital services marginalise low-income users → disadvantaged groups in peripheral areas are excluded from quality education, housing and healthcare → the plight of disadvantaged communities worsens → social exclusion intensifies → greater inequality → weaken social trust`
+3. **负向 1：** 收入差距扩大 → 低收入群体难以获得优质教育、医疗和数字服务 → 向上流动机会减少 → 社会排斥加剧 → 社会信任下降
+    `Wider income gaps → poorer access to quality education, healthcare and digital services → fewer opportunities for upward mobility → greater social exclusion → weaker social trust`
 
-4. **负向 2：** 福利制度设计不当 → 政府把边缘问题误判为核心矛盾 → 长期依赖公共补贴 → 劳动参与意愿降低 → 财政负担加重
-    `Poorly designed welfare → policymakers mistake peripheral issues for root causes → benefit dependency → lower labour participation → increase fiscal pressure`
+4. **负向 2：** 福利退出机制设计不当 → 就业后的收入增幅不足以抵消福利损失 → 部分领取者缺乏就业动力 → 劳动参与率下降 → 财政压力增加
+    `Poorly designed benefit withdrawal → work brings little net financial gain → weaker incentives to seek employment → lower labour-force participation → greater fiscal pressure`
 
 
 ### 正反论证练习
@@ -154,17 +154,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 政府将资源投向紧迫问题 → 政府增加教育与医疗投资 → 公共服务改善 → 国民技能和健康水平提升 → 长期生产力提高 → 经济复兴更有可能出现
-    `Governments address pressing issues → Public investment → better education and healthcare → stronger human capital → raise long-term productivity → support an economic renaissance`
+1. **正向 1：** 政府增加教育与医疗投资 → 国民技能和健康水平提升 → 人力资本增强 → 长期生产力提高
+    `Greater public investment in education and healthcare → a healthier and more skilled population → stronger human capital → higher long-term productivity`
 
-2. **正向 2：** 政府出资翻新破败的棕地 → 防止城市持续衰败 → 政府制定并执行环保法规 → 官员履行监管职责 → 强制规则取代自愿承诺 → 企业减少污染 → 自然资源得到保护 → 公共健康改善
-    `Government funding to renovate derelict brownfield sites → prevent further urban decay → Environmental regulation → officials discharge their regulatory duties → binding rules take the place of voluntary pledges → lower corporate pollution → protect natural resources → improve public health`
+2. **正向 2：** 政府制定并严格执行环保法规 → 企业承担明确的减排责任 → 工业污染减少 → 自然资源与公共健康得到保护
+    `Strictly enforced environmental regulations → clear corporate obligations to cut emissions → less industrial pollution → better protection of natural resources and public health`
 
 3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
-    `Government overreach → higher compliance costs → weaker innovation and competition → economic inefficiency`
+    `Excessive government intervention → higher compliance and administrative costs → weaker innovation and competition → lower economic efficiency`
 
-4. **负向 2：** 政府委托承包商执行计划 → 官员监管失误并推迟必要维修 → 有缺陷的采购规则使劣质产品进入公共项目 → 薄弱监管使延误持续 → 因此维护成本上升而预期效益难以实现 → 公共项目缺乏成本控制 → 政府支出和债务上升 → 纳税人负担增加 → 其他服务资金被挤压
-    `Governments commission contractors to execute a plan → officials bungle oversight and defer essential repairs → defective procurement rules let substandard products enter public projects → feeble monitoring allows delays to persist → on account of this, maintenance costs rise while intended benefits remain elusive → Poorly controlled public spending → higher debt → greater tax burdens → crowd out essential services`
+4. **负向 2：** 公共项目采购和监管不力 → 工程延误或质量不达标 → 维修与补救成本上升 → 政府预算超支 → 其他公共服务资金被挤压
+    `Weak procurement and oversight of public projects → delays or substandard work → higher repair and remediation costs → budget overruns → less funding for other public services`
 
 
 ### 正反论证练习
@@ -188,19 +188,19 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 ### 逻辑链
 
 1. **正向 1：** 互联网扩大新闻获取渠道 → 信息传播更快 → 公众知情权提高 → 社会透明度增强
-    `Wider internet access → faster news dissemination → an informed public → greater social transparency`
+    `Wider access to online news → faster information dissemination → a better-informed public → greater social transparency`
 
 2. **正向 2：** 独立媒体调查政府和企业行为 → 不当行为被曝光 → 问责机制加强 → 公共利益得到保护
-    `Independent media scrutiny → expose misconduct → strengthen accountability → protect public interests`
+    `Independent scrutiny of governments and companies → exposure of misconduct → stronger accountability → better protection of the public interest`
 
-3. **负向 1：** 平台依赖广告和流量 → 夸张内容更易传播 → 网络人物靠挑衅性言论博取恶名 → 用户缺乏媒体素养而难以避开误导性说法 → 受众对公共议题形成片面看法 → 虚假信息扩散 → 公共舆论被误导
-    `Advertising-driven platforms → sensational content → online figures gain notoriety for provocative claims → users with weak media literacy cannot steer clear of misleading claims → audiences develop a lopsided view of public issues → spread misinformation → distort public opinion`
+3. **负向 1：** 平台以广告收入和用户流量为导向 → 夸张或误导性内容获得更多曝光 → 缺乏媒体素养的用户难以辨别真伪 → 虚假信息扩散 → 公共舆论被扭曲
+    `Advertising- and engagement-driven platforms → greater exposure for sensational or misleading content → users with weak media literacy struggle to verify claims → wider misinformation → distorted public opinion`
 
 4. **负向 2：** 媒体追踪并公开个人信息 → 隐私受到侵犯 → 当事人承受网络骚扰 → 心理健康受损
-    `Intrusive media coverage → privacy violations → online harassment → harm mental health`
+    `Media collection and publication of personal information → privacy violations → online harassment → poorer mental health`
 
-5. **负向 3：** 平台为追求广告收入而优先投放定向促销 → 反复营销诱发冲动消费，使消费者购买无力承担的商品 → 债务触发压力导致的焦虑 → 这种做法招致公众抵制 → 引发更支持消费者保护的监管
-    `Platforms prioritise targeted promotions in pursuit of advertising revenue → repeated marketing can induce impulsive purchasing behavior, leading consumers to buy what they cannot afford → debt can trigger stress-induced anxiety → this practice faces backlash → give rise to tighter regulation in favor of consumer protection`
+5. **负向 3：** 平台利用个人数据反复推送定向广告 → 消费者更容易冲动购买超出承受能力的商品 → 债务压力增加 → 财务与心理健康受损
+    `Platforms use personal data for repeated targeted advertising → consumers are more likely to make unaffordable impulse purchases → greater debt pressure → poorer financial and mental well-being`
 
 
 ### 正反论证练习
@@ -223,17 +223,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 全球化加强国家间联系 → 经济相互依存加深 → 贸易和技术共享增加 → 企业进入更大市场 → 全球经济增长
-    `Globalisation → deeper economic interdependence → trade and knowledge sharing → wider markets → global economic growth`
+1. **正向 1：** 全球化减少跨境贸易与知识交流的障碍 → 企业进入更大市场并采用新技术 → 生产与创新能力提高 → 全球经济增长
+    `Globalisation lowers barriers to trade and knowledge exchange → firms reach wider markets and adopt new technologies → greater production and innovation → global economic growth`
 
-2. **正向 2：** 跨国问题难以由单个国家解决 → 同时发生的危机拉伸各国能力 → 各国与专家协商 → 各国赞同专家建议 → 各国签署国际协定 → 成功取决于持续履约 → 资源与信息共同投入 → 救援和医疗物资更快送达 → 危机中的死亡人数下降 → 全球治理改善
-    `Cross-border problems → concurrent crises stretch national capacity → governments confer with specialists → governments concur with expert advice → international agreements → success is contingent on sustained compliance → shared resources and information → faster delivery of relief and medical supplies → a lower death toll in crises → improve global governance`
+2. **正向 2：** 跨国危机超出单个国家的应对能力 → 各国通过协定共享信息与资源 → 救援和医疗物资更快送达 → 危机造成的伤亡减少 → 全球治理能力提高
+    `Cross-border crises exceed the capacity of individual countries → international agreements enable resource and information sharing → faster delivery of relief and medical supplies → fewer casualties → stronger global governance`
 
 3. **负向 1：** 弱势经济体依赖跨国资本和出口市场 → 外部冲击迅速传导 → 本地行业与就业受损 → 经济不平等扩大
-    `Economic dependency → exposure to external shocks → local job losses → widen inequality`
+    `Dependence on foreign capital and export markets → greater exposure to external shocks → damage to local industries and jobs → wider economic inequality`
 
 4. **负向 2：** 全球文化产品大量进入本地市场 → 年轻人减少接触传统文化 → 文化认同减弱 → 文化同质化加剧
-    `Global cultural products → less engagement with local traditions → weaker identity → cultural homogenisation`
+    `An influx of global cultural products → less youth engagement with local traditions → weaker cultural identity → greater cultural homogenisation`
 
 
 ### 正反论证练习
@@ -256,20 +256,20 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 提高违法成本并稳定执法 → 形成可信的威慑 → 潜在违法者重新评估风险 → 犯罪率下降 → 社区安全改善
-    `Consistent law enforcement → a credible deterrent → potential offenders reassess the risks → lower crime rates → improve community safety`
+1. **正向 1：** 持续而公正地执法 → 违法后果更具确定性 → 潜在违法者重新评估风险 → 犯罪率下降 → 社区安全改善
+    `Consistent and fair law enforcement → greater certainty of punishment → potential offenders reassess the risks → lower crime rates → safer communities`
 
-2. **正向 2：** 为服刑人员提供教育与职业培训 → 就业能力提高 → 更容易重返社会 → 再犯率下降
-    `Prison education and training → better employability → social reintegration → reduce recidivism`
+2. **正向 2：** 为服刑人员提供教育与职业培训 → 出狱后的就业能力提高 → 更容易获得稳定收入并重返社会 → 再犯率下降
+    `Education and vocational training in prison → greater employability after release → stable income and easier social reintegration → lower recidivism`
 
-3. **负向 1：** 失业和贫富差距扩大 → 部分人面临经济绝望 → 犯罪动机增加 → 社会安全感下降
-    `Unemployment and inequality → financial desperation → stronger criminal incentives → weaken public safety`
+3. **负向 1：** 长期失业和贫困 → 部分人难以通过合法途径满足基本需求 → 经济型犯罪动机增强 → 社区安全感下降
+    `Long-term unemployment and poverty → limited legal means of meeting basic needs → stronger incentives for economically motivated crime → weaker community safety`
 
 4. **负向 2：** 对轻微犯罪施加过重刑罚 → 监狱人口增加 → 改造资源被稀释 → 犯人更难重新融入社会
-    `Excessive punishment for minor offences → prison overcrowding → fewer rehabilitation resources → hinder reintegration`
+    `Excessive punishment for minor offences → prison overcrowding → fewer rehabilitation resources per prisoner → more difficult social reintegration`
 
-5. **负向 3：** 国家保留死刑 → 警方拘留嫌疑人问话 → 仓促调查和施压造成错误定罪 → 国家可能处决无辜者 → 司法错误无法挽回并削弱公众信任
-    `Capital punishment remains legal → police detain suspects for questioning → rushed investigations and coercion produce a wrongful conviction → an innocent person may be executed → irreversible injustice and weaker public trust`
+5. **负向 3：** 死刑制度与有缺陷的调查或审判并存 → 无辜者可能被错误定罪并处决 → 司法错误无法挽回 → 公众对司法体系的信任下降
+    `Capital punishment combined with flawed investigations or trials → an innocent person may be convicted and executed → irreversible injustice → weaker public trust in the justice system`
 
 
 ### 正反论证练习
@@ -292,17 +292,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 举办文化节并支持博物馆 → 公众更了解本地历史 → 传统图案和核心主题重新进入公共生活 → 文化认同增强 → 传统得以代际传承 → 文化复兴获得动力
-    `Festivals and museums → greater historical awareness → traditional motifs and central themes re-enter public life → stronger cultural identity → preserve traditions → encourage a cultural renaissance`
+1. **正向 1：** 举办文化节并支持博物馆 → 公众更了解本地历史与传统 → 文化认同增强 → 更多人参与文化传承 → 传统得以延续
+    `Support for festivals and museums → greater awareness of local history and traditions → stronger cultural identity → wider participation in cultural transmission → preserved traditions`
 
-2. **正向 2：** 不同文化持续交流 → 创作者接触新思想 → 原本互不相干的领域相互启发 → 文化表达更加多样 → 文化创新能力提高
-    `Cross-cultural exchange → exposure to new ideas → disparate fields inspire one another → diverse expression → foster cultural innovation`
+2. **正向 2：** 不同文化持续交流 → 创作者接触新的观念与技法 → 多种文化元素相互启发 → 文化表达更加多样 → 文化创新增加
+    `Cross-cultural exchange → exposure to new ideas and techniques → creative interaction among cultural influences → more diverse expression → greater cultural innovation`
 
-3. **负向 1：** 全球媒体和互联网传播强势文化 → 本地内容被边缘化 → 年轻人把传统视为理所当然并疏离本地习俗 → 传统逐渐消失 → 文化同质化加剧
-    `Global media → marginalise local content → younger generations take traditions for granted and forsake local customs → erosion of heritage → cultural homogenisation`
+3. **负向 1：** 全球媒体大量传播强势文化 → 本地文化内容获得的关注减少 → 年轻人参与传统习俗的机会下降 → 文化遗产逐渐流失 → 文化同质化加剧
+    `Dominant cultures spread through global media → less attention to local cultural content → declining youth participation in traditional customs → gradual loss of cultural heritage → greater cultural homogenisation`
 
 4. **负向 2：** 传统活动过度迎合游客 → 仪式被简化和表演化 → 原有意义被扭曲 → 文化真实性下降
-    `Excessive commercialisation → simplify traditions for tourists → distort original meaning → reduce authenticity`
+    `Traditional activities tailored excessively to tourists → simplified and staged rituals → distortion of their original meaning → reduced cultural authenticity`
 
 
 ### 正反论证练习
@@ -325,17 +325,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 旅游需求增长 → 游客在住宿、餐饮和交通上消费 → 本地就业与税收增加 → 地方经济发展
-    `Tourist spending → local business revenue → more jobs and tax income → regional economic growth`
+1. **正向 1：** 游客在住宿、餐饮和交通上消费 → 本地企业收入增加 → 就业与税收增长 → 地方经济发展
+    `Tourist spending on accommodation, food and transport → higher local business revenue → more jobs and tax income → regional economic growth`
 
-2. **正向 2：** 游客对当地文化产生兴趣 → 文化景点收入增加 → 更多资金投入遗产维护 → 传统文化得到保护
-    `Cultural tourism → heritage revenue → fund conservation → preserve local traditions`
+2. **正向 2：** 文化旅游增加景点收入 → 更多资金用于遗产维护和传统活动 → 当地文化得到保护
+    `Cultural tourism generates revenue → more funding for heritage conservation and traditional activities → better protection of local culture`
 
-3. **负向 1：** 游客数量超过环境承载力 → 能源消耗、垃圾和污染增加 → 生态系统受损 → 旅游资源长期退化
-    `Overtourism → resource consumption and pollution → ecosystem damage → degrade tourist destinations`
+3. **负向 1：** 游客数量超过环境承载力 → 资源消耗、垃圾和污染增加 → 当地生态系统受损 → 旅游目的地长期吸引力下降
+    `Visitor numbers exceed environmental capacity → greater resource use, waste and pollution → damage to local ecosystems → declining long-term appeal of the destination`
 
-4. **负向 2：** 热门地区短租和商业需求增加 → 房租与物价上涨 → 本地居民被迫迁离 → 社区生活质量下降
-    `Tourism-driven demand → higher rents and prices → resident displacement → reduce local quality of life`
+4. **负向 2：** 旅游业推高短租和商业空间需求 → 房租与生活成本上涨 → 部分本地居民被迫迁离 → 原有社区网络被削弱
+    `Tourism increases demand for short-term rentals and commercial space → higher rents and living costs → displacement of some residents → weaker local community networks`
 
 
 ### 正反论证练习
@@ -359,23 +359,23 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 投资可再生能源 → 对化石燃料的依赖下降 → 工业污染得到遏制 → 碳排放减少 → 气候变化得到缓解
-    `Renewable-energy investment → less reliance on fossil fuels → curb industrial pollution → lower emissions → mitigate climate change`
+1. **正向 1：** 投资可再生能源 → 化石燃料发电占比下降 → 温室气体排放减少 → 气候变化得到缓解
+    `Investment in renewable energy → less fossil-fuel-based power generation → lower greenhouse-gas emissions → climate-change mitigation`
 
-2. **正向 2：** 建设便利的垃圾处理设施 → 加强环保立法和公众教育 → 企业与个人改变行为 → 污染和资源浪费减少 → 生态环境改善 → 防止城市环境衰败
-    `Accessible waste-disposal facilities → Environmental laws and education → behavioural change → less pollution and waste → protect ecosystems → prevent urban blight`
+2. **正向 2：** 完善垃圾分类和回收设施并加强公众教育 → 企业与居民更易正确处理废弃物 → 填埋量与资源浪费减少 → 城市环境改善
+    `Accessible sorting and recycling facilities combined with public education → easier responsible waste disposal → less landfill waste and resource loss → a cleaner urban environment`
 
-3. **正向 3：** 征收拥堵费 → 驾车者减少不必要的私家车出行 → 收入投入公共交通 → 城市通勤更加顺畅 → 交通排放下降 → 空气质量与公共健康改善
-    `Congestion tolls → fewer unnecessary car journeys → revenue funds mass transit → smoother urban journeys → lower transport emissions → better air quality and public health`
+3. **正向 3：** 征收拥堵费 → 私家车出行减少且公共交通获得更多资金 → 道路拥堵与交通排放下降 → 空气质量和公共健康改善
+    `Congestion charges → fewer private-car journeys and more funding for public transport → less congestion and lower transport emissions → better air quality and public health`
 
-4. **负向 1：** 工业生产和私家车使用增加 → 工厂将废物排入河流 → 工业废水和生活污水增加 → 废气与污水排放上升 → 空气和水源污染 → 公共健康受损
-    `Industrial production and car use → factories discharge waste into rivers → more industrial effluent and sewage → higher emissions → air and water pollution → harm public health`
+4. **负向 1：** 工业生产和私家车使用增加 → 废气与工业废水排放上升 → 空气和水源污染加剧 → 呼吸系统及水源相关疾病增加
+    `Growth in industrial production and private-car use → more air emissions and industrial effluent → worse air and water pollution → more respiratory and waterborne illnesses`
 
-5. **负向 2：** 环保政策转型过快 → 企业短期成本大幅增加 → 能源供应不稳定 → 产品价格上涨或岗位减少 → 低收入群体遭受更沉重的生活压力
-    `Rapid environmental transition → higher business costs → erratic energy supplies → price rises or job losses → low-income groups are subjected to greater financial pressure`
+5. **负向 2：** 环保政策转型过快且缺乏配套支持 → 企业短期合规与能源成本上升 → 产品涨价或岗位减少 → 低收入群体承受更大压力
+    `An overly rapid green transition without adequate support → higher short-term compliance and energy costs → price rises or job losses → greater pressure on low-income households`
 
-6. **负向 3：** 城市夜间照明过度扩张 → 光污染干扰夜行动物和昼行生物的节律 → 晨昏活动物种失去黄昏时段的重要觅食机会 → 栖息、觅食和繁殖行为被扰乱 → 生物多样性下降 → 生态系统稳定性受损
-    `Excessive urban lighting at night → light pollution disrupts nocturnal animals and diurnal species → crepuscular species lose critical feeding time at dusk → feeding and breeding patterns are disturbed → biodiversity declines → weaken ecosystem stability`
+6. **负向 3：** 城市夜间照明过度 → 野生动物的昼夜节律被打乱 → 觅食与繁殖行为受扰 → 生物多样性下降 → 生态系统稳定性减弱
+    `Excessive urban lighting at night → disrupted wildlife circadian rhythms → disturbed feeding and breeding → biodiversity loss → weaker ecosystem stability`
 
 
 ### 正反论证练习
@@ -398,17 +398,17 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 加强健康教育和定期筛查 → 公众预防意识提高 → 疾病更早发现和控制 → 长期医疗成本下降
-    `Health education and screening → preventive awareness → early diagnosis → reduce long-term healthcare costs`
+1. **正向 1：** 加强健康教育和定期筛查 → 公众采取更健康的生活方式且疾病更早发现 → 重症和并发症减少 → 长期医疗成本下降
+    `Health education and regular screening → healthier behaviour and earlier diagnosis → fewer severe cases and complications → lower long-term healthcare costs`
 
-2. **正向 2：** 扩大基本医疗保障 → 低收入群体及时就医 → 孕产妇获得安全引产等必要服务 → 患者恢复后顺利出院 → 可预防疾病减少 → 医疗公平与整体健康改善
-    `Universal healthcare coverage → timely treatment → safe induced labour and other maternal services → patients are discharged from hospital after recovery → fewer preventable illnesses → improve health equality`
+2. **正向 2：** 扩大基本医疗保障 → 低收入群体能够及时就医 → 可预防疾病与并发症减少 → 不同收入群体的健康差距缩小
+    `Broader essential healthcare coverage → timely treatment for low-income patients → fewer preventable illnesses and complications → narrower health gaps across income groups`
 
-3. **负向 1：** 城市生活节奏加快 → 久坐生活方式日益普遍 → 运动减少且饮食恶化 → 身体健康遭到严重损害 → 肥胖和慢性病增加 → 医疗系统负担加重
-    `Fast-paced urban life → a more sedentary lifestyle → unhealthy habits → wreck physical health → chronic diseases → increase the healthcare burden`
+3. **负向 1：** 城市居民久坐且缺乏运动 → 能量消耗不足 → 肥胖和慢性病风险上升 → 医疗系统负担加重
+    `Sedentary urban lifestyles and insufficient exercise → low energy expenditure → greater risks of obesity and chronic disease → a heavier burden on healthcare systems`
 
-4. **负向 2：** 工作时间延长和压力增加 → 工作压力可能诱发失眠和焦虑 → 依赖助眠药物带来药物性副作用 → 焦虑与职业倦怠上升 → 工作效率下降 → 家庭及社会问题增加
-    `Long hours and work stress → pressure can induce insomnia and anxiety → reliance on sleep aids creates drug-induced side effects → anxiety and burnout → lower productivity → wider social problems`
+4. **负向 2：** 工作时间过长且压力持续 → 睡眠不足与焦虑增加 → 职业倦怠加重 → 工作效率和家庭关系受损
+    `Long working hours and chronic stress → sleep problems and anxiety → greater burnout → poorer productivity and family relationships`
 
 
 ### 正反论证练习
@@ -431,20 +431,20 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 ### 逻辑链
 
-1. **正向 1：** 远程办公减少通勤 → 员工拥有更多可支配时间 → 工作与生活更加平衡 → 工作满意度和效率提高 → 企业竞争力增强
-    `Remote work → less commuting → employees have more time at their disposal → better work-life balance → higher productivity and competitiveness`
+1. **正向 1：** 远程办公减少通勤 → 员工拥有更多休息和家庭时间 → 工作与生活更加平衡 → 工作满意度与效率提高
+    `Remote work reduces commuting → more time for rest and family → better work-life balance → greater job satisfaction and productivity`
 
-2. **正向 2：** 企业提供持续培训 → 有效入职培训帮助员工理解流程 → 员工在新技能上取得进步 → 员工更能从容应对行业变化 → 企业留住人才 → 职业安全感提高 → 个人和企业共同成长
-    `Workplace training → effective induction helps employees understand procedures → employees make strides in new skills → workers can take industry changes in their stride → employers retain talent → greater job security → employee and business growth`
+2. **正向 2：** 企业提供持续培训 → 员工掌握行业所需的新技能 → 更能适应技术与市场变化 → 个人就业能力和企业竞争力提高
+    `Continuous workplace training → skills aligned with industry needs → better adaptation to technological and market change → greater employee employability and business competitiveness`
 
-3. **正向 3：** 管理者展现自信气质 → 团队更愿意信任决策 → 员工在不确定时期保持协作 → 企业适应力增强
-    `Managers exude confidence → teams trust decisions → employees cooperate during uncertainty → strengthen business resilience`
+3. **正向 3：** 管理者清晰说明决策与分工 → 员工更信任组织方向 → 不确定时期的协作更加稳定 → 企业适应力增强
+    `Managers communicate decisions and responsibilities clearly → greater trust in organisational direction → steadier cooperation during uncertainty → stronger business resilience`
 
-4. **负向 1：** 全球竞争加剧 → 高需求行业制造高强度岗位 → 企业不断提高绩效要求 → 员工长期承受压力 → 这种压力严重损害心理健康 → 部分员工变得精神崩溃 → 焦虑和职业倦怠增加
-    `Global competition → industries in high demand create demanding jobs → higher performance demands → chronic stress → this pressure takes a heavy toll on mental health → some employees become nervous wrecks → anxiety and burnout`
+4. **负向 1：** 全球竞争促使企业不断提高绩效要求 → 员工长期超负荷工作 → 压力与焦虑累积 → 职业倦怠和离职率上升
+    `Global competition drives ever-higher performance demands → sustained employee overwork → accumulated stress and anxiety → greater burnout and staff turnover`
 
-5. **负向 2：** 远程办公减少面对面交流 → 信息沟通与协作变弱 → 团队凝聚力下降 → 企业文化被削弱
-    `Remote work → fewer face-to-face interactions → weaker collaboration → reduce team cohesion`
+5. **负向 2：** 远程办公减少即时的面对面交流 → 信息遗漏与协调延迟增加 → 团队协作和凝聚力下降
+    `Remote work reduces spontaneous face-to-face communication → more information gaps and coordination delays → weaker teamwork and cohesion`
 
 
 ### 正反论证练习

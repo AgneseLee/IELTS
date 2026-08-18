@@ -3,7 +3,10 @@
 本目录对应 [`../topics/question-bank.md`](../topics/question-bank.md) 的全部大陆地区复习目标。
 
 - [`part1.md`](part1.md)：Part 1 全部小问；每题 20–30 秒。
-- [`part3-topic-bank.md`](part3-topic-bank.md)：基于 Task 2 Views 的 12 个核心主题、6 个口语补充主题及七种追问维度。
+- [`part3-topic-bank.md`](part3-topic-bank.md)：22 张可组合核心观点卡及七类 Part 3 问法。
+- [`part3-question-map.md`](part3-question-map.md)：全部 338 道 Part 3 问题的问法与观点模块映射。
+- [`part3-hard-answers.md`](part3-hard-answers.md)：40 道不易现场迁移的困难题短答案。
+- [`part3-coverage.md`](part3-coverage.md)：全题覆盖、模块频率及学习优先级报告。
 - [`part2-people.md`](part2-people.md)：人物模板及对应 Part 3。
 - [`part2-events.md`](part2-events.md)：事件模板及对应 Part 3。
 - [`part2-things.md`](part2-things.md)：事物模板及对应 Part 3。

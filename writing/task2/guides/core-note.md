@@ -244,3 +244,22 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `access to education for disadvantaged students → better-paid employment → upward income mobility → greater social mobility`
 - `intense educational competition → rising performance expectations → heavier psychological pressure → stress and burnout`
 - `fear of falling behind → costly after-school tutoring → an additional financial burden on parents → lower family well-being`
+
+## 科技：生产率、就业与收入差距
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `technological advancement address` | `technological advancement addresses` | 单数主语后使用第三人称单数动词。 |
+| `the improvements in technology works` | `improvements in technology work` | 复数主语后使用动词原形。 |
+| `with same resources` | `with the same amount of resources` | `same` 前通常需要 `the`；泛指资源总量时用 `amount of resources`。 |
+| `harmful effect on employment` | `harmful effects on employment` | 泛指多种负面影响时通常使用复数 `effects`。 |
+| `rise in unemployment rate` | `a rise in the unemployment rate` | `rise` 是单数可数名词，需要冠词；特指失业率时用 `the`。 |
+| `this improvement generates new problems` | `this development creates new problems` | `improvement` 带有正面含义，不宜指代造成失业的技术变化；`development` 更中性。 |
+
+### 可复用逻辑链与搭配
+
+- `AI and automation handle repetitive tasks → employees focus on higher-value work → greater output per hour → higher business productivity`
+- `generate more output with the same amount of resources → achieve sustained productivity gains → support industrial growth`
+- `automation replaces routine jobs → low-skilled workers struggle to retrain → unemployment or wage stagnation → wider income inequality`

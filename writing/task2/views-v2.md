@@ -71,7 +71,7 @@ Nevertheless, it is important to recognize **that** educational competition can 
 1. **正向 1：** AI 与自动化承担重复任务 → 员工转向更高价值的工作 → 单位时间产出增加 → 企业生产力提高
     `AI and automation handle repetitive tasks → employees focus on higher-value work → greater output per hour → higher business productivity`
 
-2. **正向 2：** 在线教育与远程医疗普及 → 偏远地区居民更易获得专业服务 → 地域造成的机会差距缩小 → 公共福祉改善
+2. **正向 2：** 在线教育与<mark style="background: #ABF7F7A6;">远程医疗</mark>普及 → 偏远地区居民更易获得专业服务 → 地域造成的机会差距缩小 → 公共福祉改善
     `Online education and telemedicine → better access to specialist services in remote areas → narrower geographic inequalities → improved public well-being`
 
 3. **负向 1：** 网络平台过度收集个人数据 → 数据被滥用或泄露 → 用户隐私受损 → 公众对数字服务的信任下降
@@ -84,6 +84,16 @@ Nevertheless, it is important to recognize **that** educational competition can 
 ### 正反论证练习
 - 正：科技提高效率、改善医疗和教育。
 - 反：科技导致隐私泄露、失业、依赖性过高。
+
+A significant advantage of technological advancement is that it address the issue of poverty from the ground up. Unlike approaches that manage surface-level issues, the improvements in technology works by generating tremendous output with same resources, such as time and budgets. While AI and automation handle repetitive tasks, employees can focus on higher-value work, thereby producing greater output per hour and ultimately higher business productivity. In the long run, this creates deeper improvements that makes industrial transformation a far more sustainable solution.
+
+Nevertheless, it is important to recognize technological advancement can produce harmful effect on employment. A central problem is that automation replaces numerous routine jobs, which poses serious challenges to low-skilled workers who struggle to retrain. As a consequence, this improvement often generate new problems such as rise in unemployment rate, wage stagnation and wider income inequality, instead of delivering the intended benefits.
+
+#### 批改版
+
+A significant advantage of technological advancement is that it **improves economic productivity**. Unlike approaches that manage surface-level issues, **improvements** in technology **work** by generating **more** output with **the same amount of resources**, such as time and **capital**. While AI and automation handle repetitive tasks, employees can focus on higher-value work, thereby producing greater output per hour and ultimately **improving** business productivity. In the long run, **these productivity gains make technological advancement a more sustainable driver of industrial growth**.
+
+Nevertheless, it is important to recognize **that** technological advancement can produce harmful **effects** on employment. A central problem is that automation replaces numerous routine jobs, which poses serious challenges to low-skilled workers who struggle to retrain. As a consequence, this **development** often **generates** new problems such as **a rise in the unemployment rate**, wage stagnation and wider income inequality, instead of delivering the intended benefits.
 
 ### 扩写任务
 

@@ -176,6 +176,9 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 4. **负向 2：** 公共项目采购和监管不力 → 工程延误或质量不达标 → 维修与补救成本上升 → 政府预算超支 → 其他公共服务资金被挤压
     `Weak procurement and oversight of public projects → delays or substandard work → higher repair and remediation costs → budget overruns → less funding for other public services`
 
+5. **负向 3：** 诚然部分公共项目能带来可见改善 → 政府过度依赖形象工程 → 公众产生虚假的进步感 → 基础服务问题被掩盖 → 长期治理能力下降
+    `Granted that some public projects bring visible improvements → overreliance on prestige projects → an illusory sense of progress → hidden weaknesses in essential services → weaker long-term governance`
+
 
 ### 正反论证练习
 - 正：政府能促进公平和公共安全。
@@ -386,6 +389,9 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 
 6. **负向 3：** 城市夜间照明过度 → 野生动物的昼夜节律被打乱 → 觅食与繁殖行为受扰 → 生物多样性下降 → 生态系统稳定性减弱
     `Excessive urban lighting at night → disrupted wildlife circadian rhythms → disturbed feeding and breeding → biodiversity loss → weaker ecosystem stability`
+
+7. **负向 4：** 气候异常和单一化种植增加 → 马铃薯晚疫病等作物病害更易扩散 → 粮食产量下降 → 食品价格上涨 → 低收入家庭食品安全受损
+    `Climate instability and monoculture farming → easier spread of crop diseases such as potato blight → lower food yields → higher food prices → weaker food security for low-income families`
 
 
 ### 正反论证练习

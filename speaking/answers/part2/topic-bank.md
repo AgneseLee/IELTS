@@ -1,10 +1,12 @@
 # IELTS Speaking Part 2 & Part 3 题库
 
 > 共 55 个主题：人物 13 · 地点 8 · 经历 18 · 事物 16。
+>
+> `❤️` = 新话题。
 
-## 人物（13）
+## 人物（6/13）
 
-### 想从事医疗行业的人
+### 想从事医疗行业的人❤️
 
 #### Part 2
 
@@ -67,7 +69,7 @@
 5. Is it easy to become famous in your country?
 6. Do you want to be a famous person?
 
-### 克服困难成功的人
+### 克服困难成功的人❤️
 
 #### Part 2
 
@@ -149,7 +151,7 @@
 5. Do you think enterprises should provide training for their employees?
 6. Do you think it is good for older adults to continue learning?
 
-### 擅长学习和说语言的人
+### 擅长学习和说语言的人❤️
 
 #### Part 2
 
@@ -170,7 +172,7 @@
 5. How do people learn new things?
 6. What is the most important thing for learning a language well?
 
-### 喜欢在家/花园种菜的人
+### 喜欢在家/花园种菜的人❤️
 
 #### Part 2
 
@@ -212,7 +214,7 @@
 5. Is making study plans popular among young people?
 6. Do you think choosing a college major is closely related to a future career?
 
-### 商业上很成功的人
+### 商业上很成功的人❤️
 
 #### Part 2
 
@@ -234,7 +236,7 @@
 5. What makes a business fail?
 6. Is it easy to set up a new business in your country?
 
-### 发小
+### 发小❤️
 
 #### Part 2
 
@@ -278,9 +280,9 @@
 
 ---
 
-## 地点（8）
+## 地点（4/8）
 
-### 无聊的地方
+### 无聊的地方❤️
 
 #### Part 2
 
@@ -344,7 +346,7 @@
 5. Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
 6. Is it better to live in a new building or an old one?
 
-### 喜欢拜访但不想住的家
+### 喜欢拜访但不想住的家❤️
 
 #### Part 2
 
@@ -414,7 +416,7 @@
 6. How does technology affect the way people spend their leisure time?
 7. Do you think only old people have time for leisure?
 
-### 推荐旅行过的地方
+### 推荐旅行过的地方❤️
 
 #### Part 2
 
@@ -438,7 +440,7 @@
 8. What are the benefits for cities of having lots of tourists?
 9. What are the disadvantages for people living in popular tourist cities?
 
-### 喜欢或不喜欢的高建筑
+### 喜欢或不喜欢的高建筑❤️
 
 #### Part 2
 
@@ -461,9 +463,9 @@
 
 ---
 
-## 经历（18）
+## 经历（10/18）
 
-### 近期改变
+### 近期改变❤️
 
 #### Part 2
 
@@ -483,7 +485,7 @@
 4. Do people often make plans around their regular routines?
 5. Who tends to change their daily routine more, young people or old people?
 
-### 别人帮助解决问题
+### 别人帮助解决问题❤️
 
 #### Part 2
 
@@ -499,7 +501,7 @@
 
 1. How important is it for schools to help children become smarter?
 
-### 遇到的科技问题
+### 遇到的科技问题❤️
 
 #### Part 2
 
@@ -562,7 +564,7 @@
 5. Why do some people think it is better to ask for advice from friends than from parents?
 6. When would old people ask young people for advice?
 
-### 长时间未收到回复
+### 长时间未收到回复❤️
 
 #### Part 2
 
@@ -583,7 +585,7 @@
 5. Are you more polite when sending a message to a stranger than to a friend?
 6. Why do some people feel angry when others don't reply to their message?
 
-### 在团队中工作
+### 在团队中工作❤️
 
 #### Part 2
 
@@ -604,7 +606,7 @@
 5. What advantages are there for students experiencing teamwork at school?
 6. How can you tell if a person is a good leader?
 
-### 早起经历
+### 早起经历❤️
 
 #### Part 2
 
@@ -648,7 +650,7 @@
 5. Do rewards help a child become better?
 6. What do you think about children working hard just for grades?
 
-### 改变重要想法
+### 改变重要想法❤️
 
 #### Part 2
 
@@ -667,7 +669,7 @@
 3. Do children communicate more with teachers or with parents?
 4. Who do young people like to share opinions with?
 
-### 看过的现场比赛
+### 看过的现场比赛❤️
 
 #### Part 2
 
@@ -690,7 +692,7 @@
 7. What types of sports matches are suitable for children to attend?
 8. Why do some people spend a lot going to other countries to watch sports events?
 
-### 近期改变的计划
+### 近期改变的计划❤️
 
 #### Part 2
 
@@ -735,7 +737,7 @@
 5. Is smiling important in your culture?
 6. Are there any occasions when people need to pretend to smile?
 
-### 重要决定
+### 重要决定❤️
 
 #### Part 2
 
@@ -842,9 +844,9 @@
 
 ---
 
-## 事物（16）
+## 事物（8/16）
 
-### 当地新闻
+### 当地新闻❤️
 
 #### Part 2
 
@@ -866,7 +868,7 @@
 6. Do you think it is important to have a national identity?
 7. How can people develop their national identity?
 
-### 长期追求/目标
+### 长期追求/目标❤️
 
 #### Part 2
 
@@ -909,7 +911,7 @@
 5. What negative effects does technology have on people's relationships?
 6. What are the differences between making friends in real life and online?
 
-### 包含动物的故事或书
+### 包含动物的故事或书❤️
 
 #### Part 2
 
@@ -930,7 +932,7 @@
 5. What are the advantages of keeping a pet?
 6. Why do people always tell children stories with animals?
 
-### 名人广告
+### 名人广告❤️
 
 #### Part 2
 
@@ -951,7 +953,7 @@
 5. Is advertising important for a company? Why?
 6. Which is more effective, online advertising or offline advertising?
 
-### 想颁布的新法律
+### 想颁布的新法律❤️
 
 #### Part 2
 
@@ -1036,7 +1038,7 @@
 5. Is salary the main reason people choose a certain job?
 6. What kind of jobs are the most popular in your country?
 
-### 有趣视频
+### 有趣视频❤️
 
 #### Part 2
 
@@ -1121,7 +1123,7 @@
 5. Do you think successful movies should have well-known actors or actresses in leading roles?
 6. Why do people prefer to watch movies in the cinema?
 
-### 想颁布的环保法律
+### 想颁布的环保法律❤️
 
 #### Part 2
 
@@ -1140,7 +1142,7 @@
 3. Will there be a law that is universally accepted?
 4. What environmental laws does your country already have?
 
-### 特殊场合下吃的食物
+### 特殊场合下吃的食物❤️
 
 #### Part 2
 

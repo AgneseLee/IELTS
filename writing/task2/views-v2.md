@@ -456,7 +456,7 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 3. **正向 3：** 管理者清晰说明决策与分工 → 员工更信任组织方向 → 不确定时期的协作更加稳定 → 企业适应力增强
     `Managers communicate decisions and responsibilities clearly → greater trust in organisational direction → steadier cooperation during uncertainty → stronger business resilience`
 
-4. **负向 1：** 全球竞争促使企业不断提高绩效要求 → 员工长期超负荷工作 → 压力与焦虑累积 → 职业倦怠和离职率上升
+4. **负向 1：** 全球竞争促使企业不断提高绩效要求 → 员工长期超负荷工作 → 压力与焦虑累积 → 职业倦怠和离职率上升 <mark style="background: #ABF7F7A6;">drive</mark>
     `Global competition drives ever-higher performance demands → sustained employee overwork → accumulated stress and anxiety → greater burnout and staff turnover`
 
 5. **负向 2：** 远程办公减少即时的面对面交流 → 信息遗漏与协调延迟增加 → 团队协作和凝聚力下降

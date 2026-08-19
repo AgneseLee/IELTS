@@ -1,0 +1,75 @@
+---
+name: ielts-part3-answer-generator
+description: Generate concise IELTS Speaking Part 3 answers strictly from the reusable viewpoint-card logic chains in speaking/answers/part3-topic-bank.md, optionally appending valid answers to the practice log. Use when the user asks to create, cover, expand, or save Part 3 answers with 观点卡, topic cards, modules, or logic chains.
+---
+
+# IELTS Part 3 Answer Generator
+
+在当前 IELTS 项目中生成可直接口述的 Part 3 短答案。
+
+## Sources
+
+每次生成前按顺序读取：
+
+1. `speaking/answers/part3-topic-bank.md`：唯一核心论点来源。
+2. `speaking/answers/part3-question-map.md`：题库原题的候选模块路由。
+3. `speaking/answers/part3-practice-log.md`：仅在追加答案或排重时读取。
+
+不得把 question map 的模块映射视为已通过覆盖验收。它只用于缩小候选范围。
+
+## Input
+
+- 接受一道或多道 Part 3 题目、题目主题，或“找出某些观点卡能覆盖的题目”。
+- 未指定观点卡时，从全部 22 张卡中选择最少且最自然的组合。
+- 指定“今天练过的卡”时，只使用用户明确标记或确认过的模块；不要自行猜测 emoji、日期或未提交改动的含义。
+- 只有用户要求保存、更新或追加时才修改 practice log；否则直接返回答案。
+
+## Coverage gate
+
+每道题生成前必须全部通过：
+
+1. **直接性**：观点卡的“适用”范围与题目主体一致。
+2. **完整性**：卡片现有正向链或反向链能够从原因走到结果，不需要新增核心前提。
+3. **问法匹配**：逻辑链能回答该 Q 类型，而不只是与题目共享关键词。
+4. **最小组合**：优先一张卡，必要时最多两张；两张卡各自承担清楚的逻辑环节。
+
+以下情况必须拒绝生成，并说明“当前观点卡不能自然覆盖”：
+
+- Q7 要求具体类别、地点、人物或活动，而卡片没有提供这些内容。
+- 回答必须先假设题目未给出的条件，例如“如果新工作提供培训”。
+- 卡片只能解释一个相关概念，不能回答题目的评价、比较、原因或解决办法。
+- 为贴合模块而引入卡片外的新原因、事实、统计或社会判断。
+
+## Answer contract
+
+普通答案使用 3 句，确有必要时使用 4 句：
+
+1. 第一句直接回答问题；比较题先给明确差异，评价题先给立场。
+2. 第二句沿一条已选模块链解释原因和机制，保留链条方向。
+3. 第三句给出链条结果、题目要求的比较或一个简短例子。
+4. 只有需要避免绝对化或说明反向影响时才增加限定句。
+
+语言目标为自然、易口述的 Band 7 表达。不得为了凑够句数重复观点。
+
+## Workflow
+
+1. 提取问题的核心对象、Q 类型和必须回答的信息。
+2. 从 topic bank 选择候选卡，并写出准备使用的原始链条。
+3. 执行 Coverage gate；不通过的题停止生成，不用相邻模块硬套。
+4. 按 Answer contract 生成答案，再逐句反查：直接回答、机制、结果、限定。
+5. 确认每个核心论点都能回指所选卡片；删除无法回指的内容。
+6. 若追加到 practice log：排重、标明题库原题或拓展、添加复练框并更新三项统计。
+7. 运行 `ruby .claude/skills/ielts-part3-answer-generator/scripts/validate_part3_log.rb`。
+
+## Output
+
+未写文件时，每题输出：
+
+```md
+### <question>
+观点卡：<module id> <name>
+逻辑链：<exact selected chain>
+答案：<3–4 sentences>
+```
+
+无法覆盖时只输出题目、最接近的卡及缺失的逻辑环节，不生成勉强答案。

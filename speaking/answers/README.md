@@ -6,6 +6,7 @@
 - [`part3-topic-bank.md`](part3-topic-bank.md)：22 张可组合核心观点卡及七类 Part 3 问法。
 - [`part3-question-map.md`](part3-question-map.md)：全部 338 道 Part 3 问题的问法与观点模块映射。
 - [`part3-hard-answers.md`](part3-hard-answers.md)：40 道不易现场迁移的困难题短答案。
+- [`part3-practice-log.md`](part3-practice-log.md)：已写 Part 3 短答案、题库剩余数量及口述复练进度。
 - [`part3-coverage.md`](part3-coverage.md)：全题覆盖、模块频率及学习优先级报告。
 - [`part2-people.md`](part2-people.md)：人物模板及对应 Part 3。
 - [`part2-events.md`](part2-events.md)：事件模板及对应 Part 3。

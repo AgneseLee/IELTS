@@ -43,14 +43,14 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 
 ## Answer contract
 
-普通答案使用 3 句，确有必要时使用 4 句：
+普通答案使用 3–5 句，不得超过 5 句：
 
 1. 第一句直接回答问题；比较题先给明确差异，评价题先给立场。
 2. 第二句沿一条已选模块链解释原因和机制，保留链条方向。
-3. 第三句给出链条结果、题目要求的比较或一个简短例子。
-4. 只有需要避免绝对化或说明反向影响时才增加限定句。
+3. 后续句给出链条结果、题目要求的比较、一个简短例子或必要限定。
+4. 最后一句必须用简单句直接总结并扣题；不得加入新理由、新例子或新转折。现有末句未扣题时，在不超过 5 句的前提下追加一句简短总结；已扣题则不重复添加。
 
-语言目标为自然、易口述的 Band 7 表达。优先使用常用词、直接动词和容易一口说出的句式；将偏书面、过度抽象、名词化或难口述的表达换成更自然的口语表达。Band 7 不等于故意使用复杂词。不得为了凑够句数重复观点。
+语言目标为自然、易口述的 Band 7 表达。优先使用常用词、直接动词和简单短句；少写长难句。将偏书面、过度抽象、名词化或难口述的表达换成更自然的口语表达。Band 7 不等于故意使用复杂词。不得为了凑够句数重复观点。
 
 ## Workflow
 
@@ -58,7 +58,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 2. 从 topic bank 选择候选卡，并写出准备使用的原始链条。
 3. 执行 Coverage gate；不通过的题停止生成，不用相邻模块硬套。
 4. 按 Answer contract 生成或微调答案，再逐句反查：直接回答、机制、结果、限定。
-5. 执行口语化检查：试着自然口述每句，将偏书面或难以顺口说出的词组换成常用口语表达；只做必要的短语级微调。
+5. 执行口语化检查：试着自然口述每句，将偏书面或难以顺口说出的词组换成常用口语表达；拆分不必要的长难句；确认末句是简单总结并直接扣题。
 6. 确认每个核心论点都能回指所选卡片；删除无法回指的内容。
 7. 若追加到 practice log：排重、标明题库原题或拓展、添加复练框并更新三项统计。
 8. 运行 `ruby .agents/skills/ielts-part3-answer-generator/scripts/validate_part3_log.rb`。
@@ -71,7 +71,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 ### <question>
 观点卡：<module id> <name>
 逻辑链：<exact selected chain>
-答案：<3–4 sentences>
+答案：<3–5 sentences, ending with a direct summary>
 ```
 
 无法覆盖时只输出题目、最接近的卡及缺失的逻辑环节，不生成勉强答案。

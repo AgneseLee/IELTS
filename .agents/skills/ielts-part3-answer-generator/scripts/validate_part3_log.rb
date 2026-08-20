@@ -6,6 +6,7 @@ abort("File not found: #{path}") unless File.file?(path)
 
 text = File.read(path)
 errors = []
+warnings = []
 blocks = text.scan(/^\#{3,4} ✅ (.+?)\n\n- \[([ x])\] 不看稿口述\n\n(.+?)(?=\n\n(?:\#{2,4} |\z))/m)
 errors << "No answer blocks found" if blocks.empty?
 
@@ -19,7 +20,13 @@ duplicates.each_value { |matches| errors << "Duplicate question: #{matches.first
 
 blocks.each do |question, _, answer|
   sentence_count = answer.scan(/[.!?](?:\s|$)/).length
-  errors << "#{question}: expected 3-4 sentences, found #{sentence_count}" unless (3..4).cover?(sentence_count)
+  errors << "#{question}: expected 3-5 sentences, found #{sentence_count}" unless (3..5).cover?(sentence_count)
+
+  sentences = answer.scan(/.+?[.!?](?=\s|$)/m).map { |sentence| sentence.gsub(/\s+/, " ").strip }
+  final_sentence = sentences.last.to_s
+  final_word_count = final_sentence.scan(/[A-Za-z]+(?:['’-][A-Za-z]+)*/).length
+  warnings << "#{question}: final sentence may not be a summary: #{final_sentence}" if final_sentence.match?(/\A(?:For example|However|By contrast|In contrast)\b/i)
+  warnings << "#{question}: final sentence is long (#{final_word_count} words)" if final_word_count > 15
 end
 
 extensions = blocks.count { |question, _, _| question.start_with?("拓展：") }
@@ -52,7 +59,8 @@ if extension_row
 end
 
 if errors.empty?
-  puts "OK: #{blocks.length} answers (#{originals} original, #{extensions} extension), all 3-4 sentences"
+  puts "OK: #{blocks.length} answers (#{originals} original, #{extensions} extension), all 3-5 sentences"
+  warn warnings.join("\n") unless warnings.empty?
   exit 0
 end
 

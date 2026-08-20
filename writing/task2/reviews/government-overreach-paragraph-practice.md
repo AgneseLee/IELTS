@@ -105,3 +105,5 @@ Nevertheless, excessive government intervention may **have harmful effects on th
 ### Minimally Adjusted Version(59) (Target Band 7.0–7.5)
 
 Nevertheless, excessive government intervention may **have harmful effects on the business sector**. A central problem is that it **increases** compliance and administrative costs for companies, **diverting money and staff away from innovation and placing disproportionate pressure on smaller or financially constrained firms**. As a consequence, this approach often **weakens business innovation and market competition**, ultimately **reducing overall economic efficiency**.
+
+<mark style="background: #ABF7F7A6;">financially constrained firms</mark>

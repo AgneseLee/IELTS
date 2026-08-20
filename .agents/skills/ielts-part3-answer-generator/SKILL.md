@@ -1,15 +1,15 @@
 ---
 name: ielts-part3-answer-generator
-description: Generate concise IELTS Speaking Part 3 answers strictly from the reusable viewpoint-card logic chains in speaking/answers/part3-topic-bank.md, optionally appending valid answers to the practice log. Use when the user asks to create, cover, expand, or save Part 3 answers with 观点卡, topic cards, modules, or logic chains.
+description: Generate or lightly polish concise IELTS Speaking Part 3 answers strictly from the reusable viewpoint-card logic chains in speaking/answers/part3-topic-bank.md, optionally updating the practice log. Use when the user asks to create, cover, expand, save, check, or make Part 3 answers more natural and conversational with 观点卡, topic cards, modules, or logic chains.
 ---
 
 # IELTS Part 3 Answer Generator
 
-在当前 IELTS 项目中生成可直接口述的 Part 3 短答案。
+在当前 IELTS 项目中生成或微调可直接口述的 Part 3 短答案。
 
 ## Sources
 
-每次生成前按顺序读取：
+每次生成或润色前按顺序读取：
 
 1. `speaking/answers/part3-topic-bank.md`：唯一核心论点来源。
 2. `speaking/answers/part3-question-map.md`：题库原题的候选模块路由。
@@ -20,6 +20,7 @@ description: Generate concise IELTS Speaking Part 3 answers strictly from the re
 ## Input
 
 - 接受一道或多道 Part 3 题目、题目主题，或“找出某些观点卡能覆盖的题目”。
+- 接受对已有 Part 3 答案的口语化检查与微调；只替换不自然的表达，不改变立场、逻辑链、例子或答案结构。
 - 未指定观点卡时，从全部 22 张卡中选择最少且最自然的组合。
 - 指定“今天练过的卡”时，只使用用户明确标记或确认过的模块；不要自行猜测 emoji、日期或未提交改动的含义。
 - 只有用户要求保存、更新或追加时才修改 practice log；否则直接返回答案。
@@ -49,17 +50,18 @@ description: Generate concise IELTS Speaking Part 3 answers strictly from the re
 3. 第三句给出链条结果、题目要求的比较或一个简短例子。
 4. 只有需要避免绝对化或说明反向影响时才增加限定句。
 
-语言目标为自然、易口述的 Band 7 表达。不得为了凑够句数重复观点。
+语言目标为自然、易口述的 Band 7 表达。优先使用常用词、直接动词和容易一口说出的句式；将偏书面、过度抽象、名词化或难口述的表达换成更自然的口语表达。Band 7 不等于故意使用复杂词。不得为了凑够句数重复观点。
 
 ## Workflow
 
 1. 提取问题的核心对象、Q 类型和必须回答的信息。
 2. 从 topic bank 选择候选卡，并写出准备使用的原始链条。
 3. 执行 Coverage gate；不通过的题停止生成，不用相邻模块硬套。
-4. 按 Answer contract 生成答案，再逐句反查：直接回答、机制、结果、限定。
-5. 确认每个核心论点都能回指所选卡片；删除无法回指的内容。
-6. 若追加到 practice log：排重、标明题库原题或拓展、添加复练框并更新三项统计。
-7. 运行 `ruby .claude/skills/ielts-part3-answer-generator/scripts/validate_part3_log.rb`。
+4. 按 Answer contract 生成或微调答案，再逐句反查：直接回答、机制、结果、限定。
+5. 执行口语化检查：试着自然口述每句，将偏书面或难以顺口说出的词组换成常用口语表达；只做必要的短语级微调。
+6. 确认每个核心论点都能回指所选卡片；删除无法回指的内容。
+7. 若追加到 practice log：排重、标明题库原题或拓展、添加复练框并更新三项统计。
+8. 运行 `ruby .agents/skills/ielts-part3-answer-generator/scripts/validate_part3_log.rb`。
 
 ## Output
 

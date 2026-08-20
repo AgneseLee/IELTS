@@ -1,4 +1,4 @@
 interface:
   display_name: "IELTS Part 3 观点卡答案"
-  short_description: "用观点卡逻辑链生成并严格校验 IELTS Part 3 短答案"
-  default_prompt: "Use $ielts-part3-answer-generator to generate IELTS Speaking Part 3 answers strictly from the current viewpoint-card logic chains."
+  short_description: "用观点卡生成或口语化微调 IELTS Part 3 短答案"
+  default_prompt: "Use $ielts-part3-answer-generator to generate or lightly polish natural IELTS Speaking Part 3 answers from the current viewpoint-card logic chains."

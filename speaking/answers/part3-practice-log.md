@@ -300,7 +300,7 @@ Technology helps by providing faster access to schedules, prices, maps and revie
 
 - [ ] 不看稿口述
 
-Museums expose people to different forms of art and encourage them to <mark style="background: #ABF7F7A6;">engage with new ideas</mark>. This can stimulate their creativity, help them understand other cultures and provide a relaxing break from daily routines. For example, a historical exhibition can use real objects and personal stories to show how families in another culture once lived. In contrast, passive entertainment often leads to shallower engagement and fewer cultural benefits.
+Museums expose people to different forms of art and encourage them to think about new ideas. This can stimulate their creativity, help them understand other cultures and provide a relaxing break from daily routines. For example, a historical exhibition can use real objects and personal stories to show how families in another culture once lived. In contrast, passive entertainment often leads to shallower engagement and fewer cultural benefits.
 
 ### ✅ 拓展：Why is it important for children to learn drawing?
 
@@ -330,31 +330,31 @@ Yes. Musical participation gives children a way to express emotions and discover
 
 - [ ] 不看稿口述
 
-Yes. Adults can keep their imagination active through artistic exposure and <mark style="background: #ABF7F7A6;">open-ended participation</mark>, which introduce new perspectives and stimulate creativity. For example, photography can encourage an adult to notice ordinary places from unusual angles and tell a story through images. The main barrier is often limited time rather than age itself.
+Yes. Adults can keep their imagination active through art and creative activities, which introduce new perspectives and stimulate creativity. For example, photography can encourage an adult to notice ordinary places from unusual angles and tell a story through images. The main barrier is often limited time rather than age itself.
 
 ### ✅ How important is imagination to children?
 
 - [ ] 不看稿口述
 
-Imagination is very important to children. Exposure to ideas and <mark style="background: #ABF7F7A6;">open-ended practice</mark> help them see new perspectives and become more creative. For example, turning a cardboard box into a pretend spaceship requires a child to invent a setting and a story. By contrast, <mark style="background: #ABF7F7A6;">rigid instruction</mark> and fear of mistakes can limit exploration.
+Imagination is very important to children. New ideas and activities with no fixed answer help them see different perspectives and become more creative. For example, turning a cardboard box into a pretend spaceship requires a child to invent a setting and a story. By contrast, strict teaching and fear of mistakes can limit exploration.
 
 ### ✅ Why do some people like to watch sports events?
 
 - [ ] 不看稿口述
 
-People like sports events because they provide <mark style="background: #ABF7F7A6;">excitement</mark> and relaxation. Watching with other fans <mark style="background: #ABF7F7A6;">creates active participation</mark> and allows people to share strong emotions. For example, cheering together after a last-minute goal can make strangers feel connected for a moment. By contrast, simply checking the result offers much less engagement.
+People like sports events because they are exciting and relaxing. Watching with other fans makes people feel involved and allows them to share strong emotions. For example, cheering together after a last-minute goal can make strangers feel connected for a moment. By contrast, simply checking the result is far less engaging.
 
 ### ✅ What are the main differences between watching a sports event live in a stadium and watching it on TV?
 
 - [ ] 不看稿口述
 
-Watching in a stadium is more <mark style="background: #ABF7F7A6;">immersive</mark>, while television is more accessible. The live atmosphere creates direct participation and stronger emotional engagement. For example, hearing thousands of fans celebrate a goal can heighten the emotion of the moment. Television is more convenient, but the experience is more passive.
+Watching in a stadium makes people feel more involved, while television is easier to access. The live atmosphere creates direct participation and a stronger emotional response. For example, hearing thousands of fans celebrate a goal can make the moment more exciting. Television is more convenient, but the experience is more passive.
 
 ### ✅ Do you think successful movies should have well-known actors or actresses in leading roles?
 
 - [ ] 不看稿口述
 
-Not necessarily. Regular training and practical acting skills matter more than fame because they lead to stronger performance. For example, a well-trained but unknown actor may make a character more believable than a celebrity chosen mainly for publicity. A successful film also needs <mark style="background: #ABF7F7A6;">creative participation</mark> from the whole team and strong ideas rather than a famous name alone.
+Not necessarily. Regular training and practical acting skills matter more than fame because they lead to stronger performance. For example, a well-trained but unknown actor may make a character more believable than a celebrity chosen mainly for publicity. A successful film also needs creative input from the whole team and strong ideas rather than a famous name alone.
 
 ## M18-❤️ 地点、建筑与设施（题库 4 + 拓展 2）
 
@@ -362,7 +362,7 @@ Not necessarily. Regular training and practical acting skills matter more than f
 
 - [ ] 不看稿口述
 
-Not if appearance is prioritised over practical functions. A sensible design and accessible facilities make buildings easier for everyone to use, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. An <mark style="background: #ABF7F7A6;">attractive</mark> exterior without practical value may simply waste resources.
+Not if appearance is prioritised over practical functions. A sensible design and accessible facilities make buildings easier for everyone to use, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. A good-looking exterior without practical value may simply waste resources.
 
 ### ✅ What kind of place do people in your country like to live in?
 
@@ -386,7 +386,7 @@ A well-designed city provides practical transport systems and accessible public 
 
 - [ ] 不看稿口述
 
-The inside is more important than the outside. Practical design and accessible facilities make daily use easier and improve people’s quality of life. For example, good <mark style="background: #ABF7F7A6;">ventilation</mark> and a working lift affect occupants every day, whereas a decorative entrance does not. An attractive exterior without useful functions therefore provides limited value.
+The inside is more important than the outside. Practical design and accessible facilities make daily use easier and improve people’s quality of life. For example, good airflow and a working lift affect occupants every day, whereas a decorative entrance does not. A good-looking exterior without useful functions therefore provides limited value.
 
 ### ✅ Is it better to live in a new building or an old one?
 
@@ -424,7 +424,7 @@ People may feel bored when their daily routines become repetitive and lack meani
 
 - [ ] 不看稿口述
 
-Technology makes leisure more convenient but also more passive. Faster access gives people a wider choice of entertainment and encourages greater participation. For example, a fitness app can help someone join a guided workout at home, while endless short videos may keep them scrolling for hours. Constant notifications and screen use can therefore cause distraction and fatigue, <mark style="background: #ABF7F7A6;">leaving people less refreshed</mark>.
+Technology makes leisure more convenient but also more passive. Faster access gives people a wider choice of entertainment and encourages greater participation. For example, a fitness app can help someone join a guided workout at home, while endless short videos may keep them scrolling for hours. Constant notifications and screen use can therefore cause distraction and fatigue, so people may not feel fully rested.
 
 ## M20-❤️ 科技、媒体与隐私（题库 10 + 拓展 2）
 
@@ -476,7 +476,7 @@ Some are. When AI makes tasks too convenient, students may practise less, which 
 
 - [ ] 不看稿口述
 
-Teachers should <mark style="background: #ABF7F7A6;">require</mark> students to work independently and explain their reasoning. Regular feedback then helps students build practical skills instead of depending on generated answers. For example, students could submit an outline and explain which AI suggestions they accepted or rejected. Teachers should also teach students how to check AI-generated information, so they can use AI as a tool rather than depend on it for answers.
+Teachers should ask students to work independently and explain their reasoning. Regular feedback then helps students build practical skills instead of depending on generated answers. For example, students could submit an outline and explain which AI suggestions they accepted or rejected. Teachers should also teach students how to check AI-generated information, so they can use AI as a tool rather than depend on it for answers.
 
 ### ✅ What are the benefits of technology for learning history?
 
@@ -500,7 +500,7 @@ People choose physical visits because they offer a more engaging experience. Dir
 
 - [ ] 不看稿口述
 
-Technology has made museums more accessible and <mark style="background: #ABF7F7A6;">interactive</mark>. For example, virtual tours and digital guides help people from different countries understand exhibits by offering translations and background information. This provides wider access and encourages greater participation. However, too many screens may create distraction and turn the visit into passive entertainment.
+Technology has made museums easier to access and explore. For example, virtual tours and digital guides help people from different countries understand exhibits by offering translations and background information. This provides wider access and encourages greater participation. However, too many screens may create distraction and turn the visit into passive entertainment.
 
 ## M04-💙 健康与福祉（题库 4）
 
@@ -514,19 +514,19 @@ I think being a doctor is difficult because the work can involve chronic pressur
 
 - [ ] 不看稿口述
 
-Yes, as long as the funding <mark style="background: #ABF7F7A6;">is carefully targeted</mark>. Medical research can provide earlier support and help prevent health problems from becoming more serious. For example, a new screening method may detect an illness at an earlier stage. This can improve long-term well-being and reduce the harm caused by major illnesses.
+Yes, as long as the money is spent carefully. Medical research can provide earlier support and help prevent health problems from becoming more serious. For example, a new screening method may detect an illness at an earlier stage. This can improve long-term well-being and reduce the harm caused by major illnesses.
 
 ### ✅ Do you think it is good to change one's daily routine?
 
 - [ ] 不看稿口述
 
-Yes, if the change helps people develop healthier habits. Early support can prevent minor health problems from becoming more serious. For example, keeping a regular bedtime can prevent poor sleep from becoming a long-term problem. As a result, people are less likely to experience illness or burnout in the long term.
+Yes, if the change helps people develop healthier habits. Getting help early can prevent minor health problems from becoming more serious. For example, keeping a regular bedtime can prevent poor sleep from becoming a long-term problem. As a result, people are less likely to experience illness or burnout in the long term.
 
 ### ✅ Is the early morning the best part of the day?
 
 - [ ] 不看稿口述
 
-It can be, especially for people who use it to<mark style="background: #ABF7F7A6;"> maintain healthy habits</mark>. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being.
+It can be, especially for people who use it to follow a healthy routine. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being.
 
 ## M05-💙 沟通与信任（题库 7）
 
@@ -540,7 +540,7 @@ Some employees hesitate because their managers communicate in an unclear or impe
 
 - [ ] 不看稿口述
 
-Yes, particularly in an international workplace. Clear expression and active listening in another language reduce misunderstandings between colleagues and customers. For example, a bilingual employee can clarify a customer's request immediately. This builds stronger trust and <mark style="background: #ABF7F7A6;">makes professional relationships more effective</mark>.
+Yes, particularly in an international workplace. Clear expression and active listening in another language reduce misunderstandings between colleagues and customers. For example, a bilingual employee can clarify a customer's request immediately. This builds stronger trust and helps people work together more effectively.
 
 ### ✅ Do you still keep in touch with your friends from childhood? Why or why not?
 
@@ -552,25 +552,25 @@ Yes, I keep in touch with a few of them because clear and regular communication 
 
 - [ ] 不看稿口述
 
-No, I do not think it will replace face-to-face communication completely. Online messages can feel <mark style="background: #ABF7F7A6;">impersonal</mark> and create uncertainty because people cannot always read tone or reactions clearly. For example, a brief reply may seem rude online even when that was not the sender's intention. Direct conversation allows clearer expression and active listening, which reduce misunderstandings and build stronger trust.
+No, I do not think it will replace face-to-face communication completely. Online messages can feel less personal and create uncertainty because people cannot always read tone or reactions clearly. For example, a brief reply may seem rude online even when that was not the sender's intention. Direct conversation allows clearer expression and active listening, which reduce misunderstandings and build stronger trust.
 
 ### ✅ Why do some people feel angry when others don't reply to their message?
 
 - [ ] 不看稿口述
 
-They may interpret the silence as unclear or impersonal communication. Without an explanation, uncertainty grows and they may assume that the other person is <mark style="background: #ABF7F7A6;">ignoring</mark> them. For example, seeing that a message was read without receiving a reply can create this doubt. This misunderstanding can weaken trust and make the relationship more <mark style="background: #ABF7F7A6;">tense</mark>.
+They may see the silence as unclear or unfriendly communication. Without an explanation, they may assume that the other person does not want to reply to them. For example, seeing that a message was read without receiving a reply can create this doubt. This misunderstanding can weaken trust and make the relationship more uncomfortable.
 
 ### ✅ What are the differences between online and face-to-face communication?
 
 - [ ] 不看稿口述
 
-Face-to-face communication usually creates more trust, while online communication is more likely to feel impersonal. In person, clear expression and active listening help people notice reactions and resolve misunderstandings. For example, a joke that seems rude in a text may be clear from someone's tone in person. Online, missing context can create uncertainty and gradually weaken relationships.
+Face-to-face communication usually creates more trust, while online communication is more likely to feel less personal. In person, clear expression and active listening help people notice reactions and clear up misunderstandings. For example, a joke that seems rude in a text may be clear from someone's tone in person. Online, missing context can create uncertainty and gradually weaken relationships.
 
 ### ✅ Do you think watching talk shows is a waste of time?
 
 - [ ] 不看稿口述
 
-Not necessarily, because a good talk show can demonstrate clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. This can show viewers how stronger trust is built through communication.
+Not necessarily, because a good talk show can show clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. This can show viewers how trust is built through communication.
 
 ## M06-💙 规则与责任（题库 7）
 
@@ -578,31 +578,31 @@ Not necessarily, because a good talk show can demonstrate clear expression and a
 
 - [ ] 不看稿口述
 
-Yes, but rewards should be linked to clear and fair rules. When children understand which behaviour leads to a reward, the consequence becomes predictable and <mark style="background: #ABF7F7A6;">encourages greater responsibility. </mark>For example, finishing homework on time could earn a little extra playtime. Parents should therefore reward consistent effort rather than give prizes without a clear reason.
+Yes, but rewards should be linked to clear and fair rules. When children understand which behaviour leads to a reward, the consequence becomes predictable and encourages them to act responsibly. For example, finishing homework on time could earn a little extra playtime. Parents should therefore reward consistent effort rather than give prizes without a clear reason.
 
 ### ✅ Do rewards help a child become better?
 
 - [ ] 不看稿口述
 
-They can help when they are part of a clear and fair system. Predictable consequences show children which actions are responsible and encourage them to repeat that behaviour. For example, praising a child whenever they return borrowed items <mark style="background: #ABF7F7A6;">reinforces responsibility.</mark> However, inconsistent rewards may seem unfair and weaken the child's trust in the rules.
+They can help when they are part of a clear and fair system. Predictable consequences show children which actions are responsible and encourage them to repeat that behaviour. For example, praising a child whenever they return borrowed items encourages them to behave responsibly. However, inconsistent rewards may seem unfair and weaken the child's trust in the rules.
 
 ### ✅ Do you think it is necessary to have laws on the use of mobile phones?
 
 - [ ] 不看稿口述
 
-Yes, limited laws are necessary in situations where phone use can affect other people. Clear and fair rules create predictable consequences and encourage more responsible behaviour. For example, drivers know they may be fined for holding a phone while driving. However, excessive restrictions may cause <mark style="background: #ABF7F7A6;">resistance</mark> and weaken public trust.
+Yes, limited laws are necessary in situations where phone use can affect other people. Clear and fair rules create predictable consequences and encourage more responsible behaviour. For example, drivers know they may be fined for holding a phone while driving. However, excessive restrictions may make people resist the rules and weaken public trust.
 
 ### ✅ What are the benefits for people if they obey the rules?
 
 - [ ] 不看稿口述
 
-Obeying clear and fair rules makes consequences more predictable for everyone. People can understand what others are expected to do, which encourages more responsible behaviour. For example, orderly queues work because everyone knows they should wait their turn. This reduces uncertainty and helps maintain trust <mark style="background: #ABF7F7A6;">within</mark> a school, workplace or community.
+Obeying clear and fair rules makes consequences more predictable for everyone. People can understand what others are expected to do, which encourages more responsible behaviour. For example, orderly queues work because everyone knows they should wait their turn. This reduces uncertainty and helps maintain trust in a school, workplace or community.
 
 ### ✅ How can parents teach children to obey rules?
 
 - [ ] 不看稿口述
 
-Parents should set a small number of clear and fair rules. They should then apply predictable consequences so children can connect their choices with the results. For example, breaking an agreed bedtime rule could mean less screen time the next day. This consistency encourages responsible behaviour and builds trust.
+Parents should set a small number of clear and fair rules. They should then use predictable consequences so children can connect their choices with the results. For example, breaking an agreed bedtime rule could mean less screen time the next day. This consistency encourages responsible behaviour and builds trust.
 
 ### ✅ Should parents limit their children's use of computer programs and computer games?
 
@@ -614,7 +614,7 @@ Yes, but the limits should be clear and fair. Predictable consequences can encou
 
 - [ ] 不看稿口述
 
-I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. A blanket ban may feel unfair, cause resistance and ultimately weaken trust in the policy.
+I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. Such a complete ban may feel unfair, make children resist the rule and ultimately weaken trust in the policy.
 
 ## M08-💙 信息与判断（题库 7）
 
@@ -634,7 +634,7 @@ The main problem is that too much advice can create confusion. When people hear 
 
 - [ ] 不看稿口述
 
-It can be useful, but people should be <mark style="background: #ABF7F7A6;">cautious</mark>. The Internet provides fast access to varied advice, while weak verification and data collection create misinformation and privacy risks. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision.
+It can be useful, but people should be careful. The Internet provides fast access to varied advice, while weak verification and data collection create misinformation and privacy risks. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision.
 
 ### ✅ Who can children turn to for help when making a decision?
 
@@ -646,7 +646,7 @@ Children can turn to their parents or teachers for help. These adults can provid
 
 - [ ] 不看稿口述
 
-Two important factors are informed decisions and strong practical skills. Reliable information from varied sources improves judgement, while regular practice and feedback improve performance. For example, a job seeker can compare reliable career information and practise interview skills. Together, these help people make better choices and become <mark style="background: #ABF7F7A6;">more capable in </mark>their education or work.
+Two important factors are informed decisions and strong practical skills. Reliable information from varied sources improves judgement, while regular practice and feedback improve performance. For example, a job seeker can compare reliable career information and practise interview skills. Together, these help people make better choices and do better in their education or work.
 
 ### ✅ Should people prepare before giving advice?
 
@@ -704,7 +704,7 @@ People can reduce excessive consumption and use practical green infrastructure w
 
 - [ ] 不看稿口述
 
-Change is necessary, but it does not have to be sudden or extreme. Practical transport infrastructure and <mark style="background: #ABF7F7A6;">incentives</mark> can gradually encourage greener behaviour. For example, reliable buses and discounted fares can reduce private car use. This approach can lower pollution and resource loss without demanding an unrealistic immediate change.
+Change is necessary, but it does not have to be sudden or extreme. Practical transport systems and lower prices can gradually encourage greener behaviour. For example, reliable buses and discounted fares can reduce private car use. This approach can lower pollution and resource loss without demanding an unrealistic immediate change.
 
 ### ✅ What do you think of the future of electric cars?
 
@@ -718,7 +718,7 @@ I think electric cars will become more common as practical infrastructure and in
 
 - [ ] 不看稿口述
 
-**On the bright side**, Fame can bring a child wider influence and new opportunities because visibility attracts public attention. However, constant public exposure may cause a serious loss of privacy. For example, a child actor may be followed by photographers outside work. This pressure can create stress and may also encourage misleading choices.
+On the bright side, fame can bring a child wider influence and new opportunities because visibility attracts public attention. However, constant public exposure may cause a serious loss of privacy. For example, a child actor may be followed by photographers outside work. This pressure can create stress and may also lead to poor choices.
 
 ### ✅ Do people become famous because of their talent?
 
@@ -736,19 +736,19 @@ No, because the disadvantages would outweigh the opportunities for me. Public vi
 
 - [ ] 不看稿口述
 
-Persuasive advertisements can give unnecessary products too much visibility and credibility. Repeated exposure attracts attention and may influence people before they consider what they actually need. For example, an influencer may repeatedly promote a phone that a viewer does not need. As a result, they can make misleading choices and buy items they would <mark style="background: #ABF7F7A6;">otherwise</mark> ignore.
+Persuasive advertisements can give unnecessary products too much visibility and credibility. Repeated exposure attracts attention and may influence people before they consider what they actually need. For example, an influencer may repeatedly promote a phone that a viewer does not need. As a result, they can make poor choices and buy items they would normally ignore.
 
 ### ✅ Do you think advertisements can influence our decisions when shopping?
 
 - [ ] 不看稿口述
 
-Yes, because advertisements give products greater visibility and apparent credibility. This attracts public attention and can strongly influence what consumers consider buying. For example, a famous athlete can make a pair of shoes appear more <mark style="background: #ABF7F7A6;">trustworthy</mark>. After repeated exposure to persuasive advertising, people may make misleading choices instead of <mark style="background: #ABF7F7A6;">judging</mark> their needs carefully.
+Yes, because advertisements give products greater visibility and apparent credibility. This attracts public attention and can strongly influence what consumers consider buying. For example, a famous athlete can make a pair of shoes seem worth buying. After repeated exposure to persuasive advertising, people may make poor choices instead of thinking carefully about whether they need the product.
 
 ### ✅ Do you think the influence of advertising is good?
 
 - [ ] 不看稿口述
 
-It can be useful, but its influence is not always good. Visibility helps products reach public attention and creates wider opportunities for businesses. For example, an advert may help a small shop find customers but <mark style="background: #ABF7F7A6;">exaggerate</mark> a product's benefits. However, persuasive advertising can also lead consumers towards misleading choices.
+It can be useful, but its influence is not always good. Visibility helps products attract public attention and creates wider opportunities for businesses. For example, an advert may help a small shop find customers but make a product seem better than it is. However, persuasive advertising can also lead consumers to make poor choices.
 
 ### ✅ What are the advantages and disadvantages of advertisements?
 

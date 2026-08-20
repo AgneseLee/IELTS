@@ -47,7 +47,7 @@
 - **反向链：** passive or exam-driven learning → limited application → weaker independent thinking
 - **适用：** 学校、自学、语言、职业培训、儿童发展、天赋
 
-## M04-💙 健康与福祉
+## M04-💙🥚 健康与福祉
 
 - **正向链：** healthy habits and early support → fewer serious problems → better long-term well-being
 - **反向链：** inactivity or chronic pressure → poor sleep and anxiety → illness or burnout

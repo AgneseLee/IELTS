@@ -26,9 +26,9 @@ extensions = blocks.count { |question, _, _| question.start_with?("拓展：") }
 originals = blocks.length - extensions
 checked = blocks.count { |_, mark, _| mark == "x" }
 
-original_row = text.match(/\| 题库原题短答案覆盖 \| (\d+) \| (\d+) \| (\d+) \|/)
-practice_row = text.match(/\| 本页答案口述复练 \| (\d+) \| (\d+) \| (\d+) \|/)
-extension_row = text.match(/\| 拓展问法短答案 \| (\d+) \| — \| (\d+) \|/)
+original_row = text.match(/\|\s*题库原题短答案覆盖\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|/)
+practice_row = text.match(/\|\s*本页答案口述复练\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|/)
+extension_row = text.match(/\|\s*拓展问法短答案\s*\|\s*(\d+)\s*\|\s*—\s*\|\s*(\d+)\s*\|/)
 errors << "Missing original-answer progress row" unless original_row
 errors << "Missing practice progress row" unless practice_row
 errors << "Missing extension progress row" unless extension_row

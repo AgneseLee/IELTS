@@ -54,8 +54,6 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 答案必须使用以下结构；markers 只用于校验，不属于口述内容：
 
 ```md
-# <exact English cue-card title>
-
 ## Cue Card
 
 **<exact English cue-card title>**
@@ -100,6 +98,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 ## Save and validate
 
 1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。
+   不要在文件正文中添加 H1；Obsidian 已把文件名显示为页面标题，重复 H1 会造成标题重复。
 2. 自动写入 `speaking/answers/part2/<title>.md`。批量生成时每题单独保存。
 3. 新文件可直接创建。若目标已存在，只有用户明确要求 regenerate、update 或 overwrite 时才替换；否则保留并报告冲突。
 4. 对每个新建或更新文件运行：

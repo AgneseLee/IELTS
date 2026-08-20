@@ -1,5 +1,3 @@
-# Describe a person who solved a problem in a smart way
-
 ## Cue Card
 
 **Describe a person who solved a problem in a smart way**

@@ -1,5 +1,3 @@
-# Describe a time when a person did something to help you solve a problem
-
 ## Cue Card
 
 **Describe a time when a person did something to help you solve a problem**

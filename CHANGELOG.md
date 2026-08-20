@@ -89,6 +89,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 移除 Speaking Part 2 答案正文中的重复 H1，改用 Obsidian 文件标题并保留完整 Cue Card
 - 将 Speaking Part 2 答案的叙事与反思比例由 3:7 调整为 45:55，并同步更新校验器与现有示范答案
 - 更新 Speaking Part 2 答案生成 skill 与示范答案，完整校验 Cue Card，并优先复用素材库固定搭配以控制记忆负担
 - 补充七张中频 Part 3 观点卡的 42 道短答案与贴题例子，区分 M08 信息判断和 M14 计划执行，并优化 M15 广告表达

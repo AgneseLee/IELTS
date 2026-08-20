@@ -97,14 +97,11 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
     errors: list[str] = []
     text = path.read_text(encoding="utf-8")
 
-    titles = re.findall(r"^# (.+?)\s*$", text, re.MULTILINE)
-    title = ""
-    if len(titles) != 1:
-        errors.append(f"expected one H1 cue-card title, found {len(titles)}")
-    else:
-        title = titles[0]
-        if path.stem != title.rstrip(".?!").replace("/", " or "):
-            errors.append("filename does not match the sanitized H1 cue-card title")
+    h1_titles = re.findall(r"^# (.+?)\s*$", text, re.MULTILINE)
+    if h1_titles:
+        errors.append(
+            "H1 titles are not allowed; Obsidian displays the filename as the title"
+        )
 
     bank_lines = re.findall(
         r"^> Bank:\s*(B[1-8])\s*\|\s*Modules:\s*(.+?)\s*$", text, re.MULTILINE
@@ -134,15 +131,18 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         cue_section = between(text, CUE_HEADING, ABILITY_HEADING)
     displayed_titles = re.findall(r"^\*\*(.+?)\*\*\s*$", cue_section, re.MULTILINE)
     displayed_bullets = re.findall(r"^> - (.+?)\s*$", cue_section, re.MULTILINE)
+    title = ""
     if len(displayed_titles) != 1:
         errors.append(f"expected one visible cue-card title, found {len(displayed_titles)}")
-    elif title and displayed_titles[0] != title:
-        errors.append("visible cue-card title does not match the H1 title")
+    else:
+        title = displayed_titles[0]
+        if path.stem != title.rstrip(".?!").replace("/", " or "):
+            errors.append("filename does not match the sanitized Cue Card title")
     if not re.search(r"^> \*\*You should say:\*\*\s*$", cue_section, re.MULTILINE):
         errors.append("visible Cue Card is missing 'You should say'")
     expected_cue = source_cue(title) if title else None
     if expected_cue is None:
-        errors.append("H1 cue-card title was not found in topic-bank.md")
+        errors.append("visible cue-card title was not found in topic-bank.md")
     elif displayed_bullets != expected_cue[1]:
         errors.append(
             "visible Cue Card bullets do not exactly match topic-bank.md "

@@ -8,11 +8,11 @@
 
 ## 进度
 
-| 项目 | 已完成 | 剩余 | 总数 |
-|---|---:|---:|---:|
-| 题库原题短答案覆盖 | 68 | 270 | 338 |
-| 本页答案口述复练 | 0 | 82 | 82 |
-| 拓展问法短答案 | 14 | — | 14 |
+| 项目        | 已完成 |  剩余 |  总数 |
+| --------- | --: | --: | --: |
+| 题库原题短答案覆盖 | 106 | 232 | 338 |
+| 本页答案口述复练  |   0 | 120 | 120 |
+| 拓展问法短答案   |  14 |   — |  14 |
 
 ## M03-❤️ 学习与技能（题库 11）
 
@@ -244,79 +244,55 @@ Yes. Different experiences and digital habits make young people more likely to c
 
 Young people often prefer fast-paced programmes on streaming platforms, while older viewers may choose traditional television content. Their different experiences and digital familiarity create these viewing habits. For example, younger viewers may stream short reality shows on demand, while older viewers follow a scheduled news programme. However, wider access to technology is gradually narrowing the gap.
 
-## M14-❤️ 建议、计划与决定（题库 11 + 拓展 1）
+## M14-❤️ 计划与执行（题库 7 + 拓展 1）
 
 ### ✅ Do you think it’s important to plan ahead?
 
 - [ ] 不看稿口述
 
-Yes, definitely. A good plan is based on reliable information and clear priorities, so people can decide what to do first and how to use their time. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. This lowers the risk of costly mistakes and often leads to better results.
+Yes, definitely. A good plan starts with clear priorities and realistic sequencing, so people know what to do first and how to use their time. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. This lowers the risk of costly mistakes and often leads to better results.
 
 ### ✅ Should children ask their teachers or parents for advice when making plans?
 
 - [ ] 不看稿口述
 
-Yes, because adults can provide reliable information and help children identify clear priorities. Based on this advice, children can make informed decisions and develop more practical plans. For example, a teacher can explain which subjects are required for a career that interests a student. This lowers the risk of choosing an unsuitable path.
-
-### ✅ What kind of help do people need when looking for a new job?
-
-- [ ] 不看稿口述
-
-They mainly need reliable information and clear career advice. This kind of support helps them identify their priorities and make an informed decision about each opportunity. For example, a mentor can help them compare the actual training, duties and working hours of two positions. As a result, they are less likely to choose an unsuitable job.
-
-### ✅ What are the problems if you ask too many people for advice?
-
-- [ ] 不看稿口述
-
-The main problem is that too much advice can create confusion. When people hear many conflicting opinions, they may lose sight of their own priorities. For example, conflicting recommendations about which university course to choose may cause a student to keep changing their application. As a result, they may delay the decision or make a poor choice.
+Yes, because adults can help children identify clear priorities and arrange realistic next steps. This support helps children turn their chosen direction into an actionable plan. For example, a teacher can explain which subjects are required for a career that interests a student. This lowers the risk of choosing an unsuitable path.
 
 ### ✅ 拓展：Is it always necessary to follow a plan?
 
 - [ ] 不看稿口述
 
-No, not always. If a plan is too rigid, people may struggle to respond to unexpected changes, such as a cancelled flight or a sudden illness. This can cause confusion, delay important decisions and sometimes lead to poor results. Therefore, it is important to stay flexible and adjust the plan when necessary.
+No, not always. Rigid scheduling can make a plan impractical when unexpected changes occur, such as a cancelled flight or a sudden illness. This can cause delays and lead to poor results. Therefore, it is important to stay flexible and adjust the plan when necessary.
 
 ### ✅ What should people do to achieve their goals?
 
 - [ ] 不看稿口述
 
-People should begin with clear priorities and an informed plan. They then need regular practice and feedback to develop the necessary skills. For example, someone preparing for a language exam can schedule speaking practice and use a teacher’s comments to correct recurring mistakes. This improves performance, while flexibility lowers the risk of poor decisions.
+People should begin with clear priorities and an actionable plan. They then need regular practice and feedback to develop the necessary skills. For example, someone preparing for a language exam can schedule speaking practice and use a teacher’s comments to correct recurring mistakes. This improves performance, while flexibility lowers the risk of poor results.
 
 ### ✅ Do you think children should plan their future careers?
 
 - [ ] 不看稿口述
 
-Yes, but children’s career plans should remain flexible. Reliable information about their skills and priorities helps them make informed choices. For example, a child interested in medicine can study biology and speak to a doctor before making a firm decision. A rigid plan made too early may instead lead them towards an unsuitable path.
+Yes, but children’s career plans should remain flexible. Clear priorities and realistic next steps help them create an actionable plan. For example, a child interested in medicine can study biology and speak to a doctor before making a firm decision. A rigid plan made too early may instead lead them towards an unsuitable path.
 
 ### ✅ How do people usually plan holidays?
 
 - [ ] 不看稿口述
 
-People usually begin by collecting reliable information about transport, accommodation and activities. They then set clear priorities and use the information to create a practical plan. For example, a family may book a hotel near public transport because convenience matters more to them than nightlife. This lowers the risk of problems and leads to a better trip.
+People usually begin by setting clear priorities and arranging activities in a realistic order. This gives them an actionable plan for transport, accommodation and activities. For example, a family may book a hotel near public transport because convenience matters more to them than nightlife. This lowers the risk of problems and leads to a better trip.
 
 ### ✅ Is it important to plan a holiday ahead?
 
 - [ ] 不看稿口述
 
-Yes. Reliable information and clear priorities help travellers arrange transport and accommodation, reducing the risk of costly mistakes. For example, booking train tickets early can help travellers avoid higher prices or sold-out services. However, the plan should stay flexible in case conditions change.
-
-### ✅ Is it good to ask advice from strangers online?
-
-- [ ] 不看稿口述
-
-It can be useful, but people should be cautious. The Internet provides fast access to varied advice, while weak verification and data collection create misinformation and privacy risks. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision.
+Yes. Clear priorities and realistic scheduling help travellers create an actionable plan and reduce costly mistakes. For example, booking train tickets early can help travellers avoid higher prices or sold-out services. However, the plan should stay flexible in case conditions change.
 
 ### ✅ How does technology help people make plans?
 
 - [ ] 不看稿口述
 
-Technology helps by providing faster access to schedules, prices, maps and reviews. This information allows people to compare options and identify clear priorities. For example, a travel app can show whether a cheaper hotel would add an hour to each day’s journey. As a result, people can make informed plans more efficiently and with less risk.
-
-### ✅ Who can children turn to for help when making a decision?
-
-- [ ] 不看稿口述
-
-Children can turn to their parents or teachers for help. These adults can provide reliable information and help them identify their priorities. For example, a teacher can explain the workload of different school subjects, while a parent may understand the child’s interests. This lowers the risk of a poor decision, although children should still make age-appropriate choices themselves.
+Technology helps by providing faster access to schedules, prices, maps and reviews. People can use these tools to set clear priorities and arrange realistic next steps. For example, a travel app can show whether a cheaper hotel would add an hour to each day’s journey. As a result, they can create actionable plans more efficiently and with less risk.
 
 ## M17-❤️ 艺术、娱乐与想象力（题库 7 + 拓展 3）
 
@@ -525,6 +501,272 @@ People choose physical visits because they offer a more engaging experience. Dir
 - [ ] 不看稿口述
 
 Technology has made museums more accessible and <mark style="background: #ABF7F7A6;">interactive</mark>. For example, virtual tours and digital guides help people from different countries understand exhibits by offering translations and background information. This provides wider access and encourages greater participation. However, too many screens may create distraction and turn the visit into passive entertainment.
+
+## M04-💙 健康与福祉（题库 4）
+
+### ✅ Do you think being a doctor is easy or difficult?
+
+- [ ] 不看稿口述
+
+I think being a doctor is difficult because the work can involve chronic pressure. Constant responsibility may lead to poor sleep and anxiety, especially when doctors have little time to recover. For example, a doctor may work overnight and still face critical decisions the next morning. Over time, this pressure can cause burnout and harm their long-term well-being.
+
+### ✅ Do you think governments should put a large amount of money into medical research?
+
+- [ ] 不看稿口述
+
+Yes, as long as the funding <mark style="background: #ABF7F7A6;">is carefully targeted</mark>. Medical research can provide earlier support and help prevent health problems from becoming more serious. For example, a new screening method may detect an illness at an earlier stage. This can improve long-term well-being and reduce the harm caused by major illnesses.
+
+### ✅ Do you think it is good to change one's daily routine?
+
+- [ ] 不看稿口述
+
+Yes, if the change helps people develop healthier habits. Early support can prevent minor health problems from becoming more serious. For example, keeping a regular bedtime can prevent poor sleep from becoming a long-term problem. As a result, people are less likely to experience illness or burnout in the long term.
+
+### ✅ Is the early morning the best part of the day?
+
+- [ ] 不看稿口述
+
+It can be, especially for people who use it to<mark style="background: #ABF7F7A6;"> maintain healthy habits</mark>. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being.
+
+## M05-💙 沟通与信任（题库 7）
+
+### ✅ Why are employees reluctant to ask their managers for help?
+
+- [ ] 不看稿口述
+
+Some employees hesitate because their managers communicate in an unclear or impersonal way. As a result, they cannot tell whether asking for help will lead to support or criticism. For example, a junior worker may fear being blamed for asking a simple question. This uncertainty makes them feel unsafe, so they may remain silent even when they need help.
+
+### ✅ Does speaking other languages help at work?
+
+- [ ] 不看稿口述
+
+Yes, particularly in an international workplace. Clear expression and active listening in another language reduce misunderstandings between colleagues and customers. For example, a bilingual employee can clarify a customer's request immediately. This builds stronger trust and <mark style="background: #ABF7F7A6;">makes professional relationships more effective</mark>.
+
+### ✅ Do you still keep in touch with your friends from childhood? Why or why not?
+
+- [ ] 不看稿口述
+
+Yes, I keep in touch with a few of them because clear and regular communication maintains trust. We listen to one another and explain what is happening in our lives, so distance causes fewer misunderstandings. For example, a short weekly call gives us time to share important changes. This helps us preserve a strong friendship even when we cannot meet often.
+
+### ✅ Do you think online communication through social media will replace face-to-face communication?
+
+- [ ] 不看稿口述
+
+No, I do not think it will replace face-to-face communication completely. Online messages can feel <mark style="background: #ABF7F7A6;">impersonal</mark> and create uncertainty because people cannot always read tone or reactions clearly. For example, a brief reply may seem rude online even when that was not the sender's intention. Direct conversation allows clearer expression and active listening, which reduce misunderstandings and build stronger trust.
+
+### ✅ Why do some people feel angry when others don't reply to their message?
+
+- [ ] 不看稿口述
+
+They may interpret the silence as unclear or impersonal communication. Without an explanation, uncertainty grows and they may assume that the other person is <mark style="background: #ABF7F7A6;">ignoring</mark> them. For example, seeing that a message was read without receiving a reply can create this doubt. This misunderstanding can weaken trust and make the relationship more <mark style="background: #ABF7F7A6;">tense</mark>.
+
+### ✅ What are the differences between online and face-to-face communication?
+
+- [ ] 不看稿口述
+
+Face-to-face communication usually creates more trust, while online communication is more likely to feel impersonal. In person, clear expression and active listening help people notice reactions and resolve misunderstandings. For example, a joke that seems rude in a text may be clear from someone's tone in person. Online, missing context can create uncertainty and gradually weaken relationships.
+
+### ✅ Do you think watching talk shows is a waste of time?
+
+- [ ] 不看稿口述
+
+Not necessarily, because a good talk show can demonstrate clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. This can show viewers how stronger trust is built through communication.
+
+## M06-💙 规则与责任（题库 7）
+
+### ✅ Should parents reward children? Why and how?
+
+- [ ] 不看稿口述
+
+Yes, but rewards should be linked to clear and fair rules. When children understand which behaviour leads to a reward, the consequence becomes predictable and <mark style="background: #ABF7F7A6;">encourages greater responsibility. </mark>For example, finishing homework on time could earn a little extra playtime. Parents should therefore reward consistent effort rather than give prizes without a clear reason.
+
+### ✅ Do rewards help a child become better?
+
+- [ ] 不看稿口述
+
+They can help when they are part of a clear and fair system. Predictable consequences show children which actions are responsible and encourage them to repeat that behaviour. For example, praising a child whenever they return borrowed items <mark style="background: #ABF7F7A6;">reinforces responsibility.</mark> However, inconsistent rewards may seem unfair and weaken the child's trust in the rules.
+
+### ✅ Do you think it is necessary to have laws on the use of mobile phones?
+
+- [ ] 不看稿口述
+
+Yes, limited laws are necessary in situations where phone use can affect other people. Clear and fair rules create predictable consequences and encourage more responsible behaviour. For example, drivers know they may be fined for holding a phone while driving. However, excessive restrictions may cause <mark style="background: #ABF7F7A6;">resistance</mark> and weaken public trust.
+
+### ✅ What are the benefits for people if they obey the rules?
+
+- [ ] 不看稿口述
+
+Obeying clear and fair rules makes consequences more predictable for everyone. People can understand what others are expected to do, which encourages more responsible behaviour. For example, orderly queues work because everyone knows they should wait their turn. This reduces uncertainty and helps maintain trust <mark style="background: #ABF7F7A6;">within</mark> a school, workplace or community.
+
+### ✅ How can parents teach children to obey rules?
+
+- [ ] 不看稿口述
+
+Parents should set a small number of clear and fair rules. They should then apply predictable consequences so children can connect their choices with the results. For example, breaking an agreed bedtime rule could mean less screen time the next day. This consistency encourages responsible behaviour and builds trust.
+
+### ✅ Should parents limit their children's use of computer programs and computer games?
+
+- [ ] 不看稿口述
+
+Yes, but the limits should be clear and fair. Predictable consequences can encourage children to use programs more responsibly without constant arguments. For example, parents could allow one hour of gaming after homework is finished. Excessive or inconsistent restrictions may instead cause resistance and weaken trust between parents and children.
+
+### ✅ What do you think about some countries banning children from using social media?
+
+- [ ] 不看稿口述
+
+I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. A blanket ban may feel unfair, cause resistance and ultimately weaken trust in the policy.
+
+## M08-💙 信息与判断（题库 7）
+
+### ✅ What kind of help do people need when looking for a new job?
+
+- [ ] 不看稿口述
+
+They mainly need reliable information and clear career advice. This kind of support helps them identify their priorities and make an informed decision about each opportunity. For example, a mentor can help them compare the actual training, duties and working hours of two positions. As a result, they are less likely to choose an unsuitable job.
+
+### ✅ What are the problems if you ask too many people for advice?
+
+- [ ] 不看稿口述
+
+The main problem is that too much advice can create confusion. When people hear many conflicting opinions, they may lose sight of their own priorities. For example, conflicting recommendations about which university course to choose may cause a student to keep changing their application. As a result, they may delay the decision or make a poor choice.
+
+### ✅ Is it good to ask advice from strangers online?
+
+- [ ] 不看稿口述
+
+It can be useful, but people should be <mark style="background: #ABF7F7A6;">cautious</mark>. The Internet provides fast access to varied advice, while weak verification and data collection create misinformation and privacy risks. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision.
+
+### ✅ Who can children turn to for help when making a decision?
+
+- [ ] 不看稿口述
+
+Children can turn to their parents or teachers for help. These adults can provide reliable information and help them identify their priorities. For example, a teacher can explain the workload of different school subjects, while a parent may understand the child’s interests. This lowers the risk of a poor decision, although children should still make age-appropriate choices themselves.
+
+### ✅ What are the factors leading to people's success?
+
+- [ ] 不看稿口述
+
+Two important factors are informed decisions and strong practical skills. Reliable information from varied sources improves judgement, while regular practice and feedback improve performance. For example, a job seeker can compare reliable career information and practise interview skills. Together, these help people make better choices and become <mark style="background: #ABF7F7A6;">more capable in </mark>their education or work.
+
+### ✅ Should people prepare before giving advice?
+
+- [ ] 不看稿口述
+
+Yes, because useful advice should be based on reliable information from varied sources. Preparation helps people form an informed judgement instead of passing on an assumption. For example, someone should check current transport schedules before recommending a travel route. This makes the advice more likely to support a good decision.
+
+### ✅ What is the most important factor in an advertisement?
+
+- [ ] 不看稿口述
+
+The most important factor is reliable information. Accurate details help consumers form an informed judgement and make a better decision about a product. For example, clear specifications allow buyers to compare two phones properly. Misleading or excessive information can instead distort their judgement and lead to a poor choice.
+
+## M10-💙 创造力与探索（题库 5）
+
+### ✅ Why does modern society need talents of all kinds?
+
+- [ ] 不看稿口述
+
+Modern society needs varied talents because exposure to different ideas creates new perspectives. When people with different strengths explore a problem together, they are more likely to think creatively. For example, a designer and an engineer may approach the same product differently. Relying on one rigid approach can limit exploration and produce weaker solutions.
+
+### ✅ Do you think there are too many subjects for students to learn?
+
+- [ ] 不看稿口述
+
+Not necessarily, because exposure to different subjects can give students new perspectives. If lessons include open-ended practice, this variety can encourage exploration and greater creativity. For example, combining art and science can help students design an original model. The problem arises when every subject is taught rigidly and students become afraid of making mistakes.
+
+### ✅ How do people learn new things?
+
+- [ ] 不看稿口述
+
+People learn through regular practice and feedback, as well as exposure to new ideas. Practice strengthens their practical skills, while open-ended exploration gives them new perspectives. For example, a language learner can try a new expression and improve it after receiving feedback. As a result, they can perform better and think more creatively.
+
+### ✅ How do artworks inspire people?
+
+- [ ] 不看稿口述
+
+Artworks expose people to ideas and perspectives they may not have considered before. This encourages them to explore different interpretations and think more openly. For example, an unusual painting may inspire a designer to experiment with colour. As a result, they may become more creative in their own work or problem-solving.
+
+### ✅ Do you think imagination is essential for scientists?
+
+- [ ] 不看稿口述
+
+Yes, because scientists need to explore ideas beyond familiar explanations. Exposure to different perspectives and open-ended practice can help them imagine new ways to approach a problem. For example, an unexpected result may encourage a researcher to test a different explanation. Rigid thinking or fear of mistakes would limit that exploration and weaken creativity.
+
+## M12-💙 环境与可持续性（题库 3）
+
+### ✅ What can people do to protect the natural world?
+
+- [ ] 不看稿口述
+
+People can reduce excessive consumption and use practical green infrastructure when it is available. These choices encourage greener behaviour and produce less waste and pollution. For example, they can take public transport and avoid unnecessary packaging. Over time, they can limit environmental damage and reduce the loss of natural resources.
+
+### ✅ Do you think people need to change the way of transportation drastically to protect the environment?
+
+- [ ] 不看稿口述
+
+Change is necessary, but it does not have to be sudden or extreme. Practical transport infrastructure and <mark style="background: #ABF7F7A6;">incentives</mark> can gradually encourage greener behaviour. For example, reliable buses and discounted fares can reduce private car use. This approach can lower pollution and resource loss without demanding an unrealistic immediate change.
+
+### ✅ What do you think of the future of electric cars?
+
+- [ ] 不看稿口述
+
+I think electric cars will become more common as practical infrastructure and incentives improve. These supports can encourage greener transport choices and reduce pollution and resource loss. For example, more charging stations can make switching to an electric car easier. However, progress may remain limited where charging infrastructure is not practical.
+
+## M15-💙 名人与广告（题库 9）
+
+### ✅ What are the advantages and disadvantages of being a famous child?
+
+- [ ] 不看稿口述
+
+**On the bright side**, Fame can bring a child wider influence and new opportunities because visibility attracts public attention. However, constant public exposure may cause a serious loss of privacy. For example, a child actor may be followed by photographers outside work. This pressure can create stress and may also encourage misleading choices.
+
+### ✅ Do people become famous because of their talent?
+
+- [ ] 不看稿口述
+
+Talent helps because regular practice can strengthen practical skills and improve performance. However, fame also requires visibility and credibility to attract public attention. For example, a skilled singer may reach a wide audience after sharing a performance online. A talented person may therefore remain unknown without the exposure that creates wider opportunities.
+
+### ✅ Do you want to be a famous person?
+
+- [ ] 不看稿口述
+
+No, because the disadvantages would outweigh the opportunities for me. Public visibility could increase my influence, but constant public exposure might lead to a loss of privacy. For example, photographers might follow me during my private time. That stress would make fame less attractive despite the attention it brings.
+
+### ✅ Why do people buy things they don’t need?
+
+- [ ] 不看稿口述
+
+Persuasive advertisements can give unnecessary products too much visibility and credibility. Repeated exposure attracts attention and may influence people before they consider what they actually need. For example, an influencer may repeatedly promote a phone that a viewer does not need. As a result, they can make misleading choices and buy items they would <mark style="background: #ABF7F7A6;">otherwise</mark> ignore.
+
+### ✅ Do you think advertisements can influence our decisions when shopping?
+
+- [ ] 不看稿口述
+
+Yes, because advertisements give products greater visibility and apparent credibility. This attracts public attention and can strongly influence what consumers consider buying. For example, a famous athlete can make a pair of shoes appear more <mark style="background: #ABF7F7A6;">trustworthy</mark>. After repeated exposure to persuasive advertising, people may make misleading choices instead of <mark style="background: #ABF7F7A6;">judging</mark> their needs carefully.
+
+### ✅ Do you think the influence of advertising is good?
+
+- [ ] 不看稿口述
+
+It can be useful, but its influence is not always good. Visibility helps products reach public attention and creates wider opportunities for businesses. For example, an advert may help a small shop find customers but <mark style="background: #ABF7F7A6;">exaggerate</mark> a product's benefits. However, persuasive advertising can also lead consumers towards misleading choices.
+
+### ✅ What are the advantages and disadvantages of advertisements?
+
+- [ ] 不看稿口述
+
+Advertisements give products visibility and credibility, attracting wider public attention and creating business opportunities. Their disadvantage is that persuasive advertising can influence people before they judge a product carefully. For example, an exaggerated health claim may attract attention but mislead buyers. This may lead to misleading choices and reduce trust.
+
+### ✅ Why are many advertisements endorsed by celebrities? How useful are they?
+
+- [ ] 不看稿口述
+
+Companies use celebrities because their visibility and credibility attract public attention. This influence can give a product wider exposure and create more commercial opportunities. For example, a familiar actor can make a new brand noticeable immediately. However, an endorsement may mislead consumers if fame replaces reliable information.
+
+### ✅ Is advertising important for a company? Why?
+
+- [ ] 不看稿口述
+
+Yes, because advertising gives a company's products greater visibility. This attracts public attention and can widen the company's influence and opportunities. For example, an advert can introduce a new local café to nearby customers. However, misleading advertising may damage trust despite creating short-term attention.
 
 ## 下一步
 

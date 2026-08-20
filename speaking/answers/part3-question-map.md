@@ -50,7 +50,7 @@
 
 1. **What can children do to help their parents?** — `Q6` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
 2. **Should children help their parents with household chores?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M21-💚` 合作领导与帮助
-3. **What kind of help do people need when looking for a new job?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
+3. **What kind of help do people need when looking for a new job?** — `Q7` · `M08-💙` 信息与判断 ＋ `M11-❤️` 经济与就业
 4. **Who should people ask for help, colleagues or family members?** — `Q6` · `M09-❤️` 关系与归属感 ＋ `M21-💚` 合作领导与帮助
 5. **Do you think schools should teach children to do household chores?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M21-💚` 合作领导与帮助
 6. **Why are employees reluctant to ask their managers for help?** — `Q1` · `M21-💚` 合作领导与帮助 ＋ `M05-💙` 沟通与信任
@@ -77,18 +77,18 @@
 
 1. **What are the advantages of growing vegetables or flowers at home?** — `Q5` · `M12-💙` 环境与可持续性
 2. **Do many people grow vegetables or flowers at home in your country?** — `Q5` · `M12-💙` 环境与可持续性
-3. **Is it easy to grow plants at home?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M12-💙` 环境与可持续性
-4. **Why do some people like to grow plants?** — `Q1` · `M14-❤️` 建议计划与决定 ＋ `M12-💙` 环境与可持续性
+3. **Is it easy to grow plants at home?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M12-💙` 环境与可持续性
+4. **Why do some people like to grow plants?** — `Q1` · `M14-❤️` 计划与执行 ＋ `M12-💙` 环境与可持续性
 5. **Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?** — `Q1` · `M12-💙` 环境与可持续性 ＋ `M11-❤️` 经济与就业
-6. **Do you think students should learn to grow plants?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M14-❤️` 建议计划与决定
+6. **Do you think students should learn to grow plants?** — `Q5` · `M03-❤️` 学习与技能
 
 ### 擅长做计划的人
 
-1. **Do you think it's important to plan ahead?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-2. **What activities do we need to plan ahead?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-3. **Do you think children should plan their future careers?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M14-❤️` 建议计划与决定
-4. **Should children ask their teachers or parents for advice when making plans?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M03-❤️` 学习与技能
-5. **Is making study plans popular among young people?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M13-❤️` 年龄与代际
+1. **Do you think it's important to plan ahead?** — `Q5` · `M14-❤️` 计划与执行
+2. **What activities do we need to plan ahead?** — `Q7` · `M14-❤️` 计划与执行 ＋ `M08-💙` 信息与判断
+3. **Do you think children should plan their future careers?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M14-❤️` 计划与执行
+4. **Should children ask their teachers or parents for advice when making plans?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M03-❤️` 学习与技能
+5. **Is making study plans popular among young people?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M13-❤️` 年龄与代际
 6. **Do you think choosing a college major is closely related to a future career?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
 
 ### 商业上很成功的人
@@ -135,7 +135,7 @@
 
 1. **What kinds of facilities do big cities have?** — `Q7` · `M18-❤️` 地点建筑与设施
 2. **Do you think modern cities are suitable for young people or old people?** — `Q2` · `M18-❤️` 地点建筑与设施 ＋ `M13-❤️` 年龄与代际
-3. **Before you travel to a city, what factors would you consider?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
+3. **Before you travel to a city, what factors would you consider?** — `Q7` · `M14-❤️` 计划与执行 ＋ `M08-💙` 信息与判断
 4. **What are the disadvantages of living in a very famous city?** — `Q5` · `M18-❤️` 地点建筑与设施
 5. **Do you prefer to visit well-developed cities or cities with a long history?** — `Q2` · `M18-❤️` 地点建筑与设施 ＋ `M22-💚` 文化身份与传统
 6. **For those who live in cities, is it because they want to or have to?** — `Q7` · `M18-❤️` 地点建筑与设施
@@ -187,8 +187,8 @@
 1. **Where do people in your country often go for holidays?** — `Q7` · `M18-❤️` 地点建筑与设施 ＋ `M22-💚` 文化身份与传统
 2. **Where do young people in your country often go for holidays?** — `Q7` · `M13-❤️` 年龄与代际 ＋ `M18-❤️` 地点建筑与设施
 3. **What is the ideal length for a holiday?** — `Q7` · `M18-❤️` 地点建筑与设施 ＋ `M22-💚` 文化身份与传统
-4. **How do people usually plan holidays?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M18-❤️` 地点建筑与设施
-5. **Is it important to plan a holiday ahead?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M18-❤️` 地点建筑与设施
+4. **How do people usually plan holidays?** — `Q7` · `M14-❤️` 计划与执行 ＋ `M18-❤️` 地点建筑与设施
+5. **Is it important to plan a holiday ahead?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M18-❤️` 地点建筑与设施
 6. **Why do many countries try to attract people to visit?** — `Q1` · `M11-❤️` 经济与就业 ＋ `M12-💙` 环境与可持续性
 7. **How do people decide when to travel?** — `Q7` · `M18-❤️` 地点建筑与设施 ＋ `M22-💚` 文化身份与传统
 8. **What are the benefits for cities of having lots of tourists?** — `Q5` · `M18-❤️` 地点建筑与设施 ＋ `M11-❤️` 经济与就业
@@ -212,7 +212,7 @@
 1. **Do you think it is good to change one's daily routine?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
 2. **Do you think it is good to change jobs?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
 3. **Is it good for people to get a job promotion?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
-4. **Do people often make plans around their regular routines?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M19-❤️` 习惯情绪与休闲
+4. **Do people often make plans around their regular routines?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M19-❤️` 习惯情绪与休闲
 5. **Who tends to change their daily routine more, young people or old people?** — `Q2` · `M13-❤️` 年龄与代际 ＋ `M19-❤️` 习惯情绪与休闲
 
 ### 别人帮助解决问题
@@ -239,12 +239,12 @@
 
 ### 给别人建议
 
-1. **Should people prepare before giving advice?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-2. **Is it good to ask advice from strangers online?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M20-❤️` 科技媒体与隐私
-3. **What are the personalities of people whose job is to give advice to others?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M11-❤️` 经济与就业
-4. **What are the problems if you ask too many people for advice?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-5. **Why do some people think it is better to ask for advice from friends than from parents?** — `Q1` · `M14-❤️` 建议计划与决定 ＋ `M09-❤️` 关系与归属感
-6. **When would old people ask young people for advice?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M13-❤️` 年龄与代际
+1. **Should people prepare before giving advice?** — `Q5` · `M08-💙` 信息与判断
+2. **Is it good to ask advice from strangers online?** — `Q5` · `M08-💙` 信息与判断 ＋ `M20-❤️` 科技媒体与隐私
+3. **What are the personalities of people whose job is to give advice to others?** — `Q7` · `M11-❤️` 经济与就业
+4. **What are the problems if you ask too many people for advice?** — `Q7` · `M08-💙` 信息与判断
+5. **Why do some people think it is better to ask for advice from friends than from parents?** — `Q1` · `M08-💙` 信息与判断 ＋ `M09-❤️` 关系与归属感
+6. **When would old people ask young people for advice?** — `Q7` · `M08-💙` 信息与判断 ＋ `M13-❤️` 年龄与代际
 
 ### 长时间未收到回复
 
@@ -304,15 +304,15 @@
 
 ### 近期改变的计划
 
-1. **Do people often change their plans?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-2. **Would you tell others if you change your plan?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-3. **Why do you think parents still make plans for their children nowadays?** — `Q1` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 建议计划与决定
-4. **How does technology help people make plans?** — `Q7` · `M20-❤️` 科技媒体与隐私 ＋ `M14-❤️` 建议计划与决定
-5. **What kind of plans do people often make?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-6. **Do you think people like the process of making plans more, or the moment of carrying them out?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-7. **How would you tell your friends when you must change plans?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 建议计划与决定
-8. **What are the common reasons when people need to change plans?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-9. **What kind of plans are practical?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
+1. **Do people often change their plans?** — `Q5` · `M14-❤️` 计划与执行
+2. **Would you tell others if you change your plan?** — `Q5` · `M14-❤️` 计划与执行
+3. **Why do you think parents still make plans for their children nowadays?** — `Q1` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 计划与执行
+4. **How does technology help people make plans?** — `Q7` · `M20-❤️` 科技媒体与隐私 ＋ `M14-❤️` 计划与执行
+5. **What kind of plans do people often make?** — `Q7` · `M14-❤️` 计划与执行
+6. **Do you think people like the process of making plans more, or the moment of carrying them out?** — `Q5` · `M14-❤️` 计划与执行
+7. **How would you tell your friends when you must change plans?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 计划与执行
+8. **What are the common reasons when people need to change plans?** — `Q7` · `M14-❤️` 计划与执行
+9. **What kind of plans are practical?** — `Q7` · `M14-❤️` 计划与执行
 
 ### 微笑的场合
 
@@ -325,12 +325,12 @@
 
 ### 重要决定
 
-1. **Do you think children sometimes have to make important decisions?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M13-❤️` 年龄与代际
-2. **What important decisions do teenagers need to make after graduation?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
-3. **Who can children turn to for help when making a decision?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M13-❤️` 年龄与代际
-4. **Do you think advertisements can influence our decisions when shopping?** — `Q5` · `M14-❤️` 建议计划与决定 ＋ `M15-💙` 名人与广告
+1. **Do you think children sometimes have to make important decisions?** — `Q5` · `M08-💙` 信息与判断 ＋ `M13-❤️` 年龄与代际
+2. **What important decisions do teenagers need to make after graduation?** — `Q7` · `M08-💙` 信息与判断
+3. **Who can children turn to for help when making a decision?** — `Q7` · `M08-💙` 信息与判断 ＋ `M13-❤️` 年龄与代际
+4. **Do you think advertisements can influence our decisions when shopping?** — `Q5` · `M08-💙` 信息与判断 ＋ `M15-💙` 名人与广告
 5. **Do you think the influence of advertising is good?** — `Q5` · `M15-💙` 名人与广告
-6. **How do people usually make important decision?** — `Q7` · `M14-❤️` 建议计划与决定 ＋ `M08-💙` 信息与判断
+6. **How do people usually make important decision?** — `Q7` · `M08-💙` 信息与判断
 
 ### 发挥想象力
 
@@ -376,7 +376,7 @@
 
 1. **Are there a lot of people talking about local news?** — `Q5` · `M05-💙` 沟通与信任 ＋ `M08-💙` 信息与判断
 2. **Do young people or the elderly care more about local news?** — `Q5` · `M08-💙` 信息与判断 ＋ `M13-❤️` 年龄与代际
-3. **Do people in your country prefer following local news or national news?** — `Q2` · `M08-💙` 信息与判断 ＋ `M14-❤️` 建议计划与决定
+3. **Do people in your country prefer following local news or national news?** — `Q2` · `M08-💙` 信息与判断
 4. **Why do some people want to be very involved in their community?** — `Q1` · `M09-❤️` 关系与归属感
 5. **Do you think local communities were stronger in the past than they are today?** — `Q3` · `M09-❤️` 关系与归属感
 6. **Do you think it is important to have a national identity?** — `Q5` · `M22-💚` 文化身份与传统

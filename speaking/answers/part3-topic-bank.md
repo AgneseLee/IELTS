@@ -107,16 +107,17 @@
 - **变化链：** easier technology and wider education → gradually narrower generational gaps
 - **适用：** 年轻人与老人、儿童学习、消费、手机、音乐、休闲
 
-## M14-❤️ 建议、计划与决定
+## M14-❤️ 计划与执行
 
-- **正向链：** reliable information and clear priorities → informed plan → lower risk and better results
-- **反向链：** too many opinions or rigid plans → confusion → delayed or poor decisions
-- **适用：** 建议、目标、专业选择、旅行准备、改变计划、重要决定
+- **正向链：** clear priorities and realistic sequencing → actionable plan → lower risk and better results
+- **反向链：** unclear priorities or rigid scheduling → impractical plan → delays or poor results
+- **适用：** 目标、职业规划、旅行准备、日程安排、改变计划、执行
+- **边界：** M08 判断“相信什么、如何选择”；M14 安排“决定方向后如何行动”。
 
 ## M15-💙 名人与广告
 
 - **正向链：** visibility and credibility → greater public attention → wider influence or opportunity
-- **反向链：** commercial pressure and public exposure → loss of privacy → stress or misleading choices
+- **反向链：** persuasive advertising or constant public exposure → less careful judgement or loss of privacy → misleading choices or stress
 - **适用：** 名人、儿童成名、广告、社交媒体、明星新闻
 
 ## M16-💚 动物与宠物

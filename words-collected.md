@@ -253,3 +253,34 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 - [x] disparity 差距/不平等 (income disparity 收入差距) → 社会类/负向 链 1
 - [x] diverse 多样化的 (对比 disparate) → 文化类/正向 链 2
 - [x] desperate 绝望的 (形近辨析) → 犯罪类/负向 链 1
+
+## 2026-08-19
+
+- [ ] resort
+- [ ] beach resort
+- [ ] ski resort
+- [ ] holiday resort
+- [ ] luxury resort
+- [ ] as a last resort
+- [ ] resort to
+- [ ] the blight of
+- [ ] blighted areas
+- [ ] be blighted by
+- [ ] livelihood
+- [ ] means of livelihood
+- [ ] source of livelihood
+- [ ] earn a livelihood
+- [ ] threaten livelihoods
+- [ ] secure livelihoods
+- [ ] people's livelihoods
+- [ ] confer substantial benefits
+- [ ] confer benefits on/upon
+- [ ] bring substantial benefits
+- [ ] yield substantial benefits
+- [ ] urban renewal
+- [ ] revitalize
+- [ ] environmental degradation
+- [ ] vulnerable groups
+- [ ] economic downturn
+- [ ] vocational training
+- [ ] rural infrastructure

@@ -263,3 +263,38 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `AI and automation handle repetitive tasks → employees focus on higher-value work → greater output per hour → higher business productivity`
 - `generate more output with the same amount of resources → achieve sustained productivity gains → support industrial growth`
 - `automation replaces routine jobs → low-skilled workers struggle to retrain → unemployment or wage stagnation → wider income inequality`
+
+## 环境监管：排放义务、空气质量与公共健康
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `set up and enforce environmental regulations strictly` | `introduce and strictly enforce environmental regulations` | 法规通常用 `introduce`，副词 `strictly` 放在并列动词前更自然。 |
+| `cut carbon emissions → improve local air quality` | `reduce harmful industrial emissions → improve local air quality` | 二氧化碳主要影响气候；讨论本地空气质量时，`harmful industrial emissions/pollutants` 更准确。 |
+| `improve quality of local atmosphere` | `improve local air quality` | 后者是描述空气质量的固定、自然搭配。 |
+| `less industrial pollution is discharged` | `fewer industrial pollutants are released into the air` | `pollutants` 是可数名词，用 `fewer`；气体或污染物排放用 `released/emitted` 更自然。 |
+| `preserve its benefits` | `deliver lasting environmental benefits` | 问题本身没有应被保留的“益处”；应明确是措施带来环境收益。 |
+| `improving public health and protect natural resources` | `improving public health and protecting natural resources` | `such as` 后的并列动名词需要保持形式一致。 |
+
+### 可复用逻辑链与搭配
+
+- `strictly enforced environmental regulations → clear legal obligations and penalties for non-compliance → fewer harmful industrial emissions → better local air quality → stronger protection of public health and natural resources`
+
+## 政府过度干预：合规成本、创新与市场竞争
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `harmful effects on business markets` | `harmful effects on the business sector` | `business markets` 含义不清；泛指企业整体时用 `the business sector`。 |
+| `pose extra pressure on companies` | `place additional pressure on businesses` | `place pressure on` 是更自然的固定搭配。 |
+| `companies ... companies` | `companies ... businesses/firms` | 连续重复同一名词会使表达单调，可按语境替换。 |
+| `struggling with financial pressure already` | `already under financial strain` | 后者语序和搭配更自然、简洁。 |
+| `competition among companies` | `market competition` | 讨论监管对整体竞争环境的影响时，后者更准确。 |
+| `the national economic efficiency` | `overall economic efficiency` | `economic efficiency` 泛指整体经济效率时通常不加 `the`，`overall` 更自然。 |
+
+### 可复用逻辑链与搭配
+
+- `excessive government intervention → higher compliance and administrative costs → resources diverted away from research and development → weaker business innovation`
+- `disproportionate pressure on smaller or financially constrained firms → weaker market competition → lower overall economic efficiency`

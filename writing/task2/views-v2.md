@@ -184,6 +184,19 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 - 正：政府能促进公平和公共安全。
 - 反：政府干预可能增加税负、债务和官僚主义。
 
+A realistic approach to addressing the issue is that governments should set up and enforce environmental regulations strictly. This is effective because companies are required to cut carbon emissions due to relevant regulations, which directly improves quality of local atmosphere as less industrial pollution is discharged. This ensures air pollution is dealt with in a concrete way. If implemented properly, it can address the environmental problem while preserving its benefits, such as improving public health and protect the natural resources.
+
+#### 批改版
+<mark style="background: #ABF7F7A6;">non-compliance</mark>
+A realistic approach to addressing the issue is **for governments to introduce and strictly enforce environmental regulations**. **These regulations give companies clear legal obligations to reduce harmful emissions and impose penalties for non-compliance, so fewer industrial pollutants are released into the air.** **This directly improves local air quality and reduces residents' exposure to harmful pollutants.** If implemented properly, **this approach can therefore protect public health and natural resources while producing lasting environmental improvements**.
+
+---
+Nevertheless, excessive government intervention may produce harmful effects on business markets. A central problem is that it increase compliance and administrative costs for companies, which poses extra pressure on companies, particularly on those struggling with financial pressure already. As a consequence, this approach often generates new problems such as undermining corporate innovation and competition among companies, ultimately weakening the national economic efficiency.
+
+#### 批改版
+
+Nevertheless, excessive government intervention may **have harmful effects on the business sector**. A central problem is that it **increases** compliance and administrative costs for companies, **diverting money and staff away from innovation and placing disproportionate pressure on smaller or financially constrained firms**. As a consequence, this approach often **weakens business innovation and market competition**, ultimately **reducing overall economic efficiency**.
+
 ### 扩写任务
 
 写 `public education investment` 和 `government overreach`。

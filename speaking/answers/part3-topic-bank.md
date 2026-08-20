@@ -18,12 +18,14 @@
 
 ## 最短回答骨架
 
-普通问题说 3–4 句即可：
+普通问题以自然口述 30–45 秒（大约 3–5 句）为目标：
 
 1. 直接回答问题。
 2. 用一条模块链解释原因和机制。
-3. 给结果、比较或简短例子。
+3. 给结果或比较，并优先用一个贴题的简短例子把逻辑链具体化。比较题若已列出具体行为或场景，不必机械添加 `For example`。
 4. 必要时补一个限定。
+
+例子只用来具体化已选模块链，不得引入观点卡之外的新核心论点，也不得为凑时长重复机制或结果。
 
 ---
 
@@ -39,7 +41,7 @@
 - **反向链：** unequal access → fewer opportunities → entrenched disadvantage
 - **适用：** 教育、医疗、住房、公共设施、博物馆、城乡差异
 
-## M03-❤️ 学习与技能
+## M03-❤️ 🥚学习与技能
 
 - **正向链：** regular practice and feedback → stronger practical skills → better performance or employability
 - **反向链：** passive or exam-driven learning → limited application → weaker independent thinking
@@ -123,7 +125,7 @@
 - **反向链：** cost and long-term care needs → pressure on owners → possible neglect
 - **适用：** 宠物、动物故事、儿童教育、城市养宠
 
-## M17-❤️ 艺术、娱乐与想象力
+## M17-❤️ 🥚艺术、娱乐与想象力
 
 - **正向链：** artistic exposure and participation → emotional expression and new ideas → creativity or relaxation
 - **反向链：** passive entertainment or limited access → shallow engagement → fewer cultural benefits
@@ -141,10 +143,10 @@
 - **反向链：** repetition, inactivity or constant pressure → boredom and fatigue → poorer well-being
 - **适用：** 作息、早起、无聊、微笑、安静、休闲、购物情绪
 
-## M20-❤️ 科技、媒体与隐私
+## M20-❤️🥚 科技、媒体与隐私
 
 - **正向链：** faster access and communication → greater convenience → wider participation
-- **反向链：** data collection, distraction or weak verification → privacy loss and misinformation → lower trust
+- **反向链：** data collection, <mark style="background: #ABF7F7A6;">distraction</mark> or weak verification → privacy loss and misinformation → lower trust
 - **适用：** AI、App、手机、网络、新闻、社交媒体、在线沟通
 
 ## M21-💚 合作、领导与帮助

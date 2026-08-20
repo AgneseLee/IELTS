@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS Part 2 Answer Generator"
+  short_description: "Generate reusable Band 7-targeted Part 2 answers"
+  default_prompt: "Use $ielts-part2-answer-generator to generate and save a Band 7-targeted Part 2 answer from the current topic bank."

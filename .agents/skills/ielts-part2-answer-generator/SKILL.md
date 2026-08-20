@@ -37,6 +37,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 4. 多题优先复用同一故事，但改变 cue-specific 入口、焦点和必要细节；不得只换标题或复制整篇。
 5. 在故事锁定后选择最少且最自然的 abilities：必须有 1 项，最多 2 项；每项都要由具体行动证明并自然导向成长。
 6. 复用 `6skills.md` 的能力逻辑、自然搭配和熟练句型，但必须结合故事改写。不得整段照抄，不得为凑能力硬塞 Secondary Ability。
+7. 控制搭配记忆负担：固定输出 8 个 collocations，其中 3 个逐字复用所选 Bank 在 `20-day-band7.md` 中的固定搭配，3 个优先复用 `6skills.md` 或已选 modules 的现有表达，最多新增 2 个 cue-specific 搭配。不得把同一搭配的时态、代词或近义变体重复列为多个项目。
 
 无法自然覆盖全部 bullets 时停止生成，说明缺少的事实或候选题，不编造夸张经历、专业知识、统计或第二故事线。
 
@@ -48,12 +49,21 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 - `NARRATIVE`：27–33%，直接覆盖 Who/What、background、main event 和必要细节。
 - `REFLECTION`：67–73%，解释重要性、所学、观点变化及 1–2 项能力。
-- 四个分析区块、HTML markers 与 collocations 不计入比例。
+- Cue Card、四个分析区块、HTML markers 与 collocations 不计入比例。
 
 答案必须使用以下结构；markers 只用于校验，不属于口述内容：
 
 ```md
 # <exact English cue-card title>
+
+## Cue Card
+
+**<exact English cue-card title>**
+
+> **You should say:**
+> - <exact bullet 1 from topic-bank.md>
+> - <exact bullet 2>
+> - <all remaining bullets in source order>
 
 > Bank: <B1-B8> | Modules: <module-a / module-b [/ module-c]>
 
@@ -84,7 +94,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 ## 4. Useful Collocations
 
-- <8–10 reusable phrases>
+- <exactly 8 phrases: 3 fixed Bank collocations, 3 reused ability/module phrases, at most 2 new cue-specific phrases>
 ```
 
 ## Save and validate
@@ -97,6 +107,8 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
    `python3 .agents/skills/ielts-part2-answer-generator/scripts/validate_part2_answer.py <file>`
 
 5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据、自然口述感和跨题复用价值。
-6. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。
+6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。
+7. 确保 Useful Collocations 恰好 8 个，并包含所选 Bank 的全部 3 个固定 collocations；不得为了显得高级而扩充新词。
+8. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。
 
 只生成 Part 2；不得追加 Part 3、修改题库、修改 prompt、修改 `6skills.md`，也不得创建额外 manifest 或 practice log。

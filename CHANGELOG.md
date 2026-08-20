@@ -89,6 +89,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 更新 Speaking Part 2 答案生成 skill 与示范答案，完整校验 Cue Card，并优先复用素材库固定搭配以控制记忆负担
 - 补充七张中频 Part 3 观点卡的 42 道短答案与贴题例子，区分 M08 信息判断和 M14 计划执行，并优化 M15 广告表达
 - 将 Part 3 观点卡答案扩展为 30–45 秒自然口述版本，以贴题例子具体化逻辑链，并同步更新回答标准
 - 将 IELTS Speaking Part 3 答案生成 skill 从 `.claude/skills/` 迁移至 `.agents/skills/`

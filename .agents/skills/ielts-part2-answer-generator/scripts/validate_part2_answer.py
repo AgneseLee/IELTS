@@ -17,11 +17,17 @@ ABILITY_NAMES = {
     "Leadership & Collaboration",
     "Creativity & Innovation",
 }
+CUE_HEADING = "## Cue Card"
+ABILITY_HEADING = "## 1. Core Ability Mapping"
+STORY_HEADING = "## 2. Story Bank"
+ANSWER_HEADING = "## 3. Band 7 Answer (1:40–2:00)"
+COLLOCATION_HEADING = "## 4. Useful Collocations"
 REQUIRED_HEADINGS = (
-    "## 1. Core Ability Mapping",
-    "## 2. Story Bank",
-    "## 3. Band 7 Answer (1:40–2:00)",
-    "## 4. Useful Collocations",
+    CUE_HEADING,
+    ABILITY_HEADING,
+    STORY_HEADING,
+    ANSWER_HEADING,
+    COLLOCATION_HEADING,
 )
 MARKERS = (
     "<!-- NARRATIVE_START -->",
@@ -39,23 +45,76 @@ def between(text: str, start: str, end: str) -> str:
     return text.split(start, 1)[1].split(end, 1)[0]
 
 
+def source_cue(title: str) -> tuple[str, list[str]] | None:
+    repo_root = Path(__file__).resolve().parents[4]
+    topic_bank = repo_root / "speaking/answers/part2/topic-bank.md"
+    if not topic_bank.is_file():
+        return None
+    source = topic_bank.read_text(encoding="utf-8")
+    pattern = re.compile(
+        rf"^\*\*{re.escape(title)}\*\*\s*$\n\s*"
+        rf"^> \*\*You should say:\*\*\s*$\n"
+        rf"(?P<bullets>(?:^> - .+\s*$\n?)+)",
+        re.MULTILINE,
+    )
+    match = pattern.search(source)
+    if not match:
+        return None
+    bullets = re.findall(r"^> - (.+?)\s*$", match.group("bullets"), re.MULTILINE)
+    return title, bullets
+
+
+def source_bank_collocations(bank: str) -> list[str]:
+    repo_root = Path(__file__).resolve().parents[4]
+    plan = repo_root / "speaking/plans/20-day-band7.md"
+    if not plan.is_file():
+        return []
+    source = plan.read_text(encoding="utf-8")
+    match = re.search(
+        rf"^\|\s*{re.escape(bank)}\s*\|[^|]*\|(?P<phrases>[^|]+)\|",
+        source,
+        re.MULTILINE,
+    )
+    return re.findall(r"`([^`]+)`", match.group("phrases")) if match else []
+
+
+def source_collocation_corpus() -> str:
+    repo_root = Path(__file__).resolve().parents[4]
+    paths = (
+        repo_root / "speaking/plans/20-day-band7.md",
+        repo_root / "speaking/answers/part2/6skills.md",
+        repo_root / "speaking/answers/part2-people.md",
+        repo_root / "speaking/answers/part2-events.md",
+        repo_root / "speaking/answers/part2-places.md",
+        repo_root / "speaking/answers/part2-things.md",
+    )
+    return "\n".join(
+        path.read_text(encoding="utf-8").lower() for path in paths if path.is_file()
+    )
+
+
 def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
     errors: list[str] = []
     text = path.read_text(encoding="utf-8")
 
     titles = re.findall(r"^# (.+?)\s*$", text, re.MULTILINE)
+    title = ""
     if len(titles) != 1:
         errors.append(f"expected one H1 cue-card title, found {len(titles)}")
-    elif path.stem != titles[0].rstrip(".?!").replace("/", " or "):
-        errors.append("filename does not match the sanitized H1 cue-card title")
+    else:
+        title = titles[0]
+        if path.stem != title.rstrip(".?!").replace("/", " or "):
+            errors.append("filename does not match the sanitized H1 cue-card title")
 
     bank_lines = re.findall(
         r"^> Bank:\s*(B[1-8])\s*\|\s*Modules:\s*(.+?)\s*$", text, re.MULTILINE
     )
+    selected_bank = ""
     module_count = 0
     if len(bank_lines) != 1:
         errors.append(f"expected one valid Bank/modules line, found {len(bank_lines)}")
     else:
+        selected_bank = bank_lines[0][0]
         modules = [module.strip() for module in bank_lines[0][1].split("/")]
         module_count = len([module for module in modules if module])
         if module_count not in (2, 3):
@@ -69,6 +128,26 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         positions.append(text.find(heading))
     if all(position >= 0 for position in positions) and positions != sorted(positions):
         errors.append("required headings are out of order")
+
+    cue_section = ""
+    if CUE_HEADING in text and ABILITY_HEADING in text:
+        cue_section = between(text, CUE_HEADING, ABILITY_HEADING)
+    displayed_titles = re.findall(r"^\*\*(.+?)\*\*\s*$", cue_section, re.MULTILINE)
+    displayed_bullets = re.findall(r"^> - (.+?)\s*$", cue_section, re.MULTILINE)
+    if len(displayed_titles) != 1:
+        errors.append(f"expected one visible cue-card title, found {len(displayed_titles)}")
+    elif title and displayed_titles[0] != title:
+        errors.append("visible cue-card title does not match the H1 title")
+    if not re.search(r"^> \*\*You should say:\*\*\s*$", cue_section, re.MULTILINE):
+        errors.append("visible Cue Card is missing 'You should say'")
+    expected_cue = source_cue(title) if title else None
+    if expected_cue is None:
+        errors.append("H1 cue-card title was not found in topic-bank.md")
+    elif displayed_bullets != expected_cue[1]:
+        errors.append(
+            "visible Cue Card bullets do not exactly match topic-bank.md "
+            f"(expected {len(expected_cue[1])}, found {len(displayed_bullets)})"
+        )
 
     marker_positions = []
     for marker in MARKERS:
@@ -103,8 +182,8 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         )
 
     ability_section = ""
-    if REQUIRED_HEADINGS[0] in text and REQUIRED_HEADINGS[1] in text:
-        ability_section = between(text, REQUIRED_HEADINGS[0], REQUIRED_HEADINGS[1])
+    if ABILITY_HEADING in text and STORY_HEADING in text:
+        ability_section = between(text, ABILITY_HEADING, STORY_HEADING)
     primary = re.findall(r"^- Primary Ability:\s*(.+?)\s*$", ability_section, re.MULTILINE)
     secondary = re.findall(r"^- Secondary Ability:\s*(.+?)\s*$", ability_section, re.MULTILINE)
     if len(primary) != 1:
@@ -125,24 +204,44 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         )
 
     story_section = ""
-    if REQUIRED_HEADINGS[1] in text and REQUIRED_HEADINGS[2] in text:
-        story_section = between(text, REQUIRED_HEADINGS[1], REQUIRED_HEADINGS[2])
+    if STORY_HEADING in text and ANSWER_HEADING in text:
+        story_section = between(text, STORY_HEADING, ANSWER_HEADING)
     for field in ("Who/What", "Background", "Main event", "Ability shown", "Reflection"):
         if not re.search(rf"^- {re.escape(field)}:\s*\S", story_section, re.MULTILINE):
             errors.append(f"Story Bank field {field!r} is missing or empty")
 
     collocation_section = ""
-    if REQUIRED_HEADINGS[3] in text:
-        collocation_section = text.split(REQUIRED_HEADINGS[3], 1)[1]
+    if COLLOCATION_HEADING in text:
+        collocation_section = text.split(COLLOCATION_HEADING, 1)[1]
     collocations = [
         item.strip()
         for item in re.findall(r"^-\s+(.+?)\s*$", collocation_section, re.MULTILINE)
         if item.strip()
     ]
-    if not 8 <= len(collocations) <= 10:
-        errors.append(f"found {len(collocations)} collocations; expected 8–10")
+    if len(collocations) != 8:
+        errors.append(f"found {len(collocations)} collocations; expected exactly 8")
     if len(collocations) != len(set(collocations)):
         errors.append("collocations must be unique")
+    fixed_collocations = source_bank_collocations(selected_bank) if selected_bank else []
+    if len(fixed_collocations) != 3:
+        errors.append(
+            f"could not resolve the 3 fixed collocations for {selected_bank or 'the Bank'}"
+        )
+    else:
+        missing_fixed = [item for item in fixed_collocations if item not in collocations]
+        if missing_fixed:
+            errors.append(
+                "missing fixed Bank collocations: " + ", ".join(missing_fixed)
+            )
+    reuse_corpus = source_collocation_corpus()
+    novel_collocations = [
+        item for item in collocations if item.lower() not in reuse_corpus
+    ]
+    if len(novel_collocations) > 2:
+        errors.append(
+            "more than 2 collocations are new rather than reused: "
+            + ", ".join(novel_collocations)
+        )
 
     if re.search(r"^#{1,4}\s+(?:P3|Part 3)\b", text, re.IGNORECASE | re.MULTILINE):
         errors.append("Part 3 content is not allowed")
@@ -156,6 +255,11 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         "estimated_seconds_at_105_wpm": round(total / 105 * 60) if total else 0,
         "abilities": len(selected),
         "modules": module_count,
+        "cue_bullets": len(displayed_bullets),
+        "fixed_collocations": len(
+            [item for item in fixed_collocations if item in collocations]
+        ),
+        "reused_collocations": len(collocations) - len(novel_collocations),
         "collocations": len(collocations),
     }
     return errors, stats
@@ -180,8 +284,11 @@ def main() -> int:
             f"narrative={stats['narrative_words']} ({stats['narrative_ratio']:.1%}), "
             f"reflection={stats['reflection_words']} ({stats['reflection_ratio']:.1%}), "
             f"duration@105WPM={stats['estimated_seconds_at_105_wpm']}s, "
-            f"modules={stats['modules']}, abilities={stats['abilities']}, "
-            f"collocations={stats['collocations']}"
+            f"cue_bullets={stats['cue_bullets']}, modules={stats['modules']}, "
+            f"abilities={stats['abilities']}, "
+            f"collocations={stats['collocations']} "
+            f"(fixed={stats['fixed_collocations']}, "
+            f"reused={stats['reused_collocations']})"
         )
         for error in errors:
             print(f"  - {error}")

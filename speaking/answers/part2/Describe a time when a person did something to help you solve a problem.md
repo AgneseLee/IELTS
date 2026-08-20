@@ -31,10 +31,12 @@
 
 <!-- NARRATIVE_START -->
 I remember a time when my mother helped me with a problem at primary school when I was around nine. I was extremely shy and avoided classroom discussions because I feared being judged. She listened without interrupting, explained that disagreement was not rejection, and gave me a simple task: share one opinion each day with someone I trusted.
+
+I felt relieved because she did not dismiss my fear or tell me to change overnight. Instead, she made me feel understood and supported. Her advice worked because it dealt with the reason behind my silence.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I felt relieved because she did not dismiss my fear or tell me to change overnight. Instead, she made me feel understood and supported. Her advice worked because it dealt with the reason behind my silence and gave me a safe way to practise. After a few months, speaking in class became much less frightening.
+It also gave me a safe way to practise. After a few months, speaking in class became much less frightening.
 
 More importantly, this experience changed my view of useful help. I realised that good communication starts with listening carefully, while practical problem-solving requires small actions people can actually follow. Years later, a junior colleague was nervous about meetings, so I used the same approach. I first asked him to explain one technical point to me privately before speaking to the group. Looking back, I feel grateful because my mother's help did more than solve one childhood problem. It gave me a reusable method for building confidence, understanding others, and offering support without putting them under pressure.
 <!-- REFLECTION_END -->

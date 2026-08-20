@@ -172,13 +172,13 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
 
     if not 180 <= total <= 210:
         errors.append(f"answer has {total} words; expected 180–210")
-    if total and not 0.27 <= narrative_ratio <= 0.33:
+    if total and not 0.42 <= narrative_ratio <= 0.48:
         errors.append(
-            f"narrative is {narrative_ratio:.1%}; expected 27–33%"
+            f"narrative is {narrative_ratio:.1%}; expected 42–48%"
         )
-    if total and not 0.67 <= reflection_ratio <= 0.73:
+    if total and not 0.52 <= reflection_ratio <= 0.58:
         errors.append(
-            f"reflection is {reflection_ratio:.1%}; expected 67–73%"
+            f"reflection is {reflection_ratio:.1%}; expected 52–58%"
         )
 
     ability_section = ""

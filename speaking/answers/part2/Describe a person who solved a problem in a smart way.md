@@ -29,10 +29,12 @@
 
 <!-- NARRATIVE_START -->
 The person I'd like to describe is my mother. When I was in primary school, I was extremely shy and stayed silent during classroom discussions because I was afraid of being judged. She listened without interrupting, explained that disagreement did not mean rejection, and asked me to share just one opinion each day with someone I trusted.
+
+What impressed me most was how carefully she identified the real problem. My silence looked like a lack of confidence, but underneath it was fear of people's reactions. She did not simply tell me to be brave.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-What impressed me most was how carefully she identified the real problem. My silence looked like a lack of confidence, but underneath it was fear of people's reactions. Instead of telling me to be brave, she turned the challenge into a small, practical step that felt safe. That was smart because I could repeat it and improve without feeling forced.
+She turned the challenge into a practical step that felt safe. That was smart because I could repeat it and improve without feeling forced.
 
 Within a few months, I became more comfortable speaking in class. More importantly, her approach changed how I handle difficulties. I learned to look for the root cause, stay calm, and focus on what I can control. Years later, when a junior colleague was nervous about meetings, I used a similar method and asked him to explain one technical point privately. Looking back, my mother's simple solution had a lasting impact. It showed me that good problem-solving is often about understanding people and choosing manageable steps, rather than finding a dramatic answer.
 <!-- REFLECTION_END -->

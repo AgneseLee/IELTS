@@ -1,6 +1,6 @@
 ---
 name: ielts-part2-answer-generator
-description: Generate and automatically save natural, reusable, Band 7-targeted IELTS Speaking Part 2 answers from speaking/answers/part2/topic-bank.md. Use when the user asks to create, cover, batch-generate, regenerate, or save Part 2 cue-card answers, especially when answers must reuse the eight story banks and six transferable abilities with a validated 3:7 narrative-to-reflection ratio.
+description: Generate and automatically save natural, reusable, Band 7-targeted IELTS Speaking Part 2 answers from speaking/answers/part2/topic-bank.md. Use when the user asks to create, cover, batch-generate, regenerate, or save Part 2 cue-card answers, especially when answers must reuse the eight story banks and six transferable abilities with a validated 45:55 narrative-to-reflection ratio.
 ---
 
 # IELTS Part 2 Answer Generator
@@ -16,7 +16,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 3. `speaking/plans/20-day-band7.md`：八个 Story Banks、modules、固定搭配与迁移规则。
 4. `speaking/answers/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
 5. `speaking/answers/README.md` 与 `speaking/answers/part2-{people,events,places,things}.md`：只用于补全统一人设、module 的固定事实和已有表达；忽略其中冲突的篇幅、语速、模板与维护规则。
-6. `speaking/answers/part2/Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格、3:7 展开和能力改写方式；不得复制其 Part 3 或冲突格式。
+6. `speaking/answers/part2/Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式；忽略其旧 3:7 比例，不得复制其 Part 3 或冲突格式。
 
 不得使用 `speaking/plans/12-day-part2-template-plan.md` 覆盖以上规则。用户本次提供的真实事实优先于仓库统一人设；发生冲突时保留用户事实，不静默创建第二条故事线。
 
@@ -47,8 +47,8 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 按正文英文词数精确校验：
 
-- `NARRATIVE`：27–33%，直接覆盖 Who/What、background、main event 和必要细节。
-- `REFLECTION`：67–73%，解释重要性、所学、观点变化及 1–2 项能力。
+- `NARRATIVE`：42–48%，目标 45%，直接覆盖 Who/What、background、main event 和必要细节。
+- `REFLECTION`：52–58%，目标 55%，解释重要性、所学、观点变化及 1–2 项能力。
 - Cue Card、四个分析区块、HTML markers 与 collocations 不计入比例。
 
 答案必须使用以下结构；markers 只用于校验，不属于口述内容：

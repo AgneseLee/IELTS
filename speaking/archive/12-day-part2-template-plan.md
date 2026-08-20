@@ -1,5 +1,7 @@
 # IELTS Speaking Part 2：12 天模块检索计划
 
+> **Status: archived legacy plan.** Kept for reference; do not use its 4-template, 210–230-word or 3:7 rules for current answers.
+
 目标：**73 篇完整答案，4 个模板，8 个素材库**。每段紧扣 cue card。
 
 ## 规则
@@ -94,7 +96,7 @@ L4 I remember this place because [lasting meaning].
 
 ## 8 个素材库
 
-事实和 collocations 的唯一来源：[20-day-band7.md](20-day-band7.md#8-个素材库)。
+事实和 collocations 的唯一来源：[20-day-band7.md](../plans/20-day-band7.md#8-个素材库)。
 
 | Bank | 可选 modules |
 |---|---|

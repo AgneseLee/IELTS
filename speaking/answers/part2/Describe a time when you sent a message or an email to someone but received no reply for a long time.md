@@ -1,4 +1,4 @@
-
+> **Status: legacy demo.** Keep for spoken style only; its 3:7 structure and appended Part 3 are not the current Part 2 contract.
 
 ## Complete Answer (3:7 Rule)
 

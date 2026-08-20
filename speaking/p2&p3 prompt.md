@@ -1,6 +1,8 @@
 
 # IELTS Speaking Part 2 & Part 3 Training Prompt (Band 7 → 7.5)
 
+> **Status: current answer-coaching prompt.** Part 2 uses the 45:55 contract below.
+
 ## Role
 
 Act as my IELTS Speaking coach.
@@ -48,9 +50,9 @@ The focus should be:
 
 ---
 
-# Part 2 Structure (3:7 Rule)
+# Part 2 Structure (45:55 Rule)
 
-## First 30–40%
+## First 42–48% (target 45%)
 
 Answer the cue card directly.
 
@@ -70,7 +72,7 @@ Requirements:
 
 ---
 
-## Last 60–70%
+## Last 52–58% (target 55%)
 
 Focus on:
 
@@ -348,12 +350,12 @@ Requirements:
 
 - Short sentences
 - Natural speaking rhythm
-- 3:7 structure
+- 45:55 structure
 - Personal reflection should be the largest part
 
 ## 4. Useful Collocations
 
-Provide 8–10 reusable phrases.
+Provide exactly 8 reusable phrases. Reuse Story Bank and transferable-skill collocations; add no more than 2 cue-specific phrases.
 
 ---
 

@@ -1,5 +1,7 @@
 # IELTS Part 2 People: Transferable Skills Answer Bank
 
+> **Status: reference only.** Current abilities: [`part2/6skills.md`](part2/6skills.md); current single-topic answers: [`part2/`](part2/).
+
 > Story material is drawn from the eight banks in `speaking/plans/20-day-band7.md`. Each answer follows the same learning arc: what happened, how I changed, and what ability I developed.
 
 # 1. Person who overcame difficulties

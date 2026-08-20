@@ -1,5 +1,7 @@
 # Part 2 事物类 + Part 3
 
+> **Status: story-fact reference.** New answers use [`part2/topic-bank.md`](part2/topic-bank.md) and are saved individually in [`part2/`](part2/); the old 210–230-word format below is not current.
+
 > 半固定结构：What/source → Relevant feature → Specific use/experience → Effect → Personal value。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；只描述与题目真正相关的特征。
 
 ## 1. Environmental law

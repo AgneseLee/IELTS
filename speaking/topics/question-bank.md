@@ -1,5 +1,7 @@
 # IELTS Speaking 大陆地区复习目标
 
+> **Status:** Part 1 current index; Part 2 73-topic reference. Current Part 2 source: [`../answers/part2/topic-bank.md`](../answers/part2/topic-bank.md).
+
 > 目标：Band 7。三源并集、语义去重后的唯一索引。具体答案见 [`../answers/`](../answers/README.md)。
 >
 > 来源：`同桌英语 #NN` = 截图中的 Part 2 页面顺序；`A` = 2026 年 5–8 月大陆题库 0514；`B` = 原 question-bank；`C` = archive/question-bank-v1。

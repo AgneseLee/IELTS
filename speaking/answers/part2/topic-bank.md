@@ -1,5 +1,7 @@
 # IELTS Speaking Part 2 & Part 3 题库
 
+> **Status: current Part 2 question source.** Generate one answer file per cue card in this directory; Part 3 questions remain source material only.
+
 > 共 55 个主题：人物 13 · 地点 8 · 经历 18 · 事物 16。
 >
 > `❤️` = 新话题。

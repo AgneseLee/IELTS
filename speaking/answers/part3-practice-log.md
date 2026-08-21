@@ -10,23 +10,23 @@
 
 | 项目        | 已完成 |  剩余 |  总数 |
 | --------- | --: | --: | --: |
-| 题库原题短答案覆盖 | 106 | 232 | 338 |
-| 本页答案口述复练  |   0 | 120 | 120 |
+| 题库原题短答案覆盖 | 146 | 192 | 338 |
+| 本页答案口述复练  |   0 | 160 | 160 |
 | 拓展问法短答案   |  14 |   — |  14 |
 
-## M03-❤️ 学习与技能（题库 11）
+## M03-❤️ 学习与技能（题库 13）
 
 ### ✅ Do you think choosing a college major is closely related to a future career?
 
 - [ ] 不看稿口述
 
-Yes, to some extent. Studying one field gives students regular practice and helps them develop skills that improve their employability in related jobs. For example, a computer science student can practise programming through projects and later apply for software roles. However, a major does not completely determine their career because people can learn new skills later. Overall, a college major can shape a career without fully deciding it.
+Yes, to some extent. Studying one field gives students regular practice and helps them develop skills that improve their job prospects in related fields. For example, a computer science student can practise programming through projects and later apply for software roles. However, a major does not completely determine their career because people can learn new skills later. Overall, a college major can shape a career without fully deciding it.
 
 ### ✅ Is it necessary to keep learning after graduating from school?
 
 - [ ] 不看稿口述
 
-Yes. Regular practice and feedback help people develop stronger practical skills, which can improve their performance at work and increase their employability. For example, an employee can take a short course on how to use new software and then practise using it on real tasks. In contrast, passive or exam-driven learning has limited real-world application and may weaken independent thinking. So, people should keep learning after they leave school.
+Yes. Regular practice and feedback help people develop stronger practical skills, so they can work better and improve their job prospects. For example, an employee can take a software course and practise the new skills at work. In contrast, passive or exam-driven learning is not very useful in real life and may weaken independent thinking. So, people should keep learning after they leave school.
 
 ### ✅ Do you think enterprises should provide training for their employees?
 
@@ -56,7 +56,7 @@ Children mainly learn to become smart, although natural ability also matters. Re
 
 - [ ] 不看稿口述
 
-Children become smarter through regular practice and useful feedback. Applying what they learn strengthens their practical skills and independent thinking. For example, a group project can require them to test ideas, explain their reasoning and revise their work based on their teacher’s comments. By contrast, relying only on memorisation gives them limited ability to solve real problems. So, practice and feedback help children become smarter at school.
+Children become smarter through regular practice and useful feedback. Applying what they learn strengthens their practical skills and independent thinking. For example, a group project lets them test ideas, explain them and use their teacher’s feedback. By contrast, relying only on memorisation gives them limited ability to solve real problems. So, practice and feedback help children become smarter at school.
 
 ### ✅ Why are some teachers’ classes boring? Are there any solutions?
 
@@ -74,7 +74,7 @@ It is very important for schools to help children become smarter. Regular practi
 
 - [ ] 不看稿口述
 
-I do not think working only for grades is healthy. It encourages passive, exam-driven learning with limited practical application. For example, a student may memorise an essay for a test but be unable to explain the same idea in their own words. Children also need meaningful practice and feedback so they can develop useful skills and think independently. So, children should learn useful skills, not work only for grades.
+I do not think working only for grades is healthy. It encourages passive, exam-driven learning that is not very useful in real life. For example, a student may memorise an essay but struggle to explain it in their own words. Children also need meaningful practice and feedback so they can develop useful skills and think independently. So, children should learn useful skills, not work only for grades.
 
 ### ✅ What should people consider when choosing jobs?
 
@@ -82,43 +82,55 @@ I do not think working only for grades is healthy. It encourages passive, exam-d
 
 They should mainly consider whether the job matches their skills and offers useful training. Reliable information about these priorities helps them make an informed decision. For example, someone who wants to develop technical skills should compare the actual training programmes offered by different employers. As a result, they are less likely to choose an unsuitable position. So, skills and training opportunities should guide their job choice.
 
+### ✅ Is it important for schools to identify and develop each student's talents?
+
+- [ ] 不看稿口述
+
+Yes, it is very important. Once a school identifies a student's strengths, it can offer suitable practice and feedback, which helps the student develop useful skills. So, schools should help every student make the most of their talents.
+
+### ✅ Do you think it is good for older adults to continue learning?
+
+- [ ] 不看稿口述
+
+Yes, definitely. Regular learning and practice help older people maintain useful skills and become more confident when dealing with new tasks. So, continuing to learn is beneficial at any age.
+
 ## M09-❤️ 关系与归属感（题库 9 + 拓展 3）
 
 ### ✅ What advantages are there for students experiencing teamwork at school?
 
 - [ ] 不看稿口述
 
-The main advantage is that teamwork helps students build stronger relationships. By spending time together and supporting one another, they develop a closer emotional connection. For example, completing a class presentation together teaches them to share tasks and help a teammate who is struggling. As a result, they feel a greater sense of belonging at school. So, teamwork helps students build relationships and feel included.
+The main advantage is that teamwork helps students build stronger relationships. By spending time together and supporting one another, they can feel closer. For example, completing a class presentation together teaches them to share tasks and help a teammate who is struggling. As a result, they feel a greater sense of belonging at school. So, teamwork helps students build relationships and feel included.
 
 ### ✅ What are the advantages of keeping a pet?
 
 - [ ] 不看稿口述
 
-Spending time with pets provides people with companionship and emotional support. This creates a strong emotional connection and can make owners feel more secure and less lonely. For example, walking a dog every evening gives someone a comforting routine and regular companionship. However, pets also require consistent care, time and money. Overall, pets offer valuable companionship when owners can care for them properly.
+Spending time with pets provides people with companionship and emotional support. This helps owners feel close to their pets and less lonely. For example, walking a dog every evening gives someone a comforting routine and regular companionship. However, pets also require consistent care, time and money. Overall, pets offer valuable companionship when owners can care for them properly.
 
 ### ✅ How important is childhood friendship to children?
 
 - [ ] 不看稿口述
 
-Childhood friendship is very important to children. Shared time and mutual support create a close emotional connection and help them feel accepted. For example, a friend who helps a child settle into a new school can reduce their anxiety and give them a sense of belonging. In contrast, limited interaction with peers can make children feel isolated. So, childhood friendship is important for children's emotional well-being.
+Childhood friendship is very important to children. Spending time together and supporting each other help children feel close and accepted. For example, a supportive friend can reduce a child's anxiety at a new school. In contrast, limited interaction with peers can make children feel isolated. So, childhood friendship is important for children's emotional well-being.
 
 ### ✅ 拓展：Why is it important for family members to spend time together?
 
 - [ ] 不看稿口述
 
-It is important because shared time strengthens family relationships. When family members support one another, they develop a deeper emotional connection. For example, eating dinner together gives everyone a regular chance to talk about problems and offer support. By contrast, limited interaction can create emotional distance and weaken their sense of belonging. So, regular family time is important for keeping families close.
+It is important because shared time strengthens family relationships. When family members support one another, they feel closer. For example, eating dinner together gives everyone a regular chance to talk about problems and offer support. By contrast, limited interaction can create emotional distance and weaken their sense of belonging. So, regular family time is important for keeping families close.
 
 ### ✅ 拓展：Why do some people enjoy visiting their friends?
 
 - [ ] 不看稿口述
 
-Visiting friends allows people to spend meaningful time together and offer each other emotional support. This strengthens their emotional connection and helps maintain a close friendship. For example, visiting a friend after a difficult week creates space for a proper conversation that text messages may not provide. Without regular interaction, they may gradually become distant. So, visiting friends helps people maintain close relationships.
+Visiting friends allows people to spend meaningful time together and offer each other emotional support. This helps them feel closer and maintain their friendship. For example, visiting a friend after a difficult week creates space for a proper conversation that text messages may not provide. Without regular interaction, they may gradually become distant. So, visiting friends helps people maintain close relationships.
 
 ### ✅ 拓展：Why is it important to have good relationships with neighbours?
 
 - [ ] 不看稿口述
 
-Good relationships with neighbours are important because they create a supportive community. Shared time and mutual support build stronger emotional connections among residents. For example, a trusted neighbour can collect a parcel or check on an older resident when their family is away. In contrast, limited interaction can create distance and weaken people’s sense of belonging. So, good neighbourly relationships create a stronger community.
+Good relationships with neighbours are important because they create a supportive community. Spending time together and helping each other allow residents to feel closer. For example, a trusted neighbour can collect a parcel or check on an older resident when their family is away. In contrast, limited interaction can create distance and weaken people’s sense of belonging. So, good neighbourly relationships create a stronger community.
 
 ### ✅ Has technology changed people’s friendships? How?
 
@@ -130,19 +142,19 @@ Yes. Faster communication helps friends stay in touch and support each other acr
 
 - [ ] 不看稿口述
 
-Mobile phones have both positive and negative effects on friendship. Faster communication helps friends support each other and maintain emotional connections over distance. For example, a quick message can help a friend during a difficult day, but checking notifications throughout dinner reduces meaningful face-to-face interaction. Over time, that distraction may weaken closeness and trust. Overall, phones can strengthen or weaken friendships, depending on how people use them.
+Mobile phones have both positive and negative effects on friendship. Faster communication helps friends support each other and stay close over distance. For example, a quick message can help a friend during a difficult day, but checking notifications throughout dinner reduces meaningful face-to-face interaction. Over time, that distraction may weaken closeness and trust. Overall, phones can strengthen or weaken friendships, depending on how people use them.
 
 ### ✅ Why do some people want to be very involved in their community?
 
 - [ ] 不看稿口述
 
-Some people become involved because they want a stronger sense of community. Shared activities allow residents to spend time together and offer mutual support. For example, organising a neighbourhood clean-up gives people a practical reason to cooperate and get to know one another. This creates closer emotional connections and a greater sense of belonging. So, people join community activities to feel connected and supported.
+Some people become involved because they want a stronger sense of community. Shared activities allow residents to spend time together and offer mutual support. For example, organising a neighbourhood clean-up gives people a practical reason to cooperate and get to know one another. This helps them feel closer and gives them a greater sense of belonging. So, people join community activities to feel connected and supported.
 
 ### ✅ Do you think local communities were stronger in the past than they are today?
 
 - [ ] 不看稿口述
 
-In many places, local communities were stronger in the past. Neighbours interacted and supported one another more often, creating closer emotional connections. For example, people were more likely to visit nearby families or help them with everyday tasks. Today, limited interaction and constant distraction can weaken this sense of belonging. Overall, local communities were often stronger in the past.
+In many places, local communities were stronger in the past. Neighbours interacted and supported one another more often, so they felt closer. For example, people were more likely to visit nearby families or help them with everyday tasks. Today, limited interaction and constant distraction can weaken this sense of belonging. Overall, local communities were often stronger in the past.
 
 ### ✅ What negative effects does technology have on people’s relationships?
 
@@ -154,7 +166,7 @@ The main negative effect is weaker personal interaction. Constant notifications 
 
 - [ ] 不看稿口述
 
-Real-life friendships are usually deeper, while online friendships are easier to form. Shared time and direct support build stronger emotional connections in person. For example, an online gaming group can connect people with the same interest, but its members may know little about one another’s real lives. Online interaction also creates greater privacy risks. Overall, real-life friendships are deeper, while online ones are easier to form.
+Real-life friendships are usually deeper, while online friendships are easier to form. Spending time together and giving direct support help people form closer friendships in person. For example, online games connect people with shared interests, but they may know little about each other's real lives. Online interaction also creates greater privacy risks. Overall, real-life friendships are deeper, while online ones are easier to form.
 
 ## M11-❤️ 经济与就业（题库 4）
 
@@ -218,13 +230,13 @@ No. Different age groups have different responsibilities, so the amount and type
 
 - [ ] 不看稿口述
 
-Young people tend to change their routines more often. Their study, work and social responsibilities are usually less stable, leading to more varied habits. For example, a university student may alter their schedule every term, while a retired person can keep the same morning walk each day. Older adults often prefer predictable routines that support their mood and well-being. Overall, young people tend to change their routines more often.
+Young people tend to change their routines more often. Their study, work and social responsibilities are usually less stable, leading to more varied habits. For example, a student's schedule may change each term, while a retired person's morning routine stays stable. Older adults often prefer predictable routines that support their mood and well-being. Overall, young people tend to change their routines more often.
 
 ### ✅ What are the differences between old and young people’s music preferences?
 
 - [ ] 不看稿口述
 
-Young people often prefer new music they discover online, while older people may favour familiar songs. Their different experiences and levels of digital familiarity lead to these different habits. For example, a teenager may discover new artists through short videos, while an older adult may return to songs associated with earlier memories. However, as technology becomes easier to use, the gap is gradually narrowing. Overall, the two age groups still tend to prefer different kinds of music.
+Young people often prefer new music they discover online, while older people may favour familiar songs. Their different experiences and levels of digital familiarity lead to these different habits. For example, teenagers may discover artists online, while older adults return to songs from their youth. However, as technology becomes easier to use, the gap is gradually narrowing. Overall, the two age groups still tend to prefer different kinds of music.
 
 ### ✅ What are the differences between old and young people when using apps?
 
@@ -250,13 +262,13 @@ Young people often prefer fast-paced programmes on streaming platforms, while ol
 
 - [ ] 不看稿口述
 
-Yes, definitely. A good plan starts with clear priorities and realistic sequencing, so people know what to do first and how to use their time. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. This lowers the risk of costly mistakes and often leads to better results. So, planning ahead is important for avoiding problems and getting better results.
+Yes, definitely. A good plan starts with clear priorities and puts tasks in a sensible order. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. This lowers the risk of costly mistakes and often leads to better results. So, planning ahead is important for avoiding problems and getting better results.
 
 ### ✅ Should children ask their teachers or parents for advice when making plans?
 
 - [ ] 不看稿口述
 
-Yes, because adults can help children identify clear priorities and arrange realistic next steps. This support helps children turn their chosen direction into an actionable plan. For example, a teacher can explain which subjects are required for a career that interests a student. This lowers the risk of choosing an unsuitable path. So, children should seek adult advice when making important plans.
+Yes, because adults can help children identify clear priorities and arrange realistic next steps. This support helps children make a plan they can follow. For example, a teacher can explain which subjects are required for a career that interests a student. This lowers the risk of choosing an unsuitable path. So, children should seek adult advice when making important plans.
 
 ### ✅ 拓展：Is it always necessary to follow a plan?
 
@@ -268,31 +280,31 @@ No, not always. Rigid scheduling can make a plan impractical when unexpected cha
 
 - [ ] 不看稿口述
 
-People should begin with clear priorities and an actionable plan. They then need regular practice and feedback to develop the necessary skills. For example, someone preparing for a language exam can schedule speaking practice and use a teacher’s comments to correct recurring mistakes. This improves performance, while flexibility lowers the risk of poor results. So, a clear plan and regular practice help people reach their goals.
+People should begin with clear priorities and a plan they can follow. They then need regular practice and feedback to develop the necessary skills. For example, someone preparing for a language exam can schedule speaking practice and use a teacher’s comments to correct recurring mistakes. This improves performance, while flexibility lowers the risk of poor results. So, a clear plan and regular practice help people reach their goals.
 
 ### ✅ Do you think children should plan their future careers?
 
 - [ ] 不看稿口述
 
-Yes, but children’s career plans should remain flexible. Clear priorities and realistic next steps help them create an actionable plan. For example, a child interested in medicine can study biology and speak to a doctor before making a firm decision. A rigid plan made too early may instead lead them towards an unsuitable path. Overall, children should plan ahead but keep their career options open.
+Yes, but children’s career plans should remain flexible. Clear priorities and realistic next steps help them make a plan they can follow. For example, a child interested in medicine can study biology and speak to a doctor before making a firm decision. A rigid plan made too early may instead lead them towards an unsuitable path. Overall, children should plan ahead but keep their career options open.
 
 ### ✅ How do people usually plan holidays?
 
 - [ ] 不看稿口述
 
-People usually begin by setting clear priorities and arranging activities in a realistic order. This gives them an actionable plan for transport, accommodation and activities. For example, a family may book a hotel near public transport because convenience matters more to them than nightlife. This lowers the risk of problems and leads to a better trip. So, good holiday planning means setting priorities and arranging practical details.
+People usually begin by setting clear priorities and arranging activities in a realistic order. This gives them a clear plan for transport, accommodation and activities. For example, a family may book a hotel near public transport because convenience matters more to them than nightlife. This lowers the risk of problems and leads to a better trip. So, good holiday planning means setting priorities and arranging practical details.
 
 ### ✅ Is it important to plan a holiday ahead?
 
 - [ ] 不看稿口述
 
-Yes. Clear priorities and realistic scheduling help travellers create an actionable plan and reduce costly mistakes. For example, booking train tickets early can help travellers avoid higher prices or sold-out services. However, the plan should stay flexible in case conditions change. Overall, planning a holiday early is useful if the plan stays flexible.
+Yes. Clear priorities and realistic scheduling help travellers make a clear plan and avoid costly mistakes. For example, booking train tickets early can help travellers avoid higher prices or sold-out services. However, the plan should stay flexible in case conditions change. Overall, planning a holiday early is useful if the plan stays flexible.
 
 ### ✅ How does technology help people make plans?
 
 - [ ] 不看稿口述
 
-Technology helps by providing faster access to schedules, prices, maps and reviews. People can use these tools to set clear priorities and arrange realistic next steps. For example, a travel app can show whether a cheaper hotel would add an hour to each day’s journey. As a result, they can create actionable plans more efficiently and with less risk. So, technology helps people make plans faster and with less risk.
+Technology helps by providing faster access to schedules, prices, maps and reviews. People can use these tools to set clear priorities and arrange realistic next steps. For example, a travel app can show whether a cheaper hotel would add an hour to each day’s journey. As a result, they can make clear plans more quickly and with less risk. So, technology helps people make plans faster and with less risk.
 
 ## M17-❤️ 艺术、娱乐与想象力（题库 7 + 拓展 3）
 
@@ -300,37 +312,37 @@ Technology helps by providing faster access to schedules, prices, maps and revie
 
 - [ ] 不看稿口述
 
-Museums expose people to different forms of art and encourage them to think about new ideas. This can stimulate their creativity, help them understand other cultures and provide a relaxing break from daily routines. For example, a historical exhibition can use real objects and personal stories to show how families in another culture once lived. In contrast, passive entertainment often leads to shallower engagement and fewer cultural benefits. So, people visit museums for a deeper cultural and artistic experience.
+Museums show people different forms of art and encourage them to think about new ideas. This can develop their creativity, help them understand other cultures and provide a relaxing break from daily routines. For example, a historical exhibition can use real objects and personal stories to show how families in another culture once lived. In contrast, passive entertainment is less engaging and may teach people less about culture. So, people visit museums for a deeper cultural and artistic experience.
 
 ### ✅ 拓展：Why is it important for children to learn drawing?
 
 - [ ] 不看稿口述
 
-Learning to draw gives children artistic exposure and allows them to express their emotions and ideas visually. Regular participation can stimulate their imagination, develop their creativity and help them relax. For example, inventing and drawing a new character requires a child to make creative choices about its appearance and story. In contrast, relying only on passive entertainment offers fewer opportunities to engage deeply with art. So, drawing helps children express themselves and become more creative.
+Learning to draw gives children a chance to experience art and express their emotions and ideas visually. Drawing regularly can develop their imagination and creativity and help them relax. For example, inventing and drawing a new character requires a child to make creative choices about its appearance and story. In contrast, passive entertainment gives them fewer chances to think deeply about art. So, drawing helps children express themselves and become more creative.
 
 ### ✅ 拓展：Why do some people enjoy watching live music performances?
 
 - [ ] 不看稿口述
 
-Live performances let people experience music directly and take part in a shared cultural event. This helps them share their emotions, discover new ideas and relax. Compared with listening to music passively at home, attending a concert often creates deeper engagement and greater cultural benefits. So, people enjoy live music because it feels more engaging and emotional.
+Live performances let people experience music directly and take part in a shared cultural event. This helps them share their emotions, discover new ideas and relax. Compared with listening at home, attending a concert helps people feel more involved and enjoy the music more. So, people enjoy live music because it feels more engaging and emotional.
 
 ### ✅ 拓展：Do you think watching films can develop people’s imagination?
 
 - [ ] 不看稿口述
 
-Yes. Films expose viewers to different stories, cultures and visual styles, which can introduce them to new ideas and stimulate their imagination. For example, a science-fiction film may encourage someone to imagine how future cities or transport systems could work. By contrast, if people watch films only as passive entertainment, their engagement may remain shallow, so they gain fewer creative benefits. Overall, films can develop imagination when viewers engage with them actively.
+Yes. Films show viewers different stories, cultures and visual styles, which can give them new ideas and develop their imagination. For example, a science-fiction film may encourage someone to imagine how future cities or transport systems could work. By contrast, passive viewing may offer fewer creative benefits. Overall, films can develop imagination when viewers engage with them actively.
 
 ### ✅ Do you think children should receive some musical education?
 
 - [ ] 不看稿口述
 
-Yes. Musical participation gives children a way to express emotions and discover new ideas. With regular practice and feedback, they can also build practical skills and develop greater creativity. For example, learning a simple song on the piano lets a child hear mistakes, correct them and gradually perform with confidence. So, musical education can develop both children's skills and creativity.
+Yes. Playing music gives children a way to express emotions and discover new ideas. With regular practice and feedback, they can also build practical skills and develop greater creativity. For example, learning a simple song on the piano lets a child hear mistakes, correct them and gradually perform with confidence. So, musical education can develop both children's skills and creativity.
 
 ### ✅ Do you think adults can have lots of imagination?
 
 - [ ] 不看稿口述
 
-Yes. Adults can keep their imagination active through art and creative activities, which introduce new perspectives and stimulate creativity. For example, photography can encourage an adult to notice ordinary places from unusual angles and tell a story through images. The main barrier is often limited time rather than age itself. So, adults can remain imaginative if they keep doing creative activities.
+Yes. Adults can keep their imagination active through art and creative activities, which introduce new perspectives and develop creativity. For example, photography can encourage an adult to notice ordinary places from unusual angles and tell a story through images. The main barrier is often limited time rather than age itself. So, adults can remain imaginative if they keep doing creative activities.
 
 ### ✅ How important is imagination to children?
 
@@ -348,7 +360,7 @@ People like sports events because they are exciting and relaxing. Watching with 
 
 - [ ] 不看稿口述
 
-Watching in a stadium makes people feel more involved, while television is easier to access. The live atmosphere creates direct participation and a stronger emotional response. For example, hearing thousands of fans celebrate a goal can make the moment more exciting. Television is more convenient, but the experience is more passive. Overall, stadiums offer atmosphere, while television offers convenience.
+Watching in a stadium makes people feel more involved, while television is easier to access. The live atmosphere makes people feel involved and more excited. For example, hearing thousands of fans celebrate a goal can make the moment more exciting. Television is more convenient, but the experience is more passive. Overall, stadiums offer atmosphere, while television offers convenience.
 
 ### ✅ Do you think successful movies should have well-known actors or actresses in leading roles?
 
@@ -362,19 +374,19 @@ Not necessarily. Regular training and practical acting skills matter more than f
 
 - [ ] 不看稿口述
 
-Not if appearance is prioritised over practical functions. A sensible design and accessible facilities make buildings easier for everyone to use, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. A good-looking exterior without practical value may simply waste resources. So, practical design matters more than an expensive exterior.
+Not if looks matter more than practical use. A sensible design and facilities that everyone can use make buildings more convenient, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. A good-looking exterior that is not useful may simply waste resources. So, practical design matters more than an expensive exterior.
 
 ### ✅ What kind of place do people in your country like to live in?
 
 - [ ] 不看稿口述
 
-Most people prefer a home with a practical design and easy access to essential facilities, such as shops, parks and public transport. These features make daily life more convenient and improve their quality of life. An attractive home in an inconvenient or poorly maintained area may offer limited practical value. Overall, people prefer practical homes in convenient and well-maintained areas.
+Most people prefer a home with a practical design and easy access to essential facilities, such as shops, parks and public transport. These features make daily life more convenient and improve their quality of life. An attractive home in an inconvenient or poorly maintained area may not be useful in daily life. Overall, people prefer practical homes in convenient and well-maintained areas.
 
 ### ✅ 拓展：What makes a good public space?
 
 - [ ] 不看稿口述
 
-A good public space should have a practical design and accessible facilities, such as comfortable seating, clear paths and public toilets. These features make it easier for people to use the space and improve their quality of life. Without proper maintenance, however, even an attractive space may offer limited public value, making the original investment a waste. Overall, a good public space must be useful, accessible and well maintained.
+A good public space needs a practical design, seats, clear paths and public toilets. These features make the space easier to use and improve people’s quality of life. Without proper maintenance, even an attractive space may be less useful to the public. Overall, a good public space must be useful, accessible and well maintained.
 
 ### ✅ 拓展：What are the advantages of living in a well-designed city?
 
@@ -386,13 +398,13 @@ A well-designed city provides practical transport systems and accessible public 
 
 - [ ] 不看稿口述
 
-The inside is more important than the outside. Practical design and accessible facilities make daily use easier and improve people’s quality of life. For example, good airflow and a working lift affect occupants every day, whereas a decorative entrance does not. A good-looking exterior without useful functions therefore provides limited value. Overall, a building's interior matters more because people use it every day.
+The inside is more important than the outside. Practical design and facilities that everyone can use make daily life easier. For example, good airflow and a working lift affect people every day, whereas a decorative entrance does not. A good-looking exterior without useful features is therefore less important. Overall, a building's interior matters more because people use it every day.
 
 ### ✅ Is it better to live in a new building or an old one?
 
 - [ ] 不看稿口述
 
-The building’s condition matters more than its age. New buildings often provide practical, accessible facilities that make daily life easier. For example, a renovated older home with safe wiring, good heating and a working lift may be more comfortable than a poorly built new one. Good design and maintenance are therefore a better basis for choosing a home.
+The building’s condition matters more than its age. New buildings often provide practical, accessible facilities that make daily life easier. For example, a renovated old home may be more comfortable than a poorly built new one. Good design and maintenance are therefore a better basis for choosing a home.
 
 ## M19-❤️ 习惯、情绪与休闲（题库 3 + 拓展 2）
 
@@ -424,21 +436,21 @@ People may feel bored when their daily routines become repetitive and lack meani
 
 - [ ] 不看稿口述
 
-Technology makes leisure more convenient but also more passive. Faster access gives people a wider choice of entertainment and encourages greater participation. For example, a fitness app can help someone join a guided workout at home, while endless short videos may keep them scrolling for hours. Constant notifications and screen use can therefore cause distraction and fatigue, so people may not feel fully rested. Overall, technology makes leisure easier but can also make it less restful.
+Technology makes leisure more convenient but also more passive. Faster access gives people more entertainment choices and makes it easier to take part. For example, a fitness app supports home workouts, while short videos may keep people scrolling for hours. Constant notifications and screen use can therefore cause distraction and fatigue, so people may not feel fully rested. Overall, technology makes leisure easier but can also make it less restful.
 
-## M20-❤️ 科技、媒体与隐私（题库 10 + 拓展 2）
+## M20-❤️ 科技、媒体与隐私（题库 13 + 拓展 2）
 
 ### ✅ What do you think of communicating with others through social media?
 
 - [ ] 不看稿口述
 
-Overall, social media is useful, but it also has clear risks. Faster communication makes interaction more convenient and allows wider participation. For example, a family group can share news instantly, but a public post may expose personal information to strangers. Data collection can lead to privacy loss, while weak verification can spread misinformation and reduce trust. Overall, social media is useful for communication but should be used carefully.
+Overall, social media is useful, but it also has clear risks. Faster communication makes interaction more convenient and lets more people join conversations. For example, a family group can share news instantly, but a public post may expose personal information to strangers. Data collection can reduce privacy, while unchecked posts can spread false information and reduce trust. Overall, social media is useful for communication but should be used carefully.
 
 ### ✅ Do you think technology has changed the way people communicate?
 
 - [ ] 不看稿口述
 
-Yes, technology has made communication much faster. Instant access makes social interaction more convenient and allows wider participation. For example, colleagues in different countries can hold a video meeting immediately without having to travel. However, constant notifications and weak verification can cause distraction or misinformation, which may reduce trust. Overall, technology has made communication faster but sometimes less reliable.
+Yes, technology has made communication much faster. Instant access makes communication more convenient and lets more people take part. For example, colleagues in different countries can hold a video meeting immediately without having to travel. However, constant notifications and unchecked information may cause distraction or reduce trust. Overall, technology has made communication faster but sometimes less reliable.
 
 ### ✅ 拓展：Do you think people should get their news from the Internet?
 
@@ -450,7 +462,7 @@ Yes, because the Internet provides faster access to news and makes it more conve
 
 - [ ] 不看稿口述
 
-Their main advantage is faster access to services and communication. This makes everyday tasks more convenient and allows wider online participation. For example, a banking app lets someone pay a bill in minutes, but it may also collect sensitive financial data. Constant notifications can also create distraction and reduce trust. Overall, mobile apps are convenient but also create privacy and distraction risks.
+Their main advantage is faster access to services and communication. This makes everyday tasks more convenient and lets more people use online services. For example, a banking app lets someone pay a bill in minutes, but it may also collect sensitive financial data. Constant notifications can also create distraction and reduce trust. Overall, mobile apps are convenient but also create privacy and distraction risks.
 
 <!-- 侧重 AI 优点。 -->
 
@@ -458,7 +470,7 @@ Their main advantage is faster access to services and communication. This makes 
 
 - [ ] 不看稿口述
 
-Yes, people today should learn about AI. Regular practice helps them develop practical AI skills, improving their performance and employability. For example, an office worker can use it to summarise a long document and then check the summary against the original. Proper training also teaches people to verify AI output and protect personal data rather than trust the technology blindly. So, learning about AI is useful for both work and daily life.
+Yes, people today should learn about AI. Regular practice helps them develop practical AI skills, improving their work and job prospects. For example, an office worker can use it to summarise a long document and then check the summary against the original. Proper training also teaches people to check AI output and protect personal data. So, learning about AI is useful for both work and daily life.
 
 ### ✅ Should children learn to use AI?
 
@@ -476,7 +488,7 @@ Some are. When AI makes tasks too convenient, students may practise less, which 
 
 - [ ] 不看稿口述
 
-Teachers should ask students to work independently and explain their reasoning. Regular feedback then helps students build practical skills instead of depending on generated answers. For example, students could submit an outline and explain which AI suggestions they accepted or rejected. Teachers should also teach students how to check AI-generated information, so they can use AI as a tool rather than depend on it for answers. Overall, teachers should promote careful AI use, not complete dependence.
+Teachers should ask students to work independently and explain their reasoning. Regular feedback then helps students build practical skills instead of depending on generated answers. For example, students could submit an outline and explain which AI suggestions they accepted or rejected. Teachers should show them how to check AI information and use it without becoming dependent. Overall, teachers should promote careful AI use, not complete dependence.
 
 ### ✅ What are the benefits of technology for learning history?
 
@@ -494,13 +506,31 @@ The main advantage is wider and faster access to education. Online lessons, prac
 
 - [ ] 不看稿口述
 
-People choose physical visits because they offer a more engaging experience. Direct exposure to art encourages participation and creates a stronger emotional response. For example, seeing the true size and texture of a painting can reveal details that are easy to miss on a phone screen. Online viewing is more convenient, but it can also be more passive and provide fewer cultural benefits. So, people visit museums for a richer and more direct experience of art.
+People choose physical visits because they offer a more engaging experience. Seeing art in person helps people feel more involved and excited. For example, a painting's real size and texture may be unclear on a phone screen. Online viewing is more convenient, but people may learn less about art. So, people visit museums for a richer and more direct experience of art.
 
 ### ✅ What’s the influence of technology on museums?
 
 - [ ] 不看稿口述
 
-Technology has made museums easier to access and explore. For example, virtual tours and digital guides help people from different countries understand exhibits by offering translations and background information. This provides wider access and encourages greater participation. However, too many screens may create distraction and turn the visit into passive entertainment. Overall, technology makes museums more accessible but can also cause distraction.
+Technology has made museums easier to access and explore. For example, virtual tours and digital guides help people from different countries understand exhibits by offering translations and background information. This gives more people access and encourages them to explore museums. However, too many screens may create distraction and turn the visit into passive entertainment. Overall, technology makes museums more accessible but can also cause distraction.
+
+### ✅ Is it a waste of time to take pictures with mobile phones?
+
+- [ ] 不看稿口述
+
+No, not necessarily. Mobile phones let people take and share pictures quickly, making communication more convenient and allowing others to join an experience. So, taking phone pictures can be meaningful rather than wasteful.
+
+### ✅ How does the internet benefit people?
+
+- [ ] 不看稿口述
+
+The internet gives people faster access to information and communication. This makes everyday activities more convenient and allows more people to take part in education, work and social life. So, its main benefit is wider and easier access.
+
+### ✅ Why do some people not like using apps?
+
+- [ ] 不看稿口述
+
+Some people worry about privacy and unreliable information. Apps may collect personal data or distract users, which gradually reduces their trust in these services. So, concerns about privacy and reliability can make people avoid apps.
 
 ## M04-💙 健康与福祉（题库 4）
 
@@ -508,7 +538,7 @@ Technology has made museums easier to access and explore. For example, virtual t
 
 - [ ] 不看稿口述
 
-I think being a doctor is difficult because the work can involve chronic pressure. Constant responsibility may lead to poor sleep and anxiety, especially when doctors have little time to recover. For example, a doctor may work overnight and still face critical decisions the next morning. Over time, this pressure can cause burnout and harm their long-term well-being. So, being a doctor is difficult because the pressure can be intense.
+I think being a doctor is difficult because the work can involve constant pressure. Constant responsibility may lead to poor sleep and anxiety, especially when doctors have little time to recover. For example, a doctor may work overnight and still face critical decisions the next morning. Over time, this pressure can cause burnout and harm their long-term well-being. So, being a doctor is difficult because the pressure can be intense.
 
 ### ✅ Do you think governments should put a large amount of money into medical research?
 
@@ -528,13 +558,13 @@ Yes, if the change helps people develop healthier habits. Getting help early can
 
 It can be, especially for people who use it to follow a healthy routine. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being. Overall, early mornings are useful only when people get enough sleep.
 
-## M05-💙 沟通与信任（题库 7）
+## M05-💙 沟通与信任（题库 8）
 
 ### ✅ Why are employees reluctant to ask their managers for help?
 
 - [ ] 不看稿口述
 
-Some employees hesitate because their managers communicate in an unclear or impersonal way. As a result, they cannot tell whether asking for help will lead to support or criticism. For example, a junior worker may fear being blamed for asking a simple question. This uncertainty makes them feel unsafe, so they may remain silent even when they need help. So, poor communication can make employees afraid to ask managers for help.
+Some employees hesitate because their managers communicate in an unclear or less personal way. As a result, they cannot tell whether asking for help will lead to support or criticism. For example, a junior worker may fear being blamed for asking a simple question. This uncertainty makes them feel unsafe, so they may remain silent even when they need help. So, poor communication can make employees afraid to ask managers for help.
 
 ### ✅ Does speaking other languages help at work?
 
@@ -571,6 +601,12 @@ Face-to-face communication usually creates more trust, while online communicatio
 - [ ] 不看稿口述
 
 Not necessarily, because a good talk show can show clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. This can show viewers how trust is built through communication. So, useful talk shows are not necessarily a waste of time.
+
+### ✅ Is smiling important in your culture?
+
+- [ ] 不看稿口述
+
+Yes, smiling is quite important in my culture. It is a simple way to show friendliness, which can make communication easier and help people trust each other. So, smiling plays a positive role in social interaction.
 
 ## M06-💙 规则与责任（题库 7）
 
@@ -628,13 +664,13 @@ They mainly need reliable information and clear career advice. This kind of supp
 
 - [ ] 不看稿口述
 
-The main problem is that too much advice can create confusion. When people hear many conflicting opinions, they may lose sight of their own priorities. For example, conflicting recommendations about which university course to choose may cause a student to keep changing their application. As a result, they may delay the decision or make a poor choice.
+The main problem is that too much advice can create <mark style="background: #ABF7F7A6;">confusion</mark>. When people hear many conflicting opinions, they may lose sight of their own priorities. For example, conflicting recommendations about which university course to choose may cause a student to keep changing their application. As a result, they may delay the decision or make a poor choice.
 
 ### ✅ Is it good to ask advice from strangers online?
 
 - [ ] 不看稿口述
 
-It can be useful, but people should be careful. The Internet provides fast access to varied advice, while weak verification and data collection create misinformation and privacy risks. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision. Overall, online advice can help, but it should not be trusted blindly.
+It can be useful, but people should be careful. Online advice may not be checked, and websites may collect personal data. For example, an anonymous user may recommend an unsafe financial product without revealing that they are being paid to promote it. Therefore, people should check reliable sources before making an important decision. Overall, online advice can help, but it should not be trusted blindly.
 
 ### ✅ Who can children turn to for help when making a decision?
 
@@ -652,13 +688,13 @@ I think success mainly comes from choosing the right direction and then working 
 
 - [ ] 不看稿口述
 
-Yes, because useful advice should be based on reliable information from varied sources. Preparation helps people form an informed judgement instead of passing on an assumption. For example, someone should check current transport schedules before recommending a travel route. This makes the advice more likely to support a good decision. So, some preparation is important before giving advice.
+Yes, because useful advice should be based on reliable information from varied sources. Preparation helps people give sensible advice instead of making assumptions. For example, someone should check current transport schedules before recommending a travel route. This makes the advice more likely to support a good decision. So, some preparation is important before giving advice.
 
 ### ✅ What is the most important factor in an advertisement?
 
 - [ ] 不看稿口述
 
-The most important factor is reliable information. Accurate details help consumers form an informed judgement and make a better decision about a product. For example, clear specifications allow buyers to compare two phones properly. Misleading or excessive information can instead distort their judgement and lead to a poor choice. So, accurate information is the most important part of an advertisement.
+The most important factor is reliable information. Accurate details help consumers make a sensible decision about a product. For example, clear specifications allow buyers to compare two phones properly. Misleading or excessive information can instead confuse them and lead to a poor choice. So, accurate information is the most important part of an advertisement.
 
 ## M10-💙 创造力与探索（题库 5）
 
@@ -666,31 +702,31 @@ The most important factor is reliable information. Accurate details help consume
 
 - [ ] 不看稿口述
 
-Modern society needs varied talents because exposure to different ideas creates new perspectives. When people with different strengths explore a problem together, they are more likely to think creatively. For example, a designer and an engineer may approach the same product differently. Relying on one rigid approach can limit exploration and produce weaker solutions. So, varied talents help society produce more creative and practical solutions.
+Modern society needs varied talents because different ideas create new perspectives. When people with different strengths explore a problem together, they are more likely to think creatively. For example, a designer and an engineer may approach the same product differently. Using only one fixed way can lead to weaker solutions. So, varied talents help society produce more creative and practical solutions.
 
 ### ✅ Do you think there are too many subjects for students to learn?
 
 - [ ] 不看稿口述
 
-Not necessarily, because exposure to different subjects can give students new perspectives. If lessons include open-ended practice, this variety can encourage exploration and greater creativity. For example, combining art and science can help students design an original model. The problem arises when every subject is taught rigidly and students become afraid of making mistakes. Overall, the number of subjects matters less than how they are taught.
+Not necessarily, because learning different subjects can give students new perspectives. Activities with no fixed answer can also help them explore and become more creative. For example, combining art and science can help students design an original model. The problem arises when every subject is taught rigidly and students become afraid of making mistakes. Overall, the number of subjects matters less than how they are taught.
 
 ### ✅ How do people learn new things?
 
 - [ ] 不看稿口述
 
-People learn through regular practice and feedback, as well as exposure to new ideas. Practice strengthens their practical skills, while open-ended exploration gives them new perspectives. For example, a language learner can try a new expression and improve it after receiving feedback. As a result, they can perform better and think more creatively. So, people learn best through practice, feedback and exploration.
+People learn through regular practice, feedback and new ideas. Practice strengthens their practical skills, while trying different methods gives them new perspectives. For example, a language learner can try a new expression and improve it after receiving feedback. As a result, they can perform better and think more creatively. So, people learn best through practice, feedback and exploration.
 
-### ✅ How do artworks inspire people?
+### ✅ 🥚How do artworks inspire people?
 
 - [ ] 不看稿口述
 
-Artworks expose people to ideas and perspectives they may not have considered before. This encourages them to explore different interpretations and think more openly. For example, an unusual painting may inspire a designer to experiment with colour. As a result, they may become more creative in their own work or problem-solving. So, artworks inspire people by showing them new ideas and perspectives.
+Artworks can show people ideas they may not have thought about before. This helps them see things in different ways and think more openly. For example, an unusual painting may inspire a designer to experiment with colour. As a result, they may become more creative in their own work or problem-solving. So, artworks inspire people to see things differently and become more creative.
 
 ### ✅ Do you think imagination is essential for scientists?
 
 - [ ] 不看稿口述
 
-Yes, because scientists need to explore ideas beyond familiar explanations. Exposure to different perspectives and open-ended practice can help them imagine new ways to approach a problem. For example, an unexpected result may encourage a researcher to test a different explanation. Rigid thinking or fear of mistakes would limit that exploration and weaken creativity. So, imagination is essential for scientific discovery and problem-solving.
+Yes, because scientists need to explore ideas beyond familiar explanations. Different perspectives and activities with no fixed answer can help them find new ways to solve a problem. For example, an unexpected result may encourage a researcher to test a different explanation. Being afraid to try new ideas would weaken creativity. So, imagination is essential for scientific discovery and problem-solving.
 
 ## M12-💙 环境与可持续性（题库 3）
 
@@ -698,75 +734,291 @@ Yes, because scientists need to explore ideas beyond familiar explanations. Expo
 
 - [ ] 不看稿口述
 
-People can reduce excessive consumption and use practical green infrastructure when it is available. These choices encourage greener behaviour and produce less waste and pollution. For example, they can take public transport and avoid unnecessary packaging. Over time, they can limit environmental damage and reduce the loss of natural resources. So, greener daily choices can help protect the natural world.
+People can buy less and use greener services when they are available. These choices produce less waste and pollution. For example, they can take public transport and avoid unnecessary packaging. Over time, they can limit environmental damage and reduce the loss of natural resources. So, greener daily choices can help protect the natural world.
 
 ### ✅ Do you think people need to change the way of transportation drastically to protect the environment?
 
 - [ ] 不看稿口述
 
-Change is necessary, but it does not have to be sudden or extreme. Practical transport systems and lower prices can gradually encourage greener behaviour. For example, reliable buses and discounted fares can reduce private car use. This approach can lower pollution and resource loss without demanding an unrealistic immediate change. So, transport should change gradually rather than all at once.
+Change is necessary, but it does not have to be sudden or <mark style="background: #ABF7F7A6;">extreme</mark>. Practical transport systems and lower prices can gradually encourage <mark style="background: #ABF7F7A6;">greener behaviour.</mark> For example, reliable buses and discounted fares can reduce private car use. This approach can lower pollution and resource loss without demanding an unrealistic overnight change. So, transport should change gradually rather than all at once.
 
 ### ✅ What do you think of the future of electric cars?
 
 - [ ] 不看稿口述
 
-I think electric cars will become more common as practical infrastructure and incentives improve. These supports can encourage greener transport choices and reduce pollution and resource loss. For example, more charging stations can make switching to an electric car easier. However, progress may remain limited where charging infrastructure is not practical. Overall, electric cars will become more common as charging systems improve.
+I think electric cars will become more common as charging networks improve and prices fall. These changes can encourage greener <mark style="background: #ABF7F7A6;">transport choices</mark> and reduce pollution. For example, more <mark style="background: #ABF7F7A6;">charging stations</mark> can make switching to an electric car easier. However, progress may remain <mark style="background: #ABF7F7A6;">limited</mark> in places where charging stations are hard to find. Overall, electric cars will become more common as charging systems improve.
 
-## M15-💙 名人与广告（题库 9）
+## M15-💙 名人与广告（题库 10）
 
 ### ✅ What are the advantages and disadvantages of being a famous child?
 
 - [ ] 不看稿口述
 
-On the bright side, fame can bring a child wider influence and new opportunities because visibility attracts public attention. However, constant public exposure may cause a serious loss of privacy. For example, a child actor may be followed by photographers outside work. This pressure can create stress and may also lead to poor choices. Overall, childhood fame brings opportunities but also serious pressure.
+On the bright side, fame can bring a child more influence and new opportunities because more people notice them. However, constant public attention may cause a serious loss of privacy. For example, a child actor may be followed by photographers outside work. This pressure can create stress and may also lead to poor choices. Overall, childhood fame brings opportunities but also serious pressure.
 
 ### ✅ Do people become famous because of their talent?
 
 - [ ] 不看稿口述
 
-Talent helps because regular practice can strengthen practical skills and improve performance. However, fame also requires visibility and credibility to attract public attention. For example, a skilled singer may reach a wide audience after sharing a performance online. A talented person may therefore remain unknown without the exposure that creates wider opportunities. So, talent helps, but it is not enough to make someone famous.
+Talent helps because regular practice can strengthen practical skills and improve performance. However, talented people also need public attention to become famous. For example, a skilled singer may reach a wide audience after sharing a performance online. Without enough attention, a talented person may remain unknown. So, talent helps, but it is not enough to make someone famous.
 
 ### ✅ Do you want to be a famous person?
 
 - [ ] 不看稿口述
 
-No, because the disadvantages would outweigh the opportunities for me. Public visibility could increase my influence, but constant public exposure might lead to a loss of privacy. For example, photographers might follow me during my private time. That stress would make fame less attractive despite the attention it brings.
+No, because the disadvantages would outweigh the opportunities for me. Being well known could increase my influence, but constant public attention might reduce my privacy. For example, photographers might follow me during my private time. That stress would make fame less attractive despite the attention it brings.
 
 ### ✅ Why do people buy things they don’t need?
 
 - [ ] 不看稿口述
 
-Persuasive advertisements can give unnecessary products too much visibility and credibility. Repeated exposure attracts attention and may influence people before they consider what they actually need. For example, an influencer may repeatedly promote a phone that a viewer does not need. As a result, they can make poor choices and buy items they would normally ignore. So, advertising often makes people buy things they do not really need.
+<mark style="background: #ABF7F7A6;">Persuasive</mark> advertisements can make unnecessary products seem popular and trustworthy. Seeing them repeatedly may influence people before they consider what they actually need. For example, an influencer may repeatedly promote a phone that a viewer does not need. As a result, they can make poor choices and buy items they would normally ignore. So, advertising often makes people buy things they do not really need.
 
 ### ✅ Do you think advertisements can influence our decisions when shopping?
 
 - [ ] 不看稿口述
 
-Yes, because advertisements give products greater visibility and apparent credibility. This attracts public attention and can strongly influence what consumers consider buying. For example, a famous athlete can make a pair of shoes seem worth buying. After repeated exposure to persuasive advertising, people may make poor choices instead of thinking carefully about whether they need the product. So, advertising can strongly shape people's shopping decisions.
+Yes, because advertisements make products more <mark style="background: #ABF7F7A6;">noticeable and trustworthy</mark>. This can strongly influence what consumers consider buying. For example, a famous athlete can make a pair of shoes seem worth buying. After seeing the same advert repeatedly, people may buy a product they do not need. So, advertising can strongly <mark style="background: #ABF7F7A6;">shape</mark> people's shopping decisions.
 
 ### ✅ Do you think the influence of advertising is good?
 
 - [ ] 不看稿口述
 
-It can be useful, but its influence is not always good. Visibility helps products attract public attention and creates wider opportunities for businesses. For example, an advert may help a small shop find customers but make a product seem better than it is. However, persuasive advertising can also lead consumers to make poor choices. Overall, advertising can help businesses, but its influence is not always positive.
+It can be useful, but its influence is not always good. Advertising helps people notice products and can help <mark style="background: #ABF7F7A6;">businesses</mark> grow. For example, an advert may help a small shop find customers but make a product seem better than it is. However, <mark style="background: #ABF7F7A6;">persuasive advertising</mark> can also lead consumers to make poor choices. Overall, advertising can help businesses, but its influence is not always positive.
 
 ### ✅ What are the advantages and disadvantages of advertisements?
 
 - [ ] 不看稿口述
 
-Advertisements give products visibility and credibility, attracting wider public attention and creating business opportunities. Their disadvantage is that persuasive advertising can influence people before they judge a product carefully. For example, an exaggerated health claim may attract attention but mislead buyers. This may lead to misleading choices and reduce trust. Overall, advertisements create business opportunities but can also mislead consumers.
+Advertisements help people <mark style="background: #ABF7F7A6;">notice and trust </mark>products, which can create business opportunities. Their disadvantage is that they may influence people before they judge a product carefully. For example, an exaggerated health claim may attract attention but mislead buyers. This may lead to poor choices and reduce <mark style="background: #ABF7F7A6;">trust</mark>. Overall, advertisements create business opportunities but can also mislead consumers.
 
 ### ✅ Why are many advertisements endorsed by celebrities? How useful are they?
 
 - [ ] 不看稿口述
 
-Companies use celebrities because their visibility and credibility attract public attention. This influence can give a product wider exposure and create more commercial opportunities. For example, a familiar actor can make a new brand noticeable immediately. However, an endorsement may mislead consumers if fame replaces reliable information. So, celebrity endorsements attract attention, but they are not always reliable.
+Companies use celebrities because people already <mark style="background: #ABF7F7A6;">know and trust</mark> them. This can give a product more attention and increase sales. For example, a familiar actor can make a new brand <mark style="background: #ABF7F7A6;">noticeable</mark> immediately. However, an endorsement may mislead consumers if fame replaces reliable information. So, celebrity endorsements attract attention, but they are not always <mark style="background: #ABF7F7A6;">reliable</mark>.
 
 ### ✅ Is advertising important for a company? Why?
 
 - [ ] 不看稿口述
 
-Yes, because advertising gives a company's products greater visibility. This attracts public attention and can widen the company's influence and opportunities. For example, an advert can introduce a new local café to nearby customers. However, misleading advertising may damage trust despite creating short-term attention. Overall, advertising is important, but companies must use it honestly.
+Yes, because advertising makes a company's products more noticeable. This can attract customers and help the company grow. For example, an advert can introduce a new local café to nearby customers. However, misleading advertising may <mark style="background: #ABF7F7A6;">damage trust </mark>despite creating short-term attention. Overall, advertising is important, but companies must use it <mark style="background: #ABF7F7A6;">honestly</mark>.
+
+### ✅ Do you often buy more than you expected?
+
+- [ ] 不看稿口述
+
+Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and buy things that were not in my original plan. So, advertising occasionally makes me overspend.
+
+## M01-💚 便利与效率（题库 6）
+
+### ✅ Do you think it's a waste of time to go shopping?
+
+- [ ] 不看稿口述
+
+No, not when people shop with a clear purpose. Buying several necessary things in one trip can save time and help people complete everyday tasks more efficiently. So, practical shopping is not a waste of time.
+
+### ✅ What are the advantages and disadvantages of AI?
+
+- [ ] 不看稿口述
+
+AI can make many tasks faster, but it also creates risks. It saves time and helps people work more efficiently. However, poor checks or excessive data collection may lead to false information and privacy problems. So, AI is useful, but it needs to be used carefully.
+
+### ✅ How can AI help in our lives?
+
+- [ ] 不看稿口述
+
+AI can handle simple and repetitive tasks for us. This saves time and effort, allowing people to complete their work more easily and efficiently. So, AI can make everyday life more convenient.
+
+### ✅ What are the advantages of watching sports events online?
+
+- [ ] 不看稿口述
+
+The main advantage is convenience. People can watch a match without travelling to a stadium, which saves both time and effort. So, online viewing makes sports events much easier to access.
+
+### ✅ What are the differences between the technology of the past and that of today?
+
+- [ ] 不看稿口述
+
+Older technology was generally slower and required more effort, whereas modern technology provides almost instant access and communication. As a result, people can complete tasks more easily and participate in activities from almost anywhere. So, today's technology is mainly faster and more convenient.
+
+### ✅ What's the benefit of letting kids watch animal videos rather than visiting zoos?
+
+- [ ] 不看稿口述
+
+The main benefit is convenience. Children can watch animal videos at home without spending time and effort travelling to a zoo. This makes learning about animals much easier. So, videos provide a more accessible way to see animals.
+
+## M02-💚 公平与机会（题库 5）
+
+### ✅ Is it easy for children in cities to get close to the natural world?
+
+- [ ] 不看稿口述
+
+No, it is often difficult for them. Children who have limited access to parks and other natural spaces get fewer opportunities to experience nature directly. So, urban children may be at a disadvantage in this respect.
+
+### ✅ Should governments provide financial support to start-ups?
+
+- [ ] 不看稿口述
+
+Yes, but the support should be carefully targeted. Basic funding gives capable entrepreneurs a fairer chance to start a business. It can help people who do not come from wealthy backgrounds. So, well-directed financial support can create wider opportunities.
+
+### ✅ Do you think galleries and museums should be free of charge?
+
+- [ ] 不看稿口述
+
+I think basic admission should be free or very cheap. This would give people from different backgrounds equal access to culture and education, although museums still need enough funding to operate properly. So, affordable admission is better than charging high fees.
+
+### ✅ Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
+
+- [ ] 不看稿口述
+
+Yes, a modest entry fee can be reasonable. The money can support maintenance and better visitor facilities. However, the price should remain affordable so that access is not restricted. So, a small fee can be fair and useful.
+
+### ✅ How are the transportation systems in urban areas and rural areas different?
+
+- [ ] 不看稿口述
+
+Urban areas usually have more accessible public transport, while rural services are often more limited. This unequal access gives rural residents fewer transport choices and makes it harder for them to use greener options. So, the main difference is the availability of transport infrastructure.
+
+## M07-💚 成本与资源（题库 3）
+
+### ✅ Do you think doctors should be paid more?
+
+- [ ] 不看稿口述
+
+Yes, I think doctors should generally be paid well. Spending enough money on medical staff can help hospitals maintain essential services and provide better care to the public. So, higher pay for doctors can benefit society as a whole.
+
+### ✅ Do you think it is important to save money? Why?
+
+- [ ] 不看稿口述
+
+Yes, saving money is very important. Unexpected or high costs can create serious financial pressure and leave people unable to pay for other needs. So, savings give people useful financial protection.
+
+### ✅ Do you think it is the rich people's responsibility to donate money to people in need?
+
+- [ ] 不看稿口述
+
+Yes, I think wealthy people should contribute when they can. If their donations are directed towards essential support, the money can improve services and benefit many disadvantaged people. So, responsible giving can have a wide social impact.
+
+## M16-💚 动物与宠物（题库 3）
+
+### ✅ Should schools teach children about animals?
+
+- [ ] 不看稿口述
+
+Yes, schools should teach children basic knowledge about animals. Practical learning about animal care can develop empathy and help children become more responsible. So, animal education has real value for children.
+
+### ✅ Some people think pets should not be kept in cities. What do you think?
+
+- [ ] 不看稿口述
+
+I think pets can be kept in cities, but owners must be able to care for them properly. Long-term care can put pressure on owners, especially when their homes and local facilities are unsuitable. So, urban pet ownership is acceptable when the animal's needs can be met.
+
+### ✅ Many people regard pets as members of their family. What do you think?
+
+- [ ] 不看稿口述
+
+I think that is completely understandable. Daily care and companionship help owners form a strong bond with their pets. Pets can also provide support in the same way that family members do. So, it is natural for owners to see their pets as part of the family.
+
+## M21-💚 合作、领导与帮助（题库 11）
+
+### ✅ Should children help their parents with household chores?
+
+- [ ] 不看稿口述
+
+Yes, they should do some age-appropriate chores. When every family member has a clear role and supports the others, household tasks become easier to manage. So, children's help can make family life run more smoothly.
+
+### ✅ Who should people ask for help, colleagues or family members?
+
+- [ ] 不看稿口述
+
+It depends on the problem. Colleagues are usually more helpful with work because they understand their roles. Family members can provide stronger emotional support for personal problems. So, people should choose the person whose support best matches the situation.
+
+### ✅ Do you think schools should teach children to do household chores?
+
+- [ ] 不看稿口述
+
+Yes, schools can teach children some basic chores. Regular practice helps them develop practical skills, while shared tasks teach them how to take responsibility and cooperate with others. So, learning chores at school can prepare children for everyday life.
+
+### ✅ How can leaders encourage their employees?
+
+- [ ] 不看稿口述
+
+Leaders should communicate clearly and listen to their employees. They should also give each person a clear role and offer support when problems arise, which builds trust and improves cooperation. So, supportive communication is the best way to encourage staff.
+
+### ✅ What kind of encouragement should parents give?
+
+- [ ] 不看稿口述
+
+Parents should give clear and supportive encouragement. They need to listen to their children, explain what they can improve and offer help instead of simply giving orders. So, good encouragement should be clear, patient and supportive.
+
+### ✅ Do you think some people are better than others at persuading?
+
+- [ ] 不看稿口述
+
+Yes, some people are naturally more effective at it. They express their ideas clearly and listen carefully, so they understand other people's concerns and build trust more easily. So, strong communicators are usually better at persuading others.
+
+### ✅ How can employers encourage their staff?
+
+- [ ] 不看稿口述
+
+Employers should set clear responsibilities and listen to their staff. When employees understand their roles and receive support, they can cooperate more smoothly and produce better results. So, clear guidance and practical support can motivate staff.
+
+### ✅ Why do some people prefer to work by themselves?
+
+- [ ] 不看稿口述
+
+Some people want to avoid the coordination problems that can occur in a team. If responsibilities are unclear or team members communicate poorly, working together can become frustrating and inefficient. So, independent work may feel simpler to them.
+
+### ✅ What should a leader do to make team members want to follow him or her?
+
+- [ ] 不看稿口述
+
+A leader should give people clear roles and support them when they face difficulties. The leader should also listen actively, because good communication reduces misunderstandings and builds trust. So, people are more willing to follow a clear and supportive leader.
+
+### ✅ Should students learn to do group work?
+
+- [ ] 不看稿口述
+
+Yes, group work is an important skill for students. It teaches them to divide responsibilities, support one another and cooperate towards a shared result. So, students should gain teamwork experience at school.
+
+### ✅ How can you tell if a person is a good leader?
+
+- [ ] 不看稿口述
+
+A good leader gives everyone a clear role and supports team members when necessary. If the team cooperates smoothly and consistently produces strong results, the leader is probably doing a good job. So, effective teamwork is a clear sign of good leadership.
+
+## M22-💚 文化、身份与传统（题库 5）
+
+### ✅ Do you prefer to visit well-developed cities or cities with a long history?
+
+- [ ] 不看稿口述
+
+I prefer cities with a long history. Visiting their traditional neighbourhoods and historical sites helps me understand the local culture more deeply. So, historical cities are more interesting to me.
+
+### ✅ Why do people like to visit historical sites?
+
+- [ ] 不看稿口述
+
+People visit historical sites because they want to experience the past directly. This cultural exposure helps them understand local traditions and develop a stronger sense of identity. So, historical sites help people connect with a place and its culture.
+
+### ✅ Do you think it is important to have a national identity?
+
+- [ ] 不看稿口述
+
+Yes, I think national identity is important. It helps people understand their shared culture and encourages them to pass traditions on to the next generation. So, national identity can keep a culture alive.
+
+### ✅ How can people develop their national identity?
+
+- [ ] 不看稿口述
+
+People can take part in cultural events and learn more about their country's traditions. Greater cultural exposure gives them a deeper understanding of their background and a stronger sense of identity. So, active participation is the best way to develop national identity.
+
+### ✅ Why do people eat special food on special occasions or festivals?
+
+- [ ] 不看稿口述
+
+People do this because special food is part of the celebration's tradition. Preparing and eating it helps people connect with their culture and pass the custom on to younger family members. So, festival food helps preserve cultural identity.
 
 ## 下一步
 

@@ -43,13 +43,13 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 
 ## Answer contract
 
-普通答案使用 3–5 句，不得超过 5 句，并按问法控制结构：
+普通答案使用 4–6 句，不得超过 6 句，并按问法控制结构：
 
-- **Q5 默认 5 句：**立场 → 主链机制 → `For example` / `For instance` 贴题短例 → `However` + 反向链或必要限制 → `Overall` + 直接总结。
-- **Q2 默认 4 句：**先给明确差异，再解释 A、B 特征及差异来源，补贴题短例，最后总结。A、B 已构成两面，不额外添加反方。
-- **Q1/Q3/Q4/Q6/Q7 默认 4 句：**直接回答 → 主链机制 → 贴题短例 → 直接总结。只有反向链与题目直接相关时，才在总结前加第五句。
+- **Q5 默认 6 句：**立场 → 主链机制 → `For example` / `For instance` 贴题短例 → reflection → `However` + 反向链或必要限制 → `Overall` + 直接总结。
+- **Q2 默认 5 句：**先给明确差异，再解释 A、B 特征及差异来源，补贴题短例，用 reflection 说明例子如何印证逻辑链，最后总结。A、B 已构成两面，不额外添加反方。
+- **Q1/Q3/Q4/Q6/Q7 默认 5 句：**直接回答 → 主链机制 → 贴题短例 → reflection → 直接总结。只有反向链与题目直接相关时，才在总结前加第六句。
 
-每道普通题都必须用 `For example` 或 `For instance` 引出短例，将已选逻辑链具体化。可自动生成常识性的具体人物、场景、物品、地点、活动或类别；Q7 也可用这些例子直接完成列举，但选择依据和解释机制必须来自观点卡。例子不得承担新的核心原因、事实判断、统计结论或第三张观点卡。任何反方或限制都必须回指已选卡片的现有反向链或限制；没有可回指内容时不得临时编写。最后一句必须简单、直接扣题，且不得加入新理由、例子或转折。
+每道普通题都必须用 `For example` 或 `For instance` 引出短例，将已选逻辑链具体化。例句后必须紧接一句独立的 reflection，说明该例子如何印证已选逻辑链；reflection 不得兼作最终总结，也不得新增原因、事实或观点卡。可自动生成常识性的具体人物、场景、物品、地点、活动或类别；Q7 也可用这些例子直接完成列举，但选择依据和解释机制必须来自观点卡。例子不得承担新的核心原因、事实判断、统计结论或第三张观点卡。任何反方或限制都必须回指已选卡片的现有反向链或限制；没有可回指内容时不得临时编写。最后一句必须简单、直接扣题，且不得加入新理由、例子或转折。
 
 缺少贴题例子的普通答案视为不合格，不得输出或写入练习日志。
 
@@ -60,7 +60,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 1. 提取问题的核心对象、Q 类型和必须回答的信息。
 2. 从 topic bank 选择候选卡，并写出准备使用的原始链条。
 3. 执行 Coverage gate；不通过的题停止生成，不用相邻模块硬套。
-4. 按 Q 类型套用 Answer contract，再逐句反查：直接回答、主链、贴题例子、必要反向链、总结。
+4. 按 Q 类型套用 Answer contract，再逐句反查：直接回答、主链、贴题例子、独立 reflection、必要反向链、总结。
 5. 执行口语化检查：试着自然口述每句，将偏书面或难以顺口说出的词组换成常用口语表达；拆分不必要的长难句；确认末句是简单总结并直接扣题。
 6. 确认每个核心论点都能回指所选卡片；删除无法回指的内容。
 7. 若追加到 practice log：排重、标明题库原题或拓展、添加复练框并更新三项统计。
@@ -74,7 +74,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 ### <question>
 观点卡：<module id> <name>
 逻辑链：<exact selected chain>
-答案：<Q-type structure in 3–5 sentences, including one concrete example and ending with a direct summary>
+答案：<Q-type structure in 4–6 sentences, including one concrete example, a separate reflection, and a direct final summary>
 ```
 
 无法覆盖时只输出题目、最接近的卡及缺失的逻辑环节，不生成勉强答案。

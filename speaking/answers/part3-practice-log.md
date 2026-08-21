@@ -4,17 +4,17 @@
 >
 > 状态说明：`✅` = 已写短答案；`- [ ]` = 尚未完成一次不看稿口述。拓展题不计入 338 道原题的覆盖率。
 >
-> 统一答案标准：自然口述 30–45 秒（大约 3–5 句）。第一句直接回答；后续沿一条观点卡逻辑链解释原因和机制，并给出结果、比较或简短例子；只在必要时补充限定。不得为了凑句数或覆盖题目补写观点卡之外的核心论点。
+> 统一答案标准：自然口述 30–45 秒（大约 3–5 句）。第一句直接回答；后续沿一条观点卡逻辑链解释原因和机制，每题用 `For example` 或 `For instance` 给出贴题短例；只在必要时补充限定。不得为了凑句数或覆盖题目补写观点卡之外的核心论点。
 
 ## 进度
 
 | 项目        | 已完成 |  剩余 |  总数 |
 | --------- | --: | --: | --: |
-| 题库原题短答案覆盖 | 146 | 192 | 338 |
-| 本页答案口述复练  |   0 | 160 | 160 |
+| 题库原题短答案覆盖 | 208 | 130 | 338 |
+| 本页答案口述复练  |   0 | 222 | 222 |
 | 拓展问法短答案   |  14 |   — |  14 |
 
-## M03-❤️ 学习与技能（题库 13）
+## M03-❤️ 学习与技能（题库 23）
 
 ### ✅ Do you think choosing a college major is closely related to a future career?
 
@@ -94,7 +94,7 @@ Yes, it is very important. Once a school identifies a student's strengths, suita
 
 Yes, definitely. Regular learning and practice help older people maintain useful skills and handle new tasks confidently. For example, an older learner can practise mobile banking with guidance until they can use it alone. So, continuing to learn is beneficial at any age.
 
-## M09-❤️ 关系与归属感（题库 9 + 拓展 3）
+## M09-❤️ 关系与归属感（题库 12 + 拓展 3）
 
 ### ✅ What advantages are there for students experiencing teamwork at school?
 
@@ -168,7 +168,7 @@ The main negative effect is weaker personal interaction. Constant notifications 
 
 Real-life friendships are usually deeper, while online friendships are easier to form. Spending time together and giving direct support help people form closer friendships in person. For example, online games connect people with shared interests, but they may know little about each other's real lives. Online interaction also creates greater privacy risks. Overall, real-life friendships are deeper, while online ones are easier to form.
 
-## M11-❤️ 经济与就业（题库 4）
+## M11-❤️ 经济与就业（题库 5）
 
 ### ✅ Why do some people start their own businesses?
 
@@ -194,7 +194,7 @@ A business succeeds by providing useful products or services. When these meet cu
 
 A business often fails because demand for its products is unstable. Falling revenue creates financial pressure and makes normal operations difficult to maintain. For example, a restaurant that loses regular customers may no longer be able to pay its rent or staff. As a result, the company may cut jobs or close completely. So, unstable demand and financial pressure can make a business fail.
 
-## M13-❤️ 年龄与代际（题库 9 + 拓展 1）
+## M13-❤️ 年龄与代际（题库 13 + 拓展 1）
 
 ### ✅ How do young and old people use mobile phones differently?
 
@@ -256,7 +256,7 @@ Yes. Different experiences and digital habits make young people more likely to c
 
 Young people often prefer fast-paced programmes on streaming platforms, while older viewers may choose traditional television content. Their different experiences and digital familiarity create these viewing habits. For example, younger viewers may stream short reality shows on demand, while older viewers follow a scheduled news programme. However, wider access to technology is gradually narrowing the gap. Overall, the two age groups still tend to prefer different programmes.
 
-## M14-❤️ 计划与执行（题库 7 + 拓展 1）
+## M14-❤️ 计划与执行（题库 10 + 拓展 1）
 
 ### ✅ Do you think it’s important to plan ahead?
 
@@ -306,7 +306,7 @@ Yes. Clear priorities and realistic scheduling help travellers make a clear plan
 
 Technology helps by providing faster access to schedules, prices, maps and reviews. People can use these tools to set clear priorities and arrange realistic next steps. For example, a travel app can show whether a cheaper hotel would add an hour to each day’s journey. As a result, they can make clear plans more quickly and with less risk. So, technology helps people make plans faster and with less risk.
 
-## M17-❤️ 艺术、娱乐与想象力（题库 7 + 拓展 3）
+## M17-❤️ 艺术、娱乐与想象力（题库 12 + 拓展 3）
 
 ### ✅ Why do people visit museums?
 
@@ -368,7 +368,7 @@ Watching in a stadium makes people feel more involved, while television is easie
 
 Not necessarily. Regular training and practical acting skills matter more than fame because they lead to stronger performance. For example, a well-trained but unknown actor may make a character more believable than a celebrity chosen mainly for publicity. A successful film also needs creative input from the whole team and strong ideas rather than a famous name alone. So, famous actors are not necessary for a successful film.
 
-## M18-❤️ 地点、建筑与设施（题库 4 + 拓展 2）
+## M18-❤️ 地点、建筑与设施（题库 7 + 拓展 2）
 
 ### ✅ Is it worth spending a lot of money on the exterior appearance of a building?
 
@@ -406,7 +406,7 @@ The inside is more important than the outside. Practical design and facilities t
 
 The building’s condition matters more than its age. New buildings often provide practical, accessible facilities that make daily life easier. For example, a renovated old home may be more comfortable than a poorly built new one. Good design and maintenance are therefore a better basis for choosing a home.
 
-## M19-❤️ 习惯、情绪与休闲（题库 3 + 拓展 2）
+## M19-❤️ 习惯、情绪与休闲（题库 7 + 拓展 2）
 
 ### ✅ Why do old people prefer to live in quiet places?
 
@@ -438,7 +438,7 @@ People may feel bored when their daily routines become repetitive and lack meani
 
 Technology makes leisure more convenient but also more passive. Faster access gives people more entertainment choices and makes it easier to take part. For example, a fitness app supports home workouts, while short videos may keep people scrolling for hours. Constant notifications and screen use can therefore cause distraction and fatigue, so people may not feel fully rested. Overall, technology makes leisure easier but can also make it less restful.
 
-## M20-❤️ 科技、媒体与隐私（题库 13 + 拓展 2）
+## M20-❤️ 科技、媒体与隐私（题库 16 + 拓展 2）
 
 ### ✅ What do you think of communicating with others through social media?
 
@@ -558,7 +558,7 @@ Yes, if the change helps people develop healthier habits. Getting help early can
 
 It can be, especially for people who use it to follow a healthy routine. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being. Overall, early mornings are useful only when people get enough sleep.
 
-## M05-💙 沟通与信任（题库 8）
+## M05-💙 沟通与信任（题库 15）
 
 ### ✅ Why are employees reluctant to ask their managers for help?
 
@@ -608,7 +608,7 @@ Not necessarily, because a good talk show can show clear expression and active l
 
 Yes, smiling is quite important in my culture. It shows friendliness, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. So, smiling plays a positive role in social interaction.
 
-## M06-💙 规则与责任（题库 7）
+## M06-💙 规则与责任（题库 12）
 
 ### ✅ Should parents reward children? Why and how?
 
@@ -652,7 +652,7 @@ Yes, but the limits should be clear and fair. Predictable consequences can encou
 
 I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. Such a complete ban may feel unfair, make children resist the rule and ultimately weaken trust in the policy. Overall, reasonable limits are better than a complete social media ban.
 
-## M08-💙 信息与判断（题库 7）
+## M08-💙 信息与判断（题库 9）
 
 ### ✅ What kind of help do people need when looking for a new job?
 
@@ -696,7 +696,7 @@ Yes, because useful advice should be based on reliable information from varied s
 
 The most important factor is reliable information. Accurate details help consumers make a sensible decision about a product. For example, clear specifications allow buyers to compare two phones properly. Misleading or excessive information can instead confuse them and lead to a poor choice. So, accurate information is the most important part of an advertisement.
 
-## M10-💙 创造力与探索（题库 5）
+## M10-💙 创造力与探索（题库 7）
 
 ### ✅ Why does modern society need talents of all kinds?
 
@@ -728,7 +728,7 @@ Artworks can show people ideas they may not have thought about before. This help
 
 Yes, because scientists need to explore ideas beyond familiar explanations. Different perspectives and activities with no fixed answer can help them find new ways to solve a problem. For example, an unexpected result may encourage a researcher to test a different explanation. Being afraid to try new ideas would weaken creativity. So, imagination is essential for scientific discovery and problem-solving.
 
-## M12-💙 环境与可持续性（题库 3）
+## M12-💙 环境与可持续性（题库 5）
 
 ### ✅ What can people do to protect the natural world?
 
@@ -748,7 +748,7 @@ Change is necessary, but it does not have to be sudden or <mark style="backgroun
 
 I think electric cars will become more common as charging networks improve and prices fall. These changes can encourage greener <mark style="background: #ABF7F7A6;">transport choices</mark> and reduce pollution. For example, more <mark style="background: #ABF7F7A6;">charging stations</mark> can make switching to an electric car easier. However, progress may remain <mark style="background: #ABF7F7A6;">limited</mark> in places where charging stations are hard to find. Overall, electric cars will become more common as charging systems improve.
 
-## M15-💙 名人与广告（题库 10）
+## M15-💙 名人与广告（题库 13）
 
 ### ✅ What are the advantages and disadvantages of being a famous child?
 
@@ -810,13 +810,13 @@ Yes, because advertising makes a company's products more noticeable. This can at
 
 Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and ignore my original plan. For example, a repeated discount advert may persuade me to add an unnecessary item to my order. So, advertising occasionally makes me overspend.
 
-## M01-💚 便利与效率（题库 6）
+## M01-💚 便利与效率（题库 7）
 
 ### ✅ Do you think it's a waste of time to go shopping?
 
 - [ ] 不看稿口述
 
-No, not when people shop with a clear purpose. Buying several necessary things in one trip saves time and makes everyday tasks easier. For example, a weekly supermarket trip can provide all the food a family needs in one visit. So, practical shopping is not a waste of time.
+No, not when people shop with a clear purpose. Buying several necessary things in one trip saves time and makes everyday tasks easier. For example, a weekly supermarket trip can provide all the food a family needs in one visit. In that sense, <mark style="background: #ABF7F7A6;">practical</mark> shopping is not a waste of time.
 
 ### ✅ What are the advantages and disadvantages of AI?
 
@@ -880,7 +880,7 @@ Yes, a modest entry fee can be reasonable. It can support maintenance while rema
 
 Urban areas usually have accessible public transport, while rural services are often more limited. This unequal access gives rural residents fewer choices and makes greener travel harder. For example, a city worker may use the metro, while a rural resident may need a private car. So, the main difference is the availability of transport infrastructure.
 
-## M07-💚 成本与资源（题库 3）
+## M07-💚 成本与资源（题库 4）
 
 ### ✅ Do you think doctors should be paid more?
 
@@ -920,7 +920,7 @@ I think pets can be kept in cities, but owners must care for them properly. Long
 
 I think that is completely understandable. Daily care and companionship help owners form a strong bond with their pets. For example, walking a dog every evening creates shared time and can comfort someone after a difficult day. So, it is natural for owners to see their pets as family members.
 
-## M21-💚 合作、领导与帮助（题库 11）
+## M21-💚 合作、领导与帮助（题库 12）
 
 ### ✅ Should children help their parents with household chores?
 
@@ -988,7 +988,7 @@ Yes, group work is an important skill for students. It teaches them to divide re
 
 A good leader gives everyone a clear role and supports team members when necessary. Smooth cooperation and consistent results show that this approach is working. For example, a well-led team can meet a deadline without confusion about who should do each task. So, effective teamwork is a clear sign of good leadership.
 
-## M22-💚 文化、身份与传统（题库 5）
+## M22-💚 文化、身份与传统（题库 7）
 
 ### ✅ Do you prefer to visit well-developed cities or cities with a long history?
 
@@ -1019,6 +1019,418 @@ People can take part in cultural events and learn more about their country's tra
 - [ ] 不看稿口述
 
 People do this because special food is part of the celebration's tradition. Preparing and eating it connects people with their culture and passes the custom to younger family members. For example, grandparents may teach children to make dumplings during Spring Festival. So, festival food helps preserve cultural identity.
+
+## 本轮新增覆盖（按主观点卡）
+
+### M03-❤️ 学习与技能
+
+#### ✅ Do you think learning biology is interesting for children?
+
+- [ ] 不看稿口述
+
+Yes, it can be very interesting for children. Practical activities and regular feedback help them understand how living things work and build useful scientific skills. For example, growing a bean in class lets them observe each stage instead of only reading about it. However, biology may feel dull if lessons are entirely exam-driven and have little practical use. Overall, the subject is engaging when children can explore it actively.
+
+#### ✅ Why are some people well-rounded and others only good at one thing?
+
+- [ ] 不看稿口述
+
+It mainly depends on how they learn and practise. People exposed to varied ideas and open-ended tasks develop several skills, while narrow, repetitive training usually strengthens only one area. For example, combining coding, art and team projects may build broader abilities than preparing only for maths tests. So, different learning experiences often produce different kinds of ability.
+
+#### ✅ What can today's children do to become famous?
+
+- [ ] 不看稿口述
+
+They should develop a real skill and show it consistently to the public. Regular practice improves their performance, while public reach helps that ability attract attention and create opportunities. For example, a child musician can practise every day and share polished performances online. So, fame is more likely when strong ability is matched with responsible exposure.
+
+#### ✅ Do you think parents should teach their children how to protect the environment?
+
+- [ ] 不看稿口述
+
+Yes, parents should teach it through simple daily practice. Repeated guidance helps children build practical habits that reduce waste and resource loss. For example, parents can show them how to sort rubbish and switch off unused lights. However, passive lectures alone may have little effect because children need to apply what they learn. Overall, parents can make environmental responsibility part of everyday life.
+
+#### ✅ Is it important to teach students environmental protection at school?
+
+- [ ] 不看稿口述
+
+Yes, it is important because schools can turn environmental ideas into practical skills. Regular activities and feedback encourage greener behaviour, which can reduce waste and pollution over time. For example, students can measure how much rubbish their class produces and practise sorting it. However, exam-focused lessons without real action may have limited value. Overall, environmental education works best when students practise it.
+
+#### ✅ Is it better to focus on a few subjects or to learn many subjects?
+
+- [ ] 不看稿口述
+
+Focusing on a few subjects builds deeper practical skills, whereas studying many subjects gives people broader ideas and more room to explore. The difference comes from whether someone needs specialist performance or wider creativity. For example, a future engineer may study maths and physics deeply but still take art to see problems differently. So, the better choice depends on the learner's goal.
+
+#### ✅ Do you think students should learn to grow plants?
+
+- [ ] 不看稿口述
+
+Yes, because growing plants turns environmental knowledge into a practical skill. Regular care and feedback teach students how everyday behaviour affects natural resources. For example, a class can grow herbs and learn to water them without wasting water. However, merely memorising plant facts may not change students' habits. Overall, hands-on growing can make environmental learning useful.
+
+#### ✅ Why do most children think education is boring?
+
+- [ ] 不看稿口述
+
+Many children find it boring because learning is often passive and repetitive. When lessons focus mainly on exams, students have little chance to apply ideas, so they lose interest and concentrate less. For example, memorising science terms is much duller than testing them in a simple experiment. So, practical and varied learning is more likely to hold children's attention.
+
+#### ✅ Whose opinions are more important to children, their parents' or teachers'?
+
+- [ ] 不看稿口述
+
+Both matter, but parents' opinions are usually more important because of their close emotional bond. Teachers offer informed feedback on schoolwork, while parents provide support across daily life. For example, a child may follow a teacher's study advice but ask their parents before choosing a school. So, the more important voice depends on the decision, although parents often have wider influence.
+
+#### ✅ Why should parents encourage children to have ambitions?
+
+- [ ] 不看稿口述
+
+Encouragement gives children a direction and motivates them to practise. With regular effort and family support, they can build stronger skills and become more confident about future goals. For example, parents who support a child's interest in drawing may encourage weekly classes and steady practice. So, sensible encouragement can turn an interest into achievable ambition.
+
+### M05-💙 沟通与信任
+
+#### ✅ What would you do if you haven't received a reply after sending out a message?
+
+- [ ] 不看稿口述
+
+I would send one clear follow-up message and then wait. Clear wording reduces uncertainty and avoids creating unnecessary pressure. For example, I might write, “Just checking whether you saw my earlier message,” and include the deadline. So, a polite reminder is usually better than sending many vague messages.
+
+#### ✅ Are you more polite when sending a message to a stranger than to a friend?
+
+- [ ] 不看稿口述
+
+Yes, I am usually more careful with a stranger. Clear and polite wording matters more when there is little shared context, because it prevents misunderstanding and builds trust. For example, I would include a greeting and explain my request fully to a new colleague. However, overly formal language can feel cold and create distance. Overall, I stay polite but try to sound natural.
+
+#### ✅ Would you tell others if you change your plan?
+
+- [ ] 不看稿口述
+
+Yes, I would tell anyone affected by the change. Clear communication reduces uncertainty and lets everyone adjust the sequence of their own plans. For example, if I had to move a dinner, I would message my friends as soon as I knew. However, unclear or very late updates can cause delays and weaken trust. Overall, prompt notice is both practical and respectful.
+
+#### ✅ How would you tell your friends when you must change plans?
+
+- [ ] 不看稿口述
+
+I would send a direct message explaining the change and suggesting a realistic alternative. Clear information prevents misunderstanding, while a new time helps everyone act quickly. For example, I might say that I cannot meet tonight and propose Saturday afternoon instead. So, the best message is brief, honest and practical.
+
+#### ✅ Do you think people who like to smile are more friendly?
+
+- [ ] 不看稿口述
+
+Often yes, because a smile can make communication feel open and welcoming. That signal encourages interaction, which can reduce uncertainty and help trust develop. For example, a smiling new colleague may be easier to approach during their first team meeting. However, a smile alone does not prove friendliness because clear words and active listening matter too. Overall, smiling helps, but behaviour is stronger evidence.
+
+#### ✅ Why do most people smile in photographs?
+
+- [ ] 不看稿口述
+
+They want to communicate warmth and make the moment look positive. A clear friendly expression helps viewers understand the mood and feel connected to the people in the picture. For example, relatives often smile in a family photo to show that they enjoyed being together. So, smiling is a simple visual way to share a positive message.
+
+#### ✅ What personal skills are required to work in an international company?
+
+- [ ] 不看稿口述
+
+Clear communication and teamwork are especially important. Employees need to listen carefully, explain ideas clearly and coordinate with people who have different roles. For example, an international project member may confirm a deadline in writing so colleagues in another office understand it. So, communication builds trust and keeps cooperation stable.
+
+### M06-💙 规则与责任
+
+#### ✅ Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?
+
+- [ ] 不看稿口述
+
+Most people probably prefer rewards because they make greener behaviour feel worthwhile, while punishment creates a clear cost for breaking rules. Rewards encourage voluntary change, whereas fair penalties make consequences predictable. For example, a household may welcome a recycling discount but dislike a fine for mixing waste. So, rewards gain more support, although both approaches can guide behaviour.
+
+#### ✅ Should children do everything their parents ask them to do?
+
+- [ ] 不看稿口述
+
+No, but they should follow clear and fair family rules. Predictable consequences teach responsibility and help daily life run smoothly. For example, a child should finish an agreed household task before playing games. However, excessive or inconsistent demands can cause resistance and weaken trust. Overall, children need reasonable boundaries rather than total obedience.
+
+#### ✅ Is it good to reward children too often? Why?
+
+- [ ] 不看稿口述
+
+No, rewards should be used selectively. Clear expectations and predictable consequences can build responsible behaviour without making every task dependent on a prize. For example, parents might reward steady effort on a difficult school project, but not every completed worksheet. However, inconsistent rewards can feel unfair and encourage resistance. Overall, occasional rewards work better than constant ones.
+
+#### ✅ Should parents interfere with their children's ambitions?
+
+- [ ] 不看稿口述
+
+Parents should guide their children, but they should not control every choice. Clear and fair boundaries can prevent risky decisions while family support keeps the relationship strong. For example, parents can discuss the training needed for a music career without choosing the career themselves. However, excessive control may create resistance and weaken trust. Overall, guidance is useful, but the ambition should belong to the child.
+
+#### ✅ Do you think children can learn about the law outside of school?
+
+- [ ] 不看稿口述
+
+Yes, children can learn basic legal ideas through daily rules and guidance. When adults explain fair rules and predictable consequences, children gradually understand responsibility. For example, a parent can explain why wearing a seat belt is both a rule and a safety duty. However, inconsistent explanations may confuse children and weaken trust in rules. Overall, everyday life can provide useful legal education.
+
+### M08-💙 信息与判断
+
+#### ✅ Do you think children sometimes have to make important decisions?
+
+- [ ] 不看稿口述
+
+Yes, especially decisions about study, activities and friendships. Reliable information and advice from different people help children judge their options and choose more wisely. For example, a teenager can compare course details and ask both parents and teachers before selecting subjects. However, too much conflicting information may confuse them and lead to a poor choice. Overall, children can make important decisions when they receive suitable guidance.
+
+#### ✅ How do people usually make important decision?
+
+- [ ] 不看稿口述
+
+They usually gather information, compare options and ask trusted people for advice. Reliable evidence from different sources gives them a clearer judgement and lowers the chance of a poor choice. For example, someone choosing a university may compare courses, costs and advice from current students. So, good decisions normally come from checking information rather than acting immediately.
+
+### M09-❤️ 关系与归属感
+
+#### ✅ Who do young people like to share opinions with?
+
+- [ ] 不看稿口述
+
+They usually share opinions with close friends and supportive family members. Shared time creates closeness, while active listening makes them feel understood and builds trust. For example, a teenager may discuss a difficult school choice with a close friend who knows the situation. So, young people prefer listeners they already trust.
+
+#### ✅ Why do you think parents still make plans for their children nowadays?
+
+- [ ] 不看稿口述
+
+Parents want to support their children and reduce uncertainty about the future. Their close relationship makes them feel responsible, so they often set priorities and arrange practical steps. For example, parents may plan extra lessons before an important school entrance test. So, these plans usually come from care, but children should still take part.
+
+#### ✅ Why are some people unwilling to work in other countries?
+
+- [ ] 不看稿口述
+
+They may not want to lose regular contact with family and close friends. Limited shared time can create emotional distance, so working abroad may weaken their sense of belonging. For example, someone who cares for elderly parents may reject an overseas position despite better pay. So, strong relationships can matter more than an international opportunity.
+
+### M10-💙 创造力与探索
+
+#### ✅ Why do some people like to remodel and decorate their homes themselves?
+
+- [ ] 不看稿口述
+
+They enjoy exploring ideas and shaping a space around their own needs. Trying different designs gives them new perspectives, while practical changes can make the home easier to use. For example, someone may build simple shelves to use an awkward corner more effectively. So, do-it-yourself decoration combines creativity with practical improvement.
+
+#### ✅ Do you think only well-known directors can create the best movies?
+
+- [ ] 不看稿口述
+
+No, new directors can also make excellent films. Open exploration and fresh ideas can create original stories, even without the attention a famous name receives. For example, a first-time director may use an unusual viewpoint that attracts audiences through word of mouth. However, fame can bring attention and opportunities, but it does not guarantee creativity. Overall, the quality of the ideas matters more than reputation.
+
+### M11-❤️ 经济与就业
+
+#### ✅ Why do many countries try to attract people to visit?
+
+- [ ] 不看稿口述
+
+They want tourism to support local businesses and employment. Visitors buy useful services such as accommodation and transport, creating revenue and jobs that contribute to economic growth. For example, a popular historical town can support hotels, guides and family-run restaurants. So, countries promote tourism because its spending can benefit the wider economy.
+
+### M12-💙 环境与可持续性
+
+#### ✅ What are the advantages of growing vegetables or flowers at home?
+
+- [ ] 不看稿口述
+
+It can reduce waste and give people a meaningful routine. Planning regular care encourages more responsible use of water and other resources. For example, a family can grow herbs in reused containers and water them on a simple schedule. However, poor planning may waste resources and produce little. Overall, home growing is beneficial when it is practical and well managed.
+
+#### ✅ What are the disadvantages for people living in popular tourist cities?
+
+- [ ] 不看稿口述
+
+Heavy tourism can increase consumption, waste and pressure on local resources. This may create pollution while unstable visitor demand also puts local jobs and income at risk. For example, a crowded tourist district may produce far more rubbish during the holiday season. However, tourism also supports businesses and employment when it is managed well. Overall, popular cities need to balance economic benefits with local living conditions.
+
+### M13-❤️ 年龄与代际
+
+#### ✅ Why aren't young people willing to listen to the experiences of older people?
+
+- [ ] 不看稿口述
+
+Young and older people often have different experience, responsibilities and familiarity with technology. These gaps can make older advice seem less relevant, especially when neither side explains or listens clearly. For example, a young employee may ignore career advice based on an industry before digital tools became common. So, better two-way communication can make experience easier to understand and trust.
+
+#### ✅ When would old people ask young people for advice?
+
+- [ ] 不看稿口述
+
+They often ask when a decision involves newer technology or unfamiliar information. Younger people may have greater digital familiarity, so they can explain the options and support better judgement. For example, an older person might ask a grandchild to compare the privacy settings on two messaging apps. So, the need usually comes from different experience rather than a lack of ability.
+
+#### ✅ Why do some people think it’s important to be on time and others don’t?
+
+- [ ] 不看稿口述
+
+People have different responsibilities and experience with planning. Those who depend on clear sequencing see punctuality as necessary, while people with flexible routines may treat timing less strictly. For example, an office worker with linked meetings may value every minute more than someone with an open afternoon. So, attitudes to time often reflect different daily demands.
+
+#### ✅ Is there any difference between children's ambitions and those of grown-ups?
+
+- [ ] 不看稿口述
+
+Children's ambitions are often broader and more exploratory, while adults' goals are usually shaped by experience and responsibilities. Children are still discovering skills, whereas adults tend to focus on practical performance and work. For example, a child may want to be an artist, scientist and athlete, but an adult may aim for one realistic promotion. So, age and experience usually make ambitions more specific.
+
+### M14-❤️ 计划与执行
+
+#### ✅ Is it easy to grow plants at home?
+
+- [ ] 不看稿口述
+
+It can be easy if people choose suitable plants and follow a realistic routine. Clear steps for watering and light make the task manageable and improve the result. For example, a beginner can keep one herb by a sunny window and water it on fixed days. However, an unclear or rigid plan may waste water or fail when conditions change. Overall, simple planning makes home growing much easier.
+
+#### ✅ Is it good to arrive early in any situation?
+
+- [ ] 不看稿口述
+
+Usually yes, because arriving slightly early lowers risk and keeps a plan on schedule. It also gives people time to settle down, which reduces stress and improves concentration. For example, reaching an interview ten minutes early allows time to find the room calmly. However, arriving far too early may disrupt other people's plans. Overall, a small time buffer is useful, but it should be reasonable.
+
+#### ✅ What kind of plans are practical?
+
+- [ ] 不看稿口述
+
+Practical plans have clear priorities, realistic timing and a sensible order of steps. These features turn a general goal into actions and reduce delays. For example, a study plan can assign one topic to each evening and leave a spare day for review. So, a useful plan must fit the time and resources available.
+
+### M15-💙 名人与广告
+
+#### ✅ Why are some advertisements boring?
+
+- [ ] 不看稿口述
+
+They often repeat familiar messages without giving people anything new to think about. Constant exposure creates fatigue, while a lack of fresh ideas makes viewers lose attention. For example, seeing the same celebrity repeat the same slogan before every video quickly becomes dull. So, advertising needs both public attention and creative content to stay interesting.
+
+#### ✅ Do people buy things they don't need?
+
+- [ ] 不看稿口述
+
+Yes, persuasive advertising can make unnecessary products look attractive. Repeated exposure may weaken careful judgement, so people choose based on attention rather than reliable information. For example, someone may buy a trendy kitchen device after seeing several celebrity promotions despite rarely cooking. However, checking different sources can help people make a more informed choice. Overall, advertising can encourage wasteful buying when consumers do not pause to judge it.
+
+#### ✅ What makes a popular TV or online program?
+
+- [ ] 不看稿口述
+
+A popular program usually combines strong entertainment with enough exposure to reach viewers. Engaging stories create emotion and fresh ideas, while public attention helps the program spread. For example, a creative comedy clip may gain a wider audience after well-known guests share it. So, good content becomes popular more easily when people can discover it.
+
+### M17-❤️ 艺术、娱乐与想象力
+
+#### ✅ Why do many people like listening to music while doing sports?
+
+- [ ] 不看稿口述
+
+Music makes exercise more enjoyable and helps people relax. Its rhythm and emotional effect can reduce the feeling of pressure, so people stay focused on the activity for longer. For example, a runner may use an energetic playlist to keep a steady pace. So, music can improve both mood and concentration during sport.
+
+#### ✅ What are the differences between listening to music at home and at a live concert?
+
+- [ ] 不看稿口述
+
+Listening at home is convenient and private, whereas a live concert offers involvement and a stronger shared atmosphere. At home people control the sound and timing, while concerts create a more intense emotional response. For example, someone can pause a song at home, but at a concert they sing along with the crowd. So, home listening suits comfort, while concerts offer stronger involvement.
+
+#### ✅ What are the factors that make a successful movie?
+
+- [ ] 不看稿口述
+
+A successful movie needs engaging creative work and a clear connection with its audience. Strong stories and performances create emotion, which attracts viewers and generates revenue. For example, an imaginative family film can spread through recommendations and keep cinemas busy for weeks. So, artistic quality supports commercial success when audiences respond to it.
+
+#### ✅ Why do people prefer to watch movies in the cinema?
+
+- [ ] 不看稿口述
+
+The cinema creates a more immersive and shared experience. A large screen, powerful sound and the presence of an audience strengthen emotional engagement and make the film feel special. For example, an action scene can feel far more exciting when the whole cinema reacts together. So, people choose cinemas when they want more than passive home entertainment.
+
+#### ✅ Do you think we can acquire knowledge from watching TV programs?
+
+- [ ] 不看稿口述
+
+Yes, well-made programs can introduce viewers to useful ideas and unfamiliar subjects. Visual stories can make information engaging, which encourages attention and further exploration. For example, a nature documentary may explain animal behaviour through footage that a textbook cannot provide. However, passive viewing can lead to shallow understanding if people never question or apply the information. Overall, television can support learning when viewers engage actively.
+
+### M18-❤️ 地点、建筑与设施
+
+#### ✅ What’s the difference between homes in cities and those in the countryside?
+
+- [ ] 不看稿口述
+
+City homes usually offer easier access to facilities, while country homes often provide more space but fewer nearby services. The difference comes from how buildings and public resources are distributed. For example, a city flat may be near a hospital, while a rural home may require a long drive. So, urban homes favour access, while rural homes favour space.
+
+#### ✅ Why are different places laid out and designed differently?
+
+- [ ] 不看稿口述
+
+They serve different users and daily purposes. Practical design arranges spaces and facilities around the activities people need to complete. For example, a hospital uses clear signs and wide corridors, while a home divides space for privacy and rest. So, layout should follow function rather than one universal style.
+
+#### ✅ What are the advantages of living in tall buildings?
+
+- [ ] 不看稿口述
+
+Tall buildings can place many homes close to useful city facilities. This practical use of space makes transport, shops and services easier to reach for more residents. For example, an apartment tower above a metro station can shorten hundreds of daily journeys. However, poor maintenance can make lifts and shared spaces inconvenient. Overall, tall buildings work well when their facilities remain reliable.
+
+### M19-❤️ 习惯、情绪与休闲
+
+#### ✅ Why do some people like to grow plants?
+
+- [ ] 不看稿口述
+
+They find plant care meaningful and relaxing. A balanced routine of watering and observing growth can lower stress and improve mood. For example, looking after a few herbs after work may help someone switch off from job pressure. So, growing plants is both a hobby and a calming routine.
+
+#### ✅ What can people do when they feel bored?
+
+- [ ] 不看稿口述
+
+They can choose a meaningful activity instead of remaining inactive. A balanced change in routine reduces boredom and can restore concentration and mood. For example, someone can take a short walk or work on a small gardening task after studying for hours. So, active leisure is usually more helpful than doing nothing.
+
+#### ✅ Why are some people keen on shopping?
+
+- [ ] 不看稿口述
+
+Shopping can be a leisure habit that gives people a short break from pressure. Browsing and choosing items changes their routine, so it may briefly improve their mood. For example, someone may visit a bookshop after work simply to relax and explore new titles. So, the attraction is often emotional rather than purely practical.
+
+#### ✅ Does spending money make people feel happy?
+
+- [ ] 不看稿口述
+
+Sometimes, especially when the money supports a meaningful activity. A well-chosen purchase can reduce stress or improve a person's routine. For example, paying for a swimming class may create regular exercise and a better mood. However, high or poorly planned spending can cause financial pressure and reduce well-being. Overall, spending helps most when it has lasting value.
+
+### M20-❤️ 科技、媒体与隐私
+
+#### ✅ What are the differences between shopping online and in-store?
+
+- [ ] 不看稿口述
+
+Online shopping offers faster access and convenience, while in-store shopping lets people inspect products and use physical facilities directly. The difference comes from digital communication versus practical contact with a place and its products. For example, an online buyer can order in minutes, but a shop visitor can try on a jacket first. So, online shopping saves effort, while stores provide more direct information.
+
+#### ✅ Why do some people prefer sending a message instead of making a call?
+
+- [ ] 不看稿口述
+
+Messages give people fast communication without requiring both sides to be free at once. This convenience makes it easier to share information and take part in conversations. For example, an employee can send a meeting update while a colleague is busy and let them reply later. So, messaging suits communication that does not need an immediate discussion.
+
+#### ✅ How does technology affect the law?
+
+- [ ] 不看稿口述
+
+Technology creates new forms of behaviour that laws need to address. Faster communication and data collection widen participation, but they can also cause privacy loss and misinformation. For example, rules may require an app to explain how it stores users' personal data. So, the law has to adapt as digital risks and opportunities change.
+
+### M21-💚 合作、领导与帮助
+
+#### ✅ What can children do to help their parents?
+
+- [ ] 不看稿口述
+
+They can take responsibility for simple household tasks. Clear roles and mutual support reduce their parents' workload and make family cooperation more stable. For example, a child can wash the dishes each evening while a parent prepares dinner. So, regular practical help is more useful than waiting to be asked.
+
+### M22-💚 文化、身份与传统
+
+#### ✅ What are the differences between everyday food and festival food?
+
+- [ ] 不看稿口述
+
+Everyday food is mainly practical, while festival food carries cultural meaning and is often prepared together. Ordinary meals meet daily needs, whereas special dishes help families take part in traditions and pass them on. For example, people may eat simple noodles on a normal day but make dumplings together for Spring Festival. So, festival food is distinguished more by shared tradition than by nutrition alone.
+
+#### ✅ Are there any differences between the food people eat today and the food people ate in the past?
+
+- [ ] 不看稿口述
+
+Yes, today's food is more influenced by global content, while food in the past was often more closely tied to local traditions. Wider cultural exposure has increased variety, but it can also reduce regular engagement with local dishes. For example, a family may order foreign fast food today instead of cooking a regional recipe used by grandparents. So, modern diets are broader, although some traditional food may be eaten less often.
+
+### M01-💚 便利与效率
+
+#### ✅ Do you think young people rely more and more on these programs?
+
+- [ ] 不看稿口述
+
+Yes, many programs make study, entertainment and communication much easier. Saving time and effort encourages frequent use, so dependence gradually grows. For example, a student may use one app for notes, reminders and homework every day. However, excessive convenience can reduce active effort and increase distraction. Overall, young people benefit from these programs but should still work independently.
+
+### M07-💚 成本与资源
+
+#### ✅ Is salary the main reason people choose a certain job?
+
+- [ ] 不看稿口述
+
+Salary is a major reason because it covers essential costs and reduces financial pressure. However, people also consider whether a job lets them practise useful skills and improve future performance. For example, a graduate may accept slightly lower pay for a role with strong professional training. So, income matters greatly, but skill development can change the final choice.
 
 ## 下一步
 

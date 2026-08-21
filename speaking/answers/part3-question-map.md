@@ -17,7 +17,7 @@
 
 1. **Do you think children are born smart or they learn to become smart?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M13-❤️` 年龄与代际
 2. **How do children become smart at school?** — `Q7` · `M03-❤️` 学习与技能 ＋ `M13-❤️` 年龄与代际
-3. **Why are some people well-rounded and others only good at one thing?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M11-❤️` 经济与就业
+3. **Why are some people well-rounded and others only good at one thing?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M10-💙` 创造力与探索
 4. **Why does modern society need talents of all kinds?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M10-💙` 创造力与探索
 5. **Do you think smart children are happier than other children?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M13-❤️` 年龄与代际
 6. **Is it important for schools to identify and develop each student's talents?** — `Q5` · `M02-💚` 公平与机会 ＋ `M03-❤️` 学习与技能
@@ -25,7 +25,7 @@
 ### 想见的名人
 
 1. **What are the advantages and disadvantages of being a famous child?** — `Q5` · `M15-💙` 名人与广告
-2. **What can today's children do to become famous?** — `Q6` · `M15-💙` 名人与广告 ＋ `M13-❤️` 年龄与代际
+2. **What can today's children do to become famous?** — `Q6` · `M03-❤️` 学习与技能 ＋ `M15-💙` 名人与广告
 3. **What can children do with their fame?** — `Q6` · `M15-💙` 名人与广告 ＋ `M13-❤️` 年龄与代际
 4. **Do people become famous because of their talent?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M15-💙` 名人与广告
 5. **Is it easy to become famous in your country?** — `Q5` · `M15-💙` 名人与广告
@@ -39,7 +39,7 @@
 
 ### 爱护自然的人
 
-1. **Do you think parents should teach their children how to protect the environment?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M12-💙` 环境与可持续性
+1. **Do you think parents should teach their children how to protect the environment?** — `Q5` · `M03-❤️` 学习与技能 ＋ `M12-💙` 环境与可持续性
 2. **What laws about the environment are effective in your country?** — `Q7` · `M06-💙` 规则与责任 ＋ `M12-💙` 环境与可持续性
 3. **Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?** — `Q2` · `M06-💙` 规则与责任 ＋ `M12-💙` 环境与可持续性
 4. **Is it easy for children in cities to get close to the natural world?** — `Q5` · `M02-💚` 公平与机会 ＋ `M12-💙` 环境与可持续性
@@ -48,7 +48,7 @@
 
 ### 乐于助人的人
 
-1. **What can children do to help their parents?** — `Q6` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
+1. **What can children do to help their parents?** — `Q6` · `M21-💚` 合作领导与帮助
 2. **Should children help their parents with household chores?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M21-💚` 合作领导与帮助
 3. **What kind of help do people need when looking for a new job?** — `Q7` · `M08-💙` 信息与判断 ＋ `M11-❤️` 经济与就业
 4. **Who should people ask for help, colleagues or family members?** — `Q6` · `M09-❤️` 关系与归属感 ＋ `M21-💚` 合作领导与帮助
@@ -75,10 +75,10 @@
 
 ### 喜欢在家/花园种菜的人
 
-1. **What are the advantages of growing vegetables or flowers at home?** — `Q5` · `M12-💙` 环境与可持续性
+1. **What are the advantages of growing vegetables or flowers at home?** — `Q5` · `M12-💙` 环境与可持续性 ＋ `M14-❤️` 计划与执行
 2. **Do many people grow vegetables or flowers at home in your country?** — `Q5` · `M12-💙` 环境与可持续性
 3. **Is it easy to grow plants at home?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M12-💙` 环境与可持续性
-4. **Why do some people like to grow plants?** — `Q1` · `M14-❤️` 计划与执行 ＋ `M12-💙` 环境与可持续性
+4. **Why do some people like to grow plants?** — `Q1` · `M19-❤️` 习惯情绪与休闲
 5. **Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?** — `Q1` · `M12-💙` 环境与可持续性 ＋ `M11-❤️` 经济与就业
 6. **Do you think students should learn to grow plants?** — `Q5` · `M03-❤️` 学习与技能
 
@@ -124,8 +124,8 @@
 
 ### 无聊的地方
 
-1. **Why do most children think education is boring?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M13-❤️` 年龄与代际
-2. **Why aren't young people willing to listen to the experiences of older people?** — `Q2` · `M13-❤️` 年龄与代际
+1. **Why do most children think education is boring?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M19-❤️` 习惯情绪与休闲
+2. **Why aren't young people willing to listen to the experiences of older people?** — `Q2` · `M13-❤️` 年龄与代际 ＋ `M05-💙` 沟通与信任
 3. **What can people do when they feel bored?** — `Q6` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
 4. **Why are some teachers' classes boring? Are there any solutions?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M19-❤️` 习惯情绪与休闲
 5. **Why do some young people feel bored when talking with old people?** — `Q2` · `M05-💙` 沟通与信任 ＋ `M13-❤️` 年龄与代际
@@ -154,7 +154,7 @@
 1. **Do Chinese people like to visit others’ homes?** — `Q5` · `M18-❤️` 地点建筑与设施
 2. **What do Chinese people do when they visit others?** — `Q7` · `M18-❤️` 地点建筑与设施
 3. **What kind of place do people in your country like to live in?** — `Q7` · `M18-❤️` 地点建筑与设施
-4. **What’s the difference between homes in cities and those in the countryside?** — `Q2` · `M18-❤️` 地点建筑与设施
+4. **What’s the difference between homes in cities and those in the countryside?** — `Q2` · `M18-❤️` 地点建筑与设施 ＋ `M02-💚` 公平与机会
 5. **What kind of gifts do people usually bring when they visit others?** — `Q7` · `M22-💚` 文化身份与传统 ＋ `M09-❤️` 关系与归属感
 6. **How often do you visit your relatives or friends?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M05-💙` 沟通与信任
 
@@ -166,10 +166,10 @@
 4. **What kind of people like shopping?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M01-💚` 便利与效率
 5. **Where do people like to shop in your country?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M01-💚` 便利与效率
 6. **Do you think women like shopping more than men?** — `Q5` · `M13-❤️` 年龄与代际 ＋ `M11-❤️` 经济与就业
-7. **Does spending money make people feel happy?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M15-💙` 名人与广告
+7. **Does spending money make people feel happy?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M07-💚` 成本与资源
 8. **What are the differences between shopping in street markets and big shopping malls?** — `Q2` · `M18-❤️` 地点建筑与设施 ＋ `M11-❤️` 经济与就业
 9. **What are the differences in the shopping habits of different age groups?** — `Q2` · `M13-❤️` 年龄与代际 ＋ `M11-❤️` 经济与就业
-10. **What are the differences between shopping online and in-store?** — `Q2` · `M20-❤️` 科技媒体与隐私 ＋ `M11-❤️` 经济与就业
+10. **What are the differences between shopping online and in-store?** — `Q2` · `M20-❤️` 科技媒体与隐私 ＋ `M18-❤️` 地点建筑与设施
 11. **Do you think people's spending habits can lead to peer pressure?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M15-💙` 名人与广告
 
 ### 安静的地方
@@ -192,7 +192,7 @@
 6. **Why do many countries try to attract people to visit?** — `Q1` · `M11-❤️` 经济与就业 ＋ `M12-💙` 环境与可持续性
 7. **How do people decide when to travel?** — `Q7` · `M18-❤️` 地点建筑与设施 ＋ `M22-💚` 文化身份与传统
 8. **What are the benefits for cities of having lots of tourists?** — `Q5` · `M18-❤️` 地点建筑与设施 ＋ `M11-❤️` 经济与就业
-9. **What are the disadvantages for people living in popular tourist cities?** — `Q5` · `M18-❤️` 地点建筑与设施 ＋ `M11-❤️` 经济与就业
+9. **What are the disadvantages for people living in popular tourist cities?** — `Q5` · `M12-💙` 环境与可持续性 ＋ `M11-❤️` 经济与就业
 
 ### 喜欢或不喜欢的高建筑
 
@@ -200,7 +200,7 @@
 2. **What are the differences between those tall buildings in your country?** — `Q2` · `M18-❤️` 地点建筑与设施
 3. **Why are different places laid out and designed differently?** — `Q2` · `M18-❤️` 地点建筑与设施
 4. **What are the advantages of living in tall buildings?** — `Q5` · `M18-❤️` 地点建筑与设施
-5. **Why do some people like to remodel and decorate their homes themselves?** — `Q1` · `M18-❤️` 地点建筑与设施
+5. **Why do some people like to remodel and decorate their homes themselves?** — `Q1` · `M10-💙` 创造力与探索 ＋ `M18-❤️` 地点建筑与设施
 6. **What kind of interior design style do most people like?** — `Q7` · `M18-❤️` 地点建筑与设施
 
 ---
@@ -234,7 +234,7 @@
 2. **When should parents encourage their children?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
 3. **What kind of encouragement should parents give?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M21-💚` 合作领导与帮助
 4. **Do you think some people are better than others at persuading?** — `Q5` · `M21-💚` 合作领导与帮助 ＋ `M05-💙` 沟通与信任
-5. **Should children do everything their parents ask them to do?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
+5. **Should children do everything their parents ask them to do?** — `Q5` · `M06-💙` 规则与责任
 6. **How can employers encourage their staff?** — `Q6` · `M21-💚` 合作领导与帮助 ＋ `M05-💙` 沟通与信任
 
 ### 给别人建议
@@ -270,10 +270,10 @@
 2. **Why do people get up early?** — `Q1` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
 3. **What kinds of occasions need people to arrive early?** — `Q7` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
 4. **Why do some people like to stay up late?** — `Q1` · `M19-❤️` 习惯情绪与休闲
-5. **Is it good to arrive early in any situation?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
+5. **Is it good to arrive early in any situation?** — `Q5` · `M14-❤️` 计划与执行 ＋ `M19-❤️` 习惯情绪与休闲
 6. **What kind of people like getting up early?** — `Q7` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
 7. **Is the early morning the best part of the day?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
-8. **Why do some people think it’s important to be on time and others don’t?** — `Q1` · `M19-❤️` 习惯情绪与休闲
+8. **Why do some people think it’s important to be on time and others don’t?** — `Q1` · `M13-❤️` 年龄与代际 ＋ `M14-❤️` 计划与执行
 
 ### 为家人骄傲
 
@@ -289,7 +289,7 @@
 1. **When do most children begin to have their own opinions?** — `Q7` · `M13-❤️` 年龄与代际
 2. **Whose opinions are more important to children, their parents' or teachers'?** — `Q7` · `M03-❤️` 学习与技能 ＋ `M09-❤️` 关系与归属感
 3. **Do children communicate more with teachers or with parents?** — `Q5` · `M05-💙` 沟通与信任 ＋ `M03-❤️` 学习与技能
-4. **Who do young people like to share opinions with?** — `Q7` · `M13-❤️` 年龄与代际
+4. **Who do young people like to share opinions with?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M05-💙` 沟通与信任
 
 ### 看过的现场比赛
 
@@ -305,19 +305,19 @@
 ### 近期改变的计划
 
 1. **Do people often change their plans?** — `Q5` · `M14-❤️` 计划与执行
-2. **Would you tell others if you change your plan?** — `Q5` · `M14-❤️` 计划与执行
+2. **Would you tell others if you change your plan?** — `Q5` · `M05-💙` 沟通与信任 ＋ `M14-❤️` 计划与执行
 3. **Why do you think parents still make plans for their children nowadays?** — `Q1` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 计划与执行
 4. **How does technology help people make plans?** — `Q7` · `M20-❤️` 科技媒体与隐私 ＋ `M14-❤️` 计划与执行
 5. **What kind of plans do people often make?** — `Q7` · `M14-❤️` 计划与执行
 6. **Do you think people like the process of making plans more, or the moment of carrying them out?** — `Q5` · `M14-❤️` 计划与执行
-7. **How would you tell your friends when you must change plans?** — `Q7` · `M09-❤️` 关系与归属感 ＋ `M14-❤️` 计划与执行
+7. **How would you tell your friends when you must change plans?** — `Q7` · `M05-💙` 沟通与信任 ＋ `M14-❤️` 计划与执行
 8. **What are the common reasons when people need to change plans?** — `Q7` · `M14-❤️` 计划与执行
 9. **What kind of plans are practical?** — `Q7` · `M14-❤️` 计划与执行
 
 ### 微笑的场合
 
-1. **Do you think people who like to smile are more friendly?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M19-❤️` 习惯情绪与休闲
-2. **Why do most people smile in photographs?** — `Q1` · `M19-❤️` 习惯情绪与休闲 ＋ `M04-💙` 健康与福祉
+1. **Do you think people who like to smile are more friendly?** — `Q5` · `M05-💙` 沟通与信任 ＋ `M09-❤️` 关系与归属感
+2. **Why do most people smile in photographs?** — `Q1` · `M05-💙` 沟通与信任
 3. **Do women smile more than men? Why?** — `Q5` · `M13-❤️` 年龄与代际 ＋ `M19-❤️` 习惯情绪与休闲
 4. **Do people smile more when they are younger or older ?** — `Q5` · `M13-❤️` 年龄与代际 ＋ `M19-❤️` 习惯情绪与休闲
 5. **Is smiling important in your culture?** — `Q5` · `M22-💚` 文化身份与传统
@@ -385,8 +385,8 @@
 ### 长期追求/目标
 
 1. **What kinds of ambitions do people have?** — `Q7` · `M03-❤️` 学习与技能 ＋ `M11-❤️` 经济与就业
-2. **Why should parents encourage children to have ambitions?** — `Q1` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
-3. **Should parents interfere with their children's ambitions?** — `Q5` · `M09-❤️` 关系与归属感 ＋ `M13-❤️` 年龄与代际
+2. **Why should parents encourage children to have ambitions?** — `Q1` · `M03-❤️` 学习与技能 ＋ `M09-❤️` 关系与归属感
+3. **Should parents interfere with their children's ambitions?** — `Q5` · `M06-💙` 规则与责任 ＋ `M09-❤️` 关系与归属感
 4. **Is there any difference between children's ambitions and those of grown-ups?** — `Q2` · `M13-❤️` 年龄与代际 ＋ `M03-❤️` 学习与技能
 5. **What goals do young people usually have?** — `Q7` · `M13-❤️` 年龄与代际 ＋ `M03-❤️` 学习与技能
 6. **Why are young people ambitious for higher positions?** — `Q1` · `M13-❤️` 年龄与代际
@@ -443,7 +443,7 @@
 2. **Why do some people not like using apps?** — `Q1` · `M20-❤️` 科技媒体与隐私 ＋ `M01-💚` 便利与效率
 3. **What apps are popular in your country? Why?** — `Q7` · `M20-❤️` 科技媒体与隐私 ＋ `M01-💚` 便利与效率
 4. **Should parents limit their children's use of computer programs and computer games?** — `Q5` · `M20-❤️` 科技媒体与隐私 ＋ `M06-💙` 规则与责任
-5. **Do you think young people rely more and more on these programs?** — `Q5` · `M17-❤️` 艺术娱乐与想象力 ＋ `M13-❤️` 年龄与代际
+5. **Do you think young people rely more and more on these programs?** — `Q5` · `M01-💚` 便利与效率 ＋ `M20-❤️` 科技媒体与隐私
 6. **What do you think about some countries banning children from using social media?** — `Q5` · `M20-❤️` 科技媒体与隐私 ＋ `M06-💙` 规则与责任
 
 ### 完美工作
@@ -452,7 +452,7 @@
 2. **What jobs do children want to do when they grow up?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M13-❤️` 年龄与代际
 3. **Do people's ideal jobs change as they grow up?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
 4. **What should people consider when choosing jobs?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
-5. **Is salary the main reason people choose a certain job?** — `Q1` · `M07-💚` 成本与资源 ＋ `M11-❤️` 经济与就业
+5. **Is salary the main reason people choose a certain job?** — `Q1` · `M07-💚` 成本与资源 ＋ `M03-❤️` 学习与技能
 6. **What kind of jobs are the most popular in your country?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M03-❤️` 学习与技能
 
 ### 有趣视频
@@ -470,25 +470,25 @@
 1. **What short-term jobs do young people do in other countries?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M13-❤️` 年龄与代际
 2. **What challenges do young people face when working abroad?** — `Q7` · `M11-❤️` 经济与就业 ＋ `M13-❤️` 年龄与代际
 3. **What are the benefits of working for an international company?** — `Q5` · `M11-❤️` 经济与就业
-4. **What personal skills are required to work in an international company?** — `Q7` · `M03-❤️` 学习与技能 ＋ `M10-💙` 创造力与探索
+4. **What personal skills are required to work in an international company?** — `Q7` · `M05-💙` 沟通与信任 ＋ `M21-💚` 合作领导与帮助
 5. **What kind of work can young people do in foreign countries?** — `Q7` · `M13-❤️` 年龄与代际
-6. **Why are some people unwilling to work in other countries?** — `Q1` · `M11-❤️` 经济与就业
+6. **Why are some people unwilling to work in other countries?** — `Q1` · `M09-❤️` 关系与归属感
 
 ### 花费超过预期的物品
 
 1. **Do you often buy more than you expected?** — `Q5` · `M11-❤️` 经济与就业 ＋ `M01-💚` 便利与效率
 2. **What do you think young people spend most of their money on?** — `Q5` · `M07-💚` 成本与资源 ＋ `M13-❤️` 年龄与代际
 3. **Do you think it is important to save money? Why?** — `Q5` · `M07-💚` 成本与资源 ＋ `M11-❤️` 经济与就业
-4. **Do people buy things they don't need?** — `Q5` · `M19-❤️` 习惯情绪与休闲 ＋ `M15-💙` 名人与广告
+4. **Do people buy things they don't need?** — `Q5` · `M15-💙` 名人与广告 ＋ `M08-💙` 信息与判断
 5. **Do you think it is the rich people's responsibility to donate money to people in need?** — `Q5` · `M06-💙` 规则与责任 ＋ `M07-💚` 成本与资源
 6. **What kind of things are people happy to pay a high price for?** — `Q7` · `M04-💙` 健康与福祉
 
 ### 近期观影
 
 1. **What kinds of movies do you think are successful in your country?** — `Q7` · `M17-❤️` 艺术娱乐与想象力 ＋ `M03-❤️` 学习与技能
-2. **What are the factors that make a successful movie?** — `Q1` · `M08-💙` 信息与判断 ＋ `M17-❤️` 艺术娱乐与想象力
+2. **What are the factors that make a successful movie?** — `Q1` · `M17-❤️` 艺术娱乐与想象力 ＋ `M11-❤️` 经济与就业
 3. **Do Chinese people prefer to watch domestic movies or foreign movies?** — `Q2` · `M17-❤️` 艺术娱乐与想象力 ＋ `M10-💙` 创造力与探索
-4. **Do you think only well-known directors can create the best movies?** — `Q5` · `M17-❤️` 艺术娱乐与想象力 ＋ `M10-💙` 创造力与探索
+4. **Do you think only well-known directors can create the best movies?** — `Q5` · `M10-💙` 创造力与探索 ＋ `M15-💙` 名人与广告
 5. **Do you think successful movies should have well-known actors or actresses in leading roles?** — `Q5` · `M17-❤️` 艺术娱乐与想象力 ＋ `M03-❤️` 学习与技能
 6. **Why do people prefer to watch movies in the cinema?** — `Q1` · `M17-❤️` 艺术娱乐与想象力 ＋ `M10-💙` 创造力与探索
 
@@ -502,8 +502,8 @@
 ### 特殊场合下吃的食物
 
 1. **Why do people eat special food on special occasions or festivals?** — `Q1` · `M04-💙` 健康与福祉 ＋ `M22-💚` 文化身份与传统
-2. **What are the differences between everyday food and festival food?** — `Q2` · `M04-💙` 健康与福祉
-3. **Are there any differences between the food people eat today and the food people ate in the past?** — `Q3` · `M04-💙` 健康与福祉
+2. **What are the differences between everyday food and festival food?** — `Q2` · `M22-💚` 文化身份与传统 ＋ `M04-💙` 健康与福祉
+3. **Are there any differences between the food people eat today and the food people ate in the past?** — `Q3` · `M22-💚` 文化身份与传统
 4. **Do people today prefer eating at home or in a restaurant?** — `Q2` · `M22-💚` 文化身份与传统
 5. **What kinds of food are popular in your country?** — `Q7` · `M04-💙` 健康与福祉
 6. **Do people in your country like eating foreign food?** — `Q5` · `M04-💙` 健康与福祉
@@ -517,4 +517,4 @@
 5. **Do you think watching talk shows is a waste of time?** — `Q5` · `M05-💙` 沟通与信任 ＋ `M20-❤️` 科技媒体与隐私
 6. **Do you think we can acquire knowledge from watching TV programs?** — `Q5` · `M17-❤️` 艺术娱乐与想象力 ＋ `M10-💙` 创造力与探索
 7. **What are the differences between the TV programs young people like to watch and those old people like to watch?** — `Q2` · `M17-❤️` 艺术娱乐与想象力 ＋ `M13-❤️` 年龄与代际
-8. **What makes a popular TV or online program?** — `Q1` · `M20-❤️` 科技媒体与隐私 ＋ `M17-❤️` 艺术娱乐与想象力
+8. **What makes a popular TV or online program?** — `Q1` · `M15-💙` 名人与广告 ＋ `M17-❤️` 艺术娱乐与想象力

@@ -93,6 +93,8 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 为 316 道 IELTS Speaking Part 3 答案补齐例后独立 reflection，同步升级四至六句结构与日志校验
+- 精简 Speaking Part 1 的旧“其他题目”区块，并微调现有答案的表达与重点标记
 - 调整 IELTS Speaking Part 3 答案结构，要求例句后紧接独立 reflection，并将上限放宽至六句
 - 将 Speaking Part 3 两个追加区的 156 道答案归入对应观点模块，统一模块计数与内容层级
 - 调整 IELTS Speaking Part 3 覆盖规则，允许自动生成具体例子，同时继续限定核心观点与因果链来自观点卡

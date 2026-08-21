@@ -320,7 +320,7 @@ A: GitHub is probably my favourite because I can explore real projects and learn
 
 **Q: Have the websites you use changed?**
 
-A: Yes. The websites I use are now more personalised and mobile-friendly, so information is easier to access. However, I also see far more **distracting recommendations** than before. <!-- M01 M20 -->
+A: Yes. The websites I use are now more <mark style="background: #ABF7F7A6;">personalised and mobile-friendly</mark>, so information is easier to access. However, I also see far more **distracting recommendations** than before. <!-- M01 M20 -->
 
 **Q: What websites are popular in China?**
 
@@ -342,21 +342,21 @@ A: Yes. A tidy room helps me think more clearly and saves me from wasting time l
 
 **Q: Did you keep your room tidy as a child?**
 
-A: Not really. My mother often reminded me to put things away, but I only developed the habit after I started living independently. <!-- M19 -->
+A: Not really. My mother often reminded me to <mark style="background: #ABF7F7A6;">put things away</mark>, but I only developed the habit after I started living independently. <!-- M19 -->
 
 **Q: How do you keep your work or study space tidy?**
 
-A: I clear my desk every evening and store most documents digitally. This simple routine gives me a clutter-free workspace the next morning. <!-- M14 M19 -->
+A: I clear my desk every evening and store most documents digitally. This simple routine gives me<mark style="background: #ABF7F7A6;"> a clutter-free workspace </mark>the next morning. <!-- M14 M19 -->
 
 **Q: Is it necessary to be tidy?**
 
-A: Yes, within reason. Basic organisation improves efficiency, but trying to keep everything perfectly tidy can create unnecessary stress. <!-- M01 M19 -->
+A: I'd say yes, but only up to a point. Basic organisation improves efficiency, but trying to keep everything perfectly tidy can create unnecessary stress. <!-- M01 M19 -->
 
 ### Music `[同桌英语 #15]`
 
 **Q: Do you prefer sad or happy music?**
 
-A: I prefer happy music because it lifts my mood after a long day. I often play upbeat songs while exercising because they give me an extra burst of **energy**. <!-- M17 M19 -->
+A: I prefer happy music because it lifts my mood after a long day. I often play <mark style="background: #ABF7F7A6;">upbeat songs </mark>while exercising because they give me an extra burst of **energy**. <!-- M17 M19 -->
 
 **Q: Does happy music make you feel more excited?**
 
@@ -366,15 +366,15 @@ A: Definitely. A lively rhythm makes me feel more **energetic and optimistic**, 
 
 **Q: Have you ever posted anything on social media?**
 
-A: Yes, occasionally. I have posted photographs from my Malaysia trip because they help me preserve and share those memories. <!-- M09 M20 -->
+A: Yes, occasionally. I have posted photographs from my Malaysia trip because they help me <mark style="background: #ABF7F7A6;">preserve</mark> and share those memories. <!-- M09 M20 -->
 
 **Q: When did you start using social media?**
 
-A: I started at university, mainly to keep in touch with classmates. I am more selective now because I do not want it to become a constant distraction. <!-- M09 M20 -->
+A: I started at university, mainly to keep in touch with classmates. But I am more <mark style="background: #ABF7F7A6;">selective</mark> now because I do not want it to become a constant <mark style="background: #ABF7F7A6;">distraction</mark>. <!-- M09 M20 -->
 
 **Q: Do you spend too much time on social media?**
 
-A: Sometimes, especially when I watch short videos without noticing the time. I now set time limits because mindless scrolling affects my concentration. <!-- M14 M20 -->
+A: Sometimes, especially when I watch short videos without noticing the time. I now set time limits because <mark style="background: #ABF7F7A6;">mindless scrolling </mark>affects my <mark style="background: #ABF7F7A6;">concentration</mark>. <!-- M14 M20 -->
 
 **Q: Do your friends use social media?**
 
@@ -382,7 +382,7 @@ A: Yes, most of them do. We mainly use it to exchange updates and **stay connect
 
 **Q: What do people often do on social media?**
 
-A: They usually share photographs, follow news and communicate with friends. Many also use it to find useful information, although not everything online is reliable. <!-- M08 M20 -->
+A: They usually share photographs, follow news and communicate with friends. Many also use it to find useful <mark style="background: #ABF7F7A6;">information</mark>, although not everything online is reliable. <!-- M08 M20 -->
 
 ### Teachers `[同桌英语 #17]`
 
@@ -410,7 +410,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 
 **Q: Do you have a daily routine?**
 
-A: Yes. I normally study English in the morning, do technical work during the day and take a walk in the evening. A clear routine helps me use my time efficiently. <!-- M14 M19 -->
+A: Yes. I usually study English in the morning, do technical work during the day and take a walk in the evening. A clear routine helps me use my time efficiently and make me feel fulfilled. <!-- M14 M19 -->
 
 **Q: Has your daily routine changed recently?**
 
@@ -418,12 +418,12 @@ A: Yes. I now divide each weekday into a few **manageable tasks** and avoid chec
 
 **Q: Is the same routine suitable for everyone?**
 
-A: No. A useful routine should reflect a person's work, health and responsibilities. If it is too rigid, it can create stress instead of making life easier. <!-- M13 M14 -->
+A: No. A useful routine should reflect a person's work, health and <mark style="background: #ABF7F7A6;">responsibilities</mark>. If it is too rigid, it can create stress instead of making life easier. <!-- M13 M14 -->
 ### Life Stages `[同桌英语 #19]`
 
 **Q: What did you do with friends in childhood?**
 
-A: We cycled around our neighbourhood and played simple outdoor games. Spending that time together gave me some really happy childhood memories. <!-- M09 M19 -->
+A: We cycled in our neighbourhood and played simple outdoor games. Spending that time together gave me some really happy childhood memories. <!-- M09 M19 -->
 
 **Q: What is most important to you now?**
 
@@ -912,420 +912,3 @@ A: I use development tools and ChatGPT to automate routine tasks. They save time
 **Q: Who helps you most?**
 
 A: Former colleagues such as Stella help me most. We exchange practical advice and look at difficult problems from different perspectives. <!-- M05 M21 -->
-
-## 其他题目（41）
-
-### Day Off `[R]`
-
-**Q: What do you do on a day off?**
-
-A: I sleep a little longer, visit a park and read. I try to **keep an open mind**. A quiet schedule helps me recover from a demanding week. <!-- P10-b -->
-
-**Q: Would you spend it with family or friends?**
-
-A: Usually close friends, although I sometimes call my family. I enjoy **sharing simple experiences with people I trust**. I prefer low-key and meaningful time together. <!-- P7-c -->
-
-### Dreams `[R]`
-
-**Q: Do you remember your dreams?**
-
-A: Only occasionally. **Personal memories mean a lot to me**. They fade quickly unless they are particularly vivid or unusual. <!-- P8-a -->
-
-**Q: Do dreams have special meanings?**
-
-A: Perhaps they reflect recent emotions, but I would not use them to make important decisions. I enjoy **discovering something new**. <!-- P3-b -->
-
-### Keys `[R]`
-
-**Q: Have you ever lost your keys?**
-
-A: Yes, once at university. I tend to **remember experiences that teach me something**. The inconvenience taught me to keep them in a fixed place. <!-- P8-c -->
-
-**Q: Is leaving keys with a neighbour a good idea?**
-
-A: Yes, if the neighbour is trustworthy. I tend to **make decisions with real-life needs in mind**. It provides a useful backup in an emergency. <!-- P1-c -->
-
-### Birthdays `[R]`
-
-**Q: How do you celebrate your birthday?**
-
-A: I prefer a small dinner with close friends because it creates a warm and relaxed atmosphere without excessive planning. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
-
-**Q: How did you celebrate as a child?**
-
-A: My family bought a cake and cooked my favourite food. **Personal memories mean a lot to me**. The celebration was simple but made me feel valued and supported. <!-- P8-a -->
-
-**Q: Are birthdays still important?**
-
-A: Yes, less for gifts than for reflecting on the year and maintaining close relationships. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
-
-
-### Technology `[R]`
-
-**Q: What technology do you use most?**
-
-A: My laptop, because it supports my work, learning and communication and is central to my daily routine. I like **having a clear routine**. <!-- P2-a -->
-
-**Q: What technology would you buy?**
-
-A: A lighter laptop with longer battery life, which would let me work efficiently while travelling. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-### Writing `[R]`
-
-**Q: What do you write every day?**
-
-A: Technical notes, messages and study summaries. I enjoy **building my skills over time**. Writing helps me organise complicated ideas clearly. <!-- P4-c -->
-
-**Q: Did you enjoy writing as a child?**
-
-A: Yes, particularly personal essays. **Personal memories mean a lot to me**. One about my mother became an important family keepsake. <!-- P8-a -->
-
-### Geography `[R]`
-
-**Q: Did you study geography at school?**
-
-A: Yes, although I appreciated it more after travelling because places became real rather than abstract. I tend to **remember experiences that teach me something**. <!-- P8-c -->
-
-**Q: Are you good at reading maps?**
-
-A: Fairly good, but I rely heavily on navigation apps and may struggle when the signal suddenly disappears. I am always **looking for ways to improve**. <!-- P4-a -->
-
-### Weather `[R]`
-
-**Q: Do you check the forecast?**
-
-A: Almost every morning because Beijing's temperature can change quickly and I want to dress appropriately. I like **having a clear routine**. <!-- P2-a -->
-
-**Q: Do you prefer hot or cold weather?**
-
-A: Mildly warm weather, because I can spend time outdoors without feeling exhausted or restricted. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-### Housework `[R]`
-
-**Q: What housework do you do?**
-
-A: I cook, clean and do laundry because I live alone. I tend to **plan things in advance**. A regular routine keeps the work manageable rather than overwhelming. <!-- P2-b -->
-
-**Q: Did you help at home as a child?**
-
-A: Only with simple tasks. I tend to **remember experiences that teach me something**. My mother gradually taught me to take responsibility for shared spaces. <!-- P8-c -->
-
-### Public Transport `[R]`
-
-**Q: Do you use public transport?**
-
-A: Yes, mainly the subway because it is reliable and avoids unpredictable traffic congestion. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
-
-**Q: How could it improve?**
-
-A: Less crowding and clearer transfer signs would make journeys more comfortable and accessible. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-### Puzzles `[R]`
-
-**Q: Do you enjoy puzzles?**
-
-A: Yes, particularly logic puzzles because they train me to approach problems systematically. I naturally want to **know how things work**. <!-- P3-a -->
-
-**Q: Did you do puzzles as a child?**
-
-A: Occasionally with my mother. **Personal memories mean a lot to me**. Completing one together gave me a small sense of achievement. <!-- P8-a -->
-
-### Names `[R]`
-
-**Q: Does your name have a meaning?**
-
-A: Yes, my family chose it with positive expectations for my future, so it carries a personal family connection. I form **emotional connections with familiar places and objects**. <!-- P8-b -->
-
-**Q: Are names important?**
-
-A: Yes, because they shape first impressions and often reflect family hopes or cultural traditions. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-### Snacks `[R]`
-
-**Q: What snacks do you like?**
-
-A: Nuts and fresh fruit because they are convenient and provide steady energy without being too heavy. I try to **look after both my physical and mental health**. <!-- P5-a -->
-
-**Q: Did you eat more snacks as a child?**
-
-A: Yes, especially sweets. **Personal memories mean a lot to me**. I am more conscious of nutrition now and choose healthier alternatives. <!-- P8-a -->
-
-### Flowers `[R]`
-
-**Q: Do you like flowers?**
-
-A: Yes, especially simple green and white arrangements because they make a room feel fresh and welcoming. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
-
-**Q: Have you given flowers?**
-
-A: Yes, to my mother on her birthday. I make an effort to **stay connected with people**. They were a simple way to show appreciation and affection. <!-- P7-b -->
-
-### Memory `[R]`
-
-**Q: Are you good at remembering things?**
-
-A: Good with ideas but poor with small appointments, so I use reminders to reduce unnecessary mental effort. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
-
-**Q: What do people need to remember?**
-
-A: Commitments and information affecting others, because forgetting them can damage trust and reliability. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-### Machines `[R]`
-
-**Q: What machines do you use?**
-
-A: A computer, washing machine and coffee maker. I tend to **focus on what is genuinely useful**. They automate routine work and save considerable time. <!-- P1-a -->
-
-**Q: Are machines important?**
-
-A: Yes, provided people understand their limits. I usually **weigh up the practical benefits**. They improve efficiency but should not replace human judgement entirely. <!-- P1-b -->
-
-### Patience `[R]`
-
-**Q: Are you patient?**
-
-A: More patient than before. I am always **looking for ways to improve**. Software debugging taught me to solve problems step by step. <!-- P4-a -->
-
-**Q: When is patience important?**
-
-A: When learning a difficult skill, because progress is often slow and rarely follows a straight line. I enjoy **building my skills over time**. <!-- P4-c -->
-
-### Free Time / Having a Break `[R]`
-
-**Q: What do you do during a break?**
-
-A: I leave my screen, stretch and make tea. I try to **keep an open mind**. Even ten minutes can restore my concentration. <!-- P10-b -->
-
-**Q: Do you have enough free time?**
-
-A: Not always, but I deliberately protect some evening time to maintain a healthy balance. I generally prefer **a calm, uncomplicated lifestyle**. <!-- P6-a -->
-
-### Thanking `[R]`
-
-**Q: Do you often thank people?**
-
-A: Yes, even for small favours. I place a lot of value on **close relationships**. Expressing gratitude helps people feel recognised and respected. <!-- P7-a -->
-
-**Q: How do you thank someone?**
-
-A: Usually with a sincere message; for significant help, I may invite them to dinner to return the kindness. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
-
-### Being Busy `[R]`
-
-**Q: Are you often busy?**
-
-A: Yes, when balancing technical learning and English practice, but a written plan helps me manage competing priorities. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-**Q: Do you like being busy?**
-
-A: Moderately. I pay close attention to **my sleep and energy levels**. Purposeful activity is motivating, but constant pressure eventually leads to burnout. <!-- P5-c -->
-
-### Lists `[R]`
-
-**Q: Do you make lists?**
-
-A: Yes, mainly short daily lists because they help me turn vague goals into concrete actions. I tend to **focus on what is genuinely useful**. <!-- P1-a -->
-
-**Q: Do lists improve your work?**
-
-A: Definitely. I tend to **make decisions with real-life needs in mind**. They reduce the need to remember everything and help me focus on one task at a time. <!-- P1-c -->
-
-### Photos / Photography `[R]`
-
-**Q: Do you like taking photographs?**
-
-A: Yes, especially when travelling. **Personal memories mean a lot to me**. Photos help me preserve details that memory may lose. <!-- P8-a -->
-
-**Q: Do you prefer people or scenery photographs?**
-
-A: Scenery, because I feel less intrusive and can focus on light, colour and atmosphere. I enjoy **discovering something new**. <!-- P3-b -->
-
-### Praise `[R]`
-
-**Q: Have you received praise recently?**
-
-A: Yes, a friend praised my consistent English practice. I enjoy **building my skills over time**. It encouraged me to keep making steady progress. <!-- P4-c -->
-
-**Q: Should children be praised?**
-
-A: Yes, for effort and improvement rather than only results, so they develop lasting internal motivation. I am always **looking for ways to improve**. <!-- P4-a -->
-
-### Phone Calls `[R]`
-
-**Q: Do you make phone calls often?**
-
-A: Not often; I usually send messages. I tend to **focus on what is genuinely useful**. I call when a subject is urgent or too complicated to explain in writing. <!-- P1-a -->
-
-**Q: Who do you call most?**
-
-A: My mother, especially at weekends, because calls help us maintain a close emotional connection. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-### Staying Up Late `[R]`
-
-**Q: Do you stay up late?**
-
-A: Occasionally when I am absorbed in a project, but I try not to because poor sleep reduces my concentration the next day. I pay close attention to **my sleep and energy levels**. <!-- P5-c -->
-
-**Q: Did you stay up late as a child?**
-
-A: Rarely. I tend to **remember experiences that teach me something**. My parents maintained a regular bedtime, which gave me a fairly healthy routine. <!-- P8-c -->
-
-### Being Alone `[R]`
-
-**Q: Do you like being alone?**
-
-A: Yes, for a limited time. I am comfortable **doing things on my own**. Solitude lets me process my thoughts without interruption. <!-- P9-b -->
-
-**Q: What do you do alone?**
-
-A: I read, walk or organise notes. I try to **keep a good balance in my life**. These quiet activities help me feel mentally refreshed. <!-- P10-c -->
-
-### Text Messages `[R]`
-
-**Q: Do you send many messages?**
-
-A: Yes, mainly short practical messages. I tend to **focus on what is genuinely useful**. They are efficient and allow people to reply at a convenient time. <!-- P1-a -->
-
-**Q: Do you reply immediately?**
-
-A: To urgent messages, yes; complex ones may take longer because I want to respond carefully and clearly. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
-
-### Plants `[R]`
-
-**Q: Do you keep plants at home?**
-
-A: I keep two low-maintenance plants near the window because they make the apartment feel more alive. I feel most comfortable in **a relaxed environment**. <!-- P6-c -->
-
-**Q: Do Chinese people give plants as gifts?**
-
-A: Yes, particularly during house moves or festivals because plants can represent growth and good fortune. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-### Public Places `[R]`
-
-**Q: Do you visit public places with friends?**
-
-A: Yes, usually parks, cafés or museums because they provide a relaxed setting for conversation. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
-
-**Q: What makes a good public place?**
-
-A: Safety, cleanliness, accessibility and enough seating so people of different ages can use it comfortably. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-### Rules `[R]`
-
-**Q: Do you prefer more or fewer school rules?**
-
-A: Fewer but clearer rules. I generally prefer **a calm, uncomplicated lifestyle**. Students need structure, yet excessive control can limit independence and creativity. <!-- P6-a -->
-
-**Q: Do you follow rules?**
-
-A: Generally yes, particularly rules protecting safety and fairness. I make an effort to **stay connected with people**. I also think unreasonable rules should be open to discussion. <!-- P7-b -->
-
-### Shoes `[R]`
-
-**Q: What shoes do you wear?**
-
-A: Trainers most days because I walk frequently and value support and comfort over appearance. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-**Q: Do you buy shoes online?**
-
-A: Rarely, because fit varies between brands. I tend to **make decisions with real-life needs in mind**. Trying them on helps me avoid inconvenient returns. <!-- P1-c -->
-
-### Doing Something Well `[R]`
-
-**Q: What are you good at?**
-
-A: Breaking complicated problems into smaller steps, a skill I developed through years of software engineering. I am always **looking for ways to improve**. <!-- P4-a -->
-
-**Q: How did you become good at it?**
-
-A: Through repeated practice and analysing mistakes rather than hiding them. I enjoy **building my skills over time**. Improvement came from consistent deliberate effort. <!-- P4-c -->
-
-### Crowded Places `[R]`
-
-**Q: Do you like crowded places?**
-
-A: Not usually, because noise and limited space quickly drain my energy. I need **some peaceful time to recharge**. <!-- P6-b -->
-
-**Q: When did you last visit one?**
-
-A: A busy shopping district during a holiday. I tend to **remember experiences that teach me something**. The atmosphere was lively but slightly overwhelming. <!-- P8-c -->
-
-### Going Out `[R]`
-
-**Q: Do you often go out?**
-
-A: A few times a week, mainly for walking, meals or errands. I try to **keep a good balance in my life**. Going out helps me break up a home-based routine. <!-- P10-c -->
-
-**Q: Do you prefer going out alone or with friends?**
-
-A: With one or two close friends because small groups allow deeper and more relaxed conversations. I enjoy **sharing simple experiences with people I trust**. <!-- P7-c -->
-
-### Spending Time with Older People `[R]`
-
-**Q: Do you spend time with older people?**
-
-A: Mainly with my mother when I return home. I enjoy **sharing simple experiences with people I trust**. Her life experience helps me view problems from a broader perspective. <!-- P7-c -->
-
-**Q: What can young people learn from them?**
-
-A: Patience, resilience and practical judgement, although advice should still be adapted to modern circumstances. I enjoy **discovering something new**. <!-- P3-b -->
-
-### Growing Vegetables `[R]`
-
-**Q: Have you grown vegetables?**
-
-A: Only herbs on a windowsill. I am always **looking for ways to improve**. Watching them grow gave me a modest sense of achievement. <!-- P4-a -->
-
-**Q: Why do people grow vegetables?**
-
-A: For fresher food and the satisfaction of producing something themselves; gardening also reduces everyday stress. I try to **keep an open mind**. <!-- P10-b -->
-
-### Chatting `[R]`
-
-**Q: Do you like chatting with friends?**
-
-A: Yes, particularly face to face because spontaneous conversation creates a stronger emotional connection. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-**Q: What do you discuss?**
-
-A: Work, travel and personal plans. I enjoy **discovering something new**. Exchanging views helps us understand each other more deeply. <!-- P3-b -->
-
-### Borrowing and Lending `[R]`
-
-**Q: Do you borrow things?**
-
-A: Rarely, because I am comfortable **doing things on my own**. I may borrow a book, but I return it promptly because reliability is essential to maintaining trust. <!-- P9-b -->
-
-**Q: What would you not lend?**
-
-A: My laptop, since it contains personal data and is essential for my work. I usually **weigh up the practical benefits**. <!-- P1-b -->
-
-### Advertisements `[R]`
-
-**Q: Do you see many advertisements?**
-
-A: Yes, especially online and on public transport. I need **some peaceful time to recharge**. Personalised adverts can be relevant but also feel intrusive. <!-- P6-b -->
-
-**Q: Do advertisements influence you?**
-
-A: Occasionally by introducing products, but I compare reviews before buying to avoid impulsive decisions. I tend to **make decisions with real-life needs in mind**. <!-- P1-c -->
-
-### Museums `[R]`
-
-**Q: Are museums important?**
-
-A: Yes. I am always **looking for ways to improve**. They preserve cultural evidence and make history more tangible and accessible. <!-- P4-a -->
-
-**Q: Do you visit museums?**
-
-A: Occasionally, especially art and technology museums. I enjoy **discovering something new**. A good exhibition can present familiar subjects from a new perspective. <!-- P3-b -->
-
-### Sharing `[R]`
-
-**Q: Do you like sharing things?**
-
-A: Yes, particularly books, food and useful information because sharing can strengthen trust and connection. I make an effort to **stay connected with people**. <!-- P7-b -->
-
-**Q: What should not be shared?**
-
-A: Personal passwords, medical items and confidential information because sharing them can create safety or privacy risks. I need **some peaceful time to recharge**. <!-- P6-b -->

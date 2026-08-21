@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 94 道 IELTS Speaking Part 3 自动例子规则答案，题库覆盖提升至 302 道
 - 新增 62 道 IELTS Speaking Part 3 观点卡答案并修正 33 条候选映射，题库覆盖提升至 208 道
 - 新增 40 道 IELTS Speaking Part 3 低频观点卡答案，覆盖便利、公平、成本、动物、合作与文化模块
 - 新增四篇 IELTS Speaking Part 2 答案，覆盖科技故障、种植者、常用 App 与安静地点

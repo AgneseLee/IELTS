@@ -86,13 +86,13 @@ They should mainly consider whether the job matches their skills and offers usef
 
 - [ ] 不看稿口述
 
-Yes, it is very important. Once a school identifies a student's strengths, it can offer suitable practice and feedback, which helps the student develop useful skills. So, schools should help every student make the most of their talents.
+Yes, it is very important. Once a school identifies a student's strengths, suitable practice and feedback can develop those skills. For example, a child who draws well can improve through regular art projects and clear teacher feedback. So, schools should help every student make the most of their talents.
 
 ### ✅ Do you think it is good for older adults to continue learning?
 
 - [ ] 不看稿口述
 
-Yes, definitely. Regular learning and practice help older people maintain useful skills and become more confident when dealing with new tasks. So, continuing to learn is beneficial at any age.
+Yes, definitely. Regular learning and practice help older people maintain useful skills and handle new tasks confidently. For example, an older learner can practise mobile banking with guidance until they can use it alone. So, continuing to learn is beneficial at any age.
 
 ## M09-❤️ 关系与归属感（题库 9 + 拓展 3）
 
@@ -518,19 +518,19 @@ Technology has made museums easier to access and explore. For example, virtual t
 
 - [ ] 不看稿口述
 
-No, not necessarily. Mobile phones let people take and share pictures quickly, making communication more convenient and allowing others to join an experience. So, taking phone pictures can be meaningful rather than wasteful.
+No, not necessarily. Mobile phones let people take and share pictures quickly, making communication more convenient. For example, someone can photograph a damaged product and send the image to the seller immediately. So, taking phone pictures can be useful rather than wasteful.
 
 ### ✅ How does the internet benefit people?
 
 - [ ] 不看稿口述
 
-The internet gives people faster access to information and communication. This makes everyday activities more convenient and allows more people to take part in education, work and social life. So, its main benefit is wider and easier access.
+The internet gives people faster access to information and communication. This makes daily activities more convenient and allows wider participation. For example, a student in a small town can join an online class taught in another city. So, the internet mainly benefits people through easier access.
 
 ### ✅ Why do some people not like using apps?
 
 - [ ] 不看稿口述
 
-Some people worry about privacy and unreliable information. Apps may collect personal data or distract users, which gradually reduces their trust in these services. So, concerns about privacy and reliability can make people avoid apps.
+Some people dislike apps because they worry about privacy and unreliable information. Data collection and constant notifications can gradually reduce their trust. For example, a simple weather app may request access to a user's contacts and location. So, privacy and reliability concerns can make people avoid apps.
 
 ## M04-💙 健康与福祉（题库 4）
 
@@ -606,7 +606,7 @@ Not necessarily, because a good talk show can show clear expression and active l
 
 - [ ] 不看稿口述
 
-Yes, smiling is quite important in my culture. It is a simple way to show friendliness, which can make communication easier and help people trust each other. So, smiling plays a positive role in social interaction.
+Yes, smiling is quite important in my culture. It shows friendliness, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. So, smiling plays a positive role in social interaction.
 
 ## M06-💙 规则与责任（题库 7）
 
@@ -808,7 +808,7 @@ Yes, because advertising makes a company's products more noticeable. This can at
 
 - [ ] 不看稿口述
 
-Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and buy things that were not in my original plan. So, advertising occasionally makes me overspend.
+Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and ignore my original plan. For example, a repeated discount advert may persuade me to add an unnecessary item to my order. So, advertising occasionally makes me overspend.
 
 ## M01-💚 便利与效率（题库 6）
 
@@ -816,37 +816,37 @@ Yes, I sometimes do, especially when shopping online. Persuasive advertisements 
 
 - [ ] 不看稿口述
 
-No, not when people shop with a clear purpose. Buying several necessary things in one trip can save time and help people complete everyday tasks more efficiently. So, practical shopping is not a waste of time.
+No, not when people shop with a clear purpose. Buying several necessary things in one trip saves time and makes everyday tasks easier. For example, a weekly supermarket trip can provide all the food a family needs in one visit. So, practical shopping is not a waste of time.
 
 ### ✅ What are the advantages and disadvantages of AI?
 
 - [ ] 不看稿口述
 
-AI can make many tasks faster, but it also creates risks. It saves time and helps people work more efficiently. However, poor checks or excessive data collection may lead to false information and privacy problems. So, AI is useful, but it needs to be used carefully.
+AI can make many tasks faster, but it also creates risks. It saves time, while poor checks or data collection may cause false information and privacy problems. For example, AI can summarise meeting notes quickly, but an employee still needs to check the summary. So, AI is useful, but it needs to be used carefully.
 
 ### ✅ How can AI help in our lives?
 
 - [ ] 不看稿口述
 
-AI can handle simple and repetitive tasks for us. This saves time and effort, allowing people to complete their work more easily and efficiently. So, AI can make everyday life more convenient.
+AI can handle simple and repetitive tasks for us. This saves time and helps people complete their work more efficiently. For example, it can summarise a long meeting transcript and list the key tasks in seconds. So, AI can make everyday life more convenient.
 
 ### ✅ What are the advantages of watching sports events online?
 
 - [ ] 不看稿口述
 
-The main advantage is convenience. People can watch a match without travelling to a stadium, which saves both time and effort. So, online viewing makes sports events much easier to access.
+The main advantage is convenience. People can watch a match without travelling to a stadium, which saves time and effort. For example, a commuter can stream a football match on a phone while travelling home. So, online viewing makes sports events much easier to access.
 
 ### ✅ What are the differences between the technology of the past and that of today?
 
 - [ ] 不看稿口述
 
-Older technology was generally slower and required more effort, whereas modern technology provides almost instant access and communication. As a result, people can complete tasks more easily and participate in activities from almost anywhere. So, today's technology is mainly faster and more convenient.
+Older technology was slower and required more effort, whereas modern technology provides almost instant access and communication. This allows people to complete tasks more easily from almost anywhere. For example, a document can now be emailed in seconds instead of being sent by post. So, today's technology is mainly faster and more convenient.
 
 ### ✅ What's the benefit of letting kids watch animal videos rather than visiting zoos?
 
 - [ ] 不看稿口述
 
-The main benefit is convenience. Children can watch animal videos at home without spending time and effort travelling to a zoo. This makes learning about animals much easier. So, videos provide a more accessible way to see animals.
+The main benefit is convenience. Children can watch animal videos without spending time and effort travelling to a zoo. For example, a child can watch a wildlife documentary at home after school. So, videos provide a more accessible way to see animals.
 
 ## M02-💚 公平与机会（题库 5）
 
@@ -854,31 +854,31 @@ The main benefit is convenience. Children can watch animal videos at home withou
 
 - [ ] 不看稿口述
 
-No, it is often difficult for them. Children who have limited access to parks and other natural spaces get fewer opportunities to experience nature directly. So, urban children may be at a disadvantage in this respect.
+No, it is often difficult for them. Limited access to parks and natural spaces gives urban children fewer opportunities to experience nature directly. For example, a child living among high-rise buildings may not have a park within walking distance. So, urban children may be at a disadvantage in this respect.
 
 ### ✅ Should governments provide financial support to start-ups?
 
 - [ ] 不看稿口述
 
-Yes, but the support should be carefully targeted. Basic funding gives capable entrepreneurs a fairer chance to start a business. It can help people who do not come from wealthy backgrounds. So, well-directed financial support can create wider opportunities.
+Yes, but the support should be carefully targeted. Basic funding gives capable entrepreneurs from different backgrounds a fairer chance to start a business. For example, a skilled baker could use a small grant to open a local shop. So, well-directed financial support can create wider opportunities.
 
 ### ✅ Do you think galleries and museums should be free of charge?
 
 - [ ] 不看稿口述
 
-I think basic admission should be free or very cheap. This would give people from different backgrounds equal access to culture and education, although museums still need enough funding to operate properly. So, affordable admission is better than charging high fees.
+I think basic admission should be free or very cheap. This would give people from different backgrounds equal access to culture and education. For example, a low-income student could visit a local exhibition without worrying about the ticket price. So, affordable admission is better than charging high fees.
 
 ### ✅ Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
 
 - [ ] 不看稿口述
 
-Yes, a modest entry fee can be reasonable. The money can support maintenance and better visitor facilities. However, the price should remain affordable so that access is not restricted. So, a small fee can be fair and useful.
+Yes, a modest entry fee can be reasonable. It can support maintenance while remaining affordable enough to protect public access. For example, a building could charge adults a small fee but offer students a discount. So, a small fee can be fair and useful.
 
 ### ✅ How are the transportation systems in urban areas and rural areas different?
 
 - [ ] 不看稿口述
 
-Urban areas usually have more accessible public transport, while rural services are often more limited. This unequal access gives rural residents fewer transport choices and makes it harder for them to use greener options. So, the main difference is the availability of transport infrastructure.
+Urban areas usually have accessible public transport, while rural services are often more limited. This unequal access gives rural residents fewer choices and makes greener travel harder. For example, a city worker may use the metro, while a rural resident may need a private car. So, the main difference is the availability of transport infrastructure.
 
 ## M07-💚 成本与资源（题库 3）
 
@@ -886,19 +886,19 @@ Urban areas usually have more accessible public transport, while rural services 
 
 - [ ] 不看稿口述
 
-Yes, I think doctors should generally be paid well. Spending enough money on medical staff can help hospitals maintain essential services and provide better care to the public. So, higher pay for doctors can benefit society as a whole.
+Yes, I think doctors should generally be paid well. Targeted spending on medical staff helps hospitals maintain essential services and provide better public care. For example, adequate funding can help a hospital staff its emergency department properly. So, higher pay for doctors can benefit society as a whole.
 
 ### ✅ Do you think it is important to save money? Why?
 
 - [ ] 不看稿口述
 
-Yes, saving money is very important. Unexpected or high costs can create serious financial pressure and leave people unable to pay for other needs. So, savings give people useful financial protection.
+Yes, saving money is very important. Unexpected costs can create financial pressure and leave people unable to pay for other needs. For example, savings can cover an urgent medical bill without forcing someone to borrow money. So, savings give people useful financial protection.
 
 ### ✅ Do you think it is the rich people's responsibility to donate money to people in need?
 
 - [ ] 不看稿口述
 
-Yes, I think wealthy people should contribute when they can. If their donations are directed towards essential support, the money can improve services and benefit many disadvantaged people. So, responsible giving can have a wide social impact.
+Yes, I think wealthy people should contribute when they can. Targeted donations can improve essential services and benefit many disadvantaged people. For example, a large donation could help a community clinic provide basic care to more patients. So, responsible giving can have a wide social impact.
 
 ## M16-💚 动物与宠物（题库 3）
 
@@ -906,19 +906,19 @@ Yes, I think wealthy people should contribute when they can. If their donations 
 
 - [ ] 不看稿口述
 
-Yes, schools should teach children basic knowledge about animals. Practical learning about animal care can develop empathy and help children become more responsible. So, animal education has real value for children.
+Yes, schools should teach children basic knowledge about animals. Practical learning about animal care can develop empathy and responsibility. For example, pupils can take turns feeding a class pet and checking that it has clean water. So, animal education has real value for children.
 
 ### ✅ Some people think pets should not be kept in cities. What do you think?
 
 - [ ] 不看稿口述
 
-I think pets can be kept in cities, but owners must be able to care for them properly. Long-term care can put pressure on owners, especially when their homes and local facilities are unsuitable. So, urban pet ownership is acceptable when the animal's needs can be met.
+I think pets can be kept in cities, but owners must care for them properly. Long-term needs can put pressure on people when their homes or local facilities are unsuitable. For example, a busy owner in a small flat may struggle to exercise a large dog. So, urban pet ownership is acceptable when the animal's needs can be met.
 
 ### ✅ Many people regard pets as members of their family. What do you think?
 
 - [ ] 不看稿口述
 
-I think that is completely understandable. Daily care and companionship help owners form a strong bond with their pets. Pets can also provide support in the same way that family members do. So, it is natural for owners to see their pets as part of the family.
+I think that is completely understandable. Daily care and companionship help owners form a strong bond with their pets. For example, walking a dog every evening creates shared time and can comfort someone after a difficult day. So, it is natural for owners to see their pets as family members.
 
 ## M21-💚 合作、领导与帮助（题库 11）
 
@@ -926,67 +926,67 @@ I think that is completely understandable. Daily care and companionship help own
 
 - [ ] 不看稿口述
 
-Yes, they should do some age-appropriate chores. When every family member has a clear role and supports the others, household tasks become easier to manage. So, children's help can make family life run more smoothly.
+Yes, they should do some age-appropriate chores. Clear roles and mutual support make household tasks easier to manage. For example, a child can wash the dishes while a parent prepares dinner. So, children's help can make family life run more smoothly.
 
 ### ✅ Who should people ask for help, colleagues or family members?
 
 - [ ] 不看稿口述
 
-It depends on the problem. Colleagues are usually more helpful with work because they understand their roles. Family members can provide stronger emotional support for personal problems. So, people should choose the person whose support best matches the situation.
+It depends on the problem. Colleagues understand workplace roles, while family members can provide stronger personal support. For example, a colleague can explain a difficult spreadsheet, but a relative may help with emotional stress. So, people should choose the person whose support best matches the situation.
 
 ### ✅ Do you think schools should teach children to do household chores?
 
 - [ ] 不看稿口述
 
-Yes, schools can teach children some basic chores. Regular practice helps them develop practical skills, while shared tasks teach them how to take responsibility and cooperate with others. So, learning chores at school can prepare children for everyday life.
+Yes, schools can teach children some basic chores. Regular practice builds practical skills, while shared tasks teach responsibility and cooperation. For example, pupils can clean classroom tables together after an activity. So, learning chores at school can prepare children for everyday life.
 
 ### ✅ How can leaders encourage their employees?
 
 - [ ] 不看稿口述
 
-Leaders should communicate clearly and listen to their employees. They should also give each person a clear role and offer support when problems arise, which builds trust and improves cooperation. So, supportive communication is the best way to encourage staff.
+Leaders should communicate clearly and listen to their employees. Clear roles and practical support build trust and improve cooperation. For example, a manager can explain each task and listen when an employee faces a difficulty. So, supportive communication is the best way to encourage staff.
 
 ### ✅ What kind of encouragement should parents give?
 
 - [ ] 不看稿口述
 
-Parents should give clear and supportive encouragement. They need to listen to their children, explain what they can improve and offer help instead of simply giving orders. So, good encouragement should be clear, patient and supportive.
+Parents should give clear and supportive encouragement. They need to listen, explain what can improve and offer help instead of simply giving orders. For example, they can help a child break difficult homework into smaller tasks. So, good encouragement should be clear, patient and supportive.
 
 ### ✅ Do you think some people are better than others at persuading?
 
 - [ ] 不看稿口述
 
-Yes, some people are naturally more effective at it. They express their ideas clearly and listen carefully, so they understand other people's concerns and build trust more easily. So, strong communicators are usually better at persuading others.
+Yes, some people are more effective at it. They express ideas clearly and listen carefully, so they understand concerns and build trust. For example, a colleague may hear a manager's budget concern before suggesting a cheaper option. So, strong communicators are usually better at persuading others.
 
 ### ✅ How can employers encourage their staff?
 
 - [ ] 不看稿口述
 
-Employers should set clear responsibilities and listen to their staff. When employees understand their roles and receive support, they can cooperate more smoothly and produce better results. So, clear guidance and practical support can motivate staff.
+Employers should set clear responsibilities and listen to their staff. When employees understand their roles and receive support, they cooperate more smoothly. For example, a manager can divide a project clearly and help anyone who falls behind. So, clear guidance and practical support can motivate staff.
 
 ### ✅ Why do some people prefer to work by themselves?
 
 - [ ] 不看稿口述
 
-Some people want to avoid the coordination problems that can occur in a team. If responsibilities are unclear or team members communicate poorly, working together can become frustrating and inefficient. So, independent work may feel simpler to them.
+Some people prefer working alone because they want to avoid coordination problems. Unclear responsibilities and poor communication can make teamwork frustrating and inefficient. For example, a group may miss a deadline because everyone assumes someone else will finish the task. So, independent work may feel simpler to them.
 
 ### ✅ What should a leader do to make team members want to follow him or her?
 
 - [ ] 不看稿口述
 
-A leader should give people clear roles and support them when they face difficulties. The leader should also listen actively, because good communication reduces misunderstandings and builds trust. So, people are more willing to follow a clear and supportive leader.
+A leader should give people clear roles and support them when they face difficulties. Active listening also reduces misunderstandings and builds trust. For example, a project leader can adjust tasks after hearing that a deadline is unrealistic. So, people are more willing to follow a clear and supportive leader.
 
 ### ✅ Should students learn to do group work?
 
 - [ ] 不看稿口述
 
-Yes, group work is an important skill for students. It teaches them to divide responsibilities, support one another and cooperate towards a shared result. So, students should gain teamwork experience at school.
+Yes, group work is an important skill for students. It teaches them to divide responsibilities, support one another and cooperate towards a shared result. For example, each student can research one section of a class presentation and then combine the work. So, students should gain teamwork experience at school.
 
 ### ✅ How can you tell if a person is a good leader?
 
 - [ ] 不看稿口述
 
-A good leader gives everyone a clear role and supports team members when necessary. If the team cooperates smoothly and consistently produces strong results, the leader is probably doing a good job. So, effective teamwork is a clear sign of good leadership.
+A good leader gives everyone a clear role and supports team members when necessary. Smooth cooperation and consistent results show that this approach is working. For example, a well-led team can meet a deadline without confusion about who should do each task. So, effective teamwork is a clear sign of good leadership.
 
 ## M22-💚 文化、身份与传统（题库 5）
 
@@ -994,31 +994,31 @@ A good leader gives everyone a clear role and supports team members when necessa
 
 - [ ] 不看稿口述
 
-I prefer cities with a long history. Visiting their traditional neighbourhoods and historical sites helps me understand the local culture more deeply. So, historical cities are more interesting to me.
+I prefer cities with a long history. Traditional neighbourhoods and historical sites help me understand the local culture more deeply. For example, walking through an old district can show how local architecture and customs have survived. So, historical cities are more interesting to me.
 
 ### ✅ Why do people like to visit historical sites?
 
 - [ ] 不看稿口述
 
-People visit historical sites because they want to experience the past directly. This cultural exposure helps them understand local traditions and develop a stronger sense of identity. So, historical sites help people connect with a place and its culture.
+People visit historical sites because they want to experience the past directly. This exposure helps them understand local traditions and develop a stronger sense of identity. For example, a guided visit to an old temple can explain customs still followed today. So, historical sites help people connect with a place and its culture.
 
 ### ✅ Do you think it is important to have a national identity?
 
 - [ ] 不看稿口述
 
-Yes, I think national identity is important. It helps people understand their shared culture and encourages them to pass traditions on to the next generation. So, national identity can keep a culture alive.
+Yes, I think national identity is important. It helps people understand their shared culture and pass traditions to the next generation. For example, celebrating a traditional festival with grandparents allows children to learn family customs. So, national identity can keep a culture alive.
 
 ### ✅ How can people develop their national identity?
 
 - [ ] 不看稿口述
 
-People can take part in cultural events and learn more about their country's traditions. Greater cultural exposure gives them a deeper understanding of their background and a stronger sense of identity. So, active participation is the best way to develop national identity.
+People can take part in cultural events and learn more about their country's traditions. Greater cultural exposure gives them a deeper understanding of their background. For example, visiting a history museum can show how earlier generations lived and what they valued. So, active participation can develop national identity.
 
 ### ✅ Why do people eat special food on special occasions or festivals?
 
 - [ ] 不看稿口述
 
-People do this because special food is part of the celebration's tradition. Preparing and eating it helps people connect with their culture and pass the custom on to younger family members. So, festival food helps preserve cultural identity.
+People do this because special food is part of the celebration's tradition. Preparing and eating it connects people with their culture and passes the custom to younger family members. For example, grandparents may teach children to make dumplings during Spring Festival. So, festival food helps preserve cultural identity.
 
 ## 下一步
 

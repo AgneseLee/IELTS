@@ -1872,7 +1872,7 @@ Employers should set clear responsibilities and listen to their staff. When empl
 
 - [ ] 不看稿口述
 
-Some people prefer working alone because they want to avoid coordination problems. Unclear responsibilities and poor communication can make teamwork frustrating and inefficient. For example, a group may miss a deadline because everyone assumes someone else will finish the task. When nobody knows who is responsible, the whole group can easily fall behind. So, independent work may feel simpler to them.
+Some people prefer working alone because they want to avoid coordination problems. Unclear responsibilities and poor communication can make teamwork <mark style="background: #ABF7F7A6;">frustrating and inefficient</mark>. For example, a group may miss a deadline because everyone assumes someone else will finish the task. When nobody knows who is responsible, the whole group can easily fall behind. So, independent work may feel simpler to them.
 
 ### ✅ What should a leader do to make team members want to follow him or her?
 
@@ -1890,7 +1890,7 @@ Yes, group work is an important skill for students. It teaches them to <mark sty
 
 - [ ] 不看稿口述
 
-A good leader gives everyone a clear role and supports team members when necessary. Smooth cooperation and consistent results show that this approach is working. For example, a well-led team can meet a deadline without confusion about who should do each task. When everyone knows their part and gets support, the whole group works more smoothly. So, effective teamwork is a clear sign of good leadership.
+A good leader gives everyone a clear role and supports team members when necessary. <mark style="background: #ABF7F7A6;">Smooth cooperation</mark> and consistent results show that this approach is working. For example, a well-led team can meet a deadline without confusion about who should do each task. When everyone knows their part and gets support, the whole group works more smoothly. So, <mark style="background: #ABF7F7A6;">effective teamwork</mark> is a clear sign of good leadership.
 
 ### ✅ What can children do to help their parents?
 

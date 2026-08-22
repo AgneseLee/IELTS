@@ -41,6 +41,7 @@ formal_phrases = [
 ].freeze
 blocks = text.scan(/^\#{3,4} ✅ (.+?)\n\n- \[([ x])\] 不看稿口述\n\n(.+?)(?=\n\n(?:\#{2,4} |\z))/m)
 errors << "No answer blocks found" if blocks.empty?
+reflections = []
 
 normalise = lambda do |question|
   question.tr("’‘“”", %q(''"")).downcase.gsub(/\s+/, " ").strip
@@ -64,6 +65,8 @@ blocks.each do |question, _, answer|
       errors << "#{question}: example must be followed by a separate reflection before the final summary"
     elsif reflection.match?(/\A(?:(?:This|That|The) example (?:shows|illustrates|demonstrates)|(?:This|That|It) (?:shows|illustrates|demonstrates) (?:that|how))\b/i)
       errors << "#{question}: reflection uses formulaic meta-language: #{reflection}"
+    else
+      reflections << [question, reflection]
     end
   end
   sentences.each do |sentence|
@@ -78,6 +81,13 @@ blocks.each do |question, _, answer|
   formal_phrases.each do |phrase|
     warnings << "#{question}: formal phrase may be hard to say: #{phrase}" if answer.match?(/\b#{Regexp.escape(phrase)}\b/i)
   end
+end
+
+reflections.group_by { |_, reflection| reflection.downcase }
+           .select { |_, matches| matches.length > 1 }
+           .each_value do |matches|
+  questions = matches.map(&:first).join(" | ")
+  errors << "Duplicate reflection: #{matches.first.last} (#{questions})"
 end
 
 extensions = blocks.count { |question, _, _| question.start_with?("拓展：") }

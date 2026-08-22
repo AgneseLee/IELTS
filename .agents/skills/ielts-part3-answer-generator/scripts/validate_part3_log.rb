@@ -62,11 +62,20 @@ blocks.each do |question, _, answer|
   elsif example_index == sentences.length - 1
     errors << "#{question}: example must be followed by a direct final summary"
   else
-    sentences[(example_index + 1)...-1].to_a.each do |development|
+    example_followups = sentences[(example_index + 1)...-1].to_a
+    counterpoint_count = example_followups.count { |development| development.match?(/\A(?:That said|However|By contrast|In contrast),/i) }
+    errors << "#{question}: use at most one counterpoint after the example" if counterpoint_count > 1
+
+    example_followups.each do |development|
       if development.match?(/\A(?:(?:This|That|The) example (?:shows|illustrates|demonstrates)|(?:This|That|It) (?:shows|illustrates|demonstrates) (?:that|how))\b/i)
         errors << "#{question}: example follow-up uses formulaic meta-language: #{development}"
       else
         developments << [question, development]
+      end
+      if development.match?(/\AThat said,/i)
+        word_count = development.gsub(/<[^>]+>/, "").scan(/[A-Za-z]+(?:['’-][A-Za-z]+)*/).length
+        errors << "#{question}: light counterpoint exceeds 15 words: #{development}" if word_count > 15
+        errors << "#{question}: light counterpoint should be one simple sentence: #{development}" if development.include?(";")
       end
     end
   end

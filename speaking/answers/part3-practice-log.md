@@ -32,7 +32,7 @@ Yes. Regular practice and feedback help people develop stronger practical skills
 
 - [ ] 不看稿口述
 
-Yes. Workplace training gives employees regular practice and professional feedback, helping them build stronger practical skills. For example, new staff can practise dealing with customers before handling complaints on their own. So, companies should provide useful training for their employees.
+Yes. Workplace training gives employees regular practice and professional feedback, helping them build stronger practical skills. For example, new staff can practise dealing with customers before handling complaints on their own. That said, training is less useful if employees cannot apply it. So, companies should provide useful training for their employees.
 
 ### ✅ What is the most important thing for learning a language well?
 
@@ -86,13 +86,13 @@ They should mainly consider whether the job matches their skills and offers usef
 
 - [ ] 不看稿口述
 
-Yes, it is very important. Once a school identifies a student's strengths, suitable practice and feedback can develop those skills. For example, a child who draws well can improve through regular art projects and clear teacher feedback. So, schools should help every student make the most of their talents.
+Yes, it is very important. Once a school identifies a student's strengths, suitable practice and feedback can develop those skills. For example, a child who draws well can improve through regular art projects and clear teacher feedback. That said, schools may not have enough time to develop every talent. So, schools should help every student make the most of their talents.
 
 ### ✅ Do you think it is good for older adults to continue learning?
 
 - [ ] 不看稿口述
 
-Yes, definitely. Regular learning and practice help older people maintain useful skills and handle new tasks confidently. For example, an older learner can practise mobile banking with guidance until they can use it alone. So, continuing to learn is beneficial at any age.
+Yes, definitely. Regular learning and practice help older people maintain useful skills and handle new tasks confidently. For example, an older learner can practise mobile banking with guidance until they can use it alone. That said, some older people may need more time or support. So, continuing to learn is beneficial at any age.
 
 ### ✅ Do you think learning biology is interesting for children?
 
@@ -202,7 +202,7 @@ Rules about attendance, classroom behaviour and completing work are common examp
 
 - [ ] 不看稿口述
 
-The main advantage is that teamwork helps students build stronger relationships. By spending time together and supporting one another, they can feel closer. For example, completing a class presentation together teaches them to share tasks and help a teammate who is struggling. So, teamwork helps students build relationships and feel included.
+The main advantage is that teamwork helps students build stronger relationships. By spending time together and supporting one another, they can feel closer. For example, completing a class presentation together teaches them to share tasks and help a teammate who is struggling. That said, poorly organised groups can leave some students doing most of the work. So, teamwork helps students build relationships and feel included.
 
 ### ✅ What are the advantages of keeping a pet?
 
@@ -580,19 +580,19 @@ They can do service, office, tourism or short-term project work. Useful services
 
 - [ ] 不看稿口述
 
-Yes, definitely. A good plan starts with clear priorities and puts tasks in a sensible order. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. So, planning ahead is important for avoiding problems and getting better results.
+Yes, definitely. A good plan starts with clear priorities and puts tasks in a sensible order. For example, checking application deadlines before preparing for university prevents important tasks from being left too late. That said, plans still need to change when circumstances change. So, planning ahead is important for avoiding problems and getting better results.
 
 ### ✅ Should children ask their teachers or parents for advice when making plans?
 
 - [ ] 不看稿口述
 
-Yes, because adults can help children identify clear priorities and arrange realistic next steps. This support helps children make a plan they can follow. For example, a teacher can explain which subjects are required for a career that interests a student. So, children should seek adult advice when making important plans.
+Yes, because adults can help children identify clear priorities and arrange realistic next steps. This support helps children make a plan they can follow. For example, a teacher can explain which subjects are required for a career that interests a student. That said, adults should not make every decision for them. So, children should seek adult advice when making important plans.
 
 ### ✅ 拓展：Is it always necessary to follow a plan?
 
 - [ ] 不看稿口述
 
-No, not always. Rigid scheduling can make a plan impractical when circumstances change. For example, a cancelled flight may make a traveller's original schedule impossible. Therefore, people should adjust a plan when necessary.
+No, not always. Rigid scheduling can make a plan impractical when circumstances change. For example, a cancelled flight may make a traveller's original schedule impossible. That said, a basic plan still gives people direction. Therefore, people should adjust a plan when necessary.
 
 ### ✅ What should people do to achieve their goals?
 
@@ -708,7 +708,7 @@ Yes. Films show viewers different stories, cultures and visual styles, which can
 
 - [ ] 不看稿口述
 
-Yes. Playing music gives children a way to express emotions and discover new ideas. With regular practice and feedback, they can also build practical skills and develop greater creativity. For example, learning a simple song on the piano lets a child hear mistakes, correct them and gradually perform with confidence. So, musical education can develop both children's skills and creativity.
+Yes. Playing music gives children a way to express emotions and discover new ideas. With regular practice and feedback, they can also build practical skills and develop greater creativity. For example, learning a simple song on the piano lets a child hear mistakes, correct them and gradually perform with confidence. That said, not every child will enjoy formal music lessons. So, musical education can develop both children's skills and creativity.
 
 ### ✅ Do you think adults can have lots of imagination?
 
@@ -842,7 +842,7 @@ Yes, many viewers enjoy the new ideas and creative styles they provide. Wider ac
 
 - [ ] 不看稿口述
 
-Not if looks matter more than practical use. A sensible design and facilities that everyone can use make buildings more convenient, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. So, practical design matters more than an expensive exterior.
+Not if looks matter more than practical use. A sensible design and facilities that everyone can use make buildings more convenient, improving people’s quality of life. For example, lifts and well-designed entrances are more valuable to daily users than an expensive decorative wall. That said, appearance can still shape a visitor's first impression. So, practical design matters more than an expensive exterior.
 
 ### ✅ What kind of place do people in your country like to live in?
 
@@ -866,7 +866,7 @@ A well-designed city provides practical transport systems and accessible public 
 
 - [ ] 不看稿口述
 
-The inside is more important than the outside. Practical design and facilities that everyone can use make daily life easier. For example, good airflow and a working lift affect people every day, whereas a decorative entrance does not. Overall, a building's interior matters more because people use it every day.
+The inside is more important than the outside. Practical design and facilities that everyone can use make daily life easier. For example, good airflow and a working lift affect people every day, whereas a decorative entrance does not. That said, an attractive exterior can still improve the surrounding area. Overall, a building's interior matters more because people use it every day.
 
 ### ✅ Is it better to live in a new building or an old one?
 
@@ -1122,13 +1122,13 @@ Technology has made museums easier to access and explore. For example, virtual t
 
 - [ ] 不看稿口述
 
-No, not necessarily. Mobile phones let people take and share pictures quickly, making communication more convenient. For example, someone can photograph a damaged product and send the image to the seller immediately. So, taking phone pictures can be useful rather than wasteful.
+No, not necessarily. Mobile phones let people take and share pictures quickly, making communication more convenient. For example, someone can photograph a damaged product and send the image to the seller immediately. That said, taking too many photos can distract people from the moment. So, taking phone pictures can be useful rather than wasteful.
 
 ### ✅ How does the internet benefit people?
 
 - [ ] 不看稿口述
 
-The internet gives people faster access to information and communication. This makes daily activities more convenient and allows wider participation. For example, a student in a small town can join an online class taught in another city. So, the internet mainly benefits people through easier access.
+The internet gives people faster access to information and communication. This makes daily activities more convenient and allows wider participation. For example, a student in a small town can join an online class taught in another city. That said, unreliable information can make online access less useful. So, the internet mainly benefits people through easier access.
 
 ### ✅ Why do some people not like using apps?
 
@@ -1178,19 +1178,19 @@ A video needs engaging content and fast online sharing. Creative ideas attract a
 
 - [ ] 不看稿口述
 
-I think being a doctor is difficult because the work can involve constant pressure. Constant responsibility may lead to poor sleep and anxiety, especially when doctors have little time to recover. For example, a doctor may work overnight and still face critical decisions the next morning. So, being a doctor is difficult because the pressure can be intense.
+I think being a doctor is difficult because the work can involve constant pressure. Constant responsibility may lead to poor sleep and anxiety, especially when doctors have little time to recover. For example, a doctor may work overnight and still face critical decisions the next morning. That said, good support can make the pressure more manageable. So, being a doctor is difficult because the pressure can be intense.
 
 ### ✅ Do you think governments should put a large amount of money into medical research?
 
 - [ ] 不看稿口述
 
-Yes, as long as the money is spent carefully. Medical research can provide earlier support and help prevent health problems from becoming more serious. For example, a new screening method may detect an illness at an earlier stage. Overall, medical research is worth funding because it can improve long-term health.
+Yes, as long as the money is spent carefully. Medical research can provide earlier support and help prevent health problems from becoming more serious. For example, a new screening method may detect an illness at an earlier stage. That said, research funding should not reduce money for basic care. Overall, medical research is worth funding because it can improve long-term health.
 
 ### ✅ Do you think it is good to change one's daily routine?
 
 - [ ] 不看稿口述
 
-Yes, if the change helps people develop healthier habits. Getting help early can prevent minor health problems from becoming more serious. For example, keeping a regular bedtime can prevent poor sleep from becoming a long-term problem. So, changing a routine is beneficial when it leads to healthier habits.
+Yes, if the change helps people develop healthier habits. Getting help early can prevent minor health problems from becoming more serious. For example, keeping a regular bedtime can prevent poor sleep from becoming a long-term problem. That said, frequent changes can make a routine hard to maintain. So, changing a routine is beneficial when it leads to healthier habits.
 
 ### ✅ Is the early morning the best part of the day?
 
@@ -1234,19 +1234,19 @@ Some employees hesitate because their managers communicate in an unclear or less
 
 - [ ] 不看稿口述
 
-Yes, particularly in an international workplace. Clear expression and active listening in another language reduce misunderstandings between colleagues and customers. For example, a bilingual employee can clarify a customer's request immediately. So, speaking another language can clearly improve workplace communication.
+Yes, particularly in an international workplace. Clear expression and active listening in another language reduce misunderstandings between colleagues and customers. For example, a bilingual employee can clarify a customer's request immediately. That said, language skills matter less in some local jobs. So, speaking another language can clearly improve workplace communication.
 
 ### ✅ Do you still keep in touch with your friends from childhood? Why or why not?
 
 - [ ] 不看稿口述
 
-Yes, I keep in touch with a few of them because clear and regular communication maintains trust. We listen to one another and explain what is happening in our lives, so distance causes fewer misunderstandings. For example, a short weekly call gives us time to share important changes. This helps us preserve a strong friendship even when we cannot meet often.
+Yes, I keep in touch with a few of them because clear and regular communication maintains trust. We listen to one another and explain what is happening in our lives, so distance causes fewer misunderstandings. For example, a short weekly call gives us time to share important changes. That said, some childhood friendships naturally fade as lives change. So, regular communication can keep some childhood friendships strong.
 
 ### ✅ Do you think online communication through social media will replace face-to-face communication?
 
 - [ ] 不看稿口述
 
-No, I do not think it will replace face-to-face communication completely. Online messages can feel less personal and create uncertainty because people cannot always read tone or reactions clearly. For example, a brief reply may seem rude online even when that was not the sender's intention. That said, direct conversation allows clearer expression and active listening, which reduce misunderstandings and build stronger trust. So, online communication will not fully replace face-to-face contact.
+No, I do not think it will replace face-to-face communication completely. Online messages can feel less personal and create uncertainty because people cannot always read tone or reactions clearly. For example, a brief reply may seem rude online even when that was not the sender's intention. That said, face-to-face conversation is clearer and usually builds stronger trust. So, online communication will not fully replace face-to-face contact.
 
 ### ✅ Why do some people feel angry when others don't reply to their message?
 
@@ -1264,13 +1264,13 @@ Face-to-face communication usually creates more trust, while online communicatio
 
 - [ ] 不看稿口述
 
-Not necessarily, because a good talk show can show clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. So, useful talk shows are not necessarily a waste of time.
+Not necessarily, because a good talk show can show clear expression and active listening. When guests explain their views carefully and respond to one another, the audience can see how misunderstandings are reduced. For example, a host may ask a follow-up question to clarify a guest's point. That said, shallow shows may offer little useful discussion. So, useful talk shows are not necessarily a waste of time.
 
 ### ✅ Is smiling important in your culture?
 
 - [ ] 不看稿口述
 
-Yes, smiling is quite important in my culture. It shows friendliness, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. So, smiling plays a positive role in social interaction.
+Yes, smiling is quite important in my culture. It shows friendliness, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. That said, a smile can seem insincere in serious situations. So, smiling plays a positive role in social interaction.
 
 ### ✅ What would you do if you haven't received a reply after sending out a message?
 
@@ -1344,7 +1344,7 @@ Most children probably communicate more with their parents overall. Shared daily
 
 - [ ] 不看稿口述
 
-Yes, but rewards should be linked to clear and fair rules. When children understand which behaviour leads to a reward, the consequence becomes predictable and encourages them to act responsibly. For example, finishing homework on time could earn a little extra playtime. Parents should therefore reward consistent effort rather than give prizes without a clear reason.
+Yes, but rewards should be linked to clear and fair rules. When children understand which behaviour leads to a reward, the consequence becomes predictable and encourages them to act responsibly. For example, finishing homework on time could earn a little extra playtime. That said, too many rewards can weaken children's own motivation. Parents should therefore reward consistent effort rather than give prizes without a clear reason.
 
 ### ✅ Do rewards help a child become better?
 
@@ -1362,7 +1362,7 @@ Yes, limited laws are necessary in situations where phone use can affect other p
 
 - [ ] 不看稿口述
 
-Obeying clear and fair rules makes consequences more predictable for everyone. People can understand what others are expected to do, which encourages more responsible behaviour. For example, orderly queues work because everyone knows they should wait their turn. So, following rules makes communities more predictable and trustworthy.
+Obeying clear and fair rules makes consequences more predictable for everyone. People can understand what others are expected to do, which encourages more responsible behaviour. For example, orderly queues work because everyone knows they should wait their turn. That said, unfair rules can still damage people's trust. So, following rules makes communities more predictable and trustworthy.
 
 ### ✅ How can parents teach children to obey rules?
 
@@ -1374,13 +1374,13 @@ Parents should set a small number of clear and fair rules. They should then use 
 
 - [ ] 不看稿口述
 
-Yes, but the limits should be clear and fair. Predictable consequences can encourage children to use programs more responsibly without constant arguments. For example, parents could allow one hour of gaming after homework is finished. That said, excessive or inconsistent restrictions may cause resistance and weaken trust between parents and children. Overall, parents should set clear but reasonable limits on gaming.
+Yes, but the limits should be clear and fair. Predictable consequences can encourage children to use programs more responsibly without constant arguments. For example, parents could allow one hour of gaming after homework is finished. That said, unfair limits may cause resistance and weaken family trust. Overall, parents should set clear but reasonable limits on gaming.
 
 ### ✅ What do you think about some countries banning children from using social media?
 
 - [ ] 不看稿口述
 
-I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. That said, a complete ban may feel unfair, make children resist the rule and ultimately weaken trust in the policy. Overall, reasonable limits are better than a complete social media ban.
+I think some restrictions are reasonable, but a complete ban may be excessive. Clear and fair rules can create predictable consequences and encourage responsible use. For example, an age limit is easier to understand than a vague restriction. That said, a complete ban may feel unfair and encourage resistance. Overall, reasonable limits are better than a complete social media ban.
 
 ### ✅ Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?
 
@@ -1466,7 +1466,7 @@ I think success mainly comes from choosing the right direction and then working 
 
 - [ ] 不看稿口述
 
-Yes, because useful advice should be based on reliable information from varied sources. Preparation helps people give sensible advice instead of making assumptions. For example, someone should check current transport schedules before recommending a travel route. So, some preparation is important before giving advice.
+Yes, because useful advice should be based on reliable information from varied sources. Preparation helps people give sensible advice instead of making assumptions. For example, someone should check current transport schedules before recommending a travel route. That said, too much preparation can make simple advice unnecessarily slow. So, some preparation is important before giving advice.
 
 ### ✅ What is the most important factor in an advertisement?
 
@@ -1658,7 +1658,7 @@ Yes, because advertising makes a company's products more noticeable. This can at
 
 - [ ] 不看稿口述
 
-Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and ignore my original plan. For example, a repeated discount advert may persuade me to add an unnecessary item to my order. So, advertising occasionally makes me overspend.
+Yes, I sometimes do, especially when shopping online. Persuasive advertisements can make me judge products less carefully and ignore my original plan. For example, a repeated discount advert may persuade me to add an unnecessary item to my order. That said, a clear shopping list can reduce this influence. So, advertising occasionally makes me overspend.
 
 ### ✅ Why are some advertisements boring?
 
@@ -1696,7 +1696,7 @@ It is easier to gain attention now, although lasting fame is still difficult. On
 
 - [ ] 不看稿口述
 
-No, not when people shop with a clear purpose. Buying several necessary things in one trip saves time and makes everyday tasks easier. For example, a weekly supermarket trip can provide all the food a family needs in one visit. Overall, purposeful shopping is not a waste of time.
+No, not when people shop with a clear purpose. Buying several necessary things in one trip saves time and makes everyday tasks easier. For example, a weekly supermarket trip can provide all the food a family needs in one visit. That said, browsing without a purpose can waste both time and money. Overall, purposeful shopping is not a waste of time.
 
 ### ✅ What are the advantages and disadvantages of AI?
 
@@ -1714,7 +1714,7 @@ AI can handle simple and repetitive tasks for us. This saves time and helps peop
 
 - [ ] 不看稿口述
 
-The main advantage is convenience. People can watch a match without travelling to a stadium, which saves time and effort. For example, a commuter can stream a football match on a phone while travelling home. So, online viewing makes sports events much easier to access.
+The main advantage is convenience. People can watch a match without travelling to a stadium, which saves time and effort. For example, a commuter can stream a football match on a phone while travelling home. That said, online viewing cannot fully match the atmosphere of a stadium. So, online viewing makes sports events much easier to access.
 
 ### ✅ What are the differences between the technology of the past and that of today?
 
@@ -1726,7 +1726,7 @@ Older technology was slower and required more effort, whereas modern technology 
 
 - [ ] 不看稿口述
 
-The main benefit is convenience. Children can watch animal videos without spending time and effort travelling to a zoo. For example, a child can watch a wildlife documentary at home after school. So, videos provide a more accessible way to see animals.
+The main benefit is convenience. Children can watch animal videos without spending time and effort travelling to a zoo. For example, a child can watch a wildlife documentary at home after school. That said, videos cannot provide direct contact with real animals. So, videos provide a more accessible way to see animals.
 
 ### ✅ Do you think young people rely more and more on these programs?
 
@@ -1740,19 +1740,19 @@ Yes, many programs make study, entertainment and communication much easier. Savi
 
 - [ ] 不看稿口述
 
-No, it is often difficult for them. Limited access to parks and natural spaces gives urban children fewer opportunities to experience nature directly. For example, a child in a <mark style="background: #ABF7F7A6;">high-rise area</mark> may have no park nearby. So, urban children may be at a disadvantage in this respect.
+No, it is often difficult for them. Limited access to parks and natural spaces gives urban children fewer opportunities to experience nature directly. For example, a child in a <mark style="background: #ABF7F7A6;">high-rise area</mark> may have no park nearby. That said, good parks can give urban children regular contact with nature. So, urban children may be at a disadvantage in this respect.
 
 ### ✅ Should governments provide financial support to start-ups?
 
 - [ ] 不看稿口述
 
-Yes, but the support should be carefully targeted. Basic funding gives capable entrepreneurs from different backgrounds <mark style="background: #ABF7F7A6;">a fairer chance</mark> to start a business. For example, a skilled baker could use a small grant to open a local shop. So, <mark style="background: #ABF7F7A6;">well-directed financial support</mark> can create wider opportunities.
+Yes, but the support should be carefully targeted. Basic funding gives capable entrepreneurs from different backgrounds <mark style="background: #ABF7F7A6;">a fairer chance</mark> to start a business. For example, a skilled baker could use a small grant to open a local shop. That said, weak businesses should not depend on public money forever. So, <mark style="background: #ABF7F7A6;">well-directed financial support</mark> can create wider opportunities.
 
 ### ✅ Do you think galleries and museums should be free of charge?
 
 - [ ] 不看稿口述
 
-I think <mark style="background: #ABF7F7A6;">basic admission</mark> should be free or very cheap. This would give people from different backgrounds equal access to culture and education. For example, a low-income student could visit a local exhibition without worrying about the ticket price. So, affordable admission is better than high fees.
+I think <mark style="background: #ABF7F7A6;">basic admission</mark> should be free or very cheap. This would give people from different backgrounds equal access to culture and education. For example, a low-income student could visit a local exhibition without worrying about the ticket price. That said, museums still need enough income for maintenance. So, affordable admission is better than high fees.
 
 ### ✅ Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
 
@@ -1772,19 +1772,19 @@ Urban areas usually have accessible public transport, while rural services are o
 
 - [ ] 不看稿口述
 
-Yes, I think doctors should generally be paid well. Targeted spending on medical staff helps hospitals maintain essential services and provide better <mark style="background: #ABF7F7A6;">public care</mark>. For example, adequate funding can help a hospital <mark style="background: #ABF7F7A6;">staff</mark> its emergency department properly. So, paying doctors well can benefit society.
+Yes, I think doctors should generally be paid well. Targeted spending on medical staff helps hospitals maintain essential services and provide better <mark style="background: #ABF7F7A6;">public care</mark>. For example, adequate funding can help a hospital <mark style="background: #ABF7F7A6;">staff</mark> its emergency department properly. That said, higher pay alone will not solve staff shortages. So, paying doctors well can benefit society.
 
 ### ✅ Do you think it is important to save money? Why?
 
 - [ ] 不看稿口述
 
-Yes, saving money is very important. Unexpected costs can create financial pressure and leave people unable to pay for other needs. For example, savings can cover an urgent medical bill without forcing someone to borrow money. So, savings give people useful <mark style="background: #ABF7F7A6;">financial protection</mark>.
+Yes, saving money is very important. Unexpected costs can create financial pressure and leave people unable to pay for other needs. For example, savings can cover an urgent medical bill without forcing someone to borrow money. That said, saving too much can reduce people's quality of life now. So, savings give people useful <mark style="background: #ABF7F7A6;">financial protection</mark>.
 
 ### ✅ Do you think it is the rich people's responsibility to donate money to people in need?
 
 - [ ] 不看稿口述
 
-Yes, I think wealthy people should <mark style="background: #ABF7F7A6;">contribute</mark> when they can. Targeted donations can improve essential services and benefit many <mark style="background: #ABF7F7A6;">disadvantaged people</mark>. For example, a large donation could help a community clinic provide basic care to more patients. So, charitable giving can really make a big impact on society.
+Yes, I think wealthy people should <mark style="background: #ABF7F7A6;">contribute</mark> when they can. Targeted donations can improve essential services and benefit many <mark style="background: #ABF7F7A6;">disadvantaged people</mark>. For example, a large donation could help a community clinic provide basic care to more patients. That said, donations should remain a personal choice. So, charitable giving can really make a big impact on society.
 
 ### ✅ Is salary the main reason people choose a certain job?
 
@@ -1804,7 +1804,7 @@ They often spend heavily on technology, education, transport and leisure. Their 
 
 - [ ] 不看稿口述
 
-Yes, schools should teach children basic knowledge about animals. Practical learning about animal care can develop <mark style="background: #ABF7F7A6;">empathy and responsibility</mark>. For example, pupils can take turns feeding a class pet and checking that it has clean water. So, animal education has real value for children.
+Yes, schools should teach children basic knowledge about animals. Practical learning about animal care can develop <mark style="background: #ABF7F7A6;">empathy and responsibility</mark>. For example, pupils can take turns feeding a class pet and checking that it has clean water. That said, schools may lack the time or facilities for live animals. So, animal education has real value for children.
 
 ### ✅ Some people think pets should not be kept in cities. What do you think?
 
@@ -1830,7 +1830,7 @@ Animal stories make ideas about <mark style="background: #ABF7F7A6;">care and re
 
 - [ ] 不看稿口述
 
-Yes, they should do some age-appropriate chores. Clear roles and mutual support make household tasks easier to manage. For example, a child can wash the dishes while a parent prepares dinner. So, children's help can make family life run more smoothly.
+Yes, they should do some age-appropriate chores. Clear roles and mutual support make household tasks easier to manage. For example, a child can wash the dishes while a parent prepares dinner. That said, chores should match the child's age and ability. So, children's help can make family life run more smoothly.
 
 ### ✅ Who should people ask for help, colleagues or family members?
 
@@ -1842,7 +1842,7 @@ It depends on the problem. Colleagues understand workplace roles, while family m
 
 - [ ] 不看稿口述
 
-Yes, schools can teach children some basic chores. Regular practice builds practical skills, while shared tasks teach responsibility and cooperation. For example, pupils can clean classroom tables together after activities. So, learning chores at school can prepare children for everyday life.
+Yes, schools can teach children some basic chores. Regular practice builds practical skills, while shared tasks teach responsibility and cooperation. For example, pupils can clean classroom tables together after activities. That said, schools should not replace parents' role in teaching them. So, learning chores at school can prepare children for everyday life.
 
 ### ✅ How can leaders encourage their employees?
 
@@ -1860,7 +1860,7 @@ Parents should give clear and <mark style="background: #ABF7F7A6;">supportive en
 
 - [ ] 不看稿口述
 
-Yes, some people are more effective at it. They express ideas clearly and listen carefully, so they understand concerns and build trust. For example, a colleague may hear a manager's budget concern before suggesting a cheaper option. So, strong communicators are usually better at persuading others.
+Yes, some people are more effective at it. They express ideas clearly and listen carefully, so they understand concerns and build trust. For example, a colleague may hear a manager's budget concern before suggesting a cheaper option. That said, clear communication cannot persuade someone who strongly disagrees. So, strong communicators are usually better at persuading others.
 
 ### ✅ How can employers encourage their staff?
 
@@ -1884,7 +1884,7 @@ A leader should give people clear roles and support them when they face difficul
 
 - [ ] 不看稿口述
 
-Yes, group work is an important skill for students. It teaches them to <mark style="background: #ABF7F7A6;">divide responsibilities</mark> and <mark style="background: #ABF7F7A6;">work towards a shared result</mark>. For example, each student can research one section of a class presentation and then combine the work. So, students should gain teamwork experience at school.
+Yes, group work is an important skill for students. It teaches them to <mark style="background: #ABF7F7A6;">divide responsibilities</mark> and <mark style="background: #ABF7F7A6;">work towards a shared result</mark>. For example, each student can research one section of a class presentation and then combine the work. That said, badly organised groups can create unfair workloads. So, students should gain teamwork experience at school.
 
 ### ✅ How can you tell if a person is a good leader?
 
@@ -1916,7 +1916,7 @@ People visit historical sites because they want to experience the past directly.
 
 - [ ] 不看稿口述
 
-Yes, I think national identity is important. It helps people understand their shared culture and pass traditions to the next generation. For example, celebrating a traditional festival with grandparents allows children to learn family customs. So, national identity can keep a culture alive.
+Yes, I think national identity is important. It helps people understand their shared culture and pass traditions to the next generation. For example, celebrating a traditional festival with grandparents allows children to learn family customs. That said, it should not make people reject other cultures. So, national identity can keep a culture alive.
 
 ### ✅ How can people develop their national identity?
 

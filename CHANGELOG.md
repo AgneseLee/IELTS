@@ -95,6 +95,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 允许 Speaking Part 3 从主论点推导简单的常识性轻量反方，并为 38 道单面 Q5 答案补充贴题限制
 - 取消 Speaking Part 3 强制例后 reflection，精简全部 316 道答案，并按实际语境保留具体结果或 `That said` 反方
 - 按每道题的具体例子重写 216 句重复的 Speaking Part 3 reflection，并新增跨题重复校验以禁止套用固定句
 - 补充 Speaking Part 3 团队协作答案的重点表达高亮

@@ -60,9 +60,10 @@ blocks.each do |question, _, answer|
     errors << "#{question}: missing concrete example"
   else
     reflection = sentences[example_index + 1]
-    reflection_pattern = /\A(?:This|That|These|As a result|As a consequence|Over time|In that sense)\b/i
-    if reflection.nil? || example_index + 1 == sentences.length - 1 || !reflection.match?(reflection_pattern)
+    if reflection.nil? || example_index + 1 == sentences.length - 1
       errors << "#{question}: example must be followed by a separate reflection before the final summary"
+    elsif reflection.match?(/\A(?:(?:This|That|The) example (?:shows|illustrates|demonstrates)|(?:This|That|It) (?:shows|illustrates|demonstrates) (?:that|how))\b/i)
+      errors << "#{question}: reflection uses formulaic meta-language: #{reflection}"
     end
   end
   sentences.each do |sentence|

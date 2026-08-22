@@ -158,7 +158,7 @@ Encouragement gives children a direction and motivates them to practise. With re
 
 - [ ] 不看稿口述
 
-Children usually have fewer responsibilities and more regular chances to practise. Repeated practice and feedback help them build practical skills more quickly. For example, a child may practise a new language every school day, while an adult only studies at weekends. So, different routines and responsibilities can create a learning gap.
+Children usually have fewer <mark style="background: #ABF7F7A6;">responsibilities</mark> and more regular chances to practise. Repeated practice and feedback help them build practical skills more quickly. For example, a child may practise a new language every school day, while an adult only studies at weekends. So, different <mark style="background: #ABF7F7A6;">routines</mark> and <mark style="background: #ABF7F7A6;">responsibilities</mark> can create a learning gap.
 
 ### ✅ What group tasks are there in schools?
 
@@ -1196,7 +1196,7 @@ Yes, if the change helps people develop healthier habits. Getting help early can
 
 - [ ] 不看稿口述
 
-It can be, especially for people who use it to follow a healthy routine. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not beneficial if it causes poor sleep and harms long-term well-being. Overall, early mornings are useful only when people get enough sleep.
+It can be, especially for people who use it to follow a healthy routine. An early walk or a proper breakfast can support their health before minor problems become serious. For example, someone may exercise before work instead of remaining inactive all day. However, getting up early is not <mark style="background: #ABF7F7A6;">beneficial</mark> if it causes poor sleep and <mark style="background: #ABF7F7A6;">harms</mark> long-term well-being. Overall, early mornings are useful only when people get enough sleep.
 
 ### ✅ Why do some children want to become doctors?
 
@@ -1270,7 +1270,7 @@ Not necessarily, because a good talk show can show clear expression and active l
 
 - [ ] 不看稿口述
 
-Yes, smiling is quite important in my culture. It shows friendliness, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. That said, a smile can seem insincere in serious situations. So, smiling plays a positive role in social interaction.
+Yes, smiling is quite important in my culture. It shows <mark style="background: #ABF7F7A6;">friendliness</mark>, which makes communication easier and helps people trust each other. For example, a smiling shop assistant can make a customer feel comfortable asking for help. That said, a smile can seem insincere in serious situations. So, smiling plays a <mark style="background: #ABF7F7A6;">positive</mark> role in social interaction.
 
 ### ✅ What would you do if you haven't received a reply after sending out a message?
 
@@ -1306,7 +1306,7 @@ Often yes, because a smile can make communication feel open and welcoming. That 
 
 - [ ] 不看稿口述
 
-They want to communicate warmth and make the moment look positive. A clear friendly expression helps viewers understand the mood and feel connected to the people in the picture. For example, relatives often smile in a family photo to show that they enjoyed being together. So, smiling is a simple visual way to share a positive message.
+They want to communicate warmth and make the moment look positive. <mark style="background: #ABF7F7A6;">A clear friendly expression </mark>helps viewers understand the mood and feel connected to the people in the picture. For example, relatives often smile in a family photo to show that they enjoyed being together. So, smiling is a simple visual way to share a positive message.
 
 ### ✅ What personal skills are required to work in an international company?
 

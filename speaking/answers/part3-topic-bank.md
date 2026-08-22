@@ -43,6 +43,8 @@
 ## M03-❤️ 🥚学习与技能
 
 - **正向链：** regular practice and feedback → stronger practical skills → better performance or employability
+ **creates more job opportunities.**
+
 - **反向链：** passive or exam-driven learning → limited application → weaker independent thinking
 - **适用：** 学校、自学、语言、职业培训、儿童发展、天赋
 

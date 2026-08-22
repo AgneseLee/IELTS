@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 将新题答案的 ❤️ 标记统一前置到文件名和 Cue Card，使 Obsidian 文档标题显示为 `❤️ Describe...`
 - 新增 15 篇当前事件类 Part 2 答案，重写长时间未回复题，并为新题答案同步 ❤️ 标记与校验规则
 - 新增 94 道 IELTS Speaking Part 3 自动例子规则答案，题库覆盖提升至 302 道
 - 新增 62 道 IELTS Speaking Part 3 观点卡答案并修正 33 条候选映射，题库覆盖提升至 208 道

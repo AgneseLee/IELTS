@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a time when you changed an important opinion of yours** ❤️
+**❤️ Describe a time when you changed an important opinion of yours**
 
 > **You should say:**
 > - When you changed your opinion

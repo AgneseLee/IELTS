@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a time when a person did something to help you solve a problem** ❤️
+**❤️ Describe a time when a person did something to help you solve a problem**
 
 > **You should say:**
 > - Who the person is

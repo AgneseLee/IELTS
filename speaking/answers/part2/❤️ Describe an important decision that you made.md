@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe an important decision that you made** ❤️
+**❤️ Describe an important decision that you made**
 
 > **You should say:**
 > - What the decision was

@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a change that you made recently** ❤️
+**❤️ Describe a change that you made recently**
 
 > **You should say:**
 > - What the change was

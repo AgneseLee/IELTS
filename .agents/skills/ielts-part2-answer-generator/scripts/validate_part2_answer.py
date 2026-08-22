@@ -145,17 +145,19 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
     if CUE_HEADING in text and ABILITY_HEADING in text:
         cue_section = between(text, CUE_HEADING, ABILITY_HEADING)
     displayed_title_matches = re.findall(
-        r"^\*\*(.+?)\*\*(\s*❤️)?\s*$", cue_section, re.MULTILINE
+        r"^\*\*(❤️ )?(.+?)\*\*\s*$", cue_section, re.MULTILINE
     )
-    displayed_titles = [match[0] for match in displayed_title_matches]
-    displayed_heart = bool(displayed_title_matches and displayed_title_matches[0][1])
+    displayed_titles = [match[1] for match in displayed_title_matches]
+    displayed_heart = bool(displayed_title_matches and displayed_title_matches[0][0])
     displayed_bullets = re.findall(r"^> - (.+?)\s*$", cue_section, re.MULTILINE)
     title = ""
     if len(displayed_titles) != 1:
         errors.append(f"expected one visible cue-card title, found {len(displayed_titles)}")
     else:
         title = displayed_titles[0]
-        if path.stem != title.rstrip(".?!").replace("/", " or "):
+        heart_prefix = "❤️ " if source_has_heart(title) else ""
+        expected_stem = heart_prefix + title.rstrip(".?!").replace("/", " or ")
+        if path.stem != expected_stem:
             errors.append("filename does not match the sanitized Cue Card title")
     if not re.search(r"^> \*\*You should say:\*\*\s*$", cue_section, re.MULTILINE):
         errors.append("visible Cue Card is missing 'You should say'")

@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a time when you worked in a group** ❤️
+**❤️ Describe a time when you worked in a group**
 
 > **You should say:**
 > - What you did

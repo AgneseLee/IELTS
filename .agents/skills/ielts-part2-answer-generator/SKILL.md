@@ -16,7 +16,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 3. `speaking/plans/20-day-band7.md`：八个 Story Banks、modules、固定搭配与迁移规则。
 4. `speaking/answers/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
 5. `speaking/answers/README.md` 与 `speaking/answers/part2-{people,events,places,things}.md`：只用于补全统一人设、module 的固定事实和已有表达；忽略其中冲突的篇幅、语速、模板与维护规则。
-6. `speaking/answers/part2/Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式；忽略其旧 3:7 比例，不得复制其 Part 3 或冲突格式。
+6. `speaking/answers/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
 
 不得使用 `speaking/archive/12-day-part2-template-plan.md` 覆盖以上规则。用户本次提供的真实事实优先于仓库统一人设；发生冲突时保留用户事实，不静默创建第二条故事线。
 
@@ -56,7 +56,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 ```md
 ## Cue Card
 
-**<exact English cue-card title>**<append ` ❤️` when the source topic heading contains ❤️>
+**<prepend `❤️ ` when the source topic heading contains ❤️><exact English cue-card title>**
 
 > **You should say:**
 > - <exact bullet 1 from topic-bank.md>
@@ -97,16 +97,16 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 ## Save and validate
 
-1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。
+1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。若中文 topic heading 含 `❤️`，在文件名开头添加 `❤️ `，使 Obsidian 文档标题显示为 `❤️ <English cue title>`。
    不要在文件正文中添加 H1；Obsidian 已把文件名显示为页面标题，重复 H1 会造成标题重复。
-2. 自动写入 `speaking/answers/part2/<title>.md`。批量生成时每题单独保存。
+2. 自动写入 `speaking/answers/part2/[❤️ ]<title>.md`，其中 `❤️ ` 只用于题库标记的新题。批量生成时每题单独保存。
 3. 新文件可直接创建。若目标已存在，只有用户明确要求 regenerate、update 或 overwrite 时才替换；否则保留并报告冲突。
 4. 对每个新建或更新文件运行：
 
    `python3 .agents/skills/ielts-part2-answer-generator/scripts/validate_part2_answer.py <file>`
 
 5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据、自然口述感和跨题复用价值。
-6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。若该题的中文 topic heading 含 `❤️`，在英文题目粗体结束后追加 ` ❤️`；文件名仍只使用英文 cue title。
+6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。若该题的中文 topic heading 含 `❤️`，在英文题目前添加 `❤️ `，并让文件名使用相同前缀。
 7. 确保 Useful Collocations 恰好 8 个，并包含所选 Bank 的全部 3 个固定 collocations；不得为了显得高级而扩充新词。
 8. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。
 

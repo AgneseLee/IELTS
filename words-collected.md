@@ -256,31 +256,31 @@ Raycast 收集的待整理 IELTS 词汇。`[ ]` 表示待整合，`[x]` 表示�
 
 ## 2026-08-19
 
-- [ ] resort
-- [ ] beach resort
-- [ ] ski resort
-- [ ] holiday resort
-- [ ] luxury resort
-- [ ] as a last resort
-- [ ] resort to
-- [ ] the blight of
-- [ ] blighted areas
-- [ ] be blighted by
-- [ ] livelihood
-- [ ] means of livelihood
-- [ ] source of livelihood
-- [ ] earn a livelihood
-- [ ] threaten livelihoods
-- [ ] secure livelihoods
-- [ ] people's livelihoods
-- [ ] confer substantial benefits
-- [ ] confer benefits on/upon
-- [ ] bring substantial benefits
-- [ ] yield substantial benefits
-- [ ] urban renewal
-- [ ] revitalize
-- [ ] environmental degradation
-- [ ] vulnerable groups
-- [ ] economic downturn
-- [ ] vocational training
-- [ ] rural infrastructure
+- [x] resort → 旅游/正向 链3；旅游/负向 链6
+- [x] beach resort → 旅游/正向 链3
+- [x] ski resort → 旅游/正向 链3
+- [x] holiday resort → 旅游/正向 链3
+- [x] luxury resort → 旅游/负向 链6
+- [x] as a last resort → 旅游/负向 链6
+- [x] resort to → 旅游/负向 链6
+- [x] the blight of → 社会/正向 链3
+- [x] blighted areas → 社会/正向 链3
+- [x] be blighted by → 社会/正向 链3
+- [x] livelihood → 旅游/正向 链3；政府/正向 链3
+- [x] means of livelihood → 旅游/正向 链3
+- [x] source of livelihood → 旅游/正向 链3
+- [x] earn a livelihood → 政府/正向 链3
+- [x] threaten livelihoods → 旅游/负向 链6
+- [x] secure livelihoods → 政府/正向 链3
+- [x] people's livelihoods → 政府/正向 链3
+- [x] confer substantial benefits → 政府/正向 链3
+- [x] confer benefits on/upon → 政府/正向 链3
+- [x] bring substantial benefits → 政府/正向 链3
+- [x] yield substantial benefits → 政府/正向 链3
+- [x] urban renewal → 社会/正向 链3
+- [x] revitalize → 社会/正向 链3
+- [x] environmental degradation → 旅游/负向 链6
+- [x] vulnerable groups → 社会/正向 链3
+- [x] economic downturn → 旅游/正向 链3
+- [x] vocational training → 政府/正向 链3
+- [x] rural infrastructure → 政府/正向 链3

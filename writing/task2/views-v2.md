@@ -117,10 +117,13 @@ Nevertheless, it is important to recognize **that** technological advancement ca
 2. **正向 2：** 改善教育、医疗与住房服务 → 基本服务更加可及 → 不同背景群体的机会差距缩小 → 社会凝聚力提高
     `Better education, healthcare and housing services → wider access to basic services → narrower opportunity gaps across social groups → stronger social cohesion`
 
-3. **负向 1：** 收入差距扩大 → 低收入群体难以获得优质教育、医疗和数字服务 → 向上流动机会减少 → 社会排斥加剧 → 社会信任下降
+3. **正向 3：** 针对衰败地区推进城市更新 → 老旧住房、公共空间和交通连接得到改善 → 弱势群体更容易获得基本服务与就业机会 → 社区活力恢复
+    `Urban renewal in blighted areas → better housing, public spaces and transport links → easier access to basic services and jobs for vulnerable groups → revitalised local communities`
+
+4. **负向 1：** 收入差距扩大 → 低收入群体难以获得优质教育、医疗和数字服务 → 向上流动机会减少 → 社会排斥加剧 → 社会信任下降
     `Wider income gaps → poorer access to quality education, healthcare and digital services → fewer opportunities for upward mobility → greater social exclusion → weaker social trust`
 
-4. **负向 2：** 福利退出机制设计不当 → 就业后的收入增幅不足以抵消福利损失 → 部分领取者缺乏就业动力 → 劳动参与率下降 → 财政压力增加
+5. **负向 2：** 福利退出机制设计不当 → 就业后的收入增幅不足以抵消福利损失 → 部分领取者缺乏就业动力 → 劳动参与率下降 → 财政压力增加
     `Poorly designed benefit withdrawal → work brings little net financial gain → weaker incentives to seek employment → lower labour-force participation → greater fiscal pressure`
 
 
@@ -170,13 +173,16 @@ Nevertheless, although the problem appears severe, it is far from unsolvable. On
 2. **正向 2：** 政府制定并严格执行环保法规 → 企业承担明确的减排责任 → 工业污染减少 → 自然资源与公共健康得到保护
     `Strictly enforced environmental regulations → clear corporate obligations to cut emissions → less industrial pollution → better protection of natural resources and public health`
 
-3. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
+3. **正向 3：** 政府投资农村基础设施并提供职业培训，为偏远居民带来显著收益 → 他们获得交通、网络和技能支持 → 更容易获得稳定工作并保障生计 → 城乡发展差距缩小
+    `Public investment in rural infrastructure and vocational training confers substantial benefits on remote residents → transport, internet and skill support → easier access to stable work and secure livelihoods → narrower urban-rural development gaps`
+
+4. **负向 1：** 政府过度干预市场 → 企业合规与行政成本增加 → 创新和竞争受抑制 → 经济效率下降
     `Excessive government intervention → higher compliance and administrative costs → weaker innovation and competition → lower economic efficiency`
 
-4. **负向 2：** 公共项目采购和监管不力 → 工程延误或质量不达标 → 维修与补救成本上升 → 政府预算超支 → 其他公共服务资金被挤压
+5. **负向 2：** 公共项目采购和监管不力 → 工程延误或质量不达标 → 维修与补救成本上升 → 政府预算超支 → 其他公共服务资金被挤压
     `Weak procurement and oversight of public projects → delays or substandard work → higher repair and remediation costs → budget overruns → less funding for other public services`
 
-5. **负向 3：** 诚然部分公共项目能带来可见改善 → 政府过度依赖形象工程 → 公众产生虚假的进步感 → 基础服务问题被掩盖 → 长期治理能力下降
+6. **负向 3：** 诚然部分公共项目能带来可见改善 → 政府过度依赖形象工程 → 公众产生虚假的进步感 → 基础服务问题被掩盖 → 长期治理能力下降
     `Granted that some public projects bring visible improvements → overreliance on prestige projects → an illusory sense of progress → hidden weaknesses in essential services → weaker long-term governance`
 
 
@@ -357,11 +363,17 @@ Nevertheless, excessive government intervention may **have harmful effects on th
 2. **正向 2：** 文化旅游增加景点收入 → 更多资金用于遗产维护和传统活动 → 当地文化得到保护
     `Cultural tourism generates revenue → more funding for heritage conservation and traditional activities → better protection of local culture`
 
-3. **负向 1：** 游客数量超过环境承载力 → 资源消耗、垃圾和污染增加 → 当地生态系统受损 → 旅游目的地长期吸引力下降
+3. **正向 3：** 规划良好的海滨、滑雪或度假酒店项目吸引游客消费 → 当地企业获得更多订单并雇用居民 → 家庭收入来源增加 → 地区经济在低迷时期更有韧性
+    `Well-planned beach, ski or holiday resort projects attract tourist spending → local firms receive more orders and hire residents → more sources of livelihood for families → greater regional resilience during an economic downturn`
+
+4. **负向 1：** 游客数量超过环境承载力 → 资源消耗、垃圾和污染增加 → 当地生态系统受损 → 旅游目的地长期吸引力下降
     `Visitor numbers exceed environmental capacity → greater resource use, waste and pollution → damage to local ecosystems → declining long-term appeal of the destination`
 
-4. **负向 2：** 旅游业推高短租和商业空间需求 → 房租与生活成本上涨 → 部分本地居民被迫迁离 → 原有社区网络被削弱
+5. **负向 2：** 旅游业推高短租和商业空间需求 → 房租与生活成本上涨 → 部分本地居民被迫迁离 → 原有社区网络被削弱
     `Tourism increases demand for short-term rentals and commercial space → higher rents and living costs → displacement of some residents → weaker local community networks`
+
+6. **负向 3：** 地方政府把豪华度假区作为最后手段并依赖开发商投资 → 湿地、山地或海岸线被过度开发 → 环境退化威胁渔民和农户生计 → 目的地长期吸引力下降
+    `Local authorities use luxury resorts as a last resort and resort to developer investment → overdevelopment of wetlands, mountains or coastlines → environmental degradation threatens fishermen's and farmers' livelihoods → declining long-term appeal of the destination`
 
 
 ### 正反论证练习

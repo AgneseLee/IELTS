@@ -28,7 +28,7 @@
 ## 3. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-I watched a professional badminton final in Beijing with my friend Stella last year. We chose it because we had both played casually at university and wanted to see elite players at close range. The arena was crowded and energetic. One player lost the first game and fell behind in the second, but then changed tactics and made a dramatic comeback. Every long rally created enormous tension, and strangers around us cheered together. Although our seats were quite far from the court, hearing the speed of the shuttle made the skill involved feel real.
+I watched a professional badminton final in Beijing with my friend Stella last year. We chose it because we had both played casually at university and wanted to see elite players at close range. The arena was crowded and energetic. One player lost the first game and fell behind in the second, but then changed tactics and made a dramatic comeback. Every long rally created enormous tension, and strangers around us cheered together. Even from far away, we could hear how fast the shuttle was moving.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->

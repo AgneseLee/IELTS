@@ -574,7 +574,7 @@ Young people often set goals involving education, skills and future careers. The
 
 They can do service, office, tourism or short-term project work. Useful services create employment, while different responsibilities give young people broader experience. For example, a graduate may assist an international sales team for six months. So, suitable overseas work combines real demand with manageable responsibility.
 
-## M14-❤️ 计划与执行（题库 16 + 拓展 1）
+## M14-❤️ 计划与执行（题库 17 + 拓展 1）
 
 ### ✅ Do you think it’s important to plan ahead?
 
@@ -677,6 +677,12 @@ I think most people prefer carrying plans out because that produces visible resu
 - [ ] 不看稿口述
 
 Unclear priorities, unrealistic timing and unexpected delays are common reasons. These problems make the original sequence impractical, so people need a new course of action. For example, a missed train may force a traveller to move an afternoon activity. So, plans usually change when their original order no longer works.
+
+### ✅ In what situations do people not respond to messages right away?
+
+- [ ] 不看稿口述
+
+This usually happens when people have a <mark style="background: #ABF7F7A6;">packed</mark> or rigid schedule at work or school. Without clear priorities and realistic timing, less urgent tasks such as personal messages are pushed back. For example, someone in back-to-back meetings may see a friend’s message but have no time to answer until after work. So, poor scheduling can easily lead to delayed replies.
 
 ## M17-❤️ 艺术、娱乐与想象力（题库 23 + 拓展 3）
 
@@ -1222,7 +1228,7 @@ Traditional dishes, regional noodles and festival foods are common examples. Reg
 
 Yes, many people enjoy it because it offers cultural exposure and new experiences. Trying unfamiliar food can improve understanding of other cultures. For example, friends may visit a Thai restaurant and learn about its flavours and customs. However, dominant global food can reduce engagement with local dishes. Overall, foreign food is appealing when it adds variety without replacing local traditions.
 
-## M05-💙 沟通与信任（题库 19）
+## M05-💙 沟通与信任（题库 18）
 
 ### ✅ Why are employees reluctant to ask their managers for help?
 
@@ -1325,12 +1331,6 @@ The two groups may have different experience, habits and familiarity with techno
 - [ ] 不看稿口述
 
 This often happens when a message is unclear or requires careful coordination. Uncertainty makes the receiver check details before giving a useful answer. For example, an employee may delay replying to a vague request involving several colleagues. So, complex or unclear messages usually take longer to answer.
-
-### ✅ In what situations do people not respond to messages right away?
-
-- [ ] 不看稿口述
-
-People may wait when the message is unclear or when digital distractions interrupt them. Poor communication creates uncertainty, while too many notifications divide attention. For example, someone may overlook an important message in a busy group chat. So, delayed replies often result from uncertainty or information overload.
 
 ### ✅ Do children communicate more with teachers or with parents?
 

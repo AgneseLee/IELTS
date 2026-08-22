@@ -74,18 +74,19 @@ Related templates:
 
 #### 占比与排名
 
-| 短语 | 用法 | 例句 |
-|---|---|---|
-| `accounted for` | 占某比例（搭配数字）| Local taxes accounted for roughly a third of the total income. |
-| `comprised` | 构成（替代 make up）| Salaries comprised the largest part of the expenditure in both years. |
-| `make up` (`made up`) | 构成某一群体或整体的一部分 | People eating fast food once a week made up the largest group in 2006. |
-| `represent` (`represented`) | 占某一比例；表示某类别的数据 | The once-a-week category represented the largest proportion in 2006, at 33%. |
-| `the lion's share` | 最大份额 | Officer salaries took the lion's share of the total police budget. |
-| `occupied the largest portion of` | 占据最大部分 | National Government occupied the largest portion of the income sources. |
-| `X people formed the largest group` | X 类人构成最大群体 | People eating fast food once a week formed the largest group in 2006. |
-| `was followed by` | 第二位紧随 | This was followed by local taxes, which rose significantly to £102.3m. |
-| `account for the remaining amount` | 占据剩余数额 | Other sources accounted for the remaining amount of the funding. |
-| `X saw a decline in favor of Y` | X 减少转向 Y | Salaries saw a decline in favor of increased technology spending. |
+| 短语                                  | 用法             | 例句                                                                           |
+| ----------------------------------- | -------------- | ---------------------------------------------------------------------------- |
+| `accounted for`                     | 占某比例（搭配数字）     | Local taxes accounted for roughly a third of the total income.               |
+| `comprised`                         | 构成（替代 make up） | Salaries comprised the largest part of the expenditure in both years.        |
+| `make up` (`made up`)               | 构成某一群体或整体的一部分  | People eating fast food once a week made up the largest group in 2006.       |
+| `represent` (`represented`)         | 占某一比例；表示某类别的数据 | The once-a-week category represented the largest proportion in 2006, at 33%. |
+| `the lion's share`                  | 最大份额           | Officer salaries took the lion's share of the total police budget.           |
+| `occupied the largest portion of`   | 占据最大部分         | National Government occupied the largest portion of the income sources.      |
+| `X people formed the largest group` | X 类人构成最大群体     | People eating fast food once a week formed the largest group in 2006.        |
+| `was followed by`                   | 第二位紧随          | This was followed by local taxes, which rose significantly to £102.3m.       |
+| `account for the remaining amount`  | 占据剩余数额         | Other sources accounted for the remaining amount of the funding.             |
+| `X saw a decline in favor of Y`     | X 减少转向 Y       | Salaries saw a decline in favor of increased technology spending.            |
+|                                     |                |                                                                              |
 
 #### `represent / account for / make up / form` 的正确用法
 
@@ -102,8 +103,25 @@ Related templates:
 
 - ✗ `represented at 33%` / `represented for 33%`
 - ✓ `represented 33% of the total`
+- ✓ `represented 33%` — 上下文已明确总体时，可以省略 `of the total`
 - ✓ `accounted for 33%`
 - ✓ `represented the largest proportion, at 33%`
+
+#### `represent` 在工资分布表中的用法
+
+`represent` 后可直接接百分比，或先写排名再用 `at + 百分比`；不能写成 `represented at + 百分比`：
+
+- `The $100,000+ bracket represented 50% of government employees.`
+- `Among freelance consultants, the two highest salary brackets represented 40% each.`
+- `Full-time work represented the largest proportion, at 52%.`
+- ✗ `The lowest salary bracket represented at 5%.`
+- ✓ `The lowest salary bracket represented 5% of the group.`
+- ✓ `The lowest salary bracket represented the smallest proportion, at 5%.`
+
+主语应是图表中的类别或属于该类别的人群。若要合并两个高薪档，更自然地以人为主语：
+
+- `Freelance consultants in the two highest salary brackets represented 80% of the group.`
+- 更直接：`Among freelance consultants, 80% earned at least $75,000.`
 
 ---
 **救命词 `respectively`**：
@@ -145,6 +163,30 @@ Related templates:
 - △ `The allocation for food dropped from 35%.` → 家庭支出题：语感生硬，改用 `spending on food`
 
 **口诀：** 百分比用 `proportion`，预算用 `allocation`，绝对数量用 `number`，具体数值用 `figure`。
+
+#### 就业与工资分布：分组比例的安全表达
+
+当表格只给出各组内部的百分比分布、却没有给出各组人数时，不能据此计算或声称全体样本的合并比例：
+
+- ✗ `More than half of all graduates earned over $75,000.` — 三类就业者的总人数未知，不能直接合并。
+- ✓ `A majority in every employment category earned at least $75,000.` — 只概括每一行都能直接支持的特征。
+
+类别名称也要改写成可比较的人群：用 `freelance consultants`、`government employees` 和 `private-company employees`，不要把人群与领域混列成 `freelance consultants and working in government sectors`。
+
+**同一组中两个类别占比相同：**
+
+- `Forty per cent of freelance consultants were in each of the two highest salary brackets.`
+- `Full-time postgraduate study and unknown destinations had the same share, at 8%.`
+- `Full-time postgraduate study and unknown destinations each represented 8%.`
+
+`each represented 8%` 的主语应包含两个或多个并列类别；只写一个类别时不用 `each`。
+
+**比较各组中达到某条件的比例：**
+
+- `The government sector had the highest proportion of employees earning $100,000 or more.`
+- `Government employees had the highest proportion earning $100,000 or more.`
+
+第一种结构 `group/sector + had the highest proportion of people doing...` 指代最清晰；第二种更简洁，但上下文必须明确比较的是各就业群体内部的比例。
 
 ---
 
@@ -212,10 +254,10 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 #### 比较结构
 
-| 错误 | 修正 | 原因 |
-|---|---|---|
+| 错误                             | 修正                                       | 原因                      |
+| ------------------------------ | ---------------------------------------- | ----------------------- |
 | `became slower than they were` | `decelerated compared to their X levels` | `slower than` 后须接同类比较对象 |
-| `throughout the most of` | `throughout most of` | `most of` 前无冠词 |
+| `throughout the most of`       | `throughout most of`                     | `most of` 前无冠词          |
 
 #### 冗余动词堆叠
 

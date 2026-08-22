@@ -95,6 +95,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 取消 Speaking Part 3 强制例后 reflection，精简全部 316 道答案，并按实际语境保留具体结果或 `That said` 反方
 - 按每道题的具体例子重写 216 句重复的 Speaking Part 3 reflection，并新增跨题重复校验以禁止套用固定句
 - 补充 Speaking Part 3 团队协作答案的重点表达高亮
 - 将 Speaking Part 3 练习日志中的 279 句模板化例后反思改为自然情境表达，并让生成规则与校验器拒绝 `This example shows ...` 等元话语

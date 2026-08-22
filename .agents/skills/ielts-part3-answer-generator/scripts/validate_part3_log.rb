@@ -41,7 +41,7 @@ formal_phrases = [
 ].freeze
 blocks = text.scan(/^\#{3,4} ✅ (.+?)\n\n- \[([ x])\] 不看稿口述\n\n(.+?)(?=\n\n(?:\#{2,4} |\z))/m)
 errors << "No answer blocks found" if blocks.empty?
-reflections = []
+developments = []
 
 normalise = lambda do |question|
   question.tr("’‘“”", %q(''"")).downcase.gsub(/\s+/, " ").strip
@@ -59,14 +59,15 @@ blocks.each do |question, _, answer|
   example_index = sentences.index { |sentence| sentence.match?(/\AFor (?:example|instance),/i) }
   if example_index.nil?
     errors << "#{question}: missing concrete example"
+  elsif example_index == sentences.length - 1
+    errors << "#{question}: example must be followed by a direct final summary"
   else
-    reflection = sentences[example_index + 1]
-    if reflection.nil? || example_index + 1 == sentences.length - 1
-      errors << "#{question}: example must be followed by a separate reflection before the final summary"
-    elsif reflection.match?(/\A(?:(?:This|That|The) example (?:shows|illustrates|demonstrates)|(?:This|That|It) (?:shows|illustrates|demonstrates) (?:that|how))\b/i)
-      errors << "#{question}: reflection uses formulaic meta-language: #{reflection}"
-    else
-      reflections << [question, reflection]
+    sentences[(example_index + 1)...-1].to_a.each do |development|
+      if development.match?(/\A(?:(?:This|That|The) example (?:shows|illustrates|demonstrates)|(?:This|That|It) (?:shows|illustrates|demonstrates) (?:that|how))\b/i)
+        errors << "#{question}: example follow-up uses formulaic meta-language: #{development}"
+      else
+        developments << [question, development]
+      end
     end
   end
   sentences.each do |sentence|
@@ -76,18 +77,18 @@ blocks.each do |question, _, answer|
   end
   final_sentence = sentences.last.to_s
   final_word_count = final_sentence.gsub(/<[^>]+>/, "").scan(/[A-Za-z]+(?:['’-][A-Za-z]+)*/).length
-  warnings << "#{question}: final sentence may not be a summary: #{final_sentence}" if final_sentence.match?(/\A(?:For example|However|By contrast|In contrast)\b/i)
+  warnings << "#{question}: final sentence may not be a summary: #{final_sentence}" if final_sentence.match?(/\A(?:For example|However|That said|By contrast|In contrast)\b/i)
   warnings << "#{question}: final sentence is long (#{final_word_count} words)" if final_word_count > 15
   formal_phrases.each do |phrase|
     warnings << "#{question}: formal phrase may be hard to say: #{phrase}" if answer.match?(/\b#{Regexp.escape(phrase)}\b/i)
   end
 end
 
-reflections.group_by { |_, reflection| reflection.downcase }
-           .select { |_, matches| matches.length > 1 }
-           .each_value do |matches|
+developments.group_by { |_, development| development.downcase }
+            .select { |_, matches| matches.length > 1 }
+            .each_value do |matches|
   questions = matches.map(&:first).join(" | ")
-  errors << "Duplicate reflection: #{matches.first.last} (#{questions})"
+  errors << "Duplicate example follow-up: #{matches.first.last} (#{questions})"
 end
 
 extensions = blocks.count { |question, _, _| question.start_with?("拓展：") }
@@ -120,7 +121,7 @@ if extension_row
 end
 
 if errors.empty?
-  puts "OK: #{blocks.length} answers (#{originals} original, #{extensions} extension), all 4-6 sentences with example reflections"
+  puts "OK: #{blocks.length} answers (#{originals} original, #{extensions} extension), all 4-6 sentences with concrete examples and direct summaries"
   warn warnings.join("\n") unless warnings.empty?
   exit 0
 end

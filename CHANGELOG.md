@@ -93,6 +93,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 标注 Speaking Part 2 安静地点答案中的核心表达 `practical comfort`
 - 统一 Speaking Part 2 六项可迁移能力素材的 Markdown 标题、列表与段落排版
 - 为 316 道 IELTS Speaking Part 3 答案补齐例后独立 reflection，同步升级四至六句结构与日志校验
 - 精简 Speaking Part 1 的旧“其他题目”区块，并微调现有答案的表达与重点标记

@@ -29,7 +29,7 @@
 <!-- NARRATIVE_START -->
 The quiet place I like to visit is a small park near my apartment in Beijing. I discovered it while exploring the neighbourhood after I moved there. I go roughly once a week, usually in the evening or at weekends. The park has a pond, flowers, and tall trees. After rain, the air has a fresh, earthy smell. I normally walk one full circuit, read on a bench, or talk with my friend Stella without constant interruptions.
 
-What I value most is its practical comfort. It is free, nearby, and requires no planning.
+What I value most is its <mark style="background: #ABF7F7A6;">practical comfort</mark>. It is free, nearby, and requires no planning.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->

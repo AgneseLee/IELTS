@@ -56,7 +56,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 ```md
 ## Cue Card
 
-**<exact English cue-card title>**
+**<exact English cue-card title>**<append ` ❤️` when the source topic heading contains ❤️>
 
 > **You should say:**
 > - <exact bullet 1 from topic-bank.md>
@@ -106,7 +106,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
    `python3 .agents/skills/ielts-part2-answer-generator/scripts/validate_part2_answer.py <file>`
 
 5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据、自然口述感和跨题复用价值。
-6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。
+6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。若该题的中文 topic heading 含 `❤️`，在英文题目粗体结束后追加 ` ❤️`；文件名仍只使用英文 cue title。
 7. 确保 Useful Collocations 恰好 8 个，并包含所选 Bank 的全部 3 个固定 collocations；不得为了显得高级而扩充新词。
 8. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。
 

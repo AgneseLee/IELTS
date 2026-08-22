@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden**
+**Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden** ❤️
 
 > **You should say:**
 > - Who this person is

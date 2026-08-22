@@ -64,6 +64,21 @@ def source_cue(title: str) -> tuple[str, list[str]] | None:
     return title, bullets
 
 
+def source_has_heart(title: str) -> bool:
+    repo_root = Path(__file__).resolve().parents[4]
+    topic_bank = repo_root / "speaking/answers/part2/topic-bank.md"
+    if not topic_bank.is_file():
+        return False
+    source = topic_bank.read_text(encoding="utf-8")
+    return bool(
+        re.search(
+            rf"^### .+❤️\s*$\n\s*^#### Part 2\s*$\n\s*^\*\*{re.escape(title)}\*\*\s*$",
+            source,
+            re.MULTILINE,
+        )
+    )
+
+
 def source_bank_collocations(bank: str) -> list[str]:
     repo_root = Path(__file__).resolve().parents[4]
     plan = repo_root / "speaking/plans/20-day-band7.md"
@@ -129,7 +144,11 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
     cue_section = ""
     if CUE_HEADING in text and ABILITY_HEADING in text:
         cue_section = between(text, CUE_HEADING, ABILITY_HEADING)
-    displayed_titles = re.findall(r"^\*\*(.+?)\*\*\s*$", cue_section, re.MULTILINE)
+    displayed_title_matches = re.findall(
+        r"^\*\*(.+?)\*\*(\s*❤️)?\s*$", cue_section, re.MULTILINE
+    )
+    displayed_titles = [match[0] for match in displayed_title_matches]
+    displayed_heart = bool(displayed_title_matches and displayed_title_matches[0][1])
     displayed_bullets = re.findall(r"^> - (.+?)\s*$", cue_section, re.MULTILINE)
     title = ""
     if len(displayed_titles) != 1:
@@ -148,6 +167,8 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
             "visible Cue Card bullets do not exactly match topic-bank.md "
             f"(expected {len(expected_cue[1])}, found {len(displayed_bullets)})"
         )
+    if title and displayed_heart != source_has_heart(title):
+        errors.append("visible cue-card heart marker does not match topic-bank.md")
 
     marker_positions = []
     for marker in MARKERS:

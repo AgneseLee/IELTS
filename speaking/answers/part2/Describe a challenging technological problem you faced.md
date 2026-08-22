@@ -1,6 +1,6 @@
 ## Cue Card
 
-**Describe a challenging technological problem you faced**
+**Describe a challenging technological problem you faced** ❤️
 
 > **You should say:**
 > - What the problem was

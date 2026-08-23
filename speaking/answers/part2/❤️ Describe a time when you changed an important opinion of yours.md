@@ -28,13 +28,13 @@
 ## 3. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-I changed an important opinion after I lost my software job. Before that, I believed a capable and independent person should solve serious problems alone. During my job search, however, anxiety, technical study, and repeated applications became overwhelming. My mother noticed that I was withdrawing and listened without judging me. She helped me divide the problem into manageable steps and suggested contacting former colleagues. One reviewed my CV, while another recommended an AI course and a small freelance opportunity. Their practical support helped me move forward much faster than working alone.
+I changed an important opinion after I lost my software job. Before that, I believed a <mark style="background: #ABF7F7A6;">capable and independent</mark> person should solve serious problems alone. During my job search, however, anxiety, technical study, and repeated applications became <mark style="background: #ABF7F7A6;">overwhelming</mark>. My mother noticed that I was <mark style="background: #ABF7F7A6;">withdrawing</mark> and listened without judging me. She helped me divide the problem into manageable steps and suggested contacting former colleagues. One reviewed my CV, while another recommended an AI course and a small freelance opportunity. Their practical support helped me move forward much faster than working alone.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-At first, I felt embarrassed because asking for help seemed to confirm weakness. Later, I felt relieved and slightly surprised: other people's knowledge made me more capable without taking away my final decisions.
+At first, I felt <mark style="background: #ABF7F7A6;">embarrassed</mark> because asking for help seemed to confirm <mark style="background: #ABF7F7A6;">weakness</mark>. Later, I felt relieved and slightly surprised: other people's knowledge made me more capable without taking away my final decisions.
 
-The experience improved my communication because I learned to share uncertainty and listen to informed perspectives. It also made me adaptable: I revised a familiar belief when the evidence changed. Since then, I have asked questions earlier and supported colleagues facing setbacks. Looking back, independence means taking responsibility for a decision, not refusing help. Changing this opinion strengthened my relationships and gave me a more realistic way to handle difficulty. I still make my own choices without treating support as a threat.
+The experience improved my <mark style="background: #ABF7F7A6;">communication</mark> because I learned to share uncertainty and listen to informed perspectives. It also made me <mark style="background: #ABF7F7A6;">adaptable</mark>: I revised a familiar belief when the evidence changed. Since then, I have asked questions earlier and supported colleagues facing setbacks. Looking back, <mark style="background: #ABF7F7A6;">independence</mark> means taking responsibility for a decision, not refusing help. Changing this opinion strengthened my <mark style="background: #ABF7F7A6;">relationships</mark> and gave me a more realistic way to handle <mark style="background: #ABF7F7A6;">difficulty</mark>. Now, I ask for advice when I need it, but the final decision is still mine.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

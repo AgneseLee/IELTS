@@ -84,8 +84,8 @@ work effectively with others • coordinate with team members • respect differ
 
 ### Example usages
 
-- This experience taught me the importance of teamwork and shared responsibility.
-- I learned how to coordinate with others and achieve a common goal.
+- This experience taught me the importance of teamwork and <mark style="background: #ABF7F7A6;">shared responsibility</mark>.
+- I learned how to coordinate with others and achieve a collective goal.
 - It improved my ability to respect different opinions and cooperate with people.
 - I realised that effective teamwork requires trust, communication and responsibility.
 - This experience helped me become a better team member and take more responsibility.
@@ -104,6 +104,6 @@ think creatively • come up with new ideas • explore possibilities • find i
 
 - This experience encouraged me to think creatively and explore new possibilities.
 - I learned how to come up with new ideas and turn them into practical solutions.
-- It changed the way I approach problems by encouraging innovative thinking.
+- <mark style="background: #ABF7F7A6;">It changed the way</mark> I approach problems by encouraging innovative thinking.
 - I realised that creativity is not only about artistic ability, but also about solving problems differently.
 - This experience helped me become more open-minded and willing to try new approaches.

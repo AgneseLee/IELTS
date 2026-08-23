@@ -32,7 +32,7 @@ I remember sending a message to Stella, my former colleague, while we worked on 
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Initially, I felt frustrated and slightly ignored, but her explanation changed my perspective. The experience improved my communication because I learned to express urgency without sounding accusatory.
+Initially, I felt <mark style="background: #ABF7F7A6;">frustrated</mark> and slightly <mark style="background: #ABF7F7A6;">ignored</mark>, but her explanation changed my perspective. The experience improved my communication because I learned to express urgency without sounding accusatory.
 
 It also made me more adaptable under uncertainty. I could not control Stella's reply, but I could control my wording, timing, and assumptions. If I need time myself, I acknowledge the message instead of disappearing. Looking back, the delay did not damage our relationship. It taught me that silence has many possible causes and good communication requires patience as well as speed. I still value timely replies, but I no longer make quick judgments. This helps me avoid misunderstandings and remain calmer in conversations.
 <!-- REFLECTION_END -->

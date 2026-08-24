@@ -51,6 +51,26 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 - `REFLECTION`：52–58%，目标 55%，解释重要性、所学、观点变化及 1–2 项能力。
 - Cue Card、四个分析区块、HTML markers 与 collocations 不计入比例。
 
+### Natural spoken-language gate
+
+正文保存前逐句检查，全部通过：
+
+1. Friend test：像向朋友讲经历，不像作文、报告或评分解释。
+2. Concrete first：先说动作、感受、结果；少用抽象判断。
+3. Ability natural：用具体行动证明能力。能力名称可出现，但仅在表达自然时使用；不得为展示框架硬塞。
+4. One idea per sentence：目标 8–18 词；超过 22 词时检查能否拆分。
+5. Everyday wording：优先常用动词、缩写及 `but / so / because / even so`；避免名词堆叠和正式连接词。
+6. Clear bridge：相邻反思句自然回答 `why / so what / what changed`；不得从能力突然跳到抽象结论。
+7. Read-aloud test：若一句需要重读、像中文直译或平时不会说，立即简化。
+8. Remove meta-language：删除解释答案结构、能力框架或为能力贴标签的句子。
+
+常见改写方向：
+
+- `efficient use of limited urban land` → `uses space well`
+- `feel disconnected from fresh air` → `feel stuffy`
+- `improved my adaptability` → `made me more flexible`
+- `judge discomfort by its result` → `I was glad I tried it`
+
 答案必须使用以下结构；markers 只用于校验，不属于口述内容：
 
 ```md
@@ -105,7 +125,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
    `python3 .agents/skills/ielts-part2-answer-generator/scripts/validate_part2_answer.py <file>`
 
-5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据、自然口述感和跨题复用价值。
+5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据和跨题复用价值，并逐句执行 Natural spoken-language gate；确定性校验通过不代表口语自然。
 6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。若该题的中文 topic heading 含 `❤️`，在英文题目前添加 `❤️ `，并让文件名使用相同前缀。
 7. 确保 Useful Collocations 恰好 8 个，并包含所选 Bank 的全部 3 个固定 collocations；不得为了显得高级而扩充新词。
 8. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。

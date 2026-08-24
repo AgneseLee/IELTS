@@ -9,6 +9,7 @@ from pathlib import Path
 
 
 WORD_RE = re.compile(r"[A-Za-z]+(?:[’'-][A-Za-z]+)*")
+MARK_TAG_RE = re.compile(r"</?mark\b[^>]*>", re.IGNORECASE)
 ABILITY_NAMES = {
     "Communication Skills",
     "Problem-solving Skills",
@@ -38,7 +39,7 @@ MARKERS = (
 
 
 def words(text: str) -> list[str]:
-    return WORD_RE.findall(text)
+    return WORD_RE.findall(MARK_TAG_RE.sub(" ", text))
 
 
 def between(text: str, start: str, end: str) -> str:

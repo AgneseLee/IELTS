@@ -45,7 +45,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 正文使用 `Experience → Ability → Personal Growth`，目标 180–210 个英文词和 1:40–2:00。使用短句、受控复句、自然搭配和清楚的口语路标；避免学术长句、生僻词与背诵感。
 
-按正文英文词数精确校验：
+按正文可见英文词数精确校验。统计前忽略 `<mark ...>` 与 `</mark>` 高亮语法，只计算标签中的实际英文内容。已有高亮必须保留，不得为了通过字数校验而移除：
 
 - `NARRATIVE`：42–48%，目标 45%，直接覆盖 Who/What、background、main event 和必要细节。
 - `REFLECTION`：52–58%，目标 55%，解释重要性、所学、观点变化及 1–2 项能力。

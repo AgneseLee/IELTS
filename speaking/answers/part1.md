@@ -34,7 +34,7 @@
 
 ## 同桌英语优先级（37）
 
-### Topic 1: Clothing 👕
+### ❤️ Topic 1: Clothing 👕
 
 **Q1: What clothes do you like wearing?**  
 Personally speaking, I prefer **simple and casual clothes**, such as T-shirts and trainers, because they are comfortable and easy to match. I tend to **focus on what is genuinely useful** rather than following fashion trends, as I prefer **a calm and uncomplicated lifestyle**.
@@ -56,7 +56,7 @@ I usually prefer grey, white and navy because they **look clean and are easy to 
 
 ---
 
-### Topic 2: Singing 🎵
+### ❤️ Topic 2: Singing 🎵
 
 **Q1: Do you like singing?**  
 Yes, although I am **not particularly talented at singing**. I usually sing for fun because it helps me **release stress and improve my mood**.
@@ -78,7 +78,7 @@ No, but I might try one in the future just for fun. I enjoy **building my skills
 
 ---
 
-### Topic 3: Headphones 🎧
+### ❤️ Topic 3: Headphones 🎧
 
 **Q1: Do you use headphones?**  
 Yes, almost every day. I use them for music, online meetings and English practice because they help me **stay focused in a noisy environment**.
@@ -97,7 +97,7 @@ Yes, mine are comfortable for a couple of hours, but after wearing them all day,
 
 ---
 
-### Topic 4: Jokes and Comedies 😂
+### ❤️ Topic 4: Jokes and Comedies 😂
 
 **Q1: Are you good at telling jokes?**  
 Not really. I am not naturally good at telling jokes, but I sometimes make simple comments to **make my friends laugh**.
@@ -116,7 +116,7 @@ Yes, especially online comedy shows and short videos. They are popular because p
 
 ---
 
-### Topic 5: Mirrors 🪞
+### ❤️ Topic 5: Mirrors 🪞
 
 **Q1: Do you like looking at yourself in a mirror?**  
 I only check myself briefly before leaving home. For me, it is just **a practical habit** rather than something I spend much time on.
@@ -130,7 +130,7 @@ No, I don't. My phone camera is enough if I need to check my appearance quickly,
 **Q4: Would you decorate a room with mirrors?**  
 Maybe one large mirror because it can make a small room feel brighter and more spacious. I prefer **a simple design** because I feel more comfortable in **a relaxed environment**.
 
-### Science 🔬 `[同桌英语 #06]`
+### ❤️ Science 🔬 `[同桌英语 #06]`
 
 **Q1: Do you like science?**
 
@@ -156,7 +156,7 @@ A: It depends on the programme. I enjoy those that explain scientific concepts i
 
 A: I think it depends on the city and people's interests. In large cities like Beijing, many families visit science museums during school holidays because interactive exhibitions can **spark children's curiosity**. <!-- P4-b -->
 
-### Outer Space and Stars 🌌 `[同桌英语 #07]`
+### ❤️ Outer Space and Stars 🌌 `[同桌英语 #07]`
 
 **Q1: Have you ever learnt about outer space and stars?**
 
@@ -174,7 +174,7 @@ A: Definitely. I am curious about mysteries such as whether life exists on other
 
 A: I would love to experience it, but only if space travel became much safer and more affordable. It would be **an unforgettable experience**, although I currently prefer exploring space through technology rather than taking the risk myself. <!-- P6-a -->
 
-### Cars 🚗 `[同桌英语 #08]`
+### ❤️ Cars 🚗 `[同桌英语 #08]`
 
 **Q1: Did you enjoy travelling by car when you were a child?**
 
@@ -200,7 +200,7 @@ A: They are relatively important, but not the main factor when buying a car. Whi
 
 A: Probably not. A car is mainly a practical tool for me, so I would rather choose one that is reliable and offers **good value for money**. <!-- P1-b -->
 
-### Public Gardens and Parks 🌳 `[同桌英语 #09]`
+### ❤️ Public Gardens and Parks 🌳 `[同桌英语 #09]`
 
 **Q1: Did you like going to parks as a child?**
 
@@ -230,7 +230,7 @@ A: Parks today are more modern and better equipped, with facilities such as fitn
 
 A: I usually take a walk, enjoy the scenery or listen to music. Sometimes I take photos because parks can **bring back happy memories** and help me take a break from my busy routine. <!-- P7-c -->
 
-### Feeling Bored 😐 `[同桌英语 #10]`
+### ❤️ Feeling Bored 😐 `[同桌英语 #10]`
 
 **Q1: Do you often feel bored?**
 
@@ -260,7 +260,7 @@ A: I switch to something more engaging, such as a science-fiction film, a new te
 
 A: I would say adulthood can be more boring because people often have more responsibilities and less free time. While childhood has boring moments, children usually have more opportunities to **explore and try new things**. <!-- P10-b -->
 
-### Shopping 🛒 `[同桌英语 #11]`
+### ❤️ Shopping 🛒 `[同桌英语 #11]`
 
 **Q1: Do you like shopping?**
 
@@ -290,7 +290,7 @@ A: Not necessarily. While expensive products may offer better quality or more ad
 
 A: Yes, I once returned a product because its quality differed from what I expected and from its online description. Since then, I have checked customer reviews carefully before **making a purchase**. <!-- P8-c -->
 
-### Watch ⌚ `[同桌英语 #12]`
+### ❤️ Watch ⌚ `[同桌英语 #12]`
 
 **Q1: Do you wear a watch?**
 
@@ -308,7 +308,7 @@ A: Some people appreciate their craftsmanship and design, while others see them 
 
 A: Personally speaking, I do not think it is essential because smartphones can show the time. However, watches remain meaningful to some people because they can be stylish, convenient and **have emotional value**. <!-- P1-b -->
 
-### Websites `[同桌英语 #13]`
+### ❤️ Websites `[同桌英语 #13]`
 
 **Q: What kinds of websites do you often visit?**
 
@@ -334,7 +334,7 @@ A: I use both. Websites are better for current information, while books usually 
 
 A: Yes, I would use it to organise my technical notes and share what I have learned. It would also give me more control than posting everything on social media. <!-- M03 M20 -->
 
-### Tidiness `[同桌英语 #14]`
+### ❤️ Tidiness `[同桌英语 #14]`
 
 **Q: Do you like to keep things tidy?**
 
@@ -352,7 +352,7 @@ A: I clear my desk every evening and store most documents digitally. This simple
 
 A: I'd say yes, but only up to a point. Basic organisation improves efficiency, but trying to keep everything perfectly tidy can create unnecessary stress. <!-- M01 M19 -->
 
-### Music `[同桌英语 #15]`
+### ❤️ Music `[同桌英语 #15]`
 
 **Q: Do you prefer sad or happy music?**
 
@@ -362,7 +362,7 @@ A: I prefer happy music because it lifts my mood after a long day. I often play 
 
 A: Definitely. A lively rhythm makes me feel more **energetic and optimistic**, especially when I am tired or under pressure. <!-- M17 M19 -->
 
-### Social Media `[同桌英语 #16]`
+### ❤️ Social Media `[同桌英语 #16]`
 
 **Q: Have you ever posted anything on social media?**
 

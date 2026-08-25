@@ -122,6 +122,15 @@ Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 | `began with zero` | `stood at zero` / `no households had...` | 描述起始数值更自然 |
 | `the portion of vacuum cleaner` | `vacuum cleaner ownership` | `portion of` 不适合直接接电器名 |
 
+### Languages：跨年份语言能力占比
+
+类别标签要区分国家和语言，并让“变化”的主语指向比例而不是人群本身：
+
+- ✗ `the Germany-only group` → ✓ `students speaking German` / `the German-only category`
+- ✗ `students speaking Spanish rose to 35%` → ✓ `the proportion of students speaking Spanish rose to 35%`
+- ✗ `the percentage of no-other-language group` → ✓ `the percentage of students speaking no other language`
+- 并列类别用 `each accounted for X%`，不要写 `occupied both X%`。
+
 ### Absolute numbers：店铺开关等
 
 | 错误 | 修正 | 原因 |

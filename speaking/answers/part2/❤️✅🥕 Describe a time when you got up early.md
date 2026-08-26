@@ -34,7 +34,9 @@ I got up at <mark style="background: #ABF7F7A6;">4:30 </mark>one morning during 
 <!-- REFLECTION_START -->
 The scene left a lasting impression because it <mark style="background: #ABF7F7A6;">differed</mark> completely from Beijing traffic. I felt tired but <mark style="background: #ABF7F7A6;">calm and grateful</mark>.
 
-Getting up that early also made me more <mark style="background: #ABF7F7A6;">flexible</mark> with my routine. I realised I could handle a <mark style="background: #ABF7F7A6;">temporary change</mark> when the experience was worth it. Although it felt uncomfortable at first, the experience was meaningful, so I was glad I tried it. Since then, I have become more willing to step outside my <mark style="background: #ABF7F7A6;">comfort zone</mark> while travelling. The memory reminds me that wonderful travel moments sometimes require careful <mark style="background: #ABF7F7A6;">preparation</mark> and temporary <mark style="background: #ABF7F7A6;">inconvenience</mark>, but the final result can fully justify both. If I had the chance, I’d definitely get up early to see a sunrise like that again.
+Getting up that early also made me more <mark style="background: #ABF7F7A6;">flexible</mark> with my routine. I realised I could handle a <mark style="background: #ABF7F7A6;">temporary change</mark> when the experience was worth it. Although it felt uncomfortable at first, the experience was meaningful, so I was glad I tried it.
+
+Since then, I have become more willing to step outside my <mark style="background: #ABF7F7A6;">comfort zone</mark> while travelling. The memory reminds me that wonderful travel moments sometimes require careful <mark style="background: #ABF7F7A6;">preparation</mark> and temporary <mark style="background: #ABF7F7A6;">inconvenience</mark>, but the final result can fully justify both. If I had the chance, I’d definitely get up early to see a sunrise like that again.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

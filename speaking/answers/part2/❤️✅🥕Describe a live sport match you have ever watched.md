@@ -28,13 +28,13 @@
 ## 3. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-I watched a badminton final in Beijing with my friend Stella last year. We both used to play badminton for fun at university, so we were excited to watch top players in person. The arena was crowded and energetic. One player lost the first game and fell behind in the second, but then changed tactics and made a dramatic comeback. Every long exchange created enormous tension, and strangers around us cheered together. Even from far away, we could hear how fast the shuttle was moving. We shared and compared ideas about the comeback.
+I watched <mark style="background: #ABF7F7A6;">a badminton final</mark> in Beijing with my friend Stella last year. We both used to play badminton for fun at university, so we were excited to watch top players<mark style="background: #ABF7F7A6;"> in person</mark>. The arena was crowded and energetic. One player lost the first game and fell behind in the second, but then changed <mark style="background: #ABF7F7A6;">tactics</mark> and made a dramatic <mark style="background: #ABF7F7A6;">comeback</mark>. Every long <mark style="background: #ABF7F7A6;">exchange</mark> created enormous tension, and strangers around us cheered together. Even from far away, we could hear how fast the <mark style="background: #ABF7F7A6;">shuttle</mark> was moving.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
 I felt excited and surprisingly connected to the <mark style="background: #ABF7F7A6;">crowd</mark>. Television can show close-up details, but it cannot fully reproduce the <mark style="background: #ABF7F7A6;">warm and relaxed atmosphere</mark> of thousands of people responding at the same moment.
 
-The match also became a learning experience. Watching the player's positioning showed me that badminton is not simply about hitting hard. Stella and I discussed the tactics and played again the next weekend. Trying those ideas was fun and kept us talking about the match. Looking back, the final renewed an old interest and brought Stella and me closer. I'd watch another final if the tickets weren't too expensive.
+The match also became a <mark style="background: #ABF7F7A6;">learning</mark> experience. Watching the player's positioning showed me that badminton is not simply about <mark style="background: #ABF7F7A6;">hitting hard</mark>. Stella and I discussed the tactics and played again the next weekend. Trying those ideas was fun and kept us talking about the match. Looking back, the final <mark style="background: #ABF7F7A6;">renewed</mark> an old interest and brought Stella and me <mark style="background: #ABF7F7A6;">closer</mark>. I'd watch another final if the tickets weren't too expensive.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

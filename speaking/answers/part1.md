@@ -36,98 +36,98 @@
 
 ### ❤️ Topic 1: Clothing 👕
 
-**Q1: What clothes do you like wearing?**  
+**Q1: What clothes do you like wearing?**
 Personally speaking, I prefer **simple and casual clothes**, such as T-shirts and trainers, because they are comfortable and easy to match. I tend to **focus on what is genuinely useful** rather than following fashion trends, as I prefer **a calm and uncomplicated lifestyle**.
 
-**Q2: Do you prefer casual or smart clothes?**  
+**Q2: Do you prefer casual or smart clothes?**
 I prefer **casual clothes for daily life** because they make me feel relaxed and comfortable. That being said, I still choose **smart clothes for formal occasions** because **dressing appropriately** is important.
 
-**Q3: Do you like wearing T-shirts?**  
+**Q3: Do you like wearing T-shirts?**
 Yes, definitely. T-shirts are **practical and comfortable**, and they require **very little thought** when I am in a hurry. I usually **weigh up the practical benefits** rather than choosing something fashionable.
 
-**Q4: Do you spend much time choosing clothes?**  
+**Q4: Do you spend much time choosing clothes?**
 Not really. I keep **a fairly simple wardrobe** because I don't want to spend too much time deciding what to wear. **What matters most is** having comfortable clothes that suit my daily routine.
 
-**Q5: Do you wear different styles on weekdays and weekends?**  
+**Q5: Do you wear different styles on weekdays and weekends?**
 Yes, slightly. I dress more neatly for work, while at weekends I choose **looser and more relaxed clothing**. It gives me **some peaceful time to recharge** after a busy week.
 
-**Q6: What colours do you like?**  
+**Q6: What colours do you like?**
 I usually prefer grey, white and navy because they **look clean and are easy to coordinate**. I feel most comfortable with these simple colours because they match my lifestyle.
 
 ---
 
 ### ❤️ Topic 2: Singing 🎵
 
-**Q1: Do you like singing?**  
+**Q1: Do you like singing?**
 Yes, although I am **not particularly talented at singing**. I usually sing for fun because it helps me **release stress and improve my mood**.
 
-**Q2: Have you learnt how to sing?**  
+**Q2: Have you learnt how to sing?**
 No, I have never taken **formal lessons**. I simply **sing along with songs I like** and try to improve naturally over time.
 
-**Q3: Who would you like to sing for?**  
+**Q3: Who would you like to sing for?**
 Probably my close friends because I feel relaxed around **people I trust**. I enjoy **sharing simple experiences** with them rather than performing in front of strangers.
 
-**Q4: Can singing bring happiness?**  
+**Q4: Can singing bring happiness?**
 Absolutely. Singing is a simple way for people to **express emotions and connect with others**. It can also create **a positive atmosphere** when people sing together.
 
-**Q5: Do you like listening to other people sing?**  
+**Q5: Do you like listening to other people sing?**
 Yes, especially **live performances** because they feel more emotional and genuine. I always **try to keep an open mind** and appreciate different styles of music.
 
-**Q6: Have you taken a singing class?**  
+**Q6: Have you taken a singing class?**
 No, but I might try one in the future just for fun. I enjoy **building my skills over time** even though I am not trying to become a professional singer.
 
 ---
 
 ### ❤️ Topic 3: Headphones 🎧
 
-**Q1: Do you use headphones?**  
+**Q1: Do you use headphones?**
 Yes, almost every day. I use them for music, online meetings and English practice because they help me **stay focused in a noisy environment**.
 
-**Q2: What type do you use?**  
+**Q2: What type do you use?**
 I use **wireless noise-cancelling headphones** because they are convenient and practical. I usually make decisions with **real-life needs in mind**.
 
-**Q3: When do you use them?**  
+**Q3: When do you use them?**
 I mainly use them when commuting, exercising or studying English. They help me **stay focused during repetitive tasks**.
 
-**Q4: When would you not use them?**  
+**Q4: When would you not use them?**
 I avoid using them when I need to pay attention to my surroundings or communicate with others. Sometimes I also prefer **some peaceful time to recharge**.
 
-**Q5: Are headphones comfortable?**  
+**Q5: Are headphones comfortable?**
 Yes, mine are comfortable for a couple of hours, but after wearing them all day, they **start to feel a bit uncomfortable**.
 
 ---
 
 ### ❤️ Topic 4: Jokes and Comedies 😂
 
-**Q1: Are you good at telling jokes?**  
+**Q1: Are you good at telling jokes?**
 Not really. I am not naturally good at telling jokes, but I sometimes make simple comments to **make my friends laugh**.
 
-**Q2: Do your friends tell jokes?**  
+**Q2: Do your friends tell jokes?**
 Yes, especially Stella. She has **a positive sense of humour** and can easily **lighten the mood** when we are under pressure.
 
-**Q3: Do you like comedies?**  
+**Q3: Do you like comedies?**
 Yes, definitely. A good comedy helps me relax and temporarily **forget about my stress** after a busy day.
 
-**Q4: Have you watched a live show?**  
+**Q4: Have you watched a live show?**
 Yes, I once watched a stand-up comedy show in Beijing. The **interaction between performers and the audience** made the experience more memorable.
 
-**Q5: Are comedy shows popular in China?**  
+**Q5: Are comedy shows popular in China?**
 Yes, especially online comedy shows and short videos. They are popular because people can easily watch them during breaks and **share funny moments with others**.
 
 ---
 
 ### ❤️ Topic 5: Mirrors 🪞
 
-**Q1: Do you like looking at yourself in a mirror?**  
+**Q1: Do you like looking at yourself in a mirror?**
 I only check myself briefly before leaving home. For me, it is just **a practical habit** rather than something I spend much time on.
 
-**Q2: Have you ever bought a mirror?**  
+**Q2: Have you ever bought a mirror?**
 Yes, I bought a full-length mirror for my apartment because it makes **getting dressed more convenient**. I usually **weigh up the practical benefits** before buying things.
 
-**Q3: Do you carry a mirror?**  
+**Q3: Do you carry a mirror?**
 No, I don't. My phone camera is enough if I need to check my appearance quickly, so carrying an extra mirror is unnecessary.
 
-**Q4: Would you decorate a room with mirrors?**  
+**Q4: Would you decorate a room with mirrors?**
 Maybe one large mirror because it can make a small room feel brighter and more spacious. I prefer **a simple design** because I feel more comfortable in **a relaxed environment**.
 
 ### ❤️ Science 🔬 `[同桌英语 #06]`
@@ -427,47 +427,47 @@ A: We cycled in our neighbourhood and played simple outdoor games. Spending that
 
 **Q: What is most important to you now?**
 
-A: Rebuilding my career while looking after my health. I want to improve my skills steadily without becoming exhausted or neglecting my well-being. <!-- M03 M04 -->
+A: Rebuilding my career while looking after my <mark style="background: #ABF7F7A6;">health</mark>. I want to improve my skills steadily without becoming exhausted or neglecting my well-being. <!-- M03 M04 -->
 
 **Q: What are your plans for five years?**
 
-A: I hope to develop stronger AI skills and find flexible work with more creative freedom. To get there, I plan to complete several practical projects. <!-- M03 M14 -->
+A: <mark style="background: #ABF7F7A6;">I hope to </mark>develop stronger AI skills and find flexible work with more creative freedom. To get there, <mark style="background: #ABF7F7A6;">I plan to</mark> complete several practical projects. <!-- M03 M14 -->
 
 **Q: How do people remember life stages?**
 
-A: Mainly through photographs, familiar objects and stories. These things remind people of important experiences and the relationships they had at each stage. <!-- M09 -->
+A: Mainly through photographs, familiar objects and stories. These things remind people of important <mark style="background: #ABF7F7A6;">experiences and the relationships</mark> they had at each stage. <!-- M09 -->
 
 **Q: Do you enjoy your current age?**
 
-A: Yes. I understand myself better now, so I can make decisions with more confidence and maintain a healthier balance in life. <!-- M08 M19 -->
+A: Yes. I understand myself better now, so I can make <mark style="background: #ABF7F7A6;">decisions</mark> with more confidence and maintain a healthier balance in life. <!-- M08 M19 -->
 
 **Q: At what age are people happiest?**
 
-A: I do not think there is one perfect age. Happiness depends more on a person's health, relationships and sense of purpose. <!-- M04 M09 -->
+A: I do not think there is one perfect age. Happiness depends more on <mark style="background: #ABF7F7A6;">a person's health, relationships and sense of purpose</mark>. <!-- M04 M09 -->
 
 ### Views `[同桌英语 #20]`
 
 **Q: Do you photograph different views?**
 
-A: Yes, especially coastlines and city skylines. The photographs help me preserve vivid memories of the places I visit. <!-- M09 M17 -->
+A: Yes, especially coastlines and city skylines. The photographs help me preserve vivid <mark style="background: #ABF7F7A6;">memories</mark> of the places I visit. <!-- M09 M17 -->
 
 **Q: Do you prefer urban or rural views?**
 
-A: I prefer rural views because greenery and open space help me escape from busy city life and feel less stressed. <!-- M18 M19 -->
+A: I prefer rural views because <mark style="background: #ABF7F7A6;">greenery and open space</mark> help me escape from busy city life and feel less stressed. <!-- M18 M19 -->
 
 **Q: Do you prefer views in China or abroad?**
 
-A: I enjoy both for different reasons. Foreign scenery feels new and exciting, while Chinese landscapes often give me a stronger sense of familiarity. <!-- M10 M22 -->
+A: I enjoy both for different reasons. Foreign scenery feels <mark style="background: #ABF7F7A6;">new and exciting</mark>, while Chinese landscapes often give me a stronger sense of <mark style="background: #ABF7F7A6;">familiarity</mark>. <!-- M10 M22 -->
 
 **Q: Have you seen an unforgettable view?**
 
-A: Yes, the sunrise over the sea in Malaysia. The sky changed colour every few minutes, and the whole scene was incredibly peaceful. <!-- M17 M19 -->
+A: Yes, the sunrise over the sea in Malaysia. The sky changed colour every few minutes, and the whole scene was incredibly <mark style="background: #ABF7F7A6;">peaceful</mark>. <!-- M17 M19 -->
 
 ### Scenery `[同桌英语 #21]`
 
 **Q: Do you look at scenery while travelling?**
 
-A: Yes, almost all the time. Looking out of the window makes the journey more relaxing and lets me notice how the landscape gradually changes. <!-- M17 M19 -->
+A: Yes, almost all the time. Looking out of the window makes the journey more <mark style="background: #ABF7F7A6;">relaxing</mark> and lets me notice how the landscape gradually <mark style="background: #ABF7F7A6;">changes</mark>. <!-- M17 M19 -->
 
 **Q: Do you prefer mountains or the sea?**
 
@@ -475,17 +475,14 @@ A: I prefer the sea because I grew up in a coastal city. The sound of the waves 
 
 **Q: Do you take scenery pictures?**
 
-A: Yes, but I only take a few. I want to preserve the memory without spending the whole trip looking through a screen. <!-- M09 M20 -->
+A: Yes, but I only take a few. I want to preserve the memory without spending the whole trip <mark style="background: #ABF7F7A6;">looking through</mark> a screen. <!-- M09 M20 -->
 
-**Q: What beautiful sight have you seen?**
-
-A: The turquoise water near Semporna was unforgettable. It was far clearer and more colourful than it looked in photographs. <!-- M17 -->
 
 ### Childhood Activities `[同桌英语 #22]`
 
 **Q: What are your favourite activities?**
 
-A: My favourite activities are reading, walking and building small software projects. They give me a good balance between relaxation and learning. <!-- M03 M19 -->
+A: My favourite activities are reading, walking and building small software projects. They give me a good <mark style="background: #ABF7F7A6;">balance</mark> between relaxation and learning. <!-- M03 M19 -->
 
 **Q: What did you enjoy as a child?**
 
@@ -493,21 +490,21 @@ A: I enjoyed cycling with friends and playing simple outdoor games. They gave us
 
 **Q: Did you prefer activities alone or in groups?**
 
-A: I preferred activities in small groups. I was quite shy, but I still enjoyed sharing the experience with a few close friends. <!-- M09 -->
+A: I preferred activities in small groups. I was quite shy, but I still enjoyed <mark style="background: #ABF7F7A6;">sharing the experience</mark> with a few close friends. <!-- M09 -->
 
 **Q: Have your preferred activities changed?**
 
-A: Yes, they are much quieter now. Work can be demanding, so I prefer reading or walking because these activities help me recharge mentally. <!-- M04 M19 -->
+A: Yes, they are much <mark style="background: #ABF7F7A6;">quieter</mark> now. Work can be demanding, so I prefer reading or walking because these activities help me <mark style="background: #ABF7F7A6;">recharge mentally.</mark> <!-- M04 M19 -->
 
 ### Building `[同桌英语 #23]`
 
 **Q: Are there tall buildings near your home?**
 
-A: Yes, there are quite a few because I live in Beijing. They provide a lot of housing, although they can make the neighbourhood feel crowded. <!-- M18 -->
+A: Yes, there are quite a few because I live in Beijing. They provide a lot of <mark style="background: #ABF7F7A6;">housing</mark>, although they can make the neighbourhood feel <mark style="background: #ABF7F7A6;">crowded</mark>. <!-- M18 -->
 
 **Q: Do you photograph buildings?**
 
-A: Occasionally, especially when a building has distinctive architecture or looks beautiful in natural light. I enjoy recording unusual designs. <!-- M10 M17 -->
+A: Occasionally, especially when a building has distinctive architecture or looks beautiful in natural light. I enjoy recording <mark style="background: #ABF7F7A6;">unusual designs</mark>. <!-- M10 M17 -->
 
 **Q: Is there a building you want to visit?**
 

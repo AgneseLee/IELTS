@@ -41,7 +41,7 @@
 
 ### 正反论证练习
 - 正：教育提升收入潜力、促进社会流动。
-One notable advantage of education is its ability to improve individual payment and living standards. The main reason is that it equips students with practical skills through vocational education syllabus, allowing them to meet labour-market demands more easily and obtain higher salaries than those who lacks the particular job-related skills. In the long run, when more and more well-prepared students barge in the labour market across the nation, education thus improves social mobility and national productivity simultaneously. 
+One notable advantage of education is its ability to improve individual payment and living standards. The main reason is that it equips students with practical skills through vocational education syllabus, allowing them to meet labour-market demands more easily and obtain higher salaries than those who lacks the particular job-related skills. In the long run, when more and more well-prepared students barge in the labour market across the nation, education thus improves social mobility and national productivity simultaneously.
 
 - 反：教育竞争可能加剧心理压力和家庭经济负担。
 Nevertheless, it is important to recognize educational competition can produce harmful effects on both families and students' well-beings. A central problem is that the intense competitions among students introduce higher performance demands, which places additional pressure on students who are already subjected to heavy study loads. On the other hand, excessive after-school tutoring, which are usually supposed to be expensive, may impose extra financial burdens on students' parents. As a consequence, educational competition may undermine both students and their parents' well-beings , instead of delivering the intended benefits.
@@ -378,8 +378,17 @@ Nevertheless, excessive government intervention may **have harmful effects on th
 
 ### 正反论证练习
 - 正：旅游促进经济和文化交流。
-
 - 反：旅游造成拥挤、污染和文化商业化。
+
+One notable advantage of developing tourism is its ability to promote regional economic growth from the ground up. The main reason is that tourists would spend a great deal of money on accommodation, food and transport, which directly improve local business revenue. When local companies receive more orders, they then hire more local residents, thereby leading to individual and families' higher quality of live. Unlike other approaches simply addressing surface-level issues, this method works by improving more job opportunities and tax income. In the long run, tourism could become a sustainable driver of the local economy.
+
+Nevertheless, this advantage is short-lived, as the initial economic growth quickly fades once visitor numbers exceed environmental capacity. Because overcrowded tourism may cause greater resource use and produce more environmental pollution if the government dose not improve public services by allocating proportionate funds towards it. The positive economic gains are difficult to sustain when these issues accumulate. As a result, constant environmental pressure not only poses serious challenges to local ecosystem but also probably declines the long-term appeal of the destination if the environment keeps deteriorating.
+
+#### 批改版
+
+One notable advantage of developing tourism is its ability to promote regional economic growth from the ground up. **The main reason is that tourists spend a great deal of money on accommodation, food and transport, which directly increases the revenue of local businesses.** **When local companies receive more orders, they hire more residents, thereby improving the quality of life of local individuals and families.** **Furthermore, tourism generates additional tax revenue that local authorities can reinvest in infrastructure and public services.** In the long run, tourism could become a sustainable driver of the local economy.
+
+**Nevertheless, these benefits may be short-lived if visitor numbers exceed the destination's environmental capacity.** **Overcrowding can increase resource consumption and generate more pollution, especially if the government does not expand public services by allocating sufficient tourism revenue to them.** **As these problems accumulate, the destination may become less attractive, discouraging repeat visits and making the initial economic gains difficult to sustain.** **As a result, persistent environmental pressure not only poses serious challenges to local ecosystems but also undermines the long-term appeal of the destination.**
 
 ### 扩写任务
 

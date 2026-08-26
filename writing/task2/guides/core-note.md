@@ -298,3 +298,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 
 - `excessive government intervention → higher compliance and administrative costs → resources diverted away from research and development → weaker business innovation`
 - `disproportionate pressure on smaller or financially constrained firms → weaker market competition → lower overall economic efficiency`
+
+## 旅游业：地方经济增长与环境承载力
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `which directly improve local business revenue` | `which directly increases the revenue of local businesses` | `which` 指代前面的旅游消费这一整体事实，谓语用单数；后者搭配也更自然。 |
+| `individual and families' higher quality of live` | `a higher quality of life for individuals and families` | 固定表达是 `quality of life`；并列名词和所有格也需保持一致。 |
+| `improve more job opportunities and tax income` | `create more job opportunities and generate additional tax revenue` | 机会用 `create`，政府税收用 `tax revenue`；`improve opportunities/income` 在此搭配不当。 |
+| `environmental capacity` | `the destination's environmental capacity` / `the environmental carrying capacity of the destination` | 明确承载力属于旅游目的地，含义更完整。 |
+| `the government dose not` | `the government does not` | `does` 拼写错误。 |
+| `allocating proportionate funds towards it` | `allocating sufficient tourism revenue to public services` | 原指代不清，且 `allocate funds to` 是更自然的搭配。 |
+| `pressure ... declines the appeal` | `pressure ... undermines/reduces the appeal` | `decline` 通常作不及物动词，不能直接接宾语 `appeal`。 |
+
+### 可复用逻辑链与搭配
+
+- `tourist spending on accommodation, food and transport → higher revenue for local businesses → more local employment → higher household incomes and living standards`
+- `tourism-related tax revenue → reinvestment in infrastructure and public services → stronger local capacity → more sustainable economic growth`
+- `visitor numbers exceed environmental capacity → heavier resource use and pollution → environmental deterioration → weaker destination appeal → fewer repeat visits and lower tourism revenue`

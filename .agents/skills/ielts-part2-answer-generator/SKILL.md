@@ -60,7 +60,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 3. Ability natural：用具体行动证明能力。能力名称可出现，但仅在表达自然时使用；不得为展示框架硬塞。
 4. One idea per sentence：目标 8–18 词；超过 22 词时检查能否拆分。
 5. Everyday wording：优先常用动词、缩写及 `but / so / because / even so`；避免名词堆叠和正式连接词。
-6. Clear bridge：相邻反思句自然回答 `why / so what / what changed`；不得从能力突然跳到抽象结论。
+6. Clear logic：反思内容按 `观点 → 理由/证据 → 结果` 推进，并自然回答 `why / so what / what changed`。检查主语与动作、因果关系及连接词含义；`and/while` 表示兼容关系，`but` 只表示真实转折。不得出现矛盾、逻辑跳跃或未解决的冲突。
 7. Read-aloud test：若一句需要重读、像中文直译或平时不会说，立即简化。
 8. Remove meta-language：删除解释答案结构、能力框架或为能力贴标签的句子。
 

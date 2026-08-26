@@ -34,7 +34,9 @@ I had to change a plan during my Malaysia trip with Stella last May. We had book
 <!-- REFLECTION_START -->
 I initially felt frustrated, but by evening I was pleased. The new plan gave us a more <mark style="background: #ABF7F7A6;">authentic cultural experience</mark>.
 
-The event improved my adaptability because <mark style="background: #ABF7F7A6;">flexibility</mark> was more useful than protecting a perfect plan. It also encouraged us to think <mark style="background: #ABF7F7A6;">creatively</mark>, as we had to make the most of our limited time, the ingredients we could find, and the vendor's local knowledge. I now keep simple backup ideas, which reduce stress without making travel <mark style="background: #ABF7F7A6;">rigid</mark>. Looking back, the cancelled boat changed the day's focus rather than ruining it. An unexpected problem can broaden my horizons when I <mark style="background: #ABF7F7A6;">adjust my approach</mark>. Stella and I still laugh about our imperfect dish, so the replacement left<mark style="background: #ABF7F7A6;"> a lasting impression</mark> on both of us personally.
+The experience taught me that <mark style="background: #ABF7F7A6;">flexibility</mark> mattered more than making everything perfect. That mindset helped us think <mark style="background: #ABF7F7A6;">creatively</mark>. We used the time and ingredients we had, following the vendor's advice. Now I keep a <mark style="background: #ABF7F7A6;">backup</mark> idea in mind, which reduces stress without making trips <mark style="background: #ABF7F7A6;">rigid</mark>.
+
+Looking back, the cancelled boat didn't ruin the day; it simply led to something different. It showed me that with a different approach, problems can actually help me grow. Even so,  Stella and I still laugh about our dish, so the day <mark style="background: #ABF7F7A6;">left a lasting impression</mark> on both of us.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

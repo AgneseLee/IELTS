@@ -506,23 +506,23 @@ A: Yes, there are quite a few because I live in Beijing. They provide a lot of <
 
 A: Occasionally, especially when a building has distinctive architecture or looks beautiful in natural light. I enjoy recording <mark style="background: #ABF7F7A6;">unusual designs</mark>. <!-- T01 T08 -->
 
-**Q: Is there a building you want to visit?**
+**Q: 🥕Is there a building you want to visit?**
 
-A: I would like to revisit a nearby art museum. Its spacious interior is practical, but it also creates a calm atmosphere for enjoying the artwork. <!-- T08 T10 -->
+A: I would like to revisit a nearby art museum. Its <mark style="background: #ABF7F7A6;">spacious interior</mark> is practical, but it also creates a calm atmosphere for enjoying the artwork. <!-- T08 T10 -->
 
 **Q: Do you want to live in a tall building?**
 
-A: I would prefer a middle floor. It would give me a good view without making me completely dependent on lifts. <!-- T06 T10 -->
+A: I would prefer<mark style="background: #ABF7F7A6;"> a middle floor.</mark> It would give me a nice view without making me rely completely on elevators. <!-- T06 T10 -->
 
 ### Typing `[同桌英语 #24]`
 
 **Q: Do you prefer typing or handwriting?**
 
-A: I prefer typing because it is faster and lets me edit or reorganise ideas easily. It is simply more efficient for my work. <!-- T06 -->
+A: I prefer typing because it is faster and lets me edit or reorganise ideas easily. It is simply more <mark style="background: #ABF7F7A6;">efficient</mark> for my work. <!-- T06 -->
 
 **Q: Do you type every day?**
 
-A: Yes, for several hours a day because I am a software engineer. It is an essential part of both my work and English study. <!-- T01 -->
+A: Yes, for several hours a day because I am a software engineer. It is an essential part of both my work and my English study. <!-- T01 -->
 
 **Q: When did you learn to type?**
 
@@ -530,7 +530,7 @@ A: I started in secondary school when my family bought its first computer. My ty
 
 **Q: How do you improve typing?**
 
-A: I focus on accuracy first and practise using keyboard shortcuts. With regular practice, the movements become automatic and my speed improves naturally. <!-- T01 -->
+A: I focus on <mark style="background: #ABF7F7A6;">accuracy</mark> first, then practise keyboard shortcuts. With regular practice, the movements become automatic, and my speed improves naturally. <!-- T01 -->
 
 ### Hobby `[同桌英语 #25]`
 
@@ -544,7 +544,7 @@ A: Yes, I enjoyed cycling and drawing simple pictures. They gave me a creative b
 
 **Q: Have you kept a hobby since childhood?**
 
-A: Reading is the main one. The subjects have changed over time, but it still helps me discover new ideas and relax. <!-- T01 T08 -->
+A: Reading is the main one. The <mark style="background: #ABF7F7A6;">subjects</mark> have changed over time, but it still helps me discover new ideas and relax. <!-- T01 T08 -->
 
 **Q: Do you share hobbies with your family?**
 
@@ -554,19 +554,19 @@ A: Yes. My mother and I both enjoy walking, so we often do it together when I vi
 
 **Q: Have you been part of a sports team?**
 
-A: Yes, I played badminton doubles at university. It taught me to communicate with my partner and take responsibility for our shared result. <!-- T03 -->
+A: Yes, I played <mark style="background: #ABF7F7A6;">badminton doubles </mark>at university. It taught me to communicate with my partner and take responsibility for our shared result. <!-- T03 -->
 
 **Q: Are team sports popular in China?**
 
-A: Yes, especially basketball and football among students. They combine physical exercise with teamwork and social interaction. <!-- T02 T03 -->
+A: Yes, especially basketball and football among students. They <mark style="background: #ABF7F7A6;">combine</mark> physical exercise with teamwork and social interaction. <!-- T02 T03 -->
 
 **Q: Do you like watching team games?**
 
-A: Occasionally. Close matches are exciting because the players have to communicate well and make quick decisions under pressure. <!-- T03 -->
+A: Occasionally. Close matches are exciting because the players have to communicate well and make quick <mark style="background: #ABF7F7A6;">decisions</mark> under pressure. <!-- T03 -->
 
 **Q: How are team and individual sports different?**
 
-A: Team sports require communication and shared responsibility, while individual sports give people more personal control. I enjoy both, but for different reasons. <!-- T03 -->
+A: Team sports require <mark style="background: #ABF7F7A6;">communication and shared responsibility</mark>, while individual sports give people more <mark style="background: #ABF7F7A6;">personal control</mark>. I enjoy both, but for different reasons. <!-- T03 -->
 
 ### Reading `[同桌英语 #27]`
 

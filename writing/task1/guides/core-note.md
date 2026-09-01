@@ -137,14 +137,14 @@ Related templates:
 
 **描述某时间点的数值（`stood at` 的替换）：**
 
-| 写法 | 正确？ |
-|---|---|
-| `stood at 30m` | ✓ |
-| `reached 30m` | ✓ |
-| `was recorded at 30m` | ✓ 被动语态 |
-| `registered 30m` | ✓ |
-| `recorded at 30m` | ✗ `recorded` 是及物动词，缺宾语 |
-| `recorded a figure of 30m` | ✓ 补上宾语即可 |
+| 写法                         | 正确？                    |
+| -------------------------- | ---------------------- |
+| `stood at 30m`             | ✓                      |
+| `reached 30m`              | ✓                      |
+| `was recorded at 30m`      | ✓ 被动语态                 |
+| `registered 30m`           | ✓                      |
+| `recorded at 30m`          | ✗ `recorded` 是及物动词，缺宾语 |
+| `recorded a figure of 30m` | ✓ 补上宾语即可               |
 
 #### `figure` / `proportion` / `allocation` 正确用法
 
@@ -203,7 +203,7 @@ Overall（整体趋势 + 最大对比，两句）
 
 分组示例（Test3 bar chart）：
 - 上升组：leisure 9→22%，housing 10→19%，transport 8→14%
-- 下降组：food 35→17%，clothing 10→5%，fuel & power 略降
+- 下降组：food 35→17%，clothing 10→5%，personal goods 8→4%，fuel & power 6→4%
 - 不变：household goods ~8%
 
 衔接词是辅助，不是救场工具。分组清晰后衔接自然到位。
@@ -252,12 +252,32 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 排名始终领先时用 `remained the most popular` 或 `consistently recorded the highest figure`。`overtook` 只用于原本落后、后来反超的交叉走势。
 
+#### 环比变化率：线下降不等于价格下降
+
+当纵轴表示 `percentage change compared with the previous month` 时，线条显示的是**变化率**而不是实际价格：
+
+- 变化率从 `6%` 降到 `1%`：价格仍较上月上涨，只是 `the rate of increase slowed`；不能直接写 `the price fell`。
+- 变化率为 `0%`：价格与上月相同。
+- 变化率为 `-3%`：价格较上月下降 3%，可写 `the price fell by 3% compared with the previous month`。
+
+因此，描述线本身时优先用 `the rate of change fell to...`；只有数值跌破零后，才能据此说当月实际价格下降。
+
 #### 比较结构
 
 | 错误                             | 修正                                       | 原因                      |
 | ------------------------------ | ---------------------------------------- | ----------------------- |
 | `became slower than they were` | `decelerated compared to their X levels` | `slower than` 后须接同类比较对象 |
 | `throughout the most of`       | `throughout most of`                     | `most of` 前无冠词          |
+
+#### 地图题的过去时间标记
+
+`before` 和 `ago` 不要重复使用：
+
+- ✗ `Before 20 years ago, the seating area...`
+- ✓ `Twenty years ago, the seating area...`
+- ✓ `In the previous layout, the seating area...`
+
+若写 `before`，后面应接另一个过去时间点或事件，例如 `before the library was renovated`。
 
 #### 冗余动词堆叠
 

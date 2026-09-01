@@ -30,11 +30,11 @@ I'd like to recommend Semporna, a coastal area in Sabah, Malaysia. Stella and I 
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-At first, free diving felt <mark style="background: #ABF7F7A6;">uncomfortable</mark> because I was not used to controlling my breathing underwater. I stayed close to the instructor, moved slowly, and stopped trying to go deeper. Once I <mark style="background: #ABF7F7A6;">adjusted</mark> my approach, I relaxed and enjoyed the view.
+I would recommend Semporna to others because it <mark style="background: #ABF7F7A6;">combines</mark> beautiful scenery with memorable outdoor activities.
 
-The experience made me more <mark style="background: #ABF7F7A6;">confident</mark> about unfamiliar outdoor activities. Seeing a sea turtle in its natural environment also made plastic waste feel like <mark style="background: #ABF7F7A6;">a real threat</mark>, not an abstract issue.
+Freediving helped me step outside my <mark style="background: #ABF7F7A6;">comfort zone</mark> without feeling overwhelmed. The trip improved my <mark style="background: #ABF7F7A6;">adaptability</mark> because I had to control my breathing, follow safety instructions, and adjust my approach. Each small success made me more <mark style="background: #ABF7F7A6;">confident</mark>.
 
-I recommend Semporna because it <mark style="background: #ABF7F7A6;">combines</mark> natural beauty with a chance to step outside your comfort zone. However, visitors should choose responsible guides and never touch coral or wildlife. For me, respecting the place turns an <mark style="background: #ABF7F7A6;">exciting</mark> trip into a <mark style="background: #ABF7F7A6;">meaningful</mark> one.
+More importantly, Semporna broadened my <mark style="background: #ABF7F7A6;">horizons</mark>. I realised a beautiful destination does not have to treat wildlife as entertainment. The islands <mark style="background: #ABF7F7A6;">felt real</mark>, not like somewhere built just for tourists. Looking back, that week left a lasting impression because it made unfamiliar outdoor activities feel manageable.  I would happily return for a longer stay.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

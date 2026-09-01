@@ -30,11 +30,11 @@ The person I'd like to describe is my mother, a retired accountant who lives in 
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-She loves gardening because it gives her a <mark style="background: #ABF7F7A6;">calm</mark> rhythm after retirement. She notices a new leaf or the first tomato turning red. Each harvest gives her a sense of <mark style="background: #ABF7F7A6;">achievement</mark>.
+She loves gardening because it gives her a <mark style="background: #ABF7F7A6;">calm</mark> rhythm after retirement. She is always fascinated by new leaves and tomatoes turning red. Each harvest gives her a sense of <mark style="background: #ABF7F7A6;">achievement</mark>.
 
 What impresses me is her <mark style="background: #ABF7F7A6;">flexibility</mark>. When rain damaged the plants, she did not follow the same routine. She <mark style="background: #ABF7F7A6;">observed</mark> the problem and <mark style="background: #ABF7F7A6;">adjusted</mark> her approach.
 
-Watching her encouraged me to grow <mark style="background: #ABF7F7A6;">herbs</mark> beside my window in Beijing. I gave them too much water, so I followed her <mark style="background: #ABF7F7A6;">advice</mark> and changed the sunlight and water. They began growing better. Seeing that change helped me <mark style="background: #ABF7F7A6;">understand</mark> why she enjoys gardening. Small improvements make the daily care feel <mark style="background: #ABF7F7A6;">worthwhile</mark>.
+Watching her encouraged me to grow <mark style="background: #ABF7F7A6;">herbs</mark> beside my window in Beijing. I gave them too much water, so I followed her <mark style="background: #ABF7F7A6;">advice</mark> and changed the amount of sunlight and water. They began growing better. Even Small improvements make the daily care feel <mark style="background: #ABF7F7A6;">worthwhile</mark>. Seeing that change helps me <mark style="background: #ABF7F7A6;">understand</mark> why she enjoys gardening.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

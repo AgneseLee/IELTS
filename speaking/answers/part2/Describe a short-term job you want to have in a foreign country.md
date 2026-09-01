@@ -8,35 +8,35 @@
 > - What the job is
 > - And explain why you want to do it
 
-> Bank: B4 | Modules: Malaysia-contract / software / cultural-immersion
+> Bank: B4 | Modules: software-consultant / Malaysia-contract / manageable-steps
 
 ## 1. Core Ability Mapping
 
-- Primary Ability: Adaptability
-- Reason: I would adjust to a new team, a different communication style, and daily life abroad during a focused three-month contract.
-- Secondary Ability: Communication Skills
-- Reason: I would clarify requirements in English and train local staff to maintain the software after I left.
+- Primary Ability: Learning Ability
+- Reason: I would improve my AI and client-management skills through a real overseas project and feedback.
+- Secondary Ability: Adaptability
+- Reason: A three-month contract would let me test an international career in manageable steps without making a permanent move.
 
 ## 2. Story Bank
 
-- Who/What: A three-month software contract with a local start-up in Malaysia.
-- Background: I learned about this kind of role through former colleagues and had already visited Malaysia with Stella.
-- Main event: I would help build a tourism app and show local staff how to maintain it.
-- Ability shown: Adapting quickly while communicating technical ideas clearly.
-- Reflection: The role would offer real international experience without requiring a permanent move.
+- Who/What: A three-month contract as an independent software consultant in Malaysia.
+- Background: I learned about this career from former colleagues who worked with overseas start-ups.
+- Main event: I would build a small AI application, improve my client-management skills, and ask for feedback.
+- Ability shown: Learning through a practical project and testing a career plan in manageable steps.
+- Reflection: The contract would combine professional growth and cultural experience without requiring a permanent move.
 
 ## 3. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The short-term job I'd like is a three-month software contract in Malaysia. I heard about this kind of role from former colleagues who had worked with overseas start-ups. I have also visited Malaysia with my friend Stella, so the country feels somewhat familiar. I would join a local team and help build a simple tourism app. My main tasks would be writing code, discussing features in English, and training local staff to maintain the app. I would prefer a three-month contract because it is long enough to do useful work but still has a clear end date.
+The short-term job I'd like is a three-month software contract in Malaysia. I learned about this career from former colleagues who worked with overseas start-ups. After eight years in software engineering, I still enjoy technical work, but I want <mark style="background: #ABF7F7A6;">more control over</mark> the projects I choose. I would join a local team as <mark style="background: #ABF7F7A6;">an independent software consultant</mark> and work on a small AI project. I would improve my AI knowledge and client-management skills through the project. I would also ask my former colleagues for feedback and save<mark style="background: #ABF7F7A6;"> an emergency fund.</mark>
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I want the job because it combines professional growth with cultural experience. Working there would show me ordinary routines and different working styles.
+I want the job because it combines <mark style="background: #ABF7F7A6;">freedom</mark>, professional growth and cultural experience without ignoring <mark style="background: #ABF7F7A6;">financial responsibility</mark>.
 
-It would also test my adaptability. I might face unfamiliar expectations, so I would ask clear questions and adjust my approach instead of guessing. Training local staff would improve my communication because I would need to explain technical ideas simply.
+My move into software gave me <mark style="background: #ABF7F7A6;">confidence</mark> because I improved through practice, projects and feedback. It showed me that <mark style="background: #ABF7F7A6;">abilities develop</mark> over time, so I can use the same process to learn AI and client-management skills.
 
-Living away from my family would be challenging. Before accepting, I would confirm the accommodation and working hours. Even without a permanent offer, the job could broaden my professional network and build my confidence with international clients. Three months feels like real commitment without a permanent move.
+The goal has also changed <mark style="background: #ABF7F7A6;">how I learn</mark>. Instead of taking random courses, I now choose practical projects that target my <mark style="background: #ABF7F7A6;">weaknesses</mark>. Malaysia already feels familiar from my trip with Stella, but working there would show me different routines and working styles. A three-month contract would let me test the career plan with less risk before considering a permanent move.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations
@@ -44,8 +44,8 @@ Living away from my family would be challenging. Before accepting, I would confi
 - feel understood and supported
 - focus on what I could control
 - manageable steps
-- adapt effectively to an international workplace
-- short-term cultural immersion
-- broaden my professional network
-- a three-month software contract
-- explain technical ideas clearly
+- built over time
+- focused practice
+- useful feedback
+- continuous learning
+- financial preparation

@@ -30,7 +30,7 @@ A place where I enjoy shopping is <mark style="background: #ABF7F7A6;">the Weeke
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Talking to sellers helps me understand different <mark style="background: #ABF7F7A6;">perspectives</mark> and hear stories behind their work. I can then choose a personal gift rather than buy something <mark style="background: #ABF7F7A6;">generic</mark>. These conversations have also taught me to ask clear questions and listen actively.
+Talking to sellers helps me understand different <mark style="background: #ABF7F7A6;">perspectives</mark> and hear stories behind their work. I can then choose a personal gift rather than buy something <mark style="background: #ABF7F7A6;">generic</mark>.
 
 The market has also made me less <mark style="background: #ABF7F7A6;">impulsive</mark>. I set a modest budget and consider whether someone would actually use an item. As a result, I buy less and avoid unnecessary spending. Buying directly from local artists also supports their work and can build a meaningful <mark style="background: #ABF7F7A6;">connection</mark>. I usually leave with only one or two items, but each purchase feels useful and memorable.
 <!-- REFLECTION_END -->

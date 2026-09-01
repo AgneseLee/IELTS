@@ -32,9 +32,9 @@ The person I'd like to describe is Stella, whom I met about three years ago when
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I admire her <mark style="background: #ABF7F7A6;">discipline</mark> and her <mark style="background: #ABF7F7A6;">attitude</mark> towards mistakes. She treats them as feedback instead of evidence that she lacks talent.
+I admire her <mark style="background: #ABF7F7A6;">discipline</mark> and her <mark style="background: #ABF7F7A6;">attitude</mark> towards mistakes. She treats them as feedback instead of evidence that she lacks talent. She cares more about meaning than <mark style="background: #ABF7F7A6;">perfect</mark> grammar.
 
-Her routine shows <mark style="background: #ABF7F7A6;">learning ability</mark> because she combines daily exposure, consistent practice, and real communication. She listens actively, adjusts her wording, and cares more about meaning than <mark style="background: #ABF7F7A6;">perfect</mark> grammar. Her example <mark style="background: #ABF7F7A6;">changed</mark> my English study. I used to collect advanced vocabulary but hesitate when speaking. Now I retrieve familiar phrases under time pressure and request correction only when a mistake blocks meaning. Practice has become more useful. Stella reminds me that <mark style="background: #ABF7F7A6;">confidence</mark> does not arrive before we speak; it grows through repeated use. Her progress genuinely motivates me.
+Her example <mark style="background: #ABF7F7A6;">changed</mark> my English study. I used to collect advanced vocabulary but hesitate when speaking. Now I retrieve familiar phrases and request correction only when a mistake blocks meaning. Practice has become more useful. Stella reminds me that <mark style="background: #ABF7F7A6;">confidence</mark> does not arrive before we speak; it grows through repeated use. Her progress genuinely motivates me.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

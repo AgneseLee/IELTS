@@ -26,7 +26,7 @@
 ## 3. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-A tall building I like is an office skyscraper near my former workplace in Beijing. Stella and I visited it for meetings. It has a glass exterior, a bright lobby, and upper floors with a wide city view. The building mainly <mark style="background: #ABF7F7A6;">contains</mark> offices, along with a few cafés and shared meeting rooms. What I liked most was the natural light and view from the upper floors. However, the lifts were often <mark style="background: #ABF7F7A6;">packed</mark> at rush hour, and the offices sometimes felt <mark style="background: #ABF7F7A6;">stuffy</mark> because the windows could not be opened. Even so, I still liked the building overall.
+A tall building I like is <mark style="background: #ABF7F7A6;">an office skyscraper</mark> near my former workplace in Beijing. Stella and I used to visit it for meetings. It has a glass exterior, a bright lobby, and upper floors with a wide city view. The building mainly <mark style="background: #ABF7F7A6;">contains</mark> offices, cafés and shared meeting rooms. What I like most is the natural light and view from the upper floors. However, the lifts are often <mark style="background: #ABF7F7A6;">packed</mark> at rush hour, and the offices sometimes feel <mark style="background: #ABF7F7A6;">stuffy</mark> because the windows cannot be opened. Even so, I still like the building overall.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->

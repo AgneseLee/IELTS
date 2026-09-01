@@ -35,6 +35,7 @@ At first, I felt <mark style="background: #ABF7F7A6;">annoyed</mark> with myself
 More importantly, I changed my travel routine. I now test equipment in advance, usually several days before leaving. If something needs replacing, I can compare prices and <mark style="background: #ABF7F7A6;">make informed decisions at home.</mark>
 
 This experience improved my <mark style="background: #ABF7F7A6;">problem-solving skills</mark> in a small but practical way. I learned to identify why a decision went wrong and prevent the same <mark style="background: #ABF7F7A6;">mistake</mark>. The extra 500 yuan was painful. I did need headphones, but I didn't have to buy the first pair I saw.
+Looking back, the extra 500 yuan taught me not to make decisions in a hurry.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

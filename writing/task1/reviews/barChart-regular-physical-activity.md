@@ -116,4 +116,4 @@ Overall, women **had higher participation rates** than men in most age groups, e
 
 Looking first at the **age groups with the greatest gender gaps**, **women aged 45 to 54 and 35 to 44** represented 53.3% and 52.5%, respectively, compared with 43.1% and 39.5% for men. The **25-to-34 and 55-to-64 groups** followed a similar pattern, at 48.9% and 53% for women, **against 42.2% and 45.1% for men**.
 
-By contrast, the percentages **were almost even among those aged 65 and over**, with 46.7% for **men** and 47.1% for women. The **15-to-24 group** showed the reverse trend, **with men at 52.8%, whereas the figure for women was 47.7%**.
+By contrast, the percentages **were almost even among those aged 65 and over**, with 46.7% for **men** and 47.1% for women. The **15-to-24 group** <mark style="background: #ABF7F7A6;">showed the reverse trend</mark>, **with men at 52.8%, whereas the figure for women was 47.7%**.

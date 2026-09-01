@@ -30,9 +30,9 @@ The event was<mark style="background: #ABF7F7A6;"> an outdoor music festival</ma
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I felt <mark style="background: #ABF7F7A6;">disappointed</mark>, but I did not blame the musicians because the poor sound and overcrowded venue were the real problems.
+I felt <mark style="background: #ABF7F7A6;">disappointed</mark>, but I did not blame the musicians because the poor sound and overcrowded venue were the real problems. The experience taught me that the venue matters just as much as the band. Next time, I would check reviews, stay <mark style="background: #ABF7F7A6;">farther</mark> from the speakers, and find a quieter area.
 
-I was honest with Stella instead of <mark style="background: #ABF7F7A6;">pretending</mark> to enjoy myself. Clear <mark style="background: #ABF7F7A6;">communication</mark> helped her understand, so there was no <mark style="background: #ABF7F7A6;">misunderstanding</mark> between us. The experience taught me that the venue matters just as much as the band. Next time, I would check reviews, stay <mark style="background: #ABF7F7A6;">farther</mark> from the speakers, and find a quieter area. Looking back, a <mark style="background: #ABF7F7A6;">lively atmosphere</mark> can be exciting, but not when the crowd and noise make the music impossible to enjoy. I like live performances, though I now prefer <mark style="background: #ABF7F7A6;">smaller indoor venues</mark> where the music remains the main focus.
+Looking back, a <mark style="background: #ABF7F7A6;">lively atmosphere</mark> can be exciting, but not when the <mark style="background: #ABF7F7A6;">crowd and noise</mark> make the music impossible to enjoy. I like live performances, though I now prefer <mark style="background: #ABF7F7A6;">smaller indoor venues</mark> where the music remains the main focus.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

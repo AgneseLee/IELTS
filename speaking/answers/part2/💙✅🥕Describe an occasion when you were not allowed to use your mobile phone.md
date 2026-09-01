@@ -32,9 +32,9 @@ The occasion was <mark style="background: #ABF7F7A6;">a special art exhibition <
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-By the end, the restriction felt <mark style="background: #ABF7F7A6;">reasonable</mark>. It protected the artwork and gave me a genuine <mark style="background: #ABF7F7A6;">break</mark> from my busy daily routine.
+By the end, the restriction felt <mark style="background: #ABF7F7A6;">reasonable</mark>. It protected the artwork and gave me a genuine <mark style="background: #ABF7F7A6;">break</mark> from my busy daily routine. I also realised that <mark style="background: #ABF7F7A6;">talking about the paintings</mark> helped me remember them better than taking photos I would probably never look at again.
 
-It taught me to be more <mark style="background: #ABF7F7A6;">flexible</mark> because I stopped complaining and simply followed the rule. I also realised that <mark style="background: #ABF7F7A6;">talking about the paintings</mark> helped me remember them better than taking photos I would probably never look at again. Looking back, technology is useful, but constant access can weaken <mark style="background: #ABF7F7A6;">concentration</mark>. Some visitors need phones for translation, so this rule would not work in every museum. Still, putting my phone away helped me relax and focus on the art. I was there to enjoy it, not to take photos for social media.
+Looking back, technology is useful, but constant access can weaken <mark style="background: #ABF7F7A6;">concentration</mark>. Some visitors need phones for translation, so this rule would not work in every museum. Still, putting my phone away helped me relax and focus on the art. I was there to enjoy it, not to take photos for social media.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

@@ -192,7 +192,7 @@
 ### [New York population](../reviews/tables-new-york-population.md)
 
 > **原：** The first table illustrates how the New York’s total population changed between 1800 and 2000. And the other two tables show population and breakdown of total population in 5 districts over the same period.
-> **改：** The tables show how New York City's total population changed in 1800, 1900 and 2000, alongside the populations and percentage shares of Manhattan and the other four districts combined.
+> **改：** The tables show how New York City's total population changed in 1800, 1900 and 2000, alongside the populations and <mark style="background: #ABF7F7A6;">percentage shares</mark> of Manhattan and the other four districts combined.
 
 **问题：** `the New York's` 所有格错误；不要用 `And` 单独开句；后两表不是分别列出五区，而是 Manhattan 与其余四区合计。
 

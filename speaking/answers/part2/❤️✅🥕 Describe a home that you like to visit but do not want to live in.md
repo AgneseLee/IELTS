@@ -30,7 +30,9 @@ The home I enjoy visiting is Stella's apartment in<mark style="background: #ABF7
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-For a short visit, the apartment feels <mark style="background: #ABF7F7A6;">bright and comfortable</mark>. But living there every day would be different. Waiting for crowded lifts would get tiring, and the stuffy rooms would bother me over time. I also feel more comfortable living <mark style="background: #ABF7F7A6;">closer to the ground</mark>. That is why I enjoy visiting but would not move there. The place helped me think more carefully about what I need from a home. A beautiful view is nice, but fresh air and easy access matter more to me. Now, when I look at an apartment, I imagine <mark style="background: #ABF7F7A6;">a normal weekday</mark> instead of judging it from photos. That simple habit helps me make more <mark style="background: #ABF7F7A6;">practical choices</mark>.
+For a short visit, the apartment feels <mark style="background: #ABF7F7A6;">bright and comfortable</mark>. But living there every day would be different. Waiting for crowded lifts would get tiring, and the stuffy rooms would bother me over time. I also feel more comfortable living <mark style="background: #ABF7F7A6;">closer to the ground</mark>. That is why I enjoy visiting but would not move there.
+
+The place helped me think more carefully about what I need from a home. A beautiful view is nice, but fresh air and easy access matter more to me. Now, when I look at an apartment, I imagine <mark style="background: #ABF7F7A6;">a normal weekday</mark> instead of judging it from photos. That simple habit helps me make more <mark style="background: #ABF7F7A6;">practical choices</mark>.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

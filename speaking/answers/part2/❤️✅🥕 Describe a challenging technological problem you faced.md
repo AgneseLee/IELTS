@@ -30,13 +30,12 @@
 <!-- NARRATIVE_START -->
 The problem happened at my former company before <mark style="background: #ABF7F7A6;">an important project presentation</mark>. My laptop had installed an update overnight and then<mark style="background: #ABF7F7A6;"> refused to start</mark>. It was challenging because the meeting began in forty minutes and all my slides were on that device. Instead of restarting it repeatedly, I checked my cloud storage and found <mark style="background: #ABF7F7A6;">a recent backup</mark>. Stella lent me her laptop, so I downloaded the slides, restored two missing images, and tested the connection. We started only a few minutes late.
 
-What impressed me most was how staying <mark style="background: #ABF7F7A6;">calm</mark> made the solution easier to see.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-The broken laptop was outside my <mark style="background: #ABF7F7A6;">control</mark>, but the files and another device were still available. This helped me focus on <mark style="background: #ABF7F7A6;">practical actions</mark> rather than panic.
+What impressed me most was that once I calmed down, the solution became much clearer. The broken laptop was outside my <mark style="background: #ABF7F7A6;">control</mark>, but the files and another device were still available. This helped me focus on <mark style="background: #ABF7F7A6;">practical actions</mark> rather than panic.
 
-More importantly, the experience <mark style="background: #ABF7F7A6;">changed</mark> my preparation habits. I now keep important files in cloud storage, save a PDF copy, and test essential equipment in advance. I also learned that <mark style="background: #ABF7F7A6;">adaptability</mark> is not about changing everything. It means recognising which parts of a situation remain useful and working with them. Stella's quick support also reminded me that<mark style="background: #ABF7F7A6;"> asking for help </mark>can be an effective decision, not a sign of weakness. Looking back, this technical failure improved both my problem-solving skills and my <mark style="background: #ABF7F7A6;">confidence</mark> when dealing with unexpected situations.
+More importantly, I also learned that <mark style="background: #ABF7F7A6;">adaptability</mark> is not about changing everything. It means recognising which parts of a situation remain useful and working with them. Stella's quick support also reminded me that<mark style="background: #ABF7F7A6;"> asking for help </mark>can be an effective decision, not a sign of weakness. Looking back, this technical failure improved both my problem-solving skills and my <mark style="background: #ABF7F7A6;">confidence</mark> when dealing with unexpected situations.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

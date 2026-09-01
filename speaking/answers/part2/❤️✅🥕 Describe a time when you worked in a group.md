@@ -32,9 +32,9 @@ I worked in a group of four colleagues at my former software company. We had six
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-This experience strengthened my <mark style="background: #ABF7F7A6;">leadership and collaboration skills</mark> because I learned that teamwork needs visible responsibility, not just friendly intentions. The short meetings helped us <mark style="background: #ABF7F7A6;">coordinate</mark> without wasting time, and they made problems easier to discuss before frustration became personal.
+What impressed me most was how much the result depended on clear communication and shared responsibility. The short meetings helped us <mark style="background: #ABF7F7A6;">coordinate</mark> and <mark style="background: #ABF7F7A6;">raise problems</mark> early. This stopped small disagreements from becoming personal.
 
-Admitting our first method had <mark style="background: #ABF7F7A6;">failed</mark> was harder than the technical work. Once we focused on the process rather than blame, our abilities became <mark style="background: #ABF7F7A6;">complementary</mark>. Our manager later asked us to demonstrate the tool elsewhere, giving us a genuine sense of <mark style="background: #ABF7F7A6;">achievement</mark>. Since then, I have reused the check-in method. The project taught me that <mark style="background: #ABF7F7A6;">a strong team</mark> communicates early, respects different opinions, and shares responsibility for the result.
+It also changed how I think about leadership. A good leader does not simply give orders. They make responsibilities clear, respect different opinions, and step in when problems appear. Our manager later asked us to demonstrate the tool elsewhere, giving us a genuine sense of <mark style="background: #ABF7F7A6;">achievement</mark>. Since then, I have reused the same check-in method. I realised that <mark style="background: #ABF7F7A6;">a strong team</mark> requires trust, communication, and responsibility.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations
@@ -42,8 +42,8 @@ Admitting our first method had <mark style="background: #ABF7F7A6;">failed</mark
 - feel understood and supported
 - focus on what I could control
 - manageable steps
-- coordinate with team members
-- respect different opinions
+- communicate effectively
+- shared responsibility
+- build trust
 - take responsibility
-- divide the work according to individual strengths
 - hold a daily check-in

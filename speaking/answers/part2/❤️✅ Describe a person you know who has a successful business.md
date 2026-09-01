@@ -33,9 +33,9 @@ The person I'd like to describe is Chen, my former manager. I got to know him at
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I consider the business successful because it <mark style="background: #ABF7F7A6;">creates value</mark> rather than chasing quick profit. It has loyal clients and <mark style="background: #ABF7F7A6;">manageable growth</mark>.
+I consider the business successful because it <mark style="background: #ABF7F7A6;">creates value</mark>, has loyal clients, and enjoys <mark style="background: #ABF7F7A6;">manageable growth</mark>. What impressed me most was how much the result depended on clear <mark style="background: #ABF7F7A6;">communication</mark> and shared responsibility. Chen explains his recommendations clearly and reports <mark style="background: #ABF7F7A6;">delays</mark> early. He also shows <mark style="background: #ABF7F7A6;">leadership</mark> by protecting his team and taking responsibility for <mark style="background: #ABF7F7A6;">mistakes</mark>.
 
-Good <mark style="background: #ABF7F7A6;">communication</mark> is central to his success. He explains his recommendations clearly and tells clients about <mark style="background: #ABF7F7A6;">delays</mark> early. This builds client trust. He also shows <mark style="background: #ABF7F7A6;">leadership</mark> by protecting his team's workload and taking responsibility for <mark style="background: #ABF7F7A6;">mistakes</mark>. Watching him changed my idea of success. A company does not need to <mark style="background: #ABF7F7A6;">expand</mark> rapidly or attract constant <mark style="background: #ABF7F7A6;">attention</mark>. It can make a meaningful difference through <mark style="background: #ABF7F7A6;">reliable work</mark> and long-term <mark style="background: #ABF7F7A6;">relationships</mark>. If I ran a business, I would want the same balance between profit, honest service, and a healthy team. That is more convincing than size alone.
+It also changed how I think about leadership. A good leader does not simply give orders. They make responsibilities clear, respect different opinions, and step in when problems appear. Watching him taught me that a company need not <mark style="background: #ABF7F7A6;">expand</mark> rapidly or attract <mark style="background: #ABF7F7A6;">attention</mark>. It can build trust through <mark style="background: #ABF7F7A6;">reliable work</mark> and long-term <mark style="background: #ABF7F7A6;">relationships</mark>. I realised that success requires trust, communication, and responsibility.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations
@@ -43,8 +43,8 @@ Good <mark style="background: #ABF7F7A6;">communication</mark> is central to his
 - remain calm under pressure
 - make a meaningful practical difference
 - a visible community result
+- communicate effectively
+- shared responsibility
 - build trust
 - take responsibility
 - long-term trust and word of mouth
-- reliable after-sales service
-- manageable growth

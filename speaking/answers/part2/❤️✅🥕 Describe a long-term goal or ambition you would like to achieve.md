@@ -34,9 +34,9 @@ My long-term goal is to become <mark style="background: #ABF7F7A6;">an independe
 <!-- REFLECTION_START -->
 I set this goal because I want <mark style="background: #ABF7F7A6;">freedom</mark> without ignoring <mark style="background: #ABF7F7A6;">financial responsibility</mark>. This career would let me choose projects and keep learning while providing a stable income.
 
-My move into software gives me <mark style="background: #ABF7F7A6;">confidence</mark>. I improved through practice, projects, and feedback. It taught me that <mark style="background: #ABF7F7A6;">abilities develop</mark> over time. I can follow the same process to learn AI and client-management skills.
+My move into software gave me <mark style="background: #ABF7F7A6;">confidence</mark> because I improved through practice, projects and feedback. It showed me that <mark style="background: #ABF7F7A6;">abilities develop</mark> over time, so I can use the same process to learn AI and client-management skills.
 
-The goal has changed <mark style="background: #ABF7F7A6;">how I learn</mark>. Instead of taking random courses, I choose a project that targets one <mark style="background: #ABF7F7A6;">weakness</mark>. This makes <mark style="background: #ABF7F7A6;">continuous learning</mark> more focused and practical. I have broken the career change into manageable steps. Saving money and trying freelance work will let me test the plan with less risk.
+The goal has also changed <mark style="background: #ABF7F7A6;">how I learn</mark>. Instead of taking random courses, I now choose practical projects that target my <mark style="background: #ABF7F7A6;">weaknesses</mark>. I will also save money and try freelance work first, which will allow me to test the career plan with less risk.
 <!-- REFLECTION_END -->
 
 ## 4. Useful Collocations

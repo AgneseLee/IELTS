@@ -15,8 +15,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 2. `speaking/answer-Septemper/part2/topic-bank.md`：默认 55 题的唯一当前题源；只解析目标记录的 Part 2 cue 和 bullets，在 `#### Part 3` 前停止。
 3. `speaking/plans/20-day-band7.md`：八个 Story Banks、modules、固定搭配与迁移规则。
 4. `speaking/answer-Septemper/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
-5. `speaking/answer-Septemper/README.md` 与 `speaking/answer-Septemper/part2-{people,events,places,things}.md`：只用于补全统一人设、module 的固定事实和已有表达；忽略其中冲突的篇幅、语速、模板与维护规则。
-6. `speaking/answer-Septemper/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
+5. `speaking/answer-Septemper/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
 
 不得使用 `speaking/archive/12-day-part2-template-plan.md` 覆盖以上规则。用户本次提供的真实事实优先于仓库统一人设；发生冲突时保留用户事实，不静默创建第二条故事线。
 

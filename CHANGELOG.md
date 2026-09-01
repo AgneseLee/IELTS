@@ -221,6 +221,7 @@
 - 优化 `IELTS-Speaking-Question-Bank-and-Core-Topics.md` 排版，改用表格提升可读性
 
 ### 删除
+- 删除 September Speaking Part 2 的四个旧版分类汇总文件，并清理答案生成技能中的引用
 - 移除 Task 2 观点训练页的手工小标题导航
 - 删除不再维护的 Task 2 独立模型范文汇总
 - 删除重复且已被专项指南取代的旧版 Task 1 总模板

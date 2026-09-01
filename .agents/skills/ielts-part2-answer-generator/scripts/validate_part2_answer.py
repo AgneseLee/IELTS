@@ -99,10 +99,6 @@ def source_collocation_corpus() -> str:
     paths = (
         repo_root / "speaking/plans/20-day-band7.md",
         repo_root / "speaking/answer-Septemper/part2/6skills.md",
-        repo_root / "speaking/answer-Septemper/part2-people.md",
-        repo_root / "speaking/answer-Septemper/part2-events.md",
-        repo_root / "speaking/answer-Septemper/part2-places.md",
-        repo_root / "speaking/answer-Septemper/part2-things.md",
     )
     return "\n".join(
         path.read_text(encoding="utf-8").lower() for path in paths if path.is_file()

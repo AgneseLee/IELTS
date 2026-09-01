@@ -1,8 +1,8 @@
 # IELTS Speaking Band 7：20 天全题库迁移计划 v2
 
-> **Status: current Story Bank and module plan.** Current Part 2 questions: [`../answers/part2/topic-bank.md`](../answers/part2/topic-bank.md).
+> **Status: current Story Bank and module plan.** Current Part 2 questions: [`../answer-Septemper/part2/topic-bank.md`](../answer-Septemper/part2/topic-bank.md).
 
-目标：20 天内稳定到 IELTS Speaking Band 7，并覆盖 [Part 1 index](../topics/question-bank.md) 与 [current Part 2 bank](../answers/part2/topic-bank.md) 的高频题。
+目标：20 天内稳定到 IELTS Speaking Band 7，并覆盖 [Part 1 index](../topics/question-bank.md) 与 [current Part 2 bank](../answer-Septemper/part2/topic-bank.md) 的高频题。
 
 核心原则：
 
@@ -621,11 +621,11 @@ Part 1 快问快答：
 
 ### Part 1 已安排
 
-77 个 topics、278 个具体小问。唯一清单见 [question bank](../topics/question-bank.md)，逐题答案见 [Part 1 answer bank](../answers/part1.md)。
+77 个 topics、278 个具体小问。唯一清单见 [question bank](../topics/question-bank.md)，逐题答案见 [Part 1 answer bank](../answer-Septemper/part1.md)。
 
 ### Part 2 已安排
 
-73 个 topics：人物 17、事件 28、事物 18、地点 10。完整答案见 [answer bank](../answers/README.md)。
+73 个 topics：人物 17、事件 28、事物 18、地点 10。完整答案见 [August answer bank](../archive/answers-August/README.md)。
 
 ### 个人化状态
 

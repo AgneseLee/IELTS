@@ -60,7 +60,7 @@
 
 ## 文件关系
 
-1. [`part2/topic-bank.md`](part2/topic-bank.md)：原始问题清单。
+1. [`part2/topic-bank.md`](topic-bank.md)：原始问题清单。
 2. [`part3-topic-bank.md`](part3-topic-bank.md)：10 个核心主题与七类问法。
 3. [`part3-question-map.md`](part3-question-map.md)：338 道题的逐题映射。
 4. [`part3-hard-answers.md`](part3-hard-answers.md)：40 道困难题短答案。

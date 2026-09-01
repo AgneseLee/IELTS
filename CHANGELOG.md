@@ -107,6 +107,7 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 August Speaking 答案库迁移至 `speaking/archive/answers-August`，并更新相关链接
 - 将 IELTS Speaking Part 2 与 Part 3 答案生成技能的目录引用统一更新为 `speaking/answer-Septemper`
 - 按学习优先级和完成状态重命名并扩充 Speaking Part 2 答案，优化重要决定题的因果与反思逻辑
 - 强化 Part 2 答案生成 skill 的观点、证据与结果检查，并为 Speaking Part 1 重点表达补充高亮

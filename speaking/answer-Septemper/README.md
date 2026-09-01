@@ -30,5 +30,5 @@
 ## Reference / legacy
 
 - [`part2-people-transferable-skills.md`](part2-people-transferable-skills.md)：旧能力答案参考。
-- [`part2/❤️✅ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`](speaking/answers-August/part2/❤️✅%20Describe%20a%20time%20when%20you%20sent%20a%20message%20or%20an%20email%20to%20someone%20but%20received%20no%20reply%20for%20a%20long%20time.md)：当前消息沟通题答案与自然口语风格参考。
+- [`part2/❤️✅ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`](part2/❤️✅%20Describe%20a%20time%20when%20you%20sent%20a%20message%20or%20an%20email%20to%20someone%20but%20received%20no%20reply%20for%20a%20long%20time.md)：当前消息沟通题答案与自然口语风格参考。
 - [`../archive/12-day-part2-template-plan.md`](../archive/12-day-part2-template-plan.md)：旧 4-template / 3:7 训练方案，已归档。

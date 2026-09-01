@@ -1,6 +1,6 @@
 # Part 2 人物类 + Part 3
 
-> **Status: story-fact reference.** New answers use [`part2/topic-bank.md`](part2/topic-bank.md) and are saved individually in [`part2/`](part2/); the old 210–230-word format below is not current.
+> **Status: story-fact reference.** New answers use [`part2/topic-bank.md`](topic-bank.md) and are saved individually in [`part2/`](part2/); the old 210–230-word format below is not current.
 
 > 半固定结构：Who → Quality → Context → Example → Reaction/result → Why this person matters。每篇 210–230 词，按 126–138 WPM 约为 1 分 40 秒。关键词一行一个；完整稿用于校正，不逐字背诵。
 

@@ -1,6 +1,6 @@
 # IELTS Speaking Part 3 全题映射
 
-> 对应 [`part2/topic-bank.md`](part2/topic-bank.md) 的 338 道 Part 3 问题。问法与主题编码见 [`part3-topic-bank.md`](part3-topic-bank.md)。映射用于检索，不需要背诵。
+> 对应 [`part2/topic-bank.md`](topic-bank.md) 的 338 道 Part 3 问题。问法与主题编码见 [`part3-topic-bank.md`](part3-topic-bank.md)。映射用于检索，不需要背诵。
 
 ## 人物
 

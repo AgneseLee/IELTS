@@ -149,4 +149,4 @@ L4 I remember this place because [lasting meaning].
 - 全文没有“可删除而不影响答题”的段落。
 - 录音目标 1:35–1:50。
 
-答案入口：[answers/README.md](../answers/README.md)。
+答案入口：[answers-August/README.md](answers-August/README.md)。

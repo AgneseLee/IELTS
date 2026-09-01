@@ -48,7 +48,7 @@ def between(text: str, start: str, end: str) -> str:
 
 def source_cue(title: str) -> tuple[str, list[str]] | None:
     repo_root = Path(__file__).resolve().parents[4]
-    topic_bank = repo_root / "speaking/answers/part2/topic-bank.md"
+    topic_bank = repo_root / "speaking/answer-Septemper/part2/topic-bank.md"
     if not topic_bank.is_file():
         return None
     source = topic_bank.read_text(encoding="utf-8")
@@ -67,7 +67,7 @@ def source_cue(title: str) -> tuple[str, list[str]] | None:
 
 def source_has_heart(title: str) -> bool:
     repo_root = Path(__file__).resolve().parents[4]
-    topic_bank = repo_root / "speaking/answers/part2/topic-bank.md"
+    topic_bank = repo_root / "speaking/answer-Septemper/part2/topic-bank.md"
     if not topic_bank.is_file():
         return False
     source = topic_bank.read_text(encoding="utf-8")
@@ -98,11 +98,11 @@ def source_collocation_corpus() -> str:
     repo_root = Path(__file__).resolve().parents[4]
     paths = (
         repo_root / "speaking/plans/20-day-band7.md",
-        repo_root / "speaking/answers/part2/6skills.md",
-        repo_root / "speaking/answers/part2-people.md",
-        repo_root / "speaking/answers/part2-events.md",
-        repo_root / "speaking/answers/part2-places.md",
-        repo_root / "speaking/answers/part2-things.md",
+        repo_root / "speaking/answer-Septemper/part2/6skills.md",
+        repo_root / "speaking/answer-Septemper/part2-people.md",
+        repo_root / "speaking/answer-Septemper/part2-events.md",
+        repo_root / "speaking/answer-Septemper/part2-places.md",
+        repo_root / "speaking/answer-Septemper/part2-things.md",
     )
     return "\n".join(
         path.read_text(encoding="utf-8").lower() for path in paths if path.is_file()

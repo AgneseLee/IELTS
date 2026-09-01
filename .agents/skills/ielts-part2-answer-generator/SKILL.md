@@ -1,22 +1,22 @@
 ---
 name: ielts-part2-answer-generator
-description: Generate and automatically save natural, reusable, Band 7-targeted IELTS Speaking Part 2 answers from speaking/answers/part2/topic-bank.md. Use when the user asks to create, cover, batch-generate, regenerate, or save Part 2 cue-card answers, especially when answers must reuse the eight story banks and six transferable abilities with a validated 45:55 narrative-to-reflection ratio.
+description: Generate and automatically save natural, reusable, Band 7-targeted IELTS Speaking Part 2 answers from speaking/answer-Septemper/part2/topic-bank.md. Use when the user asks to create, cover, batch-generate, regenerate, or save Part 2 cue-card answers, especially when answers must reuse the eight story banks and six transferable abilities with a validated 45:55 narrative-to-reflection ratio.
 ---
 
 # IELTS Part 2 Answer Generator
 
-在当前 IELTS 项目中生成可直接口述、可跨题迁移的 Part 2 答案，并自动写入 `speaking/answers/part2/`。
+在当前 IELTS 项目中生成可直接口述、可跨题迁移的 Part 2 答案，并自动写入 `speaking/answer-Septemper/part2/`。
 
 ## Sources
 
 每次生成前按顺序读取：
 
 1. `speaking/p2&p3 prompt.md` 的 Part 2 rules：最高语言与输出规范；忽略 Part 3 rules。下方经用户确认的精确比例和篇幅是对其宽泛数值范围的收紧。
-2. `speaking/answers/part2/topic-bank.md`：默认 55 题的唯一当前题源；只解析目标记录的 Part 2 cue 和 bullets，在 `#### Part 3` 前停止。
+2. `speaking/answer-Septemper/part2/topic-bank.md`：默认 55 题的唯一当前题源；只解析目标记录的 Part 2 cue 和 bullets，在 `#### Part 3` 前停止。
 3. `speaking/plans/20-day-band7.md`：八个 Story Banks、modules、固定搭配与迁移规则。
-4. `speaking/answers/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
-5. `speaking/answers/README.md` 与 `speaking/answers/part2-{people,events,places,things}.md`：只用于补全统一人设、module 的固定事实和已有表达；忽略其中冲突的篇幅、语速、模板与维护规则。
-6. `speaking/answers/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
+4. `speaking/answer-Septemper/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
+5. `speaking/answer-Septemper/README.md` 与 `speaking/answer-Septemper/part2-{people,events,places,things}.md`：只用于补全统一人设、module 的固定事实和已有表达；忽略其中冲突的篇幅、语速、模板与维护规则。
+6. `speaking/answer-Septemper/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
 
 不得使用 `speaking/archive/12-day-part2-template-plan.md` 覆盖以上规则。用户本次提供的真实事实优先于仓库统一人设；发生冲突时保留用户事实，不静默创建第二条故事线。
 
@@ -119,7 +119,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。若中文 topic heading 含 `❤️`，在文件名开头添加 `❤️ `，使 Obsidian 文档标题显示为 `❤️ <English cue title>`。
    不要在文件正文中添加 H1；Obsidian 已把文件名显示为页面标题，重复 H1 会造成标题重复。
-2. 自动写入 `speaking/answers/part2/[❤️ ]<title>.md`，其中 `❤️ ` 只用于题库标记的新题。批量生成时每题单独保存。
+2. 自动写入 `speaking/answer-Septemper/part2/[❤️ ]<title>.md`，其中 `❤️ ` 只用于题库标记的新题。批量生成时每题单独保存。
 3. 新文件可直接创建。若目标已存在，只有用户明确要求 regenerate、update 或 overwrite 时才替换；否则保留并报告冲突。
 4. 对每个新建或更新文件运行：
 

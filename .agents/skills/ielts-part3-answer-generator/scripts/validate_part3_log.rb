@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-path = ARGV[0] || "speaking/answers/part3-practice-log.md"
+path = ARGV[0] || "speaking/answer-Septemper/part3-practice-log.md"
 abort("File not found: #{path}") unless File.file?(path)
 
 text = File.read(path)

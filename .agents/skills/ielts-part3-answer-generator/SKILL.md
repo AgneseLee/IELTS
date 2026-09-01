@@ -1,6 +1,6 @@
 ---
 name: ielts-part3-answer-generator
-description: Generate or lightly polish concise IELTS Speaking Part 3 answers strictly from the reusable topic logic chains in speaking/answers/part3-topic-bank.md, optionally updating the practice log. Use when the user asks to create, cover, expand, save, check, or make Part 3 answers more natural and conversational with topics or logic chains.
+description: Generate or lightly polish concise IELTS Speaking Part 3 answers strictly from the reusable topic logic chains in speaking/answer-Septemper/part3-topic-bank.md, optionally updating the practice log. Use when the user asks to create, cover, expand, save, check, or make Part 3 answers more natural and conversational with topics or logic chains.
 ---
 
 # IELTS Part 3 Answer Generator
@@ -11,9 +11,9 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 
 每次生成或润色前按顺序读取：
 
-1. `speaking/answers/part3-topic-bank.md`：唯一核心论点来源；轻量反方可从答案主论点直接推导。
-2. `speaking/answers/part3-question-map.md`：题库原题的候选主题路由。
-3. `speaking/answers/part3-practice-log.md`：仅在追加答案或排重时读取。
+1. `speaking/answer-Septemper/part3-topic-bank.md`：唯一核心论点来源；轻量反方可从答案主论点直接推导。
+2. `speaking/answer-Septemper/part3-question-map.md`：题库原题的候选主题路由。
+3. `speaking/answer-Septemper/part3-practice-log.md`：仅在追加答案或排重时读取。
 
 不得把 question map 的主题映射视为已通过覆盖验收。它只用于缩小候选范围。
 

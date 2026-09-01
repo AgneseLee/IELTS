@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 将 Speaking Part 3 中文概括升级为三级标题，强化不同逻辑链的视觉分组
 - 移除 Speaking Part 3 中文概括前的列表符号，突出逻辑链分组
 - 为 Speaking Part 3 每组逻辑链补充 15 字以内中文概括
 - 统一 Speaking Part 3 为 10 个主题编号，移除逻辑链二级编号并同步题目映射与练习日志

@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 更新 Speaking Part 1 Shopping 与 Feeling Bored 的 Band 7 答案及高分表达和错误复盘，并为 Part 3 答案库补充六类跨题论证机制与生成规则
 - 新增 September Speaking 复习答案库，收录 17 个 Part 1 主题、28 篇 Part 2 答案及 28 组 Part 3 话题
 - 将 Speaking Part 3 中文概括升级为三级标题，强化不同逻辑链的视觉分组
 - 移除 Speaking Part 3 中文概括前的列表符号，突出逻辑链分组

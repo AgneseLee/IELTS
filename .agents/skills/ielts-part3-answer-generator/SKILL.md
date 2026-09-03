@@ -11,7 +11,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 
 每次生成或润色前按顺序读取：
 
-1. `speaking/answer-Septemper/part3-topic-bank.md`：唯一核心论点来源；轻量反方可从答案主论点直接推导。
+1. `speaking/answer-Septemper/part3-topic-bank.md`：唯一核心论点来源；T01–T10 只负责题目语境，M01–M06 负责主论证机制；轻量反方可从答案主论点直接推导。
 2. `speaking/answer-Septemper/part3-question-map.md`：题库原题的候选主题路由。
 3. `speaking/answer-Septemper/part3-practice-log.md`：仅在追加答案或排重时读取。
 
@@ -22,6 +22,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 - 接受一道或多道 Part 3 题目、题目主题，或“找出某些主题能覆盖的题目”。
 - 接受对已有 Part 3 答案的口语化检查与微调；只替换不自然的表达，不改变立场、逻辑链、例子或答案结构。
 - 未指定主题时，从 T01–T10 中选择最少且最自然的组合，再从主题内部选择贴题逻辑链。
+- 每题必须从 M01–M06 选择一个主机制；比较、利弊或双环节题必要时最多两个。互联网只作题目语境或传播渠道，不得单独作为跨题理由。
 - 指定“今天练过的主题”时，只使用用户明确标记或确认过的主题；不要自行猜测日期或未提交改动的含义。
 - 只有用户要求保存、更新或追加时才修改 practice log；否则直接返回答案。
 
@@ -58,7 +59,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 ## Workflow
 
 1. 提取问题的核心对象、Q 类型和必须回答的信息。
-2. 从 topic bank 选择候选主题，并写出准备使用的原始链条。
+2. 从 topic bank 选择候选 T 主题和一个主 M 机制，并写出准备使用的原始链条。
 3. 执行 Coverage gate；不通过的题停止生成，不用相邻主题硬套。
 4. 按 Q 类型套用 Answer contract，再逐句反查：直接回答、主链、贴题例子、必要反向链、总结；删除与主链或例子同义的例后句。
 5. 执行口语化检查：试着自然口述每句，将偏书面或难以顺口说出的词组换成常用口语表达；拆分不必要的长难句；确认末句是简单总结并直接扣题。
@@ -73,6 +74,7 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 ```md
 ### <question>
 主题：<Txx> <name>
+机制：<Mxx> <name>
 逻辑链：<exact selected chain>
 答案：<Q-type structure in 4–6 sentences, including one concrete example, an optional contrasting point, and a direct final summary>
 ```

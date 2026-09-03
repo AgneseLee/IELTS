@@ -234,19 +234,19 @@ A: I usually take a walk, enjoy the scenery or listen to music. Sometimes I take
 
 **Q1: Do you often feel bored?**
 
-A: Not really. I have a busy schedule because of my work and personal interests, so I rarely have time to feel bored. That being said, it can happen when I have nothing meaningful to do. <!-- P2-a -->
+A: Not really. I have a busy schedule with work and hobbies, so I rarely have time to get bored. Instead, I usually feel fulfilled when I follow my daily routine. <!-- P2-a -->
 
 **Q2: Did you ever find school boring when you were a child?**
 
-A: Yes, sometimes, especially when lessons focused on memorising information rather than understanding ideas. However, I enjoyed subjects that **encouraged creativity and problem-solving**. <!-- P8-c -->
+A: Yes, sometimes, especially when lessons focused on memorising facts instead of understanding them. However, I enjoyed subjects that **encouraged creativity and problem-solving**, so I definitely preferred more practical lessons. <!-- P8-c -->
 
 **Q3: What sort of things do you find most boring now?**
 
-A: I find repetitive tasks the most boring, especially those that take a long time but involve little creativity. Doing the same routine work repeatedly can make me **lose interest quite quickly**. <!-- P6-a -->
+A: I find repetitive tasks the most boring, especially ones that do not involve anything creative. Doing the same routine **over and over** makes me lose interest quickly. <!-- P6-a -->
 
 **Q4: What do you do to stop yourself feeling bored?**
 
-A: I try to do something that **keeps my mind active**. I might read, learn something new, exercise or work on a personal project, which helps me feel more productive. <!-- P4-b -->
+A: I try to do something creative or productive. I usually read, learn a new skill, exercise or work on a personal project. Those activities help me feel more productive and **fulfilled**. <!-- P4-b -->
 
 **Q5: When do you usually feel bored?**
 
@@ -254,41 +254,41 @@ A: I usually feel bored when I have to wait for a long time without anything int
 
 **Q6: What do you do when you feel bored?**
 
-A: I switch to something more engaging, such as a science-fiction film, a new technology or English practice. These activities help me relax and **regain my motivation**. <!-- P10-b -->
+A: I usually work out or paint when I feel bored, rather than just lying on the sofa. These activities help me relax and **regain my motivation**. I really enjoy that feeling because it makes me feel fulfilled and active. <!-- P10-b -->
 
 **Q7: Do you think childhood or adulthood is more boring?**
 
-A: I would say adulthood can be more boring because people often have more responsibilities and less free time. While childhood has boring moments, children usually have more opportunities to **explore and try new things**. <!-- P10-b -->
+A: I would say adulthood can be more boring because of heavier responsibilities from work and family, while childhood usually offers more freedom to explore things you are curious about. For example, after a long workday, chores can feel repetitive, but when I was a child, even small things like drawing or just **messing around** felt new. <!-- P10-b -->
 
 ### ❤️ Shopping 🛒 `[同桌英语 #11]`
 
 **Q1: Do you like shopping?**
 
-A: Yes, although I am not a big fan of window shopping. I usually shop when I need something practical, such as clothes or electronics. What appeals to me most is finding something that offers **good value for money**. <!-- P6-a -->
+A: I do not really enjoy shopping, but I buy things when I need them, like clothes or electronics. I like getting **good value for money**. <!-- P6-a -->
 
 **Q2: How often do you go shopping?**
 
-A: I do not shop very often because I have a busy work schedule. I usually shop once every few weeks or whenever necessary, and I prefer to **plan my purchases** rather than buy things impulsively. <!-- P2-c -->
+A: I do not shop very often, maybe once a month. I am busy with work, so I only buy things when I need to, and I try not to buy things **on impulse**. <!-- P2-c -->
 
 **Q3: Do you prefer online or in-store shopping?**
 
-A: I prefer online shopping because it lets me compare products and read reviews before making a decision. It saves time, although I still visit physical stores when I need to **check the quality in person**. <!-- P1-a -->
+A: I prefer online shopping because it is convenient. It lets me compare products and read customer reviews, so I can make better decisions. It also saves time, though I still go to physical stores when I need to try things on. <!-- P1-a -->
 
 **Q4: Do you compare prices when you shop? Why?**
 
-A: Yes, I usually do because I want to get **good value for my money**. For expensive products, I tend to compare prices, features and reviews before making a purchase. <!-- P1-b -->
+A: I usually compare prices because I want **good value for money** and I do not want to overspend. For expensive products, I tend to compare prices, features and reviews before making a decision. <!-- P1-b -->
 
 **Q5: Is it difficult for you to make choices when you shop?**
 
-A: Not really, because I usually know what I need before shopping. However, when there are too many similar products, I spend extra time **weighing up the pros and cons**. <!-- P1-b -->
+A: Not really. I usually know what I want to buy before I make a purchase. However, when there are too many options, I sometimes feel overwhelmed, which makes it harder to make an informed decision. I may spend extra time **weighing up the pros and cons**. <!-- P1-b -->
 
 **Q6: Do you think expensive products are always better than cheaper ones?**
 
-A: Not necessarily. While expensive products may offer better quality or more advanced features, price does not guarantee better performance. I focus on practicality and whether a product **meets my needs**. <!-- P1-a -->
+A: Not necessarily. Expensive products sometimes cost more because of the brand name rather than better quality. Cheaper products are not always bad, so I focus on the product's quality and whether it **meets my needs**. <!-- P1-a -->
 
 **Q7: Have you ever returned anything you bought online?**
 
-A: Yes, I once returned a product because its quality differed from what I expected and from its online description. Since then, I have checked customer reviews carefully before **making a purchase**. <!-- P8-c -->
+A: Yes, I returned a pair of shoes because the quality was not what I expected. Since then, I always check **customer reviews** carefully before buying. <!-- P8-c -->
 
 ### ❤️ Watch ⌚ `[同桌英语 #12]`
 
@@ -382,7 +382,7 @@ A: Yes, most of them do. We mainly use it to exchange updates and **stay connect
 
 **Q: What do people often do on social media?**
 
-A: They usually share photographs, follow news and communicate with friends. Many also use it to find useful <mark style="background: #ABF7F7A6;">information</mark>, although not everything online is reliable. <!-- T06 -->
+A: They usually share photographs, follow news and message friends. Many also use it to find useful <mark style="background: #ABF7F7A6;">information</mark>, although not everything online is reliable. <!-- T06 -->
 
 ### Teachers `[同桌英语 #17]`
 
@@ -405,3 +405,53 @@ A: Not regularly. We last exchanged messages several years ago, but we gradually
 **Q: In what way has your favourite teacher helped you?**
 
 A: She encouraged me to express different opinions and gave me constructive feedback. Her advice still helps me communicate more confidently at work. <!-- T01 T03 -->
+
+## 亮点高分表达（Shopping & Feeling Bored）
+
+| 表达 | 含义 / 用法 |
+| --- | --- |
+| **good value for money** | 物有所值 |
+| **buy things on impulse** | 冲动购物 |
+| **customer reviews** | 顾客评价 |
+| **make an informed decision** | 在充分了解后作决定 |
+| **weigh up the pros and cons** | 权衡利弊 |
+| **not necessarily** | 未必；不一定 |
+| **meet my needs** | 满足我的需求 |
+| **feel overwhelmed** | 感到不知所措 |
+| **feel fulfilled** | 感到充实、有满足感 |
+| **over and over** | 一遍又一遍地 |
+| **regain my motivation** | 重新找回动力 |
+| **a lack of meaningful activities** | 缺少有意义的活动 |
+| **mess around** | 随意玩耍；做些轻松随性的事 |
+
+优先练成固定语块：**good value for money** · **on impulse** · **make an informed decision** · **feel fulfilled** · **over and over**。
+
+## 错误复盘（Shopping & Feeling Bored）
+
+### 1. 单复数与主谓一致
+
+- something that **offers**，不是 *something that offer*
+- compare **products**，不是 *compare product*
+- cheaper products **are not**，不是 *cheaper products does not*
+- whether it meets my **needs**，不是 *meets my need*
+- those **activities**，不是 *those activity*
+
+### 2. 动词形式与平行结构
+
+- avoid **spending**，不是 *avoid spend*
+- help me **feel**，不是 *help me feeling / getting*
+- work out or **paint**，不是 *work out and painting*
+- read, **learn**, exercise or work：并列动词保持同一形式
+
+### 3. 冠词与固定搭配
+
+- **an** informed decision，不能说 *a informed decision*
+- make **a** purchase
+- lie **on** the sofa，不能说 *lie in the sofa*
+- because **of** my work，不能说 *because my work*
+
+### 4. 避免重复和过度延伸
+
+- *once a month* 和 *once every few weeks* 只保留一个频率。
+- 避免在一句中重复 *repetitive / routine / repeatedly*；可简化为 **do the same routine over and over**。
+- Part 1 用 2–3 句即可：先直接回答，再补一个原因或个人例子。第一层意思说清楚后，不必为了“拔高”而继续堆复杂表达。

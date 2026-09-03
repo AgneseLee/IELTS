@@ -14,6 +14,19 @@
 | Q6 | 解决、责任 | 责任方 → 措施 → 为什么有效 |
 | Q7 | 描述、列举 | 类别 → 代表例子 → 选择依据 |
 
+## 六个跨题机制
+
+> T 主题负责“谈什么”；M 机制负责“为什么”。每题使用一个主 M；比较、利弊或双环节问题最多两个。
+
+| 编码 | 角度 | 正向链 | 反向链 |
+|---|---|---|---|
+| M01 | 实用价值 | real need → practical usefulness → continued use or participation | poor fit → limited use → wasted effort or resources |
+| M02 | 时间与精力成本 | lower time or effort → greater willingness → wider participation | high cost or effort → lower willingness → avoidance |
+| M03 | 自主权与责任感 | personal choice → stronger ownership → motivation and responsibility | excessive control → passive compliance → weak independence |
+| M04 | 接触与熟悉度 | regular exposure → familiarity and confidence → interest or acceptance | limited exposure → unfamiliarity → low interest or hesitation |
+| M05 | 社会影响与模仿 | peers or role models → imitation or social expectations → changed behaviour | blind imitation or pressure → unsuitable choices → negative results |
+| M06 | 长期能力与短期便利 | independent practice and feedback → stronger ability → better long-term results | excessive help or convenience → dependence → weaker ability |
+
 ## 最短回答骨架
 
 普通问题以自然口述 30–45 秒（4–6 句）为目标，并按问法控制结构：
@@ -128,7 +141,7 @@
 
 - **正向：** instant access and global connection → faster exchange of information and services → changed habits and wider participation
 - **反向：** constant connectivity and algorithmic exposure → distraction, dependence or biased information → poorer judgement and weaker real-world interaction
-- **适用：** 科技、App、购物、交通、远程工作、网络服务、新闻、建议、广告、决策、教育、名人、AI、手机、社交媒体、在线沟通；互联网链可用于全部主题
+- **适用：** 科技、App、购物、交通、远程工作、网络服务、新闻、建议、广告、决策、教育、名人、AI、手机、社交媒体、在线沟通。互联网只作题目语境或传播渠道；主理由优先选择 M01–M06。
 - **组合：** 回答“互联网如何改变 X”时，与一个领域主题组合；例如教育用 T06 + T01，工作用 T06 + T05。
 
 ## T07 环境与动物
@@ -180,6 +193,8 @@
 - 简单题只用一条逻辑链。
 - 比较、利弊和政策题通常组合两条逻辑链。
 - 同一回答最多使用两条逻辑链，避免观点过多。
+- 每题必须标明一个主 M 机制；必要时最多组合两个。
 - T06 的互联网链只在题目明确涉及互联网或现代变化时使用。
+- T06 不得单独作为跨题理由；互联网如出现，只负责语境或渠道。
 - 逻辑链提供论证，题目中的具体名词提供语境。
 - 如果一个问题无法由任何逻辑链自然回答，才需要加入困难题答案库。

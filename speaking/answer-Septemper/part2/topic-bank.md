@@ -2,11 +2,176 @@
 
 > **Status: current Part 2 question source.** Generate one answer file per cue card in this directory; Part 3 questions remain source material only.
 
-> 共 55 个主题：人物 13 · 地点 8 · 经历 18 · 事物 16。
+> 共 49 个主题：人物 14 · 地点 7 · 经历 18 · 事物 10。
 >
-> `❤️` = 新话题。
+> `❤️` = 新话题；`🧡` = 本月新题。
 
-## 人物（6/13）
+## 人物（14/14）
+
+### 喜欢拍照的人🧡
+
+#### Part 2
+
+**Describe a person you know who really likes taking photos**
+
+> **You should say:**
+> - Who the person is
+> - When and how you got to know him/her
+> - Where he/she takes photos
+> - And explain how you feel about him/her
+
+#### Part 3
+
+1. Why are some people keen on taking photos?
+2. What kind of photos do people often take?
+3. Do you think it's ok to take photos everywhere?
+4. Why do tourists like taking photos while they are travelling?
+5. Some people don't mind others walking into their shot when they're taking photos. What do you think?
+
+### 有条理的人🧡
+
+#### Part 2
+
+**Describe a well-organized person you know**
+
+> **You should say:**
+> - Who this person is
+> - What this person usually does to stay organized
+> - In what situations you have noticed this quality
+> - And explain why you think being organized is important to him/her
+
+#### Part 3
+
+1. Why is it important for people to be organized?
+2. Do you think children should learn to be organized from a young age?
+3. Should parents teach their children to be well-organized?
+4. Are organized people more likely to be successful at work or in their studies?
+5. Do you think it is important for managers to be well-organized?
+6. What can people do to become more organized?
+
+### 做困难事情并成功的人🧡
+
+#### Part 2
+
+**Describe someone you know who successfully did something difficult.**
+
+> **You should say:**
+> - Who this person is
+> - What difficult thing this person did
+> - Why this person was successful
+> - How you feel about this person
+
+#### Part 3
+
+1. Is it difficult to run a business in today’s world?
+2. How can companies help protect the environment?
+3. Does having money necessarily mean being successful?
+
+### 教你技能的人🧡
+
+#### Part 2
+
+**Describe a person who taught you a new skill**
+
+> **You should say:**
+> - Who this person was
+> - What the skill was
+> - How this person taught you
+> - And explain how you felt about learning this skill
+
+#### Part 3
+
+1. Why should children learn new skills?
+2. Where can children learn new skills?
+3. How can parents and teachers teach children new skills?
+4. How do adults learn a new skill?
+5. What are the differences between learning from a teacher and learning by oneself?
+6. Why is self-discipline important when learning a new skill?
+
+### 喜欢做手工的人🧡
+
+#### Part 2
+
+**Describe a person who likes to make things by hand (e.g. toys, furniture)**
+
+> **You should say:**
+> - Who this person is
+> - What kinds of things this person makes
+> - How you know this person is good at making things
+> - And explain why you admire this person's skills
+
+#### Part 3
+
+1. Are traditional handicrafts important to tourism?
+2. What are the benefits for students to learn to make things by hand?
+3. Why do many children like to make things by hand?
+4. Do you think art classes are important for children?
+5. Do children nowadays still like doing arts and crafts?
+6. How important are traditional handicrafts to a country's industry?
+7. Is it reasonable to charge a high price for handmade things?
+8. How does modern technology change the handicraft industry?
+9. Are there any traditional handicrafts in your hometown?
+10. What impact can artistic buildings have on society?
+
+### 喜欢学习历史的人🧡
+
+#### Part 2
+
+**Describe someone you know who enjoys learning about history**
+
+> **You should say:**
+> - Who this person is
+> - How he/she learns history
+> - Why he/she loves history
+> - And explain how you feel about him/her
+
+#### Part 3
+
+1. Do you think children should begin learning history from an early age?
+2. At what age do you think people should begin to learn history?
+3. How do children learn history before they attend school?
+4. Is it important to learn how people in the past lived their lives?
+5. Do you think people should learn ancient history before learning modern history?
+6. Besides big historical events, what else is important when learning history?
+
+### 尊敬的年长的人🧡
+
+#### Part 2
+
+**Describe someone who is older than you that you admire**
+
+> **You should say:**
+> - Who this person is
+> - How you knew this person
+> - What kinds of things you like to do together
+> - and explain how you feel about this person
+
+#### Part 3
+
+1. What can young and old people learn from each other?
+2. Has the quality of life for old people improved compared to the past?
+3. Why is there a generation gap between the young and the old?
+4. What do old people usually do in their daily life?
+
+### 开心的人🧡
+
+#### Part 2
+
+**Describe a happy person you know**
+
+> **You should say:**
+> - Who this person is
+> - What he/she is like
+> - How he/she shows happiness
+> - And explain why you think he/she is a happy person
+
+#### Part 3
+
+1. What was the happiest thing about your secondary school life?
+2. Can teachers tell when a child is unhappy?
+3. Do you think teachers should always know what their students are doing?
+4. How can the arts spread positive emotions in society?
+5. When do you think people are happiest?
 
 ### 想从事医疗行业的人❤️
 
@@ -29,48 +194,6 @@
 5. Why do some doctors get paid more than others?
 6. Do you think doctors should be paid more?
 
-### 机智解决问题的人
-
-#### Part 2
-
-**Describe a person who solved a problem in a smart way**
-
-> **You should say:**
-> - Who this person is
-> - What the problem was
-> - How he/she solved it
-> - And explain why you think he/she did it in a smart way
-
-#### Part 3
-
-1. Do you think children are born smart or they learn to become smart?
-2. How do children become smart at school?
-3. Why are some people well-rounded and others only good at one thing?
-4. Why does modern society need talents of all kinds?
-5. Do you think smart children are happier than other children?
-6. Is it important for schools to identify and develop each student's talents?
-
-### 想见的名人
-
-#### Part 2
-
-**Describe a famous person you would like to meet**
-
-> **You should say:**
-> - Who he/she is
-> - How you knew him/her
-> - How/where you would like to meet him/her
-> - And explain why you would like to meet him/her
-
-#### Part 3
-
-1. What are the advantages and disadvantages of being a famous child?
-2. What can today's children do to become famous?
-3. What can children do with their fame?
-4. Do people become famous because of their talent?
-5. Is it easy to become famous in your country?
-6. Do you want to be a famous person?
-
 ### 克服困难成功的人❤️
 
 #### Part 2
@@ -88,70 +211,6 @@
 1. In your country, what industry is it easier to be successful in?
 2. What's the difference between ordinary people and successful people?
 3. What are the factors leading to people's success?
-
-### 爱护自然的人
-
-#### Part 2
-
-**Describe a person who likes to look after the natural world**
-
-> **You should say:**
-> - Who this person is
-> - What he or she does
-> - How he or she does it
-> - How often he or she does it
-> - And explain how you feel about this person
-
-#### Part 3
-
-1. Do you think parents should teach their children how to protect the environment?
-2. What laws about the environment are effective in your country?
-3. Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?
-4. Is it easy for children in cities to get close to the natural world?
-5. What can people do to protect the natural world?
-6. Is it important to teach students environmental protection at school?
-
-### 乐于助人的人
-
-#### Part 2
-
-**Describe a person who often helps others**
-
-> **You should say:**
-> - Who this person is
-> - How often he/she helps others
-> - How/why he/she helps others
-> - And how you feel about this person
-
-#### Part 3
-
-1. What can children do to help their parents?
-2. Should children help their parents with household chores?
-3. What kind of help do people need when looking for a new job?
-4. Who should people ask for help, colleagues or family members?
-5. Do you think schools should teach children to do household chores?
-6. Why are employees reluctant to ask their managers for help?
-
-### 朋友自学
-
-#### Part 2
-
-**Describe one of your friends who learned something without a teacher**
-
-> **You should say:**
-> - Who he/she is
-> - What he/she learned
-> - Why he/she learned this
-> - And explain whether it would be easier to learn from a teacher
-
-#### Part 3
-
-1. Is it necessary to keep learning after graduating from school?
-2. Should teachers make learning in their classes fun?
-3. Do you think there are too many subjects for students to learn?
-4. Is it better to focus on a few subjects or to learn many subjects?
-5. Do you think enterprises should provide training for their employees?
-6. Do you think it is good for older adults to continue learning?
 
 ### 擅长学习和说语言的人❤️
 
@@ -194,27 +253,6 @@
 4. Why do some people like to grow plants?
 5. Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?
 6. Do you think students should learn to grow plants?
-
-### 擅长做计划的人
-
-#### Part 2
-
-**Describe a person who makes plans a lot and is good at planning**
-
-> **You should say:**
-> - Who he/she is
-> - How you knew him/her
-> - What plans he/she makes
-> - And explain how you feel about this person
-
-#### Part 3
-
-1. Do you think it's important to plan ahead?
-2. What activities do we need to plan ahead?
-3. Do you think children should plan their future careers?
-4. Should children ask their teachers or parents for advice when making plans?
-5. Is making study plans popular among young people?
-6. Do you think choosing a college major is closely related to a future career?
 
 ### 商业上很成功的人❤️
 
@@ -259,30 +297,67 @@
 5. What's the difference between talking to friends and family?
 6. Has technology changed people's friendships? How?
 
-### 喜欢画画的孩子
+## 地点（7/7）
+
+### 嘈杂地🧡
 
 #### Part 2
 
-**Describe a child who loves drawing/painting**
+**Describe a noisy place you have been to**
 
 > **You should say:**
-> - Who he/she is
-> - How/when you knew him/her
-> - How often he/she draws/paints
-> - And explain why you think he/she loves drawing/painting
+> - Where this place is
+> - When you usually go there
+> - What kinds of noises you can hear there
+> - And explain how you feel about this place
 
 #### Part 3
 
-1. What is the right age for a child to learn drawing?
-2. Why do most children draw more often than adults do?
-3. Why do some people visit galleries or museums instead of viewing artworks online?
-4. Do you think galleries and museums should be free of charge?
-5. How do artworks inspire people?
-6. What are the differences between reading a book and visiting a museum?
+1. Which environment do you prefer, a noisy one or a quiet one? Why?
+2. Why are some places so noisy?
+3. Why can quiet places help people reflect on themselves?
+4. How can noise affect people's daily lives?
+5. What can governments do to reduce noise pollution?
 
----
+### 城市自然之地🧡
 
-## 地点（4/8）
+#### Part 2
+
+**Describe a natural place in your city that you enjoy visiting**
+
+> **You should say:**
+> - Where it is
+> - What it is like
+> - How often you go there
+> - Who you often go there with
+> - And explain why you enjoy visiting there
+
+#### Part 3
+
+1. Do you think there should be many natural places in cities?
+2. Do you think staying in a natural place would help change people's mood?
+
+### 拥挤地方🧡
+
+#### Part 2
+
+**Describe a crowded place you went to**
+
+> **You should say:**
+> - Where it was
+> - When you went there
+> - Who you went there with
+> - What you did there
+> - And how you felt about it
+
+#### Part 3
+
+1. Which cities in your country are particularly overcrowded?
+2. Do you think cities will have more or less green space in the future?
+3. Do you think people will use bicycles more or less frequently in cities in the future?
+4. Why do people go to crowded places?
+5. Why do some people enjoy being in crowded places?
+6. Do you think the continued growth of large cities is a positive trend?
 
 ### 无聊的地方❤️
 
@@ -305,49 +380,6 @@
 5. Why do some young people feel bored when talking with old people?
 6. Do most people think news about celebrities is boring?
 
-### 去过且喜欢的城市
-
-#### Part 2
-
-**Describe a city you enjoyed visiting**
-
-> **You should say:**
-> - Where it is
-> - When you visited it
-> - How long you stayed there
-> - What you did there
-> - And explain why you enjoyed visiting it
-
-#### Part 3
-
-1. What kinds of facilities do big cities have?
-2. Do you think modern cities are suitable for young people or old people?
-3. Before you travel to a city, what factors would you consider?
-4. What are the disadvantages of living in a very famous city?
-5. Do you prefer to visit well-developed cities or cities with a long history?
-6. For those who live in cities, is it because they want to or have to?
-
-### 有趣的建筑
-
-#### Part 2
-
-**Describe an interesting building**
-
-> **You should say:**
-> - Where it is
-> - What it looks like
-> - What function it has
-> - And explain why you think it is interesting
-
-#### Part 3
-
-1. What types of buildings are popular in your country?
-2. Is it worth spending a lot of money on the exterior appearance of a building?
-3. Is it more important for a building to look good on the outside or on the inside?
-4. Why do people like to visit historical sites?
-5. Do you think it's reasonable to charge an entry fee for visiting interesting buildings?
-6. Is it better to live in a new building or an old one?
-
 ### 喜欢拜访但不想住的家❤️
 
 #### Part 2
@@ -368,55 +400,6 @@
 4. What’s the difference between homes in cities and those in the countryside?
 5. What kind of gifts do people usually bring when they visit others?
 6. How often do you visit your relatives or friends?
-
-### 购物场所
-
-#### Part 2
-
-**Describe a place where you enjoy shopping**
-
-> **You should say:**
-> - What its name is
-> - Where it is
-> - How often you visit it
-> - And what you usually buy at the mall
-
-#### Part 3
-
-1. Why do people buy things they don’t need?
-2. Do you think it's a waste of time to go shopping?
-3. Why are some people keen on shopping?
-4. What kind of people like shopping?
-5. Where do people like to shop in your country?
-6. Do you think women like shopping more than men?
-7. Does spending money make people feel happy?
-8. What are the differences between shopping in street markets and big shopping malls?
-9. What are the differences in the shopping habits of different age groups?
-10. What are the differences between shopping online and in-store?
-11. Do you think people's spending habits can lead to peer pressure?
-
-### 安静的地方
-
-#### Part 2
-
-**Describe a quiet place you like to go**
-
-> **You should say:**
-> - Where it is
-> - How you knew it
-> - How often you go there
-> - What you do there
-> - And explain how you feel about the place
-
-#### Part 3
-
-1. Is it easy to find quiet places in your country? Why?
-2. Why do old people prefer to live in quiet places?
-3. Why are there more noises made at home now than in the past?
-4. Why do some people like to use noise as background sound when they are working or studying?
-5. How do people spend their leisure time in your country?
-6. How does technology affect the way people spend their leisure time?
-7. Do you think only old people have time for leisure?
 
 ### 推荐旅行过的地方❤️
 
@@ -465,7 +448,169 @@
 
 ---
 
-## 经历（10/18）
+## 经历（18/18）
+
+### 浪费时间的活动🧡
+
+#### Part 2
+
+**Describe something you do regularly that you think is a waste of time**
+
+> **You should say:**
+> - What the activity is
+> - When and where you do it
+> - Why you continue doing it
+> - Why you think it is a waste of time
+
+#### Part 3
+
+1. Why are routines important?
+2. Do you think having a routine is generally beneficial?
+3. How can people establish a useful daily routine?
+4. Why do some people dislike following routines?
+
+### 攒钱买东西🧡
+
+#### Part 2
+
+**Describe a time when you saved money to buy something you wanted**
+
+> **You should say:**
+> - What you wanted to buy
+> - Why you wanted to buy it
+> - How you saved money for it
+> - And explain how you felt after you bought it
+
+#### Part 3
+
+1. Should schools teach children how to manage money?
+2. Should parents encourage their children to spend money freely or to be careful with it?
+3. Is it easier to teach teenagers how to manage money when they are 16 or 17 years old?
+4. Which one do you think is easier, saving money or spending money?
+5. What kind of things do people usually save money for?
+
+### 听不感兴趣的话🧡
+
+#### Part 2
+
+**Describe a time when someone talked about something you were not interested in, but you continued listening.**
+
+> **You should say:**
+> - Who the person was
+> - What they talked about
+> - Why you continued listening
+> - How you felt about the experience
+
+#### Part 3
+
+1. What kinds of topics do young people like to talk about nowadays?
+2. What might happen if someone does not listen carefully during a conversation?
+3. How can we tell whether someone is listening attentively?
+
+### 小时候学习的技能🧡
+
+#### Part 2
+
+**Describe a new skill you learned when you were a child**
+
+> **You should say:**
+> - What the skill was
+> - Who taught you this skill
+> - How you learned it
+> - And explain how you felt about learning the skill
+
+#### Part 3
+
+1. What skills should children learn before they go to school?
+2. What are the differences between learning in a group and learning by yourself?
+3. Do you think it is easier for children to learn new skills than for adults?
+4. What are the differences between children learning skills and adults learning skills?
+5. Can a child learn skills from another child?
+6. Is it important for everyone to have a specialized skill?
+
+### 好的购物服务🧡
+
+#### Part 2
+
+**Describe a time when you received good service from a staff member in a shop**
+
+> **You should say:**
+> - Where the shop is
+> - When you went to the shop
+> - What service you received from the staff
+> - And explain how you felt about the service
+
+#### Part 3
+
+1. Why are shopping malls so popular in China?
+2. What are the advantages and disadvantages of shopping in small shops?
+3. Why do some people not like shopping in small shops?
+4. What are the differences between online shopping and in-store shopping?
+5. What are the advantages and disadvantages of shopping online?
+6. Can consumption drive economic growth?
+7. Why is customer service not good in some shops?
+8. Do you think good service is important?
+9. Do the most expensive shops have the best service?
+10. Why should companies react quickly when customers have difficulties?
+
+### 和朋友度过的美好夜晚🧡
+
+#### Part 2
+
+**Describe an enjoyable evening with your friends**
+
+> **You should say:**
+> - When and where it was
+> - Who you spent the evening with
+> - What you did
+> - And explain why you think it was an enjoyable evening
+
+#### Part 3
+
+1. Is it important to communicate with your family?
+2. What do you usually do with your friends in the evening?
+3. What are the differences between what old people and young people do in the evening?
+4. How can members of a large family maintain good relationships with one another?
+
+### 采访名人的经历🧡
+
+#### Part 2
+
+**Describe a time when you interviewed a famous person**
+
+> **You should say:**
+> - Who the famous person was
+> - When and where you interviewed this person
+> - What you talked about during the interview
+> - And explain how you felt about this experience
+
+#### Part 3
+
+1. What kinds of people are usually interviewed?
+2. Why do some people dislike being interviewed?
+3. Why do some people think interviews are a waste of time?
+4. What should people do to prepare for a job interview?
+
+### 对结果开心的重要决定🧡
+
+#### Part 2
+
+**Describe a time when you made an important decision and were happy with the result.**
+
+> **You should say:**
+> - What the decision was
+> - Why you made that decision
+> - How easy or difficult it was to make
+> - Why you were happy with the result
+
+#### Part 3
+
+1. How can we tell whether a decision is important or simply routine?
+2. Do you think it is a good idea to make small decisions for yourself every day?
+3. What kinds of small decisions do people make every day?
+4. What should people do when members of a group have different opinions about a decision?
+5. Do you think most of the important decisions in people’s lives are made in their twenties?
+6. Is it better to make a decision quickly or to take time to think it through?
 
 ### 近期改变❤️
 
@@ -523,48 +668,6 @@
 4. How can AI help in our lives?
 5. Do you think students are overly reliant on AI?
 6. What can teachers do to stop students relying too much on AI?
-
-### 鼓励别人做不愿做的事
-
-#### Part 2
-
-**Describe a time when you encouraged someone to do something that he/she didn't want to do**
-
-> **You should say:**
-> - Who he or she is
-> - What you encouraged him/her to do
-> - How he/she reacted
-> - And explain why you encouraged him/her to do it
-
-#### Part 3
-
-1. How can leaders encourage their employees?
-2. When should parents encourage their children?
-3. What kind of encouragement should parents give?
-4. Do you think some people are better than others at persuading?
-5. Should children do everything their parents ask them to do?
-6. How can employers encourage their staff?
-
-### 给别人建议
-
-#### Part 2
-
-**Describe a time when you gave advice to others**
-
-> **You should say:**
-> - When it was
-> - To whom you gave the advice
-> - What the advice was
-> - And explain why you gave the advice
-
-#### Part 3
-
-1. Should people prepare before giving advice?
-2. Is it good to ask advice from strangers online?
-3. What are the personalities of people whose job is to give advice to others?
-4. What are the problems if you ask too many people for advice?
-5. Why do some people think it is better to ask for advice from friends than from parents?
-6. When would old people ask young people for advice?
 
 ### 长时间未收到回复❤️
 
@@ -630,27 +733,6 @@
 6. What kind of people like getting up early?
 7. Is the early morning the best part of the day?
 8. Why do some people think it’s important to be on time and others don’t?
-
-### 为家人骄傲
-
-#### Part 2
-
-**Describe a time when you felt proud of a family member**
-
-> **You should say:**
-> - When it happened
-> - Who the person is
-> - What the person did
-> - And explain why you felt proud of him/her
-
-#### Part 3
-
-1. When would parents feel proud of their children?
-2. Should parents reward children? Why and how?
-3. Is it good to reward children too often? Why?
-4. On what occasions would adults be proud of themselves?
-5. Do rewards help a child become better?
-6. What do you think about children working hard just for grades?
 
 ### 改变重要想法❤️
 
@@ -718,27 +800,6 @@
 8. What are the common reasons when people need to change plans?
 9. What kind of plans are practical?
 
-### 微笑的场合
-
-#### Part 2
-
-**Describe an occasion when many people were smiling**
-
-> **You should say:**
-> - When it happened
-> - Who you were with
-> - What happened
-> - And explain why most people were smiling
-
-#### Part 3
-
-1. Do you think people who like to smile are more friendly?
-2. Why do most people smile in photographs?
-3. Do women smile more than men? Why?
-4. Do people smile more when they are younger or older ?
-5. Is smiling important in your culture?
-6. Are there any occasions when people need to pretend to smile?
-
 ### 重要决定❤️
 
 #### Part 2
@@ -760,93 +821,47 @@
 5. Do you think the influence of advertising is good?
 6. How do people usually make important decision?
 
-### 发挥想象力
+## 事物（10/10）
+
+### 最不喜欢的电影🧡
 
 #### Part 2
 
-**Describe a time you needed to use your imagination**
+**Describe your least favourite movie**
 
 > **You should say:**
-> - When it was
-> - Why you needed to use imagination
-> - How difficult or easy it was
-> - And explain how you felt about it
+> - When you watched it
+> - Where you watched it
+> - What it was about
+> - And explain why it’s your least favourite movie
 
 #### Part 3
 
-1. Do you think adults can have lots of imagination?
-2. Do you think imagination is essential for scientists?
-3. What kinds of jobs need imagination?
-4. What subjects are helpful for children's imagination?
-5. What games help develop children's imagination?
-6. How important is imagination to children?
+1. What kinds of movies are the most popular in China?
+2. What are the differences between watching movies at home and in a cinema?
+3. Are movies more likely to help people become more creative than books?
+4. Can movies help people better understand the cultural background of a country?
 
-### 不享受的音乐活动
+### 令人兴奋的书🧡
 
 #### Part 2
 
-**Describe an event you attended in which you didn't enjoy the music played**
+**Describe an exciting book that you enjoyed reading**
 
 > **You should say:**
-> - What it was
-> - Who you went with
-> - Why you decided to go there
-> - And explain why you didn't enjoy it
+> - What kind of book it was
+> - Why you decided to read it
+> - What the book was about
+> - Why you found it exciting
 
 #### Part 3
 
-1. What kind of music events do people like today?
-2. Do you think children should receive some musical education?
-3. What are the differences between old and young people's music preferences?
-4. What kind of music events are there in your country?
-5. Why do many people like listening to music while doing sports?
-6. What are the differences between listening to music at home and at a live concert?
-
-### 自行车/摩托车/汽车旅行
-
-#### Part 2
-
-**Describe a bicycle/motorcycle/car trip you would like to take**
-
-> **You should say:**
-> - Who you would like to go with
-> - Where you would like to go
-> - When you would like to go
-> - And explain why you would like to go by bicycle/motorcycle/car
-
-#### Part 3
-
-1. Which form of vehicle is more popular in your country, bikes, cars or motorcycles?
-2. Do you think air pollution comes mostly from motor vehicles?
-3. Do you think people need to change the way of transportation drastically to protect the environment?
-4. How are the transportation systems in urban areas and rural areas different?
-5. Why do more people own and drive private vehicles now?
-6. What do you think of the future of electric cars?
-
-### 禁止用手机的场合
-
-#### Part 2
-
-**Describe an occasion when you were not allowed to use your mobile phone**
-
-> **You should say:**
-> - When it was
-> - Where it was
-> - Why you were not allowed to use your mobile phone
-> - And how you felt about it
-
-#### Part 3
-
-1. How do young and old people use mobile phones differently?
-2. What positive and negative impact do mobile phones have on friendship?
-3. Is it a waste of time to take pictures with mobile phones?
-4. Do you think it is necessary to have laws on the use of mobile phones?
-5. What are examples of good and poor phone manners?
-6. How does the internet benefit people?
-
----
-
-## 事物（8/16）
+1. What kinds of books do people in your country enjoy reading?
+2. What kinds of books do young and older people enjoy?
+3. Do boys and girls tend to enjoy different kinds of books?
+4. Do you think it is important to read a book before watching its film adaptation?
+5. Why are films based on books sometimes disappointing?
+6. Can films based on novels encourage people to read more?
 
 ### 当地新闻❤️
 
@@ -891,27 +906,6 @@
 5. What goals do young people usually have?
 6. Why are young people ambitious for higher positions?
 7. What should people do to achieve their goals?
-
-### 想拥有的科技产品
-
-#### Part 2
-
-**Describe a piece of technology (not a phone) that you would like to own**
-
-> **You should say:**
-> - What it is
-> - How much it costs
-> - How you knew it
-> - And explain why you would like to own it
-
-#### Part 3
-
-1. What are the differences between the technology of the past and that of today?
-2. What technology do young people like to use?
-3. What are the differences between online and face-to-face communication?
-4. Do you think technology has changed the way people communicate?
-5. What negative effects does technology have on people's relationships?
-6. What are the differences between making friends in real life and online?
 
 ### 包含动物的故事或书❤️
 
@@ -977,69 +971,6 @@
 5. What are the benefits for people if they obey the rules?
 6. How can parents teach children to obey rules?
 
-### 对家庭重要的东西
-
-#### Part 2
-
-**Describe something important that has been kept in your family for a long time**
-
-> **You should say:**
-> - What it is
-> - When your family had it
-> - How your family got it
-> - And explain why it is important f or your family
-
-#### Part 3
-
-1. What things do families keep for a long time?
-2. What's the difference between things valued by people in the past and today?
-3. What kinds of things are kept in museums?
-4. What's the influence of technology on museums?
-5. What are the benefits of technology for learning history?
-6. Why do people visit museums?
-
-### Apps/程序
-
-#### Part 2
-
-**Describe a program or app on your computer or phone**
-
-> **You should say:**
-> - What it is
-> - When/how you use it
-> - Where you found it
-> - And explain how you feel about it
-
-#### Part 3
-
-1. What are the differences between old and young people when using apps?
-2. Why do some people not like using apps?
-3. What apps are popular in your country? Why?
-4. Should parents limit their children's use of computer programs and computer games?
-5. Do you think young people rely more and more on these programs?
-6. What do you think about some countries banning children from using social media?
-
-### 完美工作
-
-#### Part 2
-
-**Describe a perfect job you would like to have in the future**
-
-> **You should say:**
-> - What it is
-> - How you knew it
-> - What you need to learn to get this job
-> - And explain why you think it is a perfect job for you
-
-#### Part 3
-
-1. What kind of job can be called a 'dream job'?
-2. What jobs do children want to do when they grow up?
-3. Do people's ideal jobs change as they grow up?
-4. What should people consider when choosing jobs?
-5. Is salary the main reason people choose a certain job?
-6. What kind of jobs are the most popular in your country?
-
 ### 有趣视频❤️
 
 #### Part 2
@@ -1061,69 +992,6 @@
 5. Are there any differences between the videos that young people and old people like to watch?
 6. Are there any differences between the videos that young men and young women like to watch?
 7. What makes a video go viral online?
-
-### 想从事的短期海外工作
-
-#### Part 2
-
-**Describe a short-term job you want to have in a foreign country**
-
-> **You should say:**
-> - Where it is
-> - How you know of it
-> - What the job is
-> - And explain why you want to do it
-
-#### Part 3
-
-1. What short-term jobs do young people do in other countries?
-2. What challenges do young people face when working abroad?
-3. What are the benefits of working for an international company?
-4. What personal skills are required to work in an international company?
-5. What kind of work can young people do in foreign countries?
-6. Why are some people unwilling to work in other countries?
-
-### 花费超过预期的物品
-
-#### Part 2
-
-**Describe an item on which you spent more than expected**
-
-> **You should say:**
-> - What it is
-> - How much you spent on it
-> - Why you bought it
-> - And explain why you think you spent more than expected
-
-#### Part 3
-
-1. Do you often buy more than you expected?
-2. What do you think young people spend most of their money on?
-3. Do you think it is important to save money? Why?
-4. Do people buy things they don't need?
-5. Do you think it is the rich people's responsibility to donate money to people in need?
-6. What kind of things are people happy to pay a high price for?
-
-### 近期观影
-
-#### Part 2
-
-**Describe a movie you watched and enjoyed recently**
-
-> **You should say:**
-> - When and where you watched it
-> - Who you watched it with
-> - What it was about
-> - And explain why you watched this movie
-
-#### Part 3
-
-1. What kinds of movies do you think are successful in your country?
-2. What are the factors that make a successful movie?
-3. Do Chinese people prefer to watch domestic movies or foreign movies?
-4. Do you think only well-known directors can create the best movies?
-5. Do you think successful movies should have well-known actors or actresses in leading roles?
-6. Why do people prefer to watch movies in the cinema?
 
 ### 想颁布的环保法律❤️
 
@@ -1164,27 +1032,3 @@
 4. Do people today prefer eating at home or in a restaurant?
 5. What kinds of food are popular in your country?
 6. Do people in your country like eating foreign food?
-
-### 喜欢的电视/网络节目
-
-#### Part 2
-
-**Describe a TV/online program you enjoy watching**
-
-> **You should say:**
-> - What it is
-> - What it is about
-> - Which country it is from
-> - When you watch it
-> - And explain why you like to watch it
-
-#### Part 3
-
-1. What programs do people like to watch in your country?
-2. Do people in your country like to watch foreignTV programs?
-3. What's the benefit of letting kids watch animal videos than visiting zoos?
-4. Do teachers play videos in class in your country?
-5. Do you think watching talk shows is a waste of time?
-6. Do you think we can acquire knowledge from watching TV programs?
-7. What are the differences between the TV programs young people like to watch and those old people like to watch?
-8. What makes a popular TV or online program?

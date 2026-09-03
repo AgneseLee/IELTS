@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 新增
+- 新增 28 篇以压力恢复和改善睡眠为主线的 Speaking Part 2 变体答案及可重复生成脚本，并通过篇幅、叙事比例与搭配校验
 - 新增标准化考试与招生公平 Task 2 段落批改，保留学术词汇版与简单词汇版 Band 7 范文，并补充相关错误和逻辑链
 - 更新 Speaking Part 1 Shopping 与 Feeling Bored 的 Band 7 答案及高分表达和错误复盘，并为 Part 3 答案库补充六类跨题论证机制与生成规则
 - 新增 September Speaking 复习答案库，收录 17 个 Part 1 主题、28 篇 Part 2 答案及 28 组 Part 3 话题
@@ -110,6 +111,8 @@
 - 新增 `CHANGELOG.md`
 
 ### 变更
+- 将 Speaking Part 2 当前题库同步为 49 题，补充 21 道本月新题的 Part 2/3 内容，并用 🧡 区分本月新题
+- 为 Speaking Part 1 Shopping 的高价商品问题补充复习标记
 - 将 August Speaking 答案库迁移至 `speaking/archive/answers-August`，并更新相关链接
 - 将 IELTS Speaking Part 2 与 Part 3 答案生成技能的目录引用统一更新为 `speaking/answer-Septemper`
 - 按学习优先级和完成状态重命名并扩充 Speaking Part 2 答案，优化重要决定题的因果与反思逻辑

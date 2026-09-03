@@ -283,7 +283,7 @@ A: I usually compare prices because I want **good value for money** and I do not
 A: Not really. I usually know what I want to buy before I make a purchase. However, when there are too many options, I sometimes feel overwhelmed, which makes it harder to make an informed decision. I may spend extra time **weighing up the pros and cons**. <!-- P1-b -->
 
 **Q6: Do you think expensive products are always better than cheaper ones?**
-
+🥕
 A: Not necessarily. Expensive products sometimes cost more because of the brand name rather than better quality. Cheaper products are not always bad, so I focus on the product's quality and whether it **meets my needs**. <!-- P1-a -->
 
 **Q7: Have you ever returned anything you bought online?**

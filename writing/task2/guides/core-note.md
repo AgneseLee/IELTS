@@ -264,6 +264,25 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `generate more output with the same amount of resources → achieve sustained productivity gains → support industrial growth`
 - `automation replaces routine jobs → low-skilled workers struggle to retrain → unemployment or wage stagnation → wider income inequality`
 
+## 教育：标准化考试与招生公平
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `the uniform examination` | `standardised examinations` | 泛指统一或标准化考试制度时，复数形式和 `standardised` 更自然。 |
+| `require individuals study the same subjects` | `require individuals to study the same subjects` | 固定结构是 `require someone to do something`。 |
+| `criteria of other access approaches` | `criteria used in other admissions processes` | `access approaches` 不适合指招生方式；`admissions processes` 更准确。 |
+| `it seems oblivious to examine creativity` | `it is difficult to assess creativity objectively` | `oblivious` 表示“未察觉的”，不能表示“难以评估”。 |
+| `examinations work easier with direct scores` | `examinations produce numerical scores that can be compared directly` | 原搭配不成立；后者明确说明考试分数如何提高可比性。 |
+| `stabilizes the problem of educational inequity` | `mitigates educational inequality` | 问题通常用 `mitigate/reduce/address`，不用 `stabilise`。 |
+
+### 可复用逻辑链与搭配
+
+- `the same published assessment standards → consistent comparison of academic performance → fewer arbitrary admissions decisions → greater educational fairness`
+- `subjective criteria such as creativity → difficult to define and assess uniformly → inconsistent judgements → a greater risk of bias`
+- `transparent common benchmarks → easier evaluation of admissions outcomes → gradual refinement of admissions policies`
+
 ## 环境监管：排放义务、空气质量与公共健康
 
 ### 常见错误

@@ -46,7 +46,20 @@ One notable advantage of education is its ability to improve individual payment 
 - 反：教育竞争可能加剧心理压力和家庭经济负担。
 Nevertheless, it is important to recognize educational competition can produce harmful effects on both families and students' well-beings. A central problem is that the intense competitions among students introduce higher performance demands, which places additional pressure on students who are already subjected to heavy study loads. On the other hand, excessive after-school tutoring, which are usually supposed to be expensive, may impose extra financial burdens on students' parents. As a consequence, educational competition may undermine both students and their parents' well-beings , instead of delivering the intended benefits.
 
+正：
+A notable advantage of the uniform examination is its ability to confer a degree of comparability and provide a relatively unbiased basis for school admissions. The main reason is that it force students and schools to conform to a relatively transparent academic mould, which requires individuals study same subjects, whereas criteria of other access approaches may seem elusive and difficult to follow. For example, it seems oblivious to examine how creative a student is through a test, while academic examinations works easier with the direct scores. As a result, this approach not only stabilizes the problem of educational inequity in the short term but also creates favorable conditions for further educational improvement in the long run.
+
 #### 批改版
+
+##### 原始 7 分版（127词）
+
+A notable advantage of **standardised examinations** is **their** ability to **make applicants comparable** and provide a relatively unbiased basis for school admissions. The main reason is that **they require** students and schools to **follow** a relatively transparent academic **framework, under which candidates study the same core subjects and are evaluated against the same published standards**, whereas **other admissions criteria may be less clearly defined and harder to apply consistently**. For example, **it is difficult to assess a student's creativity objectively** through a test, **whereas** academic examinations **produce numerical scores that schools can compare directly**. As a result, this approach **can limit arbitrary admissions decisions and mitigate educational inequality** in the short term, **while its transparent benchmarks provide a basis for refining admissions policies** in the long term.
+
+##### 简单词汇版（123词）
+
+A notable advantage of **standardised exams** is **that they allow schools to compare students** and provide a **fairly objective** basis for school admissions. The main reason is that **they require all students to study the same core subjects and schools to judge them by the same clear standards**, whereas **other admission criteria may be harder to define and use consistently**. For example, **it is difficult to judge a student's creativity fairly through a test, whereas academic exams give clear scores that schools can compare directly**. As a result, **this system can reduce personal bias in admission decisions and make access to education fairer in the short term, while these clear standards can also help schools improve their admission policies in the long term**.
+
+#### 前两段批改版
 
 One notable advantage of education is its ability to improve **individuals' earning potential** and living standards. The main reason is that it equips students with practical skills through **vocational curricula**, allowing them to meet labour-market demands more easily and obtain higher salaries than those who **lack relevant job-specific skills**. In the long run, when **more well-prepared students enter the labour market nationwide, education can enable people from disadvantaged backgrounds to secure better-paid jobs and move up the income ladder, thereby improving** social mobility **while raising** national productivity.
 

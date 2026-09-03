@@ -23,6 +23,7 @@
 
 - Who/What: My cousin Lin, a nursing student who hopes to work in emergency care.
 - Background: I have known her since childhood, but she considered nursing during our grandmother's illness.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: She later handled my cut hand calmly at a family gathering and explained what to watch for.
 - Ability shown: She combines continuous learning with clear, reassuring communication.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

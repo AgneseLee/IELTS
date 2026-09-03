@@ -9,7 +9,7 @@
 | Part 1 questions / answers | [`topics/question-bank.md`](topics/question-bank.md) / [`answer-Septemper/part1.md`](answer-Septemper/part1.md) |
 | Part 2 questions / answers | [`answer-Septemper/part2/topic-bank.md`](answer-Septemper/part2/topic-bank.md) / [`answer-Septemper/part2/`](answer-Septemper/part2/) |
 | Part 2 stories / abilities | [`plans/20-day-band7.md`](plans/20-day-band7.md) / [`answer-Septemper/part2/6skills.md`](answer-Septemper/part2/6skills.md) |
-| Part 3 viewpoints / mapping / practice | [`answer-Septemper/part3-topic-bank.md`](answer-Septemper/part3-topic-bank.md) / [`answer-Septemper/part3-question-map.md`](answer-Septemper/part3-question-map.md) / [`answer-Septemper/part3-practice-log.md`](answer-Septemper/part3-practice-log.md) |
+| Part 3 viewpoints / mapping / practice | [`answer-Septemper/part3-topic-bank.md`](answer-Septemper/part3-topic-bank.md) / [`archive/answers-September/part3-question-map.md`](archive/answers-September/part3-question-map.md) / [`archive/answers-September/part3-practice-log.md`](archive/answers-September/part3-practice-log.md) |
 | Mock test / answer coaching | [`Speaking-Prompt.md`](Speaking-Prompt.md) / [`p2&p3 prompt.md`](p2&p3%20prompt.md) |
 | Review / language | [`reviews/notebook.md`](reviews/notebook.md) / [`language/100-essential-sentences.md`](language/100-essential-sentences.md) |
 

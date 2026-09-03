@@ -12,8 +12,8 @@ description: Generate or lightly polish concise IELTS Speaking Part 3 answers st
 每次生成或润色前按顺序读取：
 
 1. `speaking/answer-Septemper/part3-topic-bank.md`：唯一核心论点来源；T01–T10 只负责题目语境，M01–M06 负责主论证机制；轻量反方可从答案主论点直接推导。
-2. `speaking/answer-Septemper/part3-question-map.md`：题库原题的候选主题路由。
-3. `speaking/answer-Septemper/part3-practice-log.md`：仅在追加答案或排重时读取。
+2. `speaking/archive/answers-September/part3-question-map.md`：题库原题的候选主题路由。
+3. `speaking/archive/answers-September/part3-practice-log.md`：仅在追加答案或排重时读取。
 
 不得把 question map 的主题映射视为已通过覆盖验收。它只用于缩小候选范围。
 

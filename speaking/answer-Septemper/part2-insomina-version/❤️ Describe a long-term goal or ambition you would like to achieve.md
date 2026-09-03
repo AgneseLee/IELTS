@@ -23,6 +23,7 @@
 
 - Who/What: My goal is to become an independent software consultant focused on small AI projects.
 - Background: I have considered this direction since my layoff about a year ago.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: I will strengthen my AI skills, test freelance projects, and save an emergency fund.
 - Ability shown: Continuous learning and structured problem-solving.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

@@ -21,6 +21,7 @@
 
 - Who/What: My mother, a retired accountant living in Zhanjiang.
 - Background: She grows spring onions, lettuce and tomatoes in recycled containers on her balcony.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: She saved most of her tomato plants after heavy rain soaked the soil and damaged their leaves.
 - Ability shown: She observed how the plants responded and adjusted their location and watering routine.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

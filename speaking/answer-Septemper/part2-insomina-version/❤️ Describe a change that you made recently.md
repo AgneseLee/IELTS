@@ -23,6 +23,7 @@
 
 - Who/What: I changed my daily routine while rebuilding my career.
 - Background: Constant job searching after a layoff left me tired and unfocused.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: I added a morning walk and limited each weekday to three priority tasks.
 - Ability shown: I adjusted my approach and created practical steps.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

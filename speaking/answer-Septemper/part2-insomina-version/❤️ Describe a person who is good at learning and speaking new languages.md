@@ -23,6 +23,7 @@
 
 - Who/What: Stella, my former colleague and friend, who speaks English and conversational Japanese.
 - Background: I got to know her about three years ago while working on the same software team.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: She shadows podcasts daily, attends a weekly language exchange, and used English when we were lost in Malaysia.
 - Ability shown: Consistent learning supported by confident, practical communication.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

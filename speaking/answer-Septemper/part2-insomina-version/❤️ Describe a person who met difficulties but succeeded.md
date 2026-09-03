@@ -23,6 +23,7 @@
 
 - Who/What: Stella, my former colleague and close friend.
 - Background: Company layoffs left her with a heavier workload and severe burnout.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: She spoke to her manager, set clearer boundaries, and rebuilt her health through manageable steps.
 - Ability shown: She adapted honestly and solved the causes of the pressure one by one.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

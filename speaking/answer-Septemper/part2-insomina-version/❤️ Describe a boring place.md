@@ -21,6 +21,7 @@
 
 - Who/What: An office skyscraper near my former workplace in Beijing.
 - Background: Stella and I used to visit it for meetings, and one meeting was delayed for nearly two hours.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We bought coffee, checked emails, and waited in the lobby while the lifts remained packed.
 - Ability shown: I considered how outdoor space, better ventilation, and more efficient lifts could improve the experience.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

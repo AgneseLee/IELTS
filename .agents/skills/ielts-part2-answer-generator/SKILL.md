@@ -24,7 +24,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 - 接受一道或多道完整 cue cards、英文题名、中文标题或主题。
 - 优先精确匹配完整英文 cue，其次匹配中文标题。唯一匹配时直接生成；多个近似匹配时列出候选并等待确认。
 - 默认只处理当前 55 题。只有用户明确要求旧题或 full bank 时才读取旧题库。
-- `❤️` 只表示新题；仅当用户要求新题或本季题时优先。
+- `❤️` 表示季度新题，`🧡` 表示本月新题；用户指定其中一类时只处理对应标记。
 
 ## Story and ability gate
 
@@ -75,7 +75,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 ```md
 ## Cue Card
 
-**<prepend `❤️ ` when the source topic heading contains ❤️><exact English cue-card title>**
+**<prepend `❤️ ` or `🧡 ` when the source topic heading contains that marker><exact English cue-card title>**
 
 > **You should say:**
 > - <exact bullet 1 from topic-bank.md>
@@ -116,16 +116,16 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 ## Save and validate
 
-1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。若中文 topic heading 含 `❤️`，在文件名开头添加 `❤️ `，使 Obsidian 文档标题显示为 `❤️ <English cue title>`。
+1. 以完整英文 cue title 命名 `.md` 文件；移除末尾标点，并把 `/` 替换为 ` or `。若中文 topic heading 含 `❤️` 或 `🧡`，在文件名和可见 Cue Card 开头添加同一标记。
    不要在文件正文中添加 H1；Obsidian 已把文件名显示为页面标题，重复 H1 会造成标题重复。
-2. 自动写入 `speaking/answer-Septemper/part2/[❤️ ]<title>.md`，其中 `❤️ ` 只用于题库标记的新题。批量生成时每题单独保存。
+2. 自动写入目标目录的 `[❤️ |🧡 ]<title>.md`；标记必须与题库一致。批量生成时每题单独保存。
 3. 新文件可直接创建。若目标已存在，只有用户明确要求 regenerate、update 或 overwrite 时才替换；否则保留并报告冲突。
 4. 对每个新建或更新文件运行：
 
    `python3 .agents/skills/ielts-part2-answer-generator/scripts/validate_part2_answer.py <file>`
 
 5. 校验失败时修改答案并重跑，直至通过。再人工反查 cue coverage、事实一致性、能力证据和跨题复用价值，并逐句执行 Natural spoken-language gate；确定性校验通过不代表口语自然。
-6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。若该题的中文 topic heading 含 `❤️`，在英文题目前添加 `❤️ `，并让文件名使用相同前缀。
+6. 确保 `Cue Card` 可见区块逐字展示题库中的完整英文题目和全部 `You should say` bullets；不得概括、翻译或遗漏。题目标记必须在可见英文题目和文件名中一致保留。
 7. 确保 Useful Collocations 恰好 8 个，并包含所选 Bank 的全部 3 个固定 collocations；不得为了显得高级而扩充新词。
 8. 向用户报告保存路径、Bank/modules、abilities、正文词数、精确比例及按 105 WPM 估算的时长。把结果描述为 Band 7-targeted，不保证真实考试分数。
 

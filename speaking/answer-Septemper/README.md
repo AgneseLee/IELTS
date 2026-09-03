@@ -7,8 +7,8 @@
 - [`../plans/20-day-band7.md`](../plans/20-day-band7.md)：8 个 Story Banks、modules、固定 collocations。
 - [`part2/6skills.md`](6skills.md)：6 项 transferable abilities。
 - [`part3-topic-bank.md`](part3-topic-bank.md)：Part 3 观点卡。
-- [`part3-question-map.md`](part3-question-map.md)：题目与观点模块映射。
-- [`part3-practice-log.md`](part3-practice-log.md)：答案与复练进度。
+- [`../archive/answers-September/part3-question-map.md`](../archive/answers-September/part3-question-map.md)：题目与观点模块映射（归档版）。
+- [`../archive/answers-September/part3-practice-log.md`](../archive/answers-September/part3-practice-log.md)：答案与复练进度（归档版）。
 - [`part3-hard-answers.md`](part3-hard-answers.md)、[`part3-coverage.md`](part3-coverage.md)：困难题与覆盖报告。
 
 ## 统一人设

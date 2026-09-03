@@ -21,6 +21,7 @@
 
 - Who/What: Homemade pork and vegetable dumplings.
 - Background: My family prepares them together during Lunar New Year.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: My mother makes the filling while the younger relatives fold the wrappers.
 - Ability shown: I cooperate with my relatives and take responsibility for one part of the shared preparation.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

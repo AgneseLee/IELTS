@@ -23,6 +23,7 @@
 
 - Who/What: A failed laptop update before an important workplace presentation.
 - Background: The laptop refused to start with only forty minutes before the meeting.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: I used a cloud backup, borrowed Stella's laptop, and tested the slides.
 - Ability shown: Calm problem-solving and rapid adaptation.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

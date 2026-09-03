@@ -23,6 +23,7 @@
 
 - Who/What: Stella and I changed an island-trip plan in Malaysia.
 - Background: Strong wind made the scheduled boat unsafe.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: We visited a market and cooked a local dish at our accommodation.
 - Ability shown: Flexible planning and creative use of available options.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

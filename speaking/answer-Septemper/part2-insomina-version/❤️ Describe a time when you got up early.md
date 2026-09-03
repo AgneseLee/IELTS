@@ -23,6 +23,7 @@
 
 - Who/What: Stella and I got up at 4:30 a.m. for a sunrise boat near Semporna.
 - Background: We had little sleep, and early mornings are not part of my normal routine.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We boarded a small boat and watched the sky change over the sea.
 - Ability shown: Adapting to discomfort and learning from direct experience.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

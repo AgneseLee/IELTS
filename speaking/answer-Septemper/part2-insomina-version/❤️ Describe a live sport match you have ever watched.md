@@ -23,6 +23,7 @@
 
 - Who/What: A professional badminton final in Beijing.
 - Background: Stella and I had both played casually at university.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: One player changed tactics and made a dramatic comeback.
 - Ability shown: Learning through observation and sharing ideas clearly.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

@@ -8,21 +8,23 @@
 > - Why you read the story/book
 > - And explain what you think of this story/book
 
-> Bank: B2 | Modules: Counselling-for-Toads / layoff / confidence
+> Bank: B2 | Modules: tortoise-and-hare / work-pressure / steady-progress
 
 > Logic: L1-full · emotional recovery: pressure → pause → manageable steps → calmness
 
 ## 1. Core Ability Mapping
 
-- Primary Ability: Learning Ability
-- Reason: I used the questions in the counselling scenes to understand my feelings and build a healthier routine after losing my job.
+- Primary Ability: Adaptability
+- Reason: I applied the tortoise's steady approach when rushing was harming my sleep.
+- Secondary Ability: Learning Ability
+- Reason: I turned a familiar childhood story into a practical lesson for adult life.
 
 ## 2. Story Bank
 
-- Who/What: Toad, Heron, Rat, Mole and Badger in *Counselling for Toads*.
-- Background: I found the book online after losing my software job and starting to doubt my ability.
-- Main event: During ten counselling sessions, Heron helps Toad understand his feelings and take responsibility for his responses.
-- Ability shown: I turned a simple psychological story into practical questions for my own weekly routine.
+- Who/What: The tortoise and the hare in the classic animal story.
+- Background: Work pressure had begun affecting my sleep.
+- Main event: I reread how the tortoise won through a calm and steady pace.
+- Ability shown: Adaptability and learning from experience.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.
 
 ## 3. Band 7 Answer (1:40–2:00)
@@ -40,8 +42,8 @@ That became the turning point I needed. Instead of pushing harder, I paused and 
 - regain my confidence
 - look at setbacks from a different perspective
 - carry emotional value
-- learn new skills
-- improve through practice
-- explore new ideas
-- keep learning
-- learn from experience
+- adapt to changes
+- adjust my approach
+- remain flexible
+- deal with uncertainty
+- step outside my comfort zone

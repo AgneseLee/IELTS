@@ -23,6 +23,7 @@
 
 - Who/What: I sent a project message to Stella, my former colleague.
 - Background: I needed technical information from her before an approaching deadline.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: After three days without a reply, I followed up politely and eventually received the information.
 - Ability shown: Clear communication, patience, and adaptability under uncertainty.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

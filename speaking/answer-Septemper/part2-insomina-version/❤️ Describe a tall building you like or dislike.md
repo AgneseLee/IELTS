@@ -21,6 +21,7 @@
 
 - Who/What: An office skyscraper near my former workplace in Beijing.
 - Background: Stella and I visited it several times for meetings.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: Its glass exterior, bright atrium, and city view impressed me, although crowded lifts and sealed windows reduced daily comfort.
 - Ability shown: I explored ways the building's existing design could better serve everyday users.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

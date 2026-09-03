@@ -23,6 +23,7 @@
 
 - Who/What: Four colleagues and I built an internal reporting tool.
 - Background: The six-week project required different design, coding, and testing skills.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We fixed duplicated work by assigning clear roles and holding daily check-ins.
 - Ability shown: Team coordination and open communication.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

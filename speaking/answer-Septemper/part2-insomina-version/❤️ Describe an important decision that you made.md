@@ -23,6 +23,7 @@
 
 - Who/What: I decided to rebuild my software career after a layoff.
 - Background: Losing an eight-year role damaged my confidence and sense of direction.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: I sought advice, created a routine, and began learning AI tools.
 - Ability shown: Informed decision-making and continuous learning.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

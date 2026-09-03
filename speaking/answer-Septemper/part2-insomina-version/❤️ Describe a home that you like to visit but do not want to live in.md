@@ -21,6 +21,7 @@
 
 - Who/What: Stella's apartment in a high-rise residential building in central Beijing.
 - Background: The building is near the office skyscraper I visit for meetings, so its glass exterior and bright lobby feel familiar.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We drink coffee by the window and enjoy the city view, but the packed lifts and poor ventilation make daily life less comfortable.
 - Ability shown: I looked past the view and considered how the apartment would feel on an ordinary weekday.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

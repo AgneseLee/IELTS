@@ -21,6 +21,7 @@
 
 - Who/What: Semporna, a coastal destination in Sabah, Malaysia.
 - Background: Stella and I spent the final week of our ten-day Malaysia trip there.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We watched the sunrise, tried local food, and went freediving above coral reefs where we saw a sea turtle.
 - Ability shown: I adapted to an unfamiliar activity and respected the instructor's safety guidance.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

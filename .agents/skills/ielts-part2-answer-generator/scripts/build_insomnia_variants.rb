@@ -57,6 +57,27 @@ narrative_overrides = {
   'Describe an interesting video' => 'I watched an eight-minute video called The Power of Slowing Down in my bedroom late one night. At that time, work pressure was affecting my sleep because I tried to complete several tasks at once. The creator described his own burnout and explained why he stopped multitasking. He limited himself to three important tasks, worked on them one by one, and took short breaks without checking his phone. I clicked because the title described exactly how I felt. The next morning, I tested his method and finished my work with fewer mistakes.'
 }
 
+metadata_overrides = {
+  'Describe a time when you changed an important opinion of yours' => {
+    bank: 'B4 | Modules: job-interviews / mother-advice / manageable-steps',
+    abilities: "- Primary Ability: Problem-solving Skills\n- Reason: I reduced multitasking and rebuilt my preparation around three manageable tasks.\n- Secondary Ability: Adaptability\n- Reason: I replaced an ineffective belief after testing a calmer approach.",
+    story: "- Who/What: I changed my belief that working faster always creates better results.\n- Background: Interview pressure was affecting my sleep.\n- Main event: My mother advised me to slow down and work on three priorities one by one.\n- Ability shown: Problem-solving and adaptability under pressure.\n- Reflection: A pause and steady steps restored my sleep, confidence, and enjoyment.",
+    fixed: ['feel understood and supported', 'focus on what I could control', 'manageable steps']
+  },
+  'Describe a story/book with animals in it' => {
+    bank: 'B2 | Modules: tortoise-and-hare / work-pressure / steady-progress',
+    abilities: "- Primary Ability: Adaptability\n- Reason: I applied the tortoise's steady approach when rushing was harming my sleep.\n- Secondary Ability: Learning Ability\n- Reason: I turned a familiar childhood story into a practical lesson for adult life.",
+    story: "- Who/What: The tortoise and the hare in the classic animal story.\n- Background: Work pressure had begun affecting my sleep.\n- Main event: I reread how the tortoise won through a calm and steady pace.\n- Ability shown: Adaptability and learning from experience.\n- Reflection: A pause and steady steps restored my sleep, confidence, and enjoyment.",
+    fixed: ['regain my confidence', 'look at setbacks from a different perspective', 'carry emotional value']
+  },
+  'Describe an interesting video' => {
+    bank: 'B5 | Modules: slow-down-video / three-priorities / sleep-recovery',
+    abilities: "- Primary Ability: Problem-solving Skills\n- Reason: I replaced multitasking with three priorities and completed them one by one.\n- Secondary Ability: Adaptability\n- Reason: I tested the creator's method and changed my routine when the old one failed.",
+    story: "- Who/What: An eight-minute video called The Power of Slowing Down.\n- Background: Work pressure and multitasking were affecting my sleep.\n- Main event: I followed the video's three-priority method and made fewer mistakes.\n- Ability shown: Problem-solving and adaptability under pressure.\n- Reflection: A pause and steady steps restored my sleep, confidence, and enjoyment.",
+    fixed: ['boost my productivity', 'turn ideas into working results', 'test equipment in advance']
+  }
+}
+
 ability_phrases = {
   'Communication Skills' => ['express my ideas clearly', 'listen actively', 'understand different perspectives', 'avoid misunderstandings', 'build trust'],
   'Problem-solving Skills' => ['identify problems', 'find practical solutions', 'make informed decisions', 'take effective action', 'focus on what I can control'],
@@ -109,8 +130,19 @@ files.each do |source|
                                'It showed me that calm, steady action often works better than rushing.']
                             end
 
+  if (metadata = metadata_overrides[title])
+    text.sub!(/^> Bank: .*$/, "> Bank: #{metadata.fetch(:bank)}")
+    text.sub!(/## 1\. Core Ability Mapping\n\n.*?\n\n## 2\. Story Bank/m,
+              "## 1. Core Ability Mapping\n\n#{metadata.fetch(:abilities)}\n\n## 2. Story Bank")
+    text.sub!(/## 2\. Story Bank\n\n.*?\n\n## 3\. Band 7 Answer/m,
+              "## 2. Story Bank\n\n#{metadata.fetch(:story)}\n\n## 3. Band 7 Answer")
+  end
   text.sub!(/^(> Bank: .*?)\n/, "\\1\n\n> Logic: #{logic} · #{logic_label}\n")
   text.sub!(/^- Reflection: .*$/, "- Reflection: #{logic_label.capitalize}.")
+  if logic.start_with?('L1') && !metadata_overrides.key?(title)
+    trigger = logic == 'L1-full' ? 'Pressure was affecting sleep, so a change became necessary.' : 'Stress was affecting sleep, so the experience became a cue to change.'
+    text.sub!(/^- Background: (.+)$/, "- Background: \\1\n- L1 trigger: #{trigger}")
+  end
   if title == 'Describe an interesting video'
     text.sub!('It also showed volunteers cleaning a beach and vividly explained',
               'It also showed volunteers cleaning a beach. It vividly explained')
@@ -231,7 +263,7 @@ files.each do |source|
 
   abilities = text.scan(/^- (?:Primary|Secondary) Ability: (.+)$/).flatten
   existing = text[/## 4\. Useful Collocations\n\n(.*)\z/m, 1].to_s.scan(/^- (.+)$/).flatten
-  fixed = existing.first(3)
+  fixed = metadata_overrides.dig(title, :fixed) || existing.first(3)
   pool = abilities.flat_map { |ability| ability_phrases.fetch(ability, []) } + ability_phrases.values.flatten
   collocations = (fixed + pool).uniq.first(8)
   abort "Insufficient collocations in #{source}" unless collocations.size == 8

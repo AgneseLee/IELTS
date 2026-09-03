@@ -8,23 +8,23 @@
 > - Why you changed it
 > - And explain how you felt about the experience
 
-> Bank: B4 | Modules: layoff / advice / manageable-steps
+> Bank: B4 | Modules: job-interviews / mother-advice / manageable-steps
 
 > Logic: L1-full · emotional recovery: pressure → pause → manageable steps → calmness
 
 ## 1. Core Ability Mapping
 
-- Primary Ability: Communication Skills
-- Reason: Honest conversations with my mother and former colleagues helped me understand perspectives beyond my own.
+- Primary Ability: Problem-solving Skills
+- Reason: I reduced multitasking and rebuilt my preparation around three manageable tasks.
 - Secondary Ability: Adaptability
-- Reason: I revised my belief about independence when direct experience showed that it was unhelpful.
+- Reason: I replaced an ineffective belief after testing a calmer approach.
 
 ## 2. Story Bank
 
-- Who/What: I changed my opinion that capable people should solve setbacks alone.
-- Background: I held this belief until losing my software job.
-- Main event: My mother helped me seek practical advice from former colleagues.
-- Ability shown: Open communication and willingness to adjust my thinking.
+- Who/What: I changed my belief that working faster always creates better results.
+- Background: Interview pressure was affecting my sleep.
+- Main event: My mother advised me to slow down and work on three priorities one by one.
+- Ability shown: Problem-solving and adaptability under pressure.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.
 
 ## 3. Band 7 Answer (1:40–2:00)
@@ -42,8 +42,8 @@ Within a week, I felt calmer and performed much better. That became the turning 
 - feel understood and supported
 - focus on what I could control
 - manageable steps
-- express my ideas clearly
-- listen actively
-- understand different perspectives
-- avoid misunderstandings
-- build trust
+- identify problems
+- find practical solutions
+- make informed decisions
+- take effective action
+- focus on what I can control

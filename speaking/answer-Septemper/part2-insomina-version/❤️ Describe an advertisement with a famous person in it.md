@@ -21,6 +21,7 @@
 
 - Who/What: A sports-shoe advertisement featuring a famous badminton player.
 - Background: I saw it online before attending a live badminton match in Beijing.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: The athlete trains early, makes mistakes, and gradually improves.
 - Ability shown: Careful judgement instead of trusting celebrity endorsement alone.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

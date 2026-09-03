@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-path = File.expand_path('../../../../speaking/answer-Septemper/part3.md', __dir__)
+path = File.expand_path('../../../../speaking/archive/answers-September/part3.md', __dir__)
 text = File.read(path)
 
 labels = {

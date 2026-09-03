@@ -23,6 +23,7 @@
 
 - Who/What: My mother helped me overcome my fear of expressing opinions.
 - Background: In primary school, I often stayed silent because I worried that people would judge me.
+- L1 trigger: Pressure was affecting sleep, so a change became necessary.
 - Main event: She listened, reframed disagreement, and asked me to share one opinion each day with someone I trusted.
 - Ability shown: Active listening, clear explanation, and practical problem-solving.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.

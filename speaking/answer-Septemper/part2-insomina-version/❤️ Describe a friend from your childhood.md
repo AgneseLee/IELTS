@@ -21,6 +21,7 @@
 
 - Who/What: Ming, my dependable childhood friend from Zhanjiang.
 - Background: We met in primary school because we lived in the same neighbourhood and were both quiet children.
+- L1 trigger: Stress was affecting sleep, so the experience became a cue to change.
 - Main event: We cycled, played badminton, exchanged comic books, and he stayed when my bicycle broke.
 - Ability shown: Quiet, trustworthy communication that keeps the friendship secure over time.
 - Reflection: Emotional reset: stress → pause → steady action → clearer mind.

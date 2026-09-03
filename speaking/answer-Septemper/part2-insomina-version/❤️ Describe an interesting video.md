@@ -8,21 +8,23 @@
 > - Why you watched it
 > - And explain how you feel about it
 
-> Bank: B8 | Modules: Semporna / marine-plastic / daily-habits
+> Bank: B5 | Modules: slow-down-video / three-priorities / sleep-recovery
 
 > Logic: L1-full · emotional recovery: pressure → pause → manageable steps → calmness
 
 ## 1. Core Ability Mapping
 
-- Primary Ability: Learning Ability
-- Reason: I used the documentary to understand how plastic reaches the ocean and turned that knowledge into daily habits.
+- Primary Ability: Problem-solving Skills
+- Reason: I replaced multitasking with three priorities and completed them one by one.
+- Secondary Ability: Adaptability
+- Reason: I tested the creator's method and changed my routine when the old one failed.
 
 ## 2. Story Bank
 
-- Who/What: A short online documentary about plastic pollution in the ocean.
-- Background: I watched it after seeing a sea turtle while freediving near Semporna.
-- Main event: Animation and real video clips showed how plastic reaches the sea and how volunteers clean beaches.
-- Ability shown: I expanded my knowledge and used it to make more responsible daily choices.
+- Who/What: An eight-minute video called The Power of Slowing Down.
+- Background: Work pressure and multitasking were affecting my sleep.
+- Main event: I followed the video's three-priority method and made fewer mistakes.
+- Ability shown: Problem-solving and adaptability under pressure.
 - Reflection: Emotional recovery: pressure → pause → manageable steps → calmness.
 
 ## 3. Band 7 Answer (1:40–2:00)
@@ -37,11 +39,11 @@ The next morning, I tested his method and finished my work with fewer mistakes. 
 
 ## 4. Useful Collocations
 
-- remain calm under pressure
-- make a meaningful practical difference
-- a visible community result
-- learn new skills
-- improve through practice
-- explore new ideas
-- keep learning
-- learn from experience
+- boost my productivity
+- turn ideas into working results
+- test equipment in advance
+- identify problems
+- find practical solutions
+- make informed decisions
+- take effective action
+- focus on what I can control

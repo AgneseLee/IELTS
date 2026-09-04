@@ -283,6 +283,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `subjective criteria such as creativity → difficult to define and assess uniformly → inconsistent judgements → a greater risk of bias`
 - `transparent common benchmarks → easier evaluation of admissions outcomes → gradual refinement of admissions policies`
 
+## 教育：标准化考试、学习压力与课程窄化
+
+### 常见错误
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `the initial students’ high academic performance` | `students’ initial high academic performance` | `initial` 修饰的是表现出现的阶段，而不是学生，因此应放在 `performance` 前。 |
+| `Because it is difficult for pupils...` | `This is because it is difficult for pupils...` | `Because` 引导的从句不能独立成句；可用 `This is because` 承接前句。 |
+| `get good grades constantly` | `maintain consistently high grades` | 描述成绩长期维持在高水平时，`maintain consistently high grades` 更自然准确。 |
+| `heavy study load` | `a heavy study load` / `heavy workloads` | `study load` 是单数可数名词，需要冠词；也可使用更自然的复数表达。 |
+| `limited qualified teachers and funding` | `limited resources, including qualified teachers and funding` | 原语序容易让 `limited` 被理解为“能力有限的教师”；改写后明确表示资源数量有限。 |
+
+### 可复用逻辑链与搭配
+
+- `overreliance on standardised examinations → sustained pressure to maintain high grades → heavier workloads and chronic stress → student burnout → weaker academic performance`
+- `an excessive focus on test preparation → teachers and funding diverted away from practical activities and open-ended inquiry → a narrower curriculum → weaker intellectual development`
+
 ## 环境监管：排放义务、空气质量与公共健康
 
 ### 常见错误

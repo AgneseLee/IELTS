@@ -49,7 +49,14 @@ Nevertheless, it is important to recognize educational competition can produce h
 正：
 A notable advantage of the uniform examination is its ability to confer a degree of comparability and provide a relatively unbiased basis for school admissions. The main reason is that it force students and schools to conform to a relatively transparent academic mould, which requires individuals study same subjects, whereas criteria of other access approaches may seem elusive and difficult to follow. For example, it seems oblivious to examine how creative a student is through a test, while academic examinations works easier with the direct scores. As a result, this approach not only stabilizes the problem of educational inequity in the short term but also creates favorable conditions for further educational improvement in the long run.
 
+反
+Nevertheless, this advantage of standardized examinations may be short-lived, as the initial students’ high academic performance quickly fades once they become overwhelmed. Because it is difficult for pupils to get good grades constantly  when they are exposed to heavy study load and chronic pressure coming from such an overbearing educational regime. More importantly, these temporary gains often conceal deeper problems, such as resource misallocation. The main reason is that it forces schools to divert limited qualified teachers and funding away from their essential functions, thereby reducing investment in the broader intellectual education of students. As a result, this practice often creates systemic inefficiencies rather than steering students towards comprehensive intellectual development.
+
 #### 批改版
+
+Nevertheless, this advantage of standardized examinations may be short-lived, as **students’ initial high academic performance may quickly fade** once they become overwhelmed. **This is because it is difficult for pupils to maintain consistently high grades when they face heavy workloads and chronic pressure under such a test-driven educational regime.** More importantly, these temporary gains often conceal deeper problems, such as resource misallocation. The main reason is that **an excessive focus on test preparation** forces schools to divert **qualified teachers and limited funding away from practical activities and open-ended inquiry**, thereby reducing investment in **students’ broader intellectual development**. As a result, this practice often creates systemic inefficiencies rather than **guiding** students towards comprehensive intellectual development.
+
+#### 正向段批改版
 
 ##### 原始 7 分版（127词）
 

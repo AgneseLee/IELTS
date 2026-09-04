@@ -204,37 +204,37 @@ A: Probably not. A car is mainly a practical tool for me, so I would rather choo
 
 **Q1: Did you like going to parks as a child?**
 
-A: Yes, I did. I enjoyed going with my parents because it gave us a chance to **spend quality time together**, and I could play outdoors. What I remember most is exploring the park and enjoying the feeling of freedom. <!-- P8-a -->
+A: Yes, I did. I enjoyed going to the park with my parents because it gave us a chance to **spend quality time together** and **build shared memories**, which makes me feel connected. <!-- P8-a -->
 
-**Q2: Do you still like going to parks now?**
+**Q2: Do you still go to parks now?**
 
-A: Yes, although I do not go as often as I did when I was younger. Nowadays, I visit parks to **clear my head and unwind** after a busy day at work. <!-- P5-a -->
+A: Yes, but I don't go as often as when I was a kid. These days, I visit parks after work **now and then**, which helps me **relax and unwind**. <!-- P5-a -->
 
 **Q3: Would you like to see more parks in your city?**
 
-A: Definitely. More parks would make the city more pleasant because they **provide green spaces** where people can relax and exercise. They can also improve people's quality of life, especially in crowded urban areas. <!-- P5-b -->
+A: Definitely. More parks would make the city more pleasant. They **provide green spaces** where people can relax and exercise, which really improves quality of life, especially in crowded urban areas. After work, people can just go there to unwind and enjoy some fresh air. <!-- P5-b -->
 
 **Q4: Are there any parks you want to visit in the future?**
 
-A: I would like to visit larger natural parks, especially those with beautiful landscapes and hiking trails. What appeals to me most is the opportunity to **escape from city life** and enjoy a peaceful environment. <!-- P3-c -->
+A: I think I'd like to visit larger natural parks, especially those with beautiful natural scenery. What **appeals to me** most is the opportunity to **escape from my daily routine** and enjoy a peaceful environment. <!-- P3-c -->
 
-**Q5: Do you prefer a private garden or a public garden?**
+**Q5: Do you prefer a private garden or a public one?**
 
-A: I prefer public gardens because they provide more space and varied scenery. That being said, a private garden would offer more privacy and convenience, but it is **not practical for me financially** at the moment. <!-- P6-a -->
+A: Personally, I prefer public gardens since they offer **more space and variety**. That said, a private garden would be more private and convenient, but it's not practical for me right now. <!-- P6-a -->
 
 **Q6: How are parks today different from those you visited as a child?**
 
-A: Parks today are more modern and better equipped, with facilities such as fitness equipment, walking paths and children's areas. They are designed not only for relaxation but also to **promote a healthier lifestyle**. <!-- P1-b -->
+A: I think parks today are more modern and better equipped with facilities such as children's areas, walking paths and fitness equipment. They're designed not only for relaxation but also to **promote a healthier lifestyle**. <!-- P1-b -->
 
-**Q7: What do you like to do when visiting a park?**
+**Q7: What did you like to do when visiting a park?**
 
-A: I usually take a walk, enjoy the scenery or listen to music. Sometimes I take photos because parks can **bring back happy memories** and help me take a break from my busy routine. <!-- P7-c -->
+A: When I visit a park, I usually hang out with friends or take a walk. If I'm alone, I enjoy the scenery and sometimes listen to music. I also take photos because parks **bring back happy memories** and help me **take a break from my busy routine**. <!-- P7-c -->
 
 ### ❤️ Feeling Bored 😐 `[同桌英语 #10]`
 
 **Q1: Do you often feel bored?**
 
-A: Not really. I have a busy schedule with work and hobbies, so I rarely have time to get bored. Instead, I usually feel fulfilled when I follow my daily routine. <!-- P2-a -->
+A: I don't often get bored because my schedule is pretty full with work and hobbies. Somehow, I feel quite fulfilled when I **stick to my routine**. <!-- P2-a -->
 
 **Q2: Did you ever find school boring when you were a child?**
 
@@ -246,11 +246,11 @@ A: I find repetitive tasks the most boring, especially ones that do not involve 
 
 **Q4: What do you do to stop yourself feeling bored?**
 
-A: I try to do something creative or productive. I usually read, learn a new skill, exercise or work on a personal project. Those activities help me feel more productive and **fulfilled**. <!-- P4-b -->
+A: When I feel bored, I usually read or exercise. Lately, with AI tools getting better, I've been spending time building small personal projects with their help. That makes me feel productive and **fulfilled**. <!-- P4-b -->
 
 **Q5: When do you usually feel bored?**
 
-A: I usually feel bored when I have to wait for a long time without anything interesting to do, such as standing in a queue. For me, boredom often comes from a lack of **meaningful activities**. <!-- P6-a -->
+A: I usually feel bored when I have to wait for a long time or repeat the same routine without anything creative or productive. For example, standing in a long queue feels boring. For me, boredom often comes from a lack of **meaningful tasks**. <!-- P6-a -->
 
 **Q6: What do you do when you feel bored?**
 
@@ -258,7 +258,7 @@ A: I usually work out or paint when I feel bored, rather than just lying on the 
 
 **Q7: Do you think childhood or adulthood is more boring?**
 
-A: I would say adulthood can be more boring because of heavier responsibilities from work and family, while childhood usually offers more freedom to explore things you are curious about. For example, after a long workday, chores can feel repetitive, but when I was a child, even small things like drawing or just **messing around** felt new. <!-- P10-b -->
+A: I'd say adulthood can be more boring because of heavier workloads and responsibilities. Childhood, on the other hand, usually gives us more time to explore our interests. For example, after a long workday, chores can feel repetitive and boring. But when I was a child, even small things like drawing or painting **felt interesting**. <!-- P10-b -->
 
 ### ❤️ Shopping 🛒 `[同桌英语 #11]`
 
@@ -406,7 +406,7 @@ A: Not regularly. We last exchanged messages several years ago, but we gradually
 
 A: She encouraged me to express different opinions and gave me constructive feedback. Her advice still helps me communicate more confidently at work. <!-- T01 T03 -->
 
-## 亮点高分表达（Shopping & Feeling Bored）
+## 亮点高分表达（Shopping, Public Gardens and Parks & Feeling Bored）
 
 | 表达 | 含义 / 用法 |
 | --- | --- |
@@ -423,10 +423,18 @@ A: She encouraged me to express different opinions and gave me constructive feed
 | **regain my motivation** | 重新找回动力 |
 | **a lack of meaningful activities** | 缺少有意义的活动 |
 | **mess around** | 随意玩耍；做些轻松随性的事 |
+| **stick to my routine** | 坚持自己的日常安排 |
+| **now and then** | 偶尔；时不时 |
+| **relax and unwind** | 放松身心 |
+| **build shared memories** | 创造共同的回忆 |
+| **appeal to me** | 吸引我；令我感兴趣 |
+| **take a break from my daily routine** | 暂时从日常生活中抽离出来 |
+| **more space and variety** | 更多空间和更多样的选择或景致 |
+| **bring back happy memories** | 唤起美好的回忆 |
 
-优先练成固定语块：**good value for money** · **on impulse** · **make an informed decision** · **feel fulfilled** · **over and over**。
+优先练成固定语块：**good value for money** · **on impulse** · **make an informed decision** · **feel fulfilled** · **over and over** · **stick to my routine** · **relax and unwind** · **build shared memories** · **appeal to me** · **bring back happy memories**。
 
-## 错误复盘（Shopping & Feeling Bored）
+## 错误复盘（Shopping, Public Gardens and Parks & Feeling Bored）
 
 ### 1. 单复数与主谓一致
 
@@ -435,13 +443,21 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - cheaper products **are not**，不是 *cheaper products does not*
 - whether it meets my **needs**，不是 *meets my need*
 - those **activities**，不是 *those activity*
+- **work** 是不可数名词，不能说 *works*（表示“工作”时）
+- **public gardens**，不是 *a public gardens*
+- childhood **gives** us more time，不能说 *childhood give / have more time*
+- which **helps** me relax，不能说 *which help*
+- that **makes** me feel fulfilled，不能说 *that's makes / that make*
 
 ### 2. 动词形式与平行结构
 
 - avoid **spending**，不是 *avoid spend*
 - help me **feel**，不是 *help me feeling / getting*
+- help me **relax**，不是 *help me I'm relaxed*
 - work out or **paint**，不是 *work out and painting*
 - read, **learn**, exercise or work：并列动词保持同一形式
+- have to wait or **repeat** the same routine，不能说 *repeated the same routine*
+- 讲童年经历时使用过去时：drawing or painting **felt** interesting，不能说 *feels interesting*
 
 ### 3. 冠词与固定搭配
 
@@ -449,9 +465,17 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - make **a** purchase
 - lie **on** the sofa，不能说 *lie in the sofa*
 - because **of** my work，不能说 *because my work*
+- **the same routine**，不是 *a same routine*
+- go to **the park** / visit **a park**，不能省略冠词
+- enjoy **a peaceful environment**，*environment* 在这里需要冠词
+- something **appeals to me**，不能说 *appeals me*
 
 ### 4. 避免重复和过度延伸
 
 - *once a month* 和 *once every few weeks* 只保留一个频率。
 - 避免在一句中重复 *repetitive / routine / repeatedly*；可简化为 **do the same routine over and over**。
+- **build shared memories** 比 *develop memories* 更自然。
+- **more space and variety** 比 *various scenery* 更自然。
+- 避免 *enjoy themselves and relax themselves* 的重复；可直接说 **unwind** 或 **enjoy some fresh air**。
+- 表达暂时离开城市生活时，**escape from my daily routine** 比 *escape from my city life* 更自然。
 - Part 1 用 2–3 句即可：先直接回答，再补一个原因或个人例子。第一层意思说清楚后，不必为了“拔高”而继续堆复杂表达。

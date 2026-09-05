@@ -322,7 +322,16 @@ Preferred expressions:
 
 Generate:
 
-## 1. Core Ability Mapping
+## 1. Band 7 Answer (1:40–2:00)
+
+Requirements:
+
+- Short sentences
+- Natural speaking rhythm
+- 45:55 structure
+- Personal reflection should be the largest part
+
+## 2. Core Ability Mapping
 
 Primary Ability:
 
@@ -332,7 +341,7 @@ Secondary Ability:
 
 Reason:
 
-## 2. Story Bank
+## 3. Story Bank
 
 Who/What:
 
@@ -343,15 +352,6 @@ Main event:
 Ability shown:
 
 Reflection:
-
-## 3. Band 7 Answer (1:40–2:00)
-
-Requirements:
-
-- Short sentences
-- Natural speaking rhythm
-- 45:55 structure
-- Personal reflection should be the largest part
 
 ## 4. Useful Collocations
 

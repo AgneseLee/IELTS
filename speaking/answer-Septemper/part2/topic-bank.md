@@ -2,11 +2,32 @@
 
 > **Status: current Part 2 question source.** Generate one answer file per cue card in this directory; Part 3 questions remain source material only.
 
-> 共 49 个主题：人物 14 · 地点 7 · 经历 18 · 事物 10。
+> 共 51 个主题：人物 15 · 地点 7 · 经历 19 · 事物 10。
 >
 > `❤️` = 新话题；`🧡` = 本月新题。
 
-## 人物（14/14）
+## 人物（15/15）
+
+### 表现出色的运动员🧡
+
+#### Part 2
+
+**Describe a sportsperson who did well in an event**
+
+> **You should say:**
+> - Who the sportsperson is
+> - What event he/she took part in
+> - How he/she performed in the event
+> - And explain why you think he/she performed well
+
+#### Part 3
+
+1. What sports are popular in your country?
+2. Do you think children should learn different kinds of sports?
+3. What can children learn from doing sports?
+4. What qualities does a successful sportsperson need?
+5. How is technology used in sports?
+6. How do athletes use technology to improve their performance?
 
 ### 喜欢拍照的人🧡
 
@@ -448,7 +469,26 @@
 
 ---
 
-## 经历（18/18）
+## 经历（19/19）
+
+### 不喜欢的短途旅行🧡
+
+#### Part 2
+
+**Describe a short trip you often take but do not enjoy**
+
+> **You should say:**
+> - Where you go
+> - When you go there
+> - Why you go there
+> - And explain why you do not enjoy the trip
+
+#### Part 3
+
+1. Do Chinese people like travelling abroad?
+2. Who prefers travelling abroad, younger people or older people?
+3. How much time do you think people should spend on a trip abroad?
+4. Which is a better way to learn about a country: travelling there or reading books about it?
 
 ### 浪费时间的活动🧡
 
@@ -572,24 +612,28 @@
 3. What are the differences between what old people and young people do in the evening?
 4. How can members of a large family maintain good relationships with one another?
 
-### 采访名人的经历🧡
+### 看过的名人采访🧡
 
 #### Part 2
 
-**Describe a time when you interviewed a famous person**
+**Describe a time you watched a famous person being interviewed**
 
 > **You should say:**
 > - Who the famous person was
-> - When and where you interviewed this person
-> - What you talked about during the interview
-> - And explain how you felt about this experience
+> - What the interview was about
+> - When and where you watched the interview
+> - And explain how you felt about the interview
 
 #### Part 3
 
-1. What kinds of people are usually interviewed?
+1. What kinds of people are frequently interviewed?
 2. Why do some people dislike being interviewed?
 3. Why do some people think interviews are a waste of time?
-4. What should people do to prepare for a job interview?
+4. What kinds of things do famous people often say in an interview?
+5. What can we do to get a job interview?
+6. What should people do to prepare for a job interview?
+7. Why do we need to attend interviews when applying for jobs?
+8. What should people wear to a job interview?
 
 ### 对结果开心的重要决定🧡
 

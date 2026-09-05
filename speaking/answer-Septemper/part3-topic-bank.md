@@ -95,6 +95,7 @@
 
 - **正向：** wider access to basic resources → narrower opportunity gaps → greater social mobility
 - **反向：** unequal access → fewer opportunities → entrenched disadvantage
+Unequal access to education can limit job opportunities, making it harder for people from disadvantaged backgrounds to escape poverty.
 
 ### 概括：公平规则培养责任
 

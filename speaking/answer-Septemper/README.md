@@ -3,7 +3,7 @@
 ## Current
 
 - [`part1.md`](part1.md)：Part 1 答案。
-- [`part2/topic-bank.md`](topic-bank.md)：当前 55 道 Part 2 题目；单题答案保存在 [`part2/`](part2/)。
+- [`part2/topic-bank.md`](topic-bank.md)：当前 51 道 Part 2 题目；单题答案保存在 [`part2/`](part2/)。
 - [`../plans/20-day-band7.md`](../plans/20-day-band7.md)：8 个 Story Banks、modules、固定 collocations。
 - [`part2/6skills.md`](6skills.md)：6 项 transferable abilities。
 - [`part3-topic-bank.md`](part3-topic-bank.md)：Part 3 观点卡。

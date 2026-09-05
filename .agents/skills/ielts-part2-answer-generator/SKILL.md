@@ -12,10 +12,10 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 每次生成前按顺序读取：
 
 1. `speaking/p2&p3 prompt.md` 的 Part 2 rules：最高语言与输出规范；忽略 Part 3 rules。下方经用户确认的精确比例和篇幅是对其宽泛数值范围的收紧。
-2. `speaking/answer-Septemper/part2/topic-bank.md`：默认 55 题的唯一当前题源；只解析目标记录的 Part 2 cue 和 bullets，在 `#### Part 3` 前停止。
+2. `speaking/answer-Septemper/part2/topic-bank.md`：默认 51 题的唯一当前题源；只解析目标记录的 Part 2 cue 和 bullets，在 `#### Part 3` 前停止。
 3. `speaking/plans/20-day-band7.md`：八个 Story Banks、modules、固定搭配与迁移规则。
 4. `speaking/answer-Septemper/part2/6skills.md`：六项 transferable abilities 的唯一能力框架。
-5. `speaking/answer-Septemper/part2/❤️ Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
+5. `speaking/answer-Septemper/part2/❤️✅🥕 Describe a time when you sent a message or an email to someone but received no reply for a long time.md`：只参考自然口语风格和能力改写方式，不得复制其内容。
 
 不得使用 `speaking/archive/12-day-part2-template-plan.md` 覆盖以上规则。用户本次提供的真实事实优先于仓库统一人设；发生冲突时保留用户事实，不静默创建第二条故事线。
 
@@ -23,7 +23,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 - 接受一道或多道完整 cue cards、英文题名、中文标题或主题。
 - 优先精确匹配完整英文 cue，其次匹配中文标题。唯一匹配时直接生成；多个近似匹配时列出候选并等待确认。
-- 默认只处理当前 55 题。只有用户明确要求旧题或 full bank 时才读取旧题库。
+- 默认只处理当前 51 题。只有用户明确要求旧题或 full bank 时才读取旧题库。
 - `❤️` 表示季度新题，`🧡` 表示本月新题；用户指定其中一类时只处理对应标记。
 
 ## Story and ability gate
@@ -84,22 +84,7 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 
 > Bank: <B1-B8> | Modules: <module-a / module-b [/ module-c]>
 
-## 1. Core Ability Mapping
-
-- Primary Ability: <one exact ability name>
-- Reason: <specific action and why it proves the ability>
-- Secondary Ability: <optional exact ability name; omit both secondary lines if unused>
-- Reason: <specific action and distinct role>
-
-## 2. Story Bank
-
-- Who/What:
-- Background:
-- Main event:
-- Ability shown:
-- Reflection:
-
-## 3. Band 7 Answer (1:40–2:00)
+## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
 <direct cue-card response>
@@ -108,6 +93,21 @@ description: Generate and automatically save natural, reusable, Band 7-targeted 
 <!-- REFLECTION_START -->
 <ability and personal-growth reflection>
 <!-- REFLECTION_END -->
+
+## 2. Core Ability Mapping
+
+- Primary Ability: <one exact ability name>
+- Reason: <specific action and why it proves the ability>
+- Secondary Ability: <optional exact ability name; omit both secondary lines if unused>
+- Reason: <specific action and distinct role>
+
+## 3. Story Bank
+
+- Who/What:
+- Background:
+- Main event:
+- Ability shown:
+- Reflection:
 
 ## 4. Useful Collocations
 

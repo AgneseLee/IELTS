@@ -19,15 +19,15 @@ ABILITY_NAMES = {
     "Creativity & Innovation",
 }
 CUE_HEADING = "## Cue Card"
-ABILITY_HEADING = "## 1. Core Ability Mapping"
-STORY_HEADING = "## 2. Story Bank"
-ANSWER_HEADING = "## 3. Band 7 Answer (1:40–2:00)"
+ANSWER_HEADING = "## 1. Band 7 Answer (1:40–2:00)"
+ABILITY_HEADING = "## 2. Core Ability Mapping"
+STORY_HEADING = "## 3. Story Bank"
 COLLOCATION_HEADING = "## 4. Useful Collocations"
 REQUIRED_HEADINGS = (
     CUE_HEADING,
+    ANSWER_HEADING,
     ABILITY_HEADING,
     STORY_HEADING,
-    ANSWER_HEADING,
     COLLOCATION_HEADING,
 )
 MARKERS = (
@@ -138,8 +138,8 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         errors.append("required headings are out of order")
 
     cue_section = ""
-    if CUE_HEADING in text and ABILITY_HEADING in text:
-        cue_section = between(text, CUE_HEADING, ABILITY_HEADING)
+    if CUE_HEADING in text and ANSWER_HEADING in text:
+        cue_section = between(text, CUE_HEADING, ANSWER_HEADING)
     displayed_title_matches = re.findall(
         r"^\*\*((?:❤️|🧡) )?(.+?)\*\*\s*$", cue_section, re.MULTILINE
     )
@@ -223,8 +223,8 @@ def validate(path: Path) -> tuple[list[str], dict[str, float | int]]:
         )
 
     story_section = ""
-    if STORY_HEADING in text and ANSWER_HEADING in text:
-        story_section = between(text, STORY_HEADING, ANSWER_HEADING)
+    if STORY_HEADING in text and COLLOCATION_HEADING in text:
+        story_section = between(text, STORY_HEADING, COLLOCATION_HEADING)
     for field in ("Who/What", "Background", "Main event", "Ability shown", "Reflection"):
         if not re.search(rf"^- {re.escape(field)}:\s*\S", story_section, re.MULTILINE):
             errors.append(f"Story Bank field {field!r} is missing or empty")

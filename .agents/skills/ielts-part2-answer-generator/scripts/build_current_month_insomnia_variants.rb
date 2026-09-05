@@ -45,7 +45,7 @@ entries = [
   ['Describe a new skill you learned when you were a child', 'B1', 'cycling / father / small-steps', 'Learning Ability', 'Riding a bicycle at age nine.', 'Remembering the slow learning process later helped me handle adult pressure.', "The skill was riding a bicycle, which I learned at age nine. My father taught me near our home. He first held the back of the seat while I practised balancing, and then he let go briefly. I fell twice, but he asked me to focus only on the next short distance. Years later, when work stress began affecting my sleep, I remembered that process. The memory reminded me that confidence usually comes after repeated attempts, not before them. Learning the skill felt frightening at first but deeply satisfying."],
   ['Describe a time when you received good service from a staff member in a shop', 'B5', 'computer-shop / careful-comparison / honest-advice', 'Communication Skills', 'A patient assistant in a computer shop in Beijing.', 'Her calm questions prevented a rushed purchase during a stressful period.', "I visited an electronics store in Beijing last winter to replace my unreliable laptop. Career pressure was affecting my sleep, so I wanted to buy the first powerful model I saw and leave quickly. A staff member named Li asked how I used a computer and compared three options without pushing the most expensive one. She let me test the keyboard, explained the warranty, and suggested waiting one day before deciding. I followed her advice and returned for a lighter, cheaper model. I felt respected because her service reduced pressure instead of creating it."],
   ['Describe an enjoyable evening with your friends', 'B6', 'Stella-and-Ming / dumplings / phone-free-evening', 'Communication Skills', 'A quiet dumpling evening with Stella and Ming.', 'Shared food and unhurried conversation helped me recover after sleepless nights.', "The evening was last winter at my apartment in Beijing with Stella and Ming. Work pressure had been affecting my sleep, and they knew I needed a break. Instead of choosing a noisy restaurant, we made dumplings together and left our phones in another room. Stella prepared the filling, Ming folded several terrible-looking dumplings, and I cooked them. We ate slowly, laughed at old stories, and talked without checking the time. Nothing dramatic happened, but that was exactly why I enjoyed it. The warm, unhurried atmosphere made me feel supported and normal again."],
-  ['Describe a time when you interviewed a famous person', 'B6', 'badminton-player / interview / patient-training', 'Communication Skills', 'A short interview with a famous badminton player after a Beijing match.', 'His comments about patient recovery changed my response to pressure.', "I interviewed a famous badminton player after a match in Beijing last year. I was helping with a company media project, and the interview took place beside the training hall. I had worried about it and slept badly the night before. We discussed his comeback from an injury, his daily training, and how he handled public expectations. He said recovery became faster only after he stopped rushing it and followed a simple routine. I felt nervous at first, but his calm answers made the conversation natural and left me with a useful personal lesson."],
+  ['Describe a time you watched a famous person being interviewed', 'B6', 'badminton-player / online-interview / patient-training', 'Learning Ability', 'An online interview with a famous badminton player after a Beijing match.', 'His comments about patient recovery changed my response to pressure.', "I watched an interview with a famous badminton player at home after seeing him compete in Beijing. The interviewer asked about his comeback from an injury, his daily training, and how he handled public expectations. At the time, work pressure was affecting my sleep, so his answers felt personally relevant. He said recovery became faster only after he stopped rushing and followed a simple routine. I was impressed by how honestly he described failure and how clearly he turned a difficult experience into practical advice."],
   ['Describe a time when you made an important decision and were happy with the result.', 'B4', 'layoff / balanced-routine / career-recovery', 'Adaptability', 'The decision to rebuild my career without sacrificing sleep.', 'I reduced daily priorities and recovered while developing new AI skills.', "The decision was to rebuild my software career with a healthier routine after a layoff. It was difficult because I wanted quick results and worried that slowing down would leave me behind. The pressure began affecting my sleep, so I knew my old approach could not continue. I limited each weekday to three priorities: one lesson, one practical task, and one job application. I also stopped studying late at night. After several weeks, I completed two AI projects and felt more confident. I was happy because the result improved both my career direction and my health."],
   ['Describe your least favourite movie', 'B2', 'action-film / late-night-viewing / negative-trigger', 'Adaptability', 'A loud action film I watched at home late one night.', 'Its exhausting pace made me recognise that my own routine needed to slow down.', "My least favourite movie is a loud action film that I watched at home last winter. I chose it because I wanted a distraction after a stressful workday, but I was already sleeping badly. The story followed a police officer chasing criminals through one explosion after another. The editing was fast, the characters barely spoke, and I never cared about them. Instead of helping me relax, it made me feel more restless. I stopped halfway through and chose a short walk without my phone. That contrast became the useful part of the experience."],
   ['Describe an exciting book that you enjoyed reading', 'B2', 'The-Martian / survival-problems / steady-solutions', 'Problem-solving Skills', 'The Martian, a science-fiction survival novel.', 'Its step-by-step problem solving helped me regain control during insomnia.', "The book is The Martian, a science-fiction novel about an astronaut stranded alone on Mars. I decided to read it after a layoff left me anxious and sleeping badly. The main character survives by solving one immediate problem at a time, such as producing food, repairing equipment, and communicating with Earth. I found it exciting because each solution creates a new risk, but the story never depends only on luck. His calm, practical thinking gave me a model I could copy. I began treating my job search as several small problems instead of one frightening crisis." ]
@@ -119,7 +119,7 @@ topic_reflections = {
     "Li's calm advice saved me from an expensive decision I might have regretted. Good service, to me, means reducing pressure rather than adding it.",
   'Describe an enjoyable evening with your friends' =>
     'Making dumplings with my friends reminded me that rest can be simple and social. That ordinary evening gave me exactly the break I needed.',
-  'Describe a time when you interviewed a famous person' =>
+  'Describe a time you watched a famous person being interviewed' =>
     "The player's recovery story made steady progress feel real, not like empty advice. His answer stayed with me long after the interview.",
   'Describe a time when you made an important decision and were happy with the result.' =>
     'Finishing those two AI projects proved that a healthier routine could still produce results. That made me genuinely happy with my decision.',
@@ -170,22 +170,7 @@ entries.each do |title, bank, modules, primary, what, main_event, narrative|
 
     > Logic: L1 · sleep pressure → need for change → cue-specific turning point → manageable steps → calmness
 
-    ## 1. Core Ability Mapping
-
-    - Primary Ability: #{primary}
-    - Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
-    - Secondary Ability: #{secondary}
-    - Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
-
-    ## 2. Story Bank
-
-    - Who/What: #{what}
-    - Background: Pressure was affecting my sleep, and I knew the old routine had to change.
-    - Main event: #{main_event}
-    - Ability shown: #{primary} and #{secondary} through calm, practical action.
-    - Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
-
-    ## 3. Band 7 Answer (1:40–2:00)
+    ## 1. Band 7 Answer (1:40–2:00)
 
     <!-- NARRATIVE_START -->
     #{narrative}
@@ -194,6 +179,21 @@ entries.each do |title, bank, modules, primary, what, main_event, narrative|
     <!-- REFLECTION_START -->
     #{answer_reflection}
     <!-- REFLECTION_END -->
+
+    ## 2. Core Ability Mapping
+
+    - Primary Ability: #{primary}
+    - Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
+    - Secondary Ability: #{secondary}
+    - Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
+
+    ## 3. Story Bank
+
+    - Who/What: #{what}
+    - Background: Pressure was affecting my sleep, and I knew the old routine had to change.
+    - Main event: #{main_event}
+    - Ability shown: #{primary} and #{secondary} through calm, practical action.
+    - Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
 
     ## 4. Useful Collocations
 

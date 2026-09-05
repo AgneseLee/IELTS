@@ -120,8 +120,8 @@
 ### 概括：便利提高效率也生依赖
 
 - **正向：** save time and effort → complete tasks more easily → improve efficiency
-- **反向：** excessive convenience → less active effort → greater dependence
-
+- **反向：** excessive convenience → put in less active effort → greater dependence
+too much convenience can make people over-reliant.
 ### 概括：可靠信息改善判断
 
 - **正向：** reliable information from varied sources → informed judgement → better decisions
@@ -134,13 +134,13 @@
 
 ### 概括：科技连接便利也带风险
 
-- **正向：** faster access and communication → greater convenience → wider participation
-- **反向：** data collection, <mark style="background: #ABF7F7A6;">distraction</mark> or weak verification → privacy loss and misinformation → lower trust
+- **正向：** faster access and communication across cities → greater convenience → wider participation
+- **反向：** data collection, <mark style="background: #ABF7F7A6;">distraction</mark> or <mark style="background: #ABF7F7A6;">limited fact-checking</mark> → privacy risks and misinformation → lower trust
 
 ### 概括：互联网重塑习惯与参与
 
 - **正向：** instant access and global connection → faster exchange of information and services → changed habits and wider participation
-- **反向：** constant connectivity and algorithmic exposure → distraction, dependence or biased information → poorer judgement and weaker real-world interaction
+- **反向：** constant connectivity and algorithmic exposure / algorithmic driven feeds → distraction, become biased toward what they already like / narrow their perspectives→ poorer judgement and weaken real-world interaction / creates echo chamber
 - **适用：** 科技、App、购物、交通、远程工作、网络服务、新闻、建议、广告、决策、教育、名人、AI、手机、社交媒体、在线沟通。互联网只作题目语境或传播渠道；主理由优先选择 M01–M06。
 - **组合：** 回答“互联网如何改变 X”时，与一个领域主题组合；例如教育用 T06 + T01，工作用 T06 + T05。
 
@@ -148,12 +148,13 @@
 
 ### 概括：制度激励推动环保
 
-- **正向：** practical infrastructure and incentives → greener behaviour → lower pollution and resource loss
+- **正向：** practical infrastructure and incentives → encourage greener choices → lower pollution and resource waste
 - **反向：** excessive consumption → waste and pollution → long-term environmental damage
-
+<mark style="background: #ABF7F7A6;">nudge</mark> people to commute without driving
+taking single-use plastic bags
 ### 概括：照顾宠物培养责任
 
-- **正向：** daily care and companionship → empathy and emotional support → stronger responsibility
+- **正向：** daily care and companionship → empathy and emotional support / build a strong bond with → stronger responsibility
 - **反向：** cost and long-term care needs → pressure on owners → possible neglect
 - **适用：** 交通、种植、旅游、消费、环保法律、城市生活、宠物、动物故事、儿童教育、城市养宠
 
@@ -166,16 +167,16 @@
 
 ### 概括：文化参与延续传统
 
-- **正向：** participation and cultural exposure → stronger identity and understanding → continued transmission
-- **反向：** commercialisation or dominant global content → weaker local engagement → cultural loss
+- **正向：** participation and cultural exposure → stronger identity and understanding → pass down traditions in a living way
+- **反向：** commercialisation poses a threat to our traditional customs/  or dominant global content → weaker local engagement → cultural loss
 - **适用：** 绘画、音乐、电影、节目、视频、博物馆、想象力、节日、食物、历史建筑、旅游、国家认同、跨文化交流
 
 ## T09 年龄与代际
 
 ### 概括：代际差异随时代变化
 
-- **比较：** different experience, digital familiarity and responsibilities → different needs and habits
-- **变化：** easier technology and wider education → gradually narrower generational gaps
+- **比较：** different experience, different levels of digital familiarity and responsibilities → different needs and habits
+- **变化：** easier technology and wider education →  generational gap might gradually narrow
 - **适用：** 年轻人与老人、儿童学习、消费、手机、音乐、休闲
 
 ## T10 地点、建筑与设施

@@ -319,71 +319,71 @@ Maybe one large mirror because it can make a small room feel brighter and more s
 
 **Q1: Do you like science?**
 
-A: Yes, I do. I find science fascinating because it satisfies my curiosity and helps me **understand how the world works**. What appeals to me most is that scientific discoveries can turn abstract ideas into practical solutions. <!-- P3-a -->
+A: Yes, I do. I find science fascinating because it **satisfies my curiosity and sparks my creativity**. What appeals to me most is how scientific discoveries turn abstract ideas into reality, much like what I do when developing software projects. <!-- P3-a -->
 
 **Q2: When did you start learning science?**
 
-A: I started learning science in primary school. However, I became genuinely interested after learning to programme because it showed me how abstract concepts could be applied to **solve real-world problems**. <!-- P8-c -->
+A: I started learning science in primary school, where I mostly learnt **basic scientific knowledge**. I didn't take any advanced science courses, but I became really interested when I started coding as a software engineer after graduating from university. <!-- P8-c -->
 
 **Q3: Which science subject interests you most?**
 
-A: Computer science interests me most because it combines logical thinking with **real-world problem-solving**. I also enjoy creating products that can solve practical problems. <!-- P3-c -->
+A: I think computer science interests me most because it combines logical thinking with **real-world problem-solving**. I also enjoy creating products that **turn my ideas into real solutions to practical problems**. <!-- P3-c -->
 
 **Q4: What interesting things have you done with science?**
 
-A: Most of my experience is related to computer science. I have built small software tools and experimented with AI, which allowed me to **turn ideas into useful products** rather than simply learn theories. <!-- P4-a -->
+A: Most of my science experience comes from working as a software engineer. I've built many software projects and products that solve real-world problems. This allows me to **turn my ideas into useful products** rather than just study theories, which I find really **fulfilling and engaging**. <!-- P4-a -->
 
 **Q5: Do you like watching science programmes?**
 
-A: It depends on the programme. I enjoy those that explain scientific concepts in an **easy-to-understand way** because they can broaden my horizons, but I lose interest when complicated topics are not explained clearly. <!-- P3-b -->
+A: I think it depends on the programme and on how it's made and delivered. I enjoy those that explain scientific concepts in an **easy-to-understand way** because I can understand the concepts more easily, and it broadens my horizons. But I lose interest when complex concepts are explained in a way that's difficult to understand. <!-- P3-b -->
 
 **Q6: Do Chinese people often visit science museums?**
 
-A: I think it depends on the city and people's interests. In large cities like Beijing, many families visit science museums during school holidays because interactive exhibitions can **spark children's curiosity**. <!-- P4-b -->
+A: I think it depends on the city and people's interests. In big cities like Beijing, many families may visit science museums during school holidays or at weekends because the interactive exhibitions can help children **develop their creativity and spark their curiosity**. I think that's really helpful for them. <!-- P4-b -->
 
 ## ❤️ Outer Space and Stars 🌌
 
 **Q1: Have you ever learnt about outer space and stars?**
 
-A: Yes, I have. I learnt some basic facts at school, such as how the solar system works and how planets move. Although I do not study astronomy professionally, I still **find it fascinating** because it helps me understand more about the universe. <!-- P8-c -->
+A: Yes, I have. I learnt some basic facts about **the universe** in primary school, such as how the solar system works and how the planets move. Although I didn't take any **formal courses** on it at university, I still find it fascinating, and that basic knowledge helps me understand how the universe works. <!-- P8-c -->
 
 **Q2: Do you enjoy watching science-fiction films set in space?**
 
-A: Yes, occasionally. I enjoy them because they allow me to **imagine future technologies and different possibilities**. What appeals to me most is how they combine scientific ideas with creative storytelling. <!-- P3-a -->
+A: Yes, occasionally. I enjoy them because they allow me to **imagine future technologies and different possibilities**. They often show imaginative ideas becoming reality within the story, and that's really fascinating to me. <!-- P3-a -->
 
 **Q3: Do you want to know more about outer space?**
 
-A: Definitely. I am curious about mysteries such as whether life exists on other planets. On top of that, learning about space can **broaden my horizons** and help me see the universe from a different perspective. <!-- P3-c -->
+A: Definitely. I'm curious about mysteries such as whether life exists on other planets. On top of that, learning about outer space can **broaden my horizons and spark my creativity**, so I think it's a really interesting thing to learn about. <!-- P3-c -->
 
 **Q4: Would you like to go into outer space in the future?**
 
-A: I would love to experience it, but only if space travel became much safer and more affordable. It would be **an unforgettable experience**, although I currently prefer exploring space through technology rather than taking the risk myself. <!-- P6-a -->
+A: I'd love to experience space travel, but only if it becomes **much safer and more affordable**. I think it would be unforgettable. For now, **I'd rather explore space through technology than take the risk myself**. <!-- P6-a -->
 
 ## ❤️ Cars 🚗
 
 **Q1: Did you enjoy travelling by car when you were a child?**
 
-A: Yes, I did. I enjoyed family trips because they gave me a chance to **spend quality time with my family** and visit different places. What I remember most is the excitement of seeing new scenery along the way. <!-- P8-a -->
+A: Yes, I did. I enjoyed family trips because they gave me a chance to **spend quality time with my family and build shared memories**. I also enjoyed watching the scenery change along the way. <!-- P8-a -->
 
 **Q2: What types of cars do you like?**
 
-A: Personally speaking, I prefer practical and **technology-oriented cars**, especially electric vehicles. What appeals to me most is their intelligent features and environmental benefits. <!-- P1-b -->
+A: Personally speaking, I prefer practical and **tech-oriented cars**, like Teslas. I like them because they're smart, practical and stylish, although **I can't afford one right now**. <!-- P1-b -->
 
 **Q3: Do you prefer to be a driver or a passenger?**
 
-A: I prefer being a driver because I enjoy **having control over the journey**. That being said, on long trips I sometimes prefer being a passenger so I can relax and enjoy the scenery. <!-- P9-a -->
+A: Well, I prefer being a driver because I enjoy **having more control over the trip**. That said, on long trips, I sometimes prefer being a passenger so I can relax and enjoy the scenery along the way. <!-- P9-a -->
 
 **Q4: What do you usually do when there is a traffic jam?**
 
-A: I try to stay patient and avoid getting stressed. I might listen to music or a podcast, and if possible, I use a navigation app to **find an alternative route**. <!-- P10-b -->
+A: Well, I usually try to stay calm and **chat with other passengers**, which helps the time pass more quickly and makes the traffic jam feel less boring. I might also listen to music or a podcast when I'm alone in the car. <!-- P10-b -->
 
 **Q5: Do you think car colours are important?**
 
-A: They are relatively important, but not the main factor when buying a car. While colours can reflect personal taste, I think **safety and practicality matter more**. <!-- P1-a -->
+A: They're kind of important, but not as important as **a car's safety and practicality**. **As a practical person**, I usually value a car's functions and practical features more than its appearance. <!-- P1-a -->
 
 **Q6: Will you buy an expensive car?**
 
-A: Probably not. A car is mainly a practical tool for me, so I would rather choose one that is reliable and offers **good value for money**. <!-- P1-b -->
+A: Probably not. I think a car is mainly a practical **means of transport** for me, so I'd rather choose one that's reliable, has practical features and offers **good value for money**. I think these factors are the most important. <!-- P1-b -->
 
 ## ❤️ Public Gardens and Parks 🌳
 
@@ -664,3 +664,69 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - 避免 *enjoy themselves and relax themselves* 的重复；可直接说 **unwind** 或 **enjoy some fresh air**。
 - 表达暂时离开城市生活时，**escape from my daily routine** 比 *escape from my city life* 更自然。
 - Part 1 用 2–3 句即可：先直接回答，再补一个原因或个人例子。第一层意思说清楚后，不必为了“拔高”而继续堆复杂表达。
+
+
+## 亮点高分表达（Cars, Outer Space and Stars & Science）
+
+| 表达 | 含义 / 用法 |
+| --- | --- |
+| **spark my creativity** | 激发我的创造力 |
+| **satisfy my curiosity** | 满足我的好奇心 |
+| **broaden my horizons** | 开阔我的眼界 |
+| **real-world problem-solving** | 解决现实问题；problem-solving 在这里不可数 |
+| **turn my ideas into real solutions** | 将想法转化为实际解决方案 |
+| **in an easy-to-understand way** | 用通俗易懂的方式 |
+| **take formal courses** | 修读正式课程 |
+| **a practical means of transport** | 一种实用的交通方式 |
+| **tech-oriented cars** | 注重科技配置的汽车 |
+| **value A more than B** | 比起 B 更看重 A |
+| **take the risk myself** | 自己承担这个风险 |
+| **fulfilling and engaging** | 令人有成就感且投入其中的 |
+
+优先练成固定语块：**spark my creativity** · **broaden my horizons** · **good value for money** · **real-world problem-solving** · **turn my ideas into real solutions** · **in an easy-to-understand way** · **take the risk myself**。
+
+## 错误复盘（Cars, Outer Space and Stars & Science）
+
+### 1. 主谓一致与时态
+
+- it **satisfies** my curiosity and **sparks** my creativity，不能说 *it satisfy / spark*。
+- one that **offers** good value for money；that **makes** me feel fulfilled。
+- What I learnt in primary school **was** mostly basic scientific knowledge，不能用 *are*。
+- 童年经历：I **enjoyed family trips**；so I **could** build shared memories；the scenery **kept** changing。
+- 现在的喜好：**That's fascinating to me**，不是 *That was fascinating to me*。
+- only if space travel **becomes** safer，不能漏掉第三人称单数词尾。
+- Cars Q2 原文件是 **What types of cars do you like?**，因此正文保留现在偏好。若实际问 **did you like**，应改答过去喜欢的车型，不能只用现在偏好代替。
+
+### 2. 单复数、不可数名词与冠词
+
+- **family trips / shared memories / other passengers / people's interests**：此处通常用复数。
+- **the universe**，但表示外太空时用 **space**，不加 the。
+- **that basic knowledge**，不是 *those basic knowledge*；knowledge 不可数。
+- **real-world problem-solving**，不是 *a real-world problem-solving*。
+- 泛指科技用 **technology**；表示不同技术时才可用 technologies。
+- **a car's functions**；**the excitement** of seeing new scenery。
+
+### 3. 动词形式与固定搭配
+
+- **I can't afford one**，不是 *I'm not afford one*。
+- **I really enjoy creating products**，不是 *I'm really enjoyed creating products*。
+- **haven't taken any formal courses**，不是 *haven't take professionally lessons*。
+- **help make the time pass more quickly**，不是 *help made the time go faster*。
+- **make everyday travel easier**，比 *help people to transport more easily* 自然。
+- **As a practical person**，不是 *I think practical person*；As I'm a practical person 也正确。
+- **value A more than B** 表示更看重 A；**weigh up A and B** 表示权衡两者。
+- **I'd rather explore space through technology than take the risk myself**：would rather 后用动词原形，than 后保持平行。
+- **take the risk / take risks**，不能说 *taking risk*。
+
+### 4. 句子后半段与用词
+
+- **Though / Although ..., ...**，不要再用 but 连接同一主句。
+- 单独补充“现在买不起”可说 **I can't afford one right now**；though 应有明确的让步关系，不能机械加在任何结尾。
+- **in a way that's difficult to understand**，不是 *in a difficult way to understand*。
+- **I find it fulfilling and engaging** / **It makes me feel fulfilled and engaged**，不是 *that make me fulfilled and engaging*。
+- **It's an interesting thing to learn about**，不是 *In my daily life is...*；句子需要主语。
+- **fun** 表示有趣，**funny** 通常表示好笑或奇怪；此处用 interesting 或 fun。
+- **imaginative ideas** 比 imaginary ideas 更符合“有想象力的想法”；形容汽车外观可用 **stylish**。
+- **offers practical features** 本身可以；无需为了简洁改成不够自然的 offers practicality。
+- **will lose interest** 可表达常见倾向；描述一般习惯时用 **lose interest** 更直接，并非必须纠正的语法错误。
+- 避免 helpful and useful、practical problems in the real world 等重复；Part 1 意思完整后即可收尾。

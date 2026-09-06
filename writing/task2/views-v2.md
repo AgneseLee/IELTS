@@ -115,6 +115,18 @@ A significant advantage of technological advancement is that it **improves econo
 
 Nevertheless, it is important to recognize **that** technological advancement can produce harmful **effects** on employment. A central problem is that automation replaces numerous routine jobs, which poses serious challenges to low-skilled workers who struggle to retrain. As a consequence, this **development** often **generates** new problems such as **a rise in the unemployment rate**, wage stagnation and wider income inequality, instead of delivering the intended benefits.
 
+---
+
+It is important to recognize artificial intelligence technology produce harmful effects on communication in the real world. A central problem is that it induce people to communicate with digital tools, which offer much convenience and accessibility. For example, people can decide when and where to talk to an AI assistant on phones, whereas contacting people face-to-face requires much realistic conditions, such as appropriate time and places. As a result, people may have less desire to connect with real people offline when they have a more convenient choice online.
+
+Furthermore, digital tool often serve as a comprehensively knowledgeable assistant, who can answer almost all questions people ask, which greatly promotes efficiency of our work and lives. Nevertheless, these techniques cannot help people build real emotional connections with others. Yet it makes people feel distant from each other if they lack sufficient interactive engagement consistently. This is because real connections usually requires deep talks and much shared memories, allowing people to share insights and overcome difficulties together.
+
+#### 批改版
+
+It is important to recognize **that** artificial intelligence technology **can have** harmful effects on communication in the real world. A central problem is that it **may encourage** people to communicate with digital tools **instead of other people because these tools** offer **considerable** convenience and accessibility. For example, people can decide when and where to talk to an AI assistant on **their** phones, whereas **meeting** people face-to-face requires **coordinating schedules and finding suitable places to meet**. As a result, people may have less desire to connect with real people offline when they have a more convenient choice online.
+
+**Beyond reducing the desire to meet others, relying on AI for conversation may also weaken emotional bonds.** **Digital tools** often serve as **knowledgeable assistants that can answer a wide range of** questions people ask, which greatly **improves efficiency at work and in daily life**. Nevertheless, these **practical benefits do not replace the emotional connections formed through human interaction**. **If conversations with AI regularly replace meaningful interaction with others, people may begin to** feel distant from each other. This is because real connections usually **require meaningful conversations and shared experiences that allow** people to share insights and overcome difficulties together.
+
 ### 扩写任务
 
 写 `AI improves productivity` 和 `technology may widen the wealth gap`。

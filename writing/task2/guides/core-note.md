@@ -235,7 +235,7 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 | `barge in the labour market` | `enter the labour market` | `barge in` 带有鲁莽闯入的口语色彩，且不适合描述毕业生正常就业。 |
 | `intense competitions among students` | `intense competition among students` | 泛指竞争这一现象时，`competition` 通常作不可数名词。 |
 | `students' well-beings` | `students' well-being` / `the well-being of students` | `well-being` 在此是不可数名词，不使用复数。 |
-| `recognize educational competition can...` | `recognize that educational competition can...` | 宾语从句前需要连接词 `that`，正式写作中不宜省略。 |
+| `recognize educational competition can...` | `recognize that educational competition can...` | 宾语从句的 `that` 可以省略；补出后可使较长句子的结构更清楚，属于清晰度优化，不是必改语法错误。 |
 | `tutoring, which are usually supposed to be expensive` | `tutoring, which is often expensive` | `tutoring` 是不可数名词，谓语用单数；`be supposed to` 不表示“往往”。 |
 
 ### 可复用逻辑链与搭配
@@ -354,3 +354,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `tourist spending on accommodation, food and transport → higher revenue for local businesses → more local employment → higher household incomes and living standards`
 - `tourism-related tax revenue → reinvestment in infrastructure and public services → stronger local capacity → more sustainable economic growth`
 - `visitor numbers exceed environmental capacity → heavier resource use and pollution → environmental deterioration → weaker destination appeal → fewer repeat visits and lower tourism revenue`
+
+
+## AI 与人际交流：便利性与情感联系
+
+### 常见错误与表达优化
+
+| 原表达 | 修正 | 原因 |
+|---|---|---|
+| `meeting people requires much realistic conditions` | `meeting people requires coordinating schedules and finding suitable places to meet` | 直接说明见面所需安排，比抽象的 conditions 更自然准确。 |
+| `a comprehensively knowledgeable assistant` | `a knowledgeable assistant` | 避免不自然的修饰语堆叠。 |
+| `promotes efficiency of our work and lives` | `improves efficiency at work and in daily life` | 效率常与 improve 搭配；用介词短语明确场景。 |
+| `these techniques`（指 AI 工具） | `these tools` | techniques 指方法、技巧，不适合指代工具本身。 |
+| `Yet it makes people feel distant`（承接缺少互动） | `If conversations with AI regularly replace meaningful interaction with others, people may begin to feel distant from each other.` | 因果不能用转折替代；明确“替代人际互动”这一条件，并消除 it 的指代歧义。 |
+
+### 可复用逻辑链与搭配
+
+- `convenient access to AI conversation → a possible substitute for human conversation → less willingness to arrange face-to-face meetings`
+- `AI conversation regularly replaces meaningful human interaction → fewer shared experiences and meaningful conversations → weaker emotional bonds`
+- `practical benefits do not replace the emotional connections formed through human interaction`
+- `coordinate schedules / exchange insights / overcome difficulties together`

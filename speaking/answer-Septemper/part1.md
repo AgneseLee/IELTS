@@ -1,6 +1,6 @@
-# IELTS Speaking Part 1 保留话题答案
+# IELTS Speaking Part 1 答案（保留话题 + 本季新题）
 
-> 每题：直接回答 → 简短理由 → 个人细节。#01–#12 保留原有性格表达；#13–#37 不使用 P1–P10，优先将 Part 3 主题压缩为个人化理由，必要时才借用 20-day plan 的 collocations。`Txx` / `Bxx` 注释表示素材来源。`同桌英语 #NN` 是截图优先级；`[R]` 表示根据 topic 摘要补写的问题。
+> 每题：直接回答 → 简短理由 → 个人细节。Clothing 至 Watch 保留原有性格表达；其余话题优先使用个人化理由，必要时借用 Part 3 主题和 20-day plan 的 collocations。`Txx` / `Bxx` 注释表示素材来源；`[R]` 表示根据 topic 摘要补写的问题。
 
 ## 10 个固定性格
 
@@ -32,9 +32,194 @@
 
 小问优先：购买/用途 → P1；规律/效率 → P2；知识/探索 → P3；学习/进步 → P4；健康/运动 → P5；放松/舒适 → P6；人物/联系 → P7；过去/回忆 → P8；个人选择 → P9；新体验/积极态度 → P10。
 
-## 保留话题（17）
+> 🧡 表示本季新题。
 
-### ❤️ Topic 1: Clothing 👕
+> 根据 2026-09-06 提供的小问补充：共 41 条原始问法，垃圾回收的两组同义题合并后为 39 组答案。每题以自然的 2–3 句展开。未确认的童年经历、饮食偏好和消费金额为练习用示例细节，可按真实情况替换。
+
+## 🧡 Name 🏷️
+
+**Q1: Is it easy for you to remember people's names?**
+
+A: Not always, especially when I meet several people at once. I tend to **remember faces better than names**, so I sometimes need to hear a name a few times before it sticks.
+
+**Q2: How do you remember people's names?**
+
+A: I usually repeat their name during our conversation and connect it with something about them. For example, I might remember someone as Linda from my English class. That makes the name **easier to recall**.
+
+**Q3: How do you feel when people can't remember your name?**
+
+A: I don't really mind, especially if we've only met once. I forget names myself, so I usually just remind them and **carry on with the conversation**.
+
+**Q4: Do you often forget people's names?**
+
+A: Occasionally, particularly if I haven't seen someone for a long time. I might recognise their face straight away but **struggle to remember their name**, which can be a little awkward.
+
+## 🧡 Tiredness 🥱
+
+**Q1: Do you often feel tired?**
+
+A: Quite often, especially when I spend a lot of time working or studying English. By the evening, I sometimes find it **hard to concentrate**, so I try to take regular breaks during the day.
+
+**Q2: When would you feel tired?**
+
+A: Usually after staring at a screen for several hours or getting too little sleep. I feel mentally tired even if I haven't done much physical activity, and simple tasks start to **take more effort**.
+
+**Q3: What do you do when you feel tired?**
+
+A: I normally step away from my screen and take a short walk. If I'm really sleepy, I have a short nap or go to bed earlier. That helps me **recharge** and focus better afterwards.
+
+## 🧡 Handwritten Letters ✉️
+
+**Q1: Do you often write letters?**
+
+A: Not very often these days because I usually message people on my phone. Still, I might write a short letter for a special occasion because it feels **more personal** than a text.
+
+**Q2: Did you receive any handwritten letters when you were a child?**
+
+A: Yes, I received a few from school friends, usually around birthdays. They weren't very long, but seeing their handwriting made them feel special. It was nice to know someone had **taken the time to write to me**.
+
+**Q3: Which do you prefer, writing a letter or sending a message?**
+
+A: For everyday communication, I prefer sending a message because it's quick and convenient. But if I want to thank someone properly or say something meaningful, I'd consider writing a letter. It gives me more time to **put my thoughts into words**.
+
+## 🧡 Rubbish and Recycling ♻️
+
+**Q1: What do you do when you see rubbish in the street?**
+
+**同义问法（原 Q3）：What do you do when you see rubbish on the street?**
+
+A: If it's something easy to pick up, like a plastic bottle, I usually put it in a nearby bin. I wouldn't touch anything sharp or dirty with my bare hands, though. It's a small way to **keep the neighbourhood clean**.
+
+**Q2: How do you recycle materials such as paper and plastic?**
+
+**同义问法（原 Q4）：How do you recycle things like paper and plastic?**
+
+A: I separate recyclable paper and plastic from my other rubbish at home. I flatten cardboard boxes and empty bottles before putting them in the **appropriate recycling bins**. It's quite easy once it becomes a habit.
+
+## 🧡 Politeness 🤝
+
+**Q1: How did you learn to be polite as a child?**
+
+A: Mainly from my parents, who reminded me to say please and thank you. They also taught me not to interrupt people. Watching how they treated others helped me **pick up those habits** naturally.
+
+**Q2: Do you think being polite is very important?**
+
+A: Yes, because it makes everyday interactions more pleasant and helps people **feel respected**. Even something simple, like thanking a shop assistant, can make a difference. I'm also more willing to help someone who asks politely.
+
+## 🧡 Fruit and vegetables 🥦
+
+**Q1: Do you like eating vegetables?**
+
+A: Yes, especially when they're stir-fried rather than boiled for too long. I like them to have **a bit of crunch**, and they help make a meal feel more balanced.
+
+**Q2: How often do you eat fruit and vegetables?**
+
+A: I eat vegetables with most meals and usually have some fruit every day. For example, I might have an apple or a banana as a snack. It's an easy way to **keep a balanced diet**.
+
+**Q3: Did you like eating vegetables when you were a child?**
+
+A: Not as much as I do now. I was quite **a picky eater** and preferred meat or anything sweet. As I got older, I started enjoying a wider range of vegetables, especially when they were cooked well.
+
+**Q4: Were there any kind of fruits and vegetables you disliked as a child?**
+
+A: Yes, I really disliked bitter melon because the taste was too strong for me. I wasn't keen on very sour fruit either. I generally preferred things with **a sweeter taste**, like bananas.
+
+**Q5: Do people often grow vegetables by themselves?**
+
+A: It depends on where they live. People with a garden sometimes grow their own, but it's harder for people living in flats. Some still grow a few things in pots on their balconies to **make use of the space**.
+
+**Q6: Where do you usually buy fruit and vegetables?**
+
+A: Usually at a nearby supermarket because it's convenient and I can buy everything in one trip. I like choosing them in person so I can **check how fresh they are**. If I'm busy, I sometimes order them online.
+
+## 🧡 Paper 📄
+
+**Q1: Have you made any crafts with paper?**
+
+A: Yes, mostly when I was a child. I made paper planes and simple birthday cards, and I enjoyed decorating them with coloured pens. It was a cheap way to **make something of my own**.
+
+**Q2: Do you still write physical letters?**
+
+A: Only occasionally, perhaps to thank someone on a special occasion. Most of the time, I send messages because they're much quicker. A handwritten letter takes more effort, but it can **feel more thoughtful**.
+
+**Q3: Do people still keep handwritten letters today?**
+
+A: Yes, I think some people keep letters from close friends or family because they have **sentimental value**. Even if they rarely read them, the handwriting can bring back memories. They're the sort of thing people might keep in a drawer for years.
+
+**Q4: Do you carry paper and pens with you when you go out?**
+
+A: Not usually, because I can make notes on my phone. But if I'm going to an English class, I'll take a notebook and a pen. Writing things down helps me **pay closer attention**.
+
+**Q5: What did you like to do with paper as a child?**
+
+A: I liked drawing and folding paper planes. Sometimes I'd try different shapes to see which plane flew furthest. It was a simple activity, but it **kept me entertained** for quite a while.
+
+## 🧡 Secondary school 🏫
+
+**Q1: Do you remember your first day at secondary school?**
+
+A: Not every detail, but I remember feeling nervous because there were so many unfamiliar faces. I wasn't sure who to sit next to at first. Once I started talking to a classmate, I felt **more at ease**.
+
+**Q2: Were there any subjects that you found difficult at secondary school?**
+
+A: Yes, I found physics quite challenging, especially when the questions involved several steps. I sometimes understood the explanation but couldn't solve a similar problem on my own. I needed extra practice to **get the hang of it**.
+
+**Q3: What was your favourite subject at secondary school?**
+
+A: English was my favourite, mainly because I had a really encouraging teacher. She explained things clearly and didn't make us feel embarrassed about mistakes. That gave me **the confidence to speak up** in class.
+
+**Q4: Is there anything you miss about your secondary school?**
+
+A: I miss seeing my friends every day without having to arrange anything. We could chat between lessons or have lunch together. Those small moments helped us **build close friendships**, and they're harder to find time for as adults.
+
+## 🧡 Travelling 🧳
+
+**Q1: Do you prefer sitting by the window when you travel?**
+
+A: Yes, especially on trains, because I enjoy watching the scenery change. It makes a long journey feel less boring, and I can just listen to music and **watch the world go by**.
+
+**Q2: Did you ever go on a long journey with your family when you were a child?**
+
+A: Yes, I remember taking a long train journey with my parents to visit relatives. We brought snacks and spent a lot of time looking out of the window. The journey itself felt like **part of the adventure**.
+
+## 🧡 Advertisement 📢
+
+**Q1: Do you like advertisements?**
+
+A: Some of them, especially if they introduce something useful or tell an interesting story. But I find it annoying when an advert **interrupts what I'm watching**, particularly if I've already seen it several times.
+
+**Q2: What kind of advertising do you like?**
+
+A: I like short adverts that show clearly how a product works. For example, if it's a pair of trainers, I'd rather see how comfortable they are than just a famous person wearing them. That helps me decide whether they **meet my needs**.
+
+**Q3: Do you often see advertisements when you are on your phone or computer?**
+
+A: Yes, almost every day, especially when I watch videos or browse social media. Some are related to things I've searched for recently. I usually **scroll past them** unless something catches my attention.
+
+**Q4: Is there an advertisement that made an impression on you when you were a child?**
+
+A: Yes, I remember a TV advert for a snack that had a really catchy song. I can't remember the exact words now, but I used to sing along whenever it came on. The tune really **stuck in my head**.
+
+## 🧡 Shoes 👟
+
+**Q1: Do you like buying shoes? How often?**
+
+A: I don't buy them very often, usually just when an old pair **wears out**. I mainly look for comfortable trainers that I can wear every day. So I probably buy a pair once or twice a year.
+
+**Q2: Have you ever bought shoes online?**
+
+A: Yes, I have, although I once returned a pair because the quality wasn't what I expected. Since then, I've paid more attention to **customer reviews** and the return policy. I still shop online because it's convenient.
+
+**Q3: How much money do you usually spend on shoes?**
+
+A: Usually around 300 to 500 yuan for a pair of trainers. I'm willing to spend a little more if they're comfortable and likely to last. I mainly look for **good value for money**.
+
+**Q4: Which do you prefer, fashionable shoes or comfortable shoes?**
+
+A: Definitely comfortable shoes, because I do quite a bit of walking. A fashionable pair isn't much use to me if it hurts my feet. Ideally, I'd choose something simple that **goes with most of my clothes**.
+
+
+## ❤️ Clothing 👕
 
 **Q1: What clothes do you like wearing?**
 Personally speaking, I prefer **simple and casual clothes**, such as T-shirts and trainers, because they are comfortable and easy to match. I tend to **focus on what is genuinely useful** rather than following fashion trends, as I prefer **a calm and uncomplicated lifestyle**.
@@ -56,7 +241,7 @@ I usually prefer grey, white and navy because they **look clean and are easy to 
 
 ---
 
-### ❤️ Topic 2: Singing 🎵
+## ❤️ Singing 🎵
 
 **Q1: Do you like singing?**
 Yes, although I am **not particularly talented at singing**. I usually sing for fun because it helps me **release stress and improve my mood**.
@@ -78,7 +263,7 @@ No, but I might try one in the future just for fun. I enjoy **building my skills
 
 ---
 
-### ❤️ Topic 3: Headphones 🎧
+## ❤️ Headphones 🎧
 
 **Q1: Do you use headphones?**
 Yes, almost every day. I use them for music, online meetings and English practice because they help me **stay focused in a noisy environment**.
@@ -97,7 +282,7 @@ Yes, mine are comfortable for a couple of hours, but after wearing them all day,
 
 ---
 
-### ❤️ Topic 4: Jokes and Comedies 😂
+## ❤️ Jokes and Comedies 😂
 
 **Q1: Are you good at telling jokes?**
 Not really. I am not naturally good at telling jokes, but I sometimes make simple comments to **make my friends laugh**.
@@ -116,7 +301,7 @@ Yes, especially online comedy shows and short videos. They are popular because p
 
 ---
 
-### ❤️ Topic 5: Mirrors 🪞
+## ❤️ Mirrors 🪞
 
 **Q1: Do you like looking at yourself in a mirror?**
 I only check myself briefly before leaving home. For me, it is just **a practical habit** rather than something I spend much time on.
@@ -130,7 +315,7 @@ No, I don't. My phone camera is enough if I need to check my appearance quickly,
 **Q4: Would you decorate a room with mirrors?**
 Maybe one large mirror because it can make a small room feel brighter and more spacious. I prefer **a simple design** because I feel more comfortable in **a relaxed environment**.
 
-### ❤️ Science 🔬 `[同桌英语 #06]`
+## ❤️ Science 🔬
 
 **Q1: Do you like science?**
 
@@ -156,7 +341,7 @@ A: It depends on the programme. I enjoy those that explain scientific concepts i
 
 A: I think it depends on the city and people's interests. In large cities like Beijing, many families visit science museums during school holidays because interactive exhibitions can **spark children's curiosity**. <!-- P4-b -->
 
-### ❤️ Outer Space and Stars 🌌 `[同桌英语 #07]`
+## ❤️ Outer Space and Stars 🌌
 
 **Q1: Have you ever learnt about outer space and stars?**
 
@@ -174,7 +359,7 @@ A: Definitely. I am curious about mysteries such as whether life exists on other
 
 A: I would love to experience it, but only if space travel became much safer and more affordable. It would be **an unforgettable experience**, although I currently prefer exploring space through technology rather than taking the risk myself. <!-- P6-a -->
 
-### ❤️ Cars 🚗 `[同桌英语 #08]`
+## ❤️ Cars 🚗
 
 **Q1: Did you enjoy travelling by car when you were a child?**
 
@@ -200,7 +385,7 @@ A: They are relatively important, but not the main factor when buying a car. Whi
 
 A: Probably not. A car is mainly a practical tool for me, so I would rather choose one that is reliable and offers **good value for money**. <!-- P1-b -->
 
-### ❤️ Public Gardens and Parks 🌳 `[同桌英语 #09]`
+## ❤️ Public Gardens and Parks 🌳
 
 **Q1: Did you like going to parks as a child?**
 
@@ -230,7 +415,7 @@ A: I think parks today are more modern and better equipped with facilities such 
 
 A: When I visit a park, I usually hang out with friends or take a walk. If I'm alone, I enjoy the scenery and sometimes listen to music. I also take photos because parks **bring back happy memories** and help me **take a break from my busy routine**. <!-- P7-c -->
 
-### ❤️ Feeling Bored 😐 `[同桌英语 #10]`
+## ❤️ Feeling Bored 😐
 
 **Q1: Do you often feel bored?**
 
@@ -260,7 +445,7 @@ A: I usually work out or paint when I feel bored, rather than just lying on the 
 
 A: I'd say adulthood can be more boring because of heavier workloads and responsibilities. Childhood, on the other hand, usually gives us more time to explore our interests. For example, after a long workday, chores can feel repetitive and boring. But when I was a child, even small things like drawing or painting **felt interesting**. <!-- P10-b -->
 
-### ❤️ Shopping 🛒 `[同桌英语 #11]`
+## ❤️ Shopping 🛒
 
 **Q1: Do you like shopping?**
 
@@ -290,7 +475,7 @@ A: Not necessarily. Expensive products sometimes cost more because of the brand 
 
 A: Yes, I returned a pair of shoes because the quality was not what I expected. Since then, I always check **customer reviews** carefully before buying. <!-- P8-c -->
 
-### ❤️ Watch ⌚ `[同桌英语 #12]`
+## ❤️ Watch ⌚
 
 **Q1: Do you wear a watch?**
 
@@ -308,7 +493,7 @@ A: Some people appreciate their craftsmanship and design, while others see them 
 
 A: Personally speaking, I do not think it is essential because smartphones can show the time. However, watches remain meaningful to some people because they can be stylish, convenient and **have emotional value**. <!-- P1-b -->
 
-### ❤️ Websites `[同桌英语 #13]`
+## ❤️ Websites 🌐
 
 **Q: What kinds of websites do you often visit?**
 
@@ -334,7 +519,7 @@ A: I use both. Websites are better for current information, while books usually 
 
 A: Yes, I would use it to organise my technical notes and share what I have learned. It would also give me more control than posting everything on social media. <!-- T01 T06 -->
 
-### ❤️ Tidiness `[同桌英语 #14]`
+## ❤️ Tidiness 🧹
 
 **Q: Do you like to keep things tidy?**
 
@@ -352,7 +537,7 @@ A: I clear my desk every evening and store most documents digitally. This simple
 
 A: I'd say yes, but only up to a point. Basic organisation improves efficiency, but trying to keep everything perfectly tidy can create unnecessary stress. <!-- T06 T02 -->
 
-### ❤️ Music `[同桌英语 #15]`
+## ❤️ Music 🎶
 
 **Q: Do you prefer sad or happy music?**
 
@@ -362,7 +547,7 @@ A: I prefer happy music because it lifts my mood after a long day. I often play 
 
 A: Definitely. A lively rhythm makes me feel more **energetic and optimistic**, especially when I am tired or under pressure. <!-- T08 T02 -->
 
-### ❤️ Social Media `[同桌英语 #16]`
+## ❤️ Social Media 📱
 
 **Q: Have you ever posted anything on social media?**
 
@@ -384,7 +569,7 @@ A: Yes, most of them do. We mainly use it to exchange updates and **stay connect
 
 A: They usually share photographs, follow news and message friends. Many also use it to find useful <mark style="background: #ABF7F7A6;">information</mark>, although not everything online is reliable. <!-- T06 -->
 
-### Teachers `[同桌英语 #17]`
+## Teachers 🧑‍🏫
 
 **Q: Do you have a favourite teacher?**
 

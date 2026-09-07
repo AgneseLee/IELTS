@@ -2,11 +2,71 @@
 
 > **Status: current Part 2 question source.** Generate one answer file per cue card in this directory; Part 3 questions remain source material only.
 
-> 共 51 个主题：人物 15 · 地点 7 · 经历 19 · 事物 10。
+> 共 56 个主题：人物 18 · 地点 8 · 经历 20 · 事物 10。
 >
 > `❤️` = 新话题；`🧡` = 本月新题。
 
-## 人物（15/15）
+## 人物（18/18）
+
+### 帮别人提升健康🧡
+
+#### Part 2
+
+**Describe a person whose health and fitness you have helped to improve**
+
+> **You should say:**
+> - Who this person was
+> - Why you helped him/her
+> - How you helped him/her
+> - And explain whether it was easy or difficult
+
+#### Part 3
+
+1. Which group pays more attention to health, young people or old people?
+2. What effect does stress have on health?
+
+### 受欢迎的人🧡
+
+#### Part 2
+
+**Describe a popular person**
+
+> **You should say:**
+> - Who this person is
+> - What kind of person he or she is
+> - When you see him/her normally
+> - And explain why you think this person is popular
+
+#### Part 3
+
+1. Why are some students popular in school?
+2. Is it important for a teacher to be popular?
+3. Do you think good teachers are always popular among students?
+4. What are the qualities of being a good teacher?
+5. Is it easier to become popular nowadays?
+6. Why do people want to be popular?
+
+### 钦佩的运动员🧡
+
+#### Part 2
+
+**Describe a successful sportsperson you admire**
+
+> **You should say:**
+> - Who he/she is
+> - What you know about him/her
+> - What he/she is like in real life
+> - What achievement he/she has made
+> - And explain why you admire him/her
+
+#### Part 3
+
+1. Should students have physical education and do sports at school?
+2. What qualities should an athlete have?
+3. Is talent important in sports?
+4. Is it easy to identify children's talents?
+5. What is the most popular sport in your country?
+6. Why are there so few top athletes?
 
 ### 表现出色的运动员🧡
 
@@ -318,7 +378,24 @@
 5. What's the difference between talking to friends and family?
 6. Has technology changed people's friendships? How?
 
-## 地点（7/7）
+## 地点（8/8）
+
+### 喜欢的建筑🧡
+
+#### Part 2
+
+**Describe a building you enjoy visiting (e.g. a library, a shopping mall, etc.)**
+
+> **You should say:**
+> - Where it is
+> - How you knew it
+> - What it looks like
+> - And explain why you enjoy visiting it
+
+#### Part 3
+
+1. Do you think old buildings are valuable?
+2. Do you think all old buildings should be demolished?
 
 ### 嘈杂地🧡
 
@@ -469,7 +546,26 @@
 
 ---
 
-## 经历（19/19）
+## 经历（20/20）
+
+### 印象深刻的聚会🧡
+
+#### Part 2
+
+**Describe a party for a special event that impressed you a lot**
+
+> **You should say:**
+> - When and where it was held
+> - What the party was held for
+> - How many people attended it
+> - And explain why it impressed you a lot
+
+#### Part 3
+
+1. When do people like to hold a party?
+2. Do most people prefer to hold a party in a public place or a private place?
+3. Do most people prefer to hold a party in a restaurant or in a pub?
+4. What special events are celebrated in your country?
 
 ### 不喜欢的短途旅行🧡
 

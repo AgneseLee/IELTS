@@ -8,42 +8,49 @@
 > - How he/she shows happiness
 > - And explain why you think he/she is a happy person
 
-> Bank: B1 | Modules: Ming / evening-walks / everyday-joy
-
-> Logic: L1 · sleep pressure → need for change → cue-specific turning point → manageable steps → calmness
+> Bank: B4 | Modules: Stella / everyday-joy / healthier-boundaries
 
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The happy person is Ming, my childhood friend from Zhanjiang. He is friendly, quietly optimistic, and easily amused by ordinary things. When work anxiety started disturbing my sleep, I called him and admitted that I felt stuck. He did not give me a long lecture. He invited me for a slow evening walk, bought two inexpensive drinks, and told funny stories from school. He shows happiness by laughing openly and including other people in simple plans. I think he is happy because he values relationships and daily experiences more than status.
+The person I'd like to talk about is Stella, my former colleague and one of my best friends. She's usually cheerful and enjoys the small things in life. We met at work, and we often go for walks together and talk about work and life.
+
+During our walks, she smiles a lot, makes little jokes, and tells me about small things that made her happy that day. It might be a nice lunch or a funny conversation with a colleague. She often laughs while telling these stories, and I usually end up laughing with her. She's also interested in hearing about my day, so our conversations feel relaxed and enjoyable.
+
+About three months ago, my previous company went through a layoff, and Stella received a much heavier workload. She began sleeping badly and feeling overwhelmed. She honestly talked to her manager, asked him for help, and stopped replying to non-urgent messages at night. Within a few weeks, she was sleeping better and enjoying her daily life again.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. Ming reminded me that happiness can come from a walk and a good laugh. It does not always need a big achievement. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+I think she's a happy person because she has learned to set healthier boundaries and enjoy life outside work. She makes time for friends and notices small things she can look forward to, even during a busy week.
+
+I really enjoy spending time with her because I feel more relaxed after our walks. Her example changed my view of happiness. I used to think I had to achieve something important before I could feel satisfied, but seeing her enjoy an ordinary evening reminds me to appreciate my own daily life. I admire the way she takes care of herself and shares her happiness with people around her. Most importantly, she taught me never to treat exhaustion as an achievement.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
-- Primary Ability: Communication Skills
-- Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
-- Secondary Ability: Adaptability
-- Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
+- Primary Ability: Adaptability
+- Reason: Stella set healthier boundaries after work pressure affected her sleep and enjoyment of daily life.
+- Secondary Ability: Communication Skills
+- Reason: She shares funny everyday stories, listens with interest, and makes our conversations relaxed and enjoyable.
 
 ## 3. Story Bank
 
-- Who/What: Ming, my childhood friend, who notices small enjoyable moments.
-- Background: Pressure was affecting my sleep, and I knew the old routine had to change.
-- Main event: His relaxed company helped me recover when work anxiety disturbed my sleep.
-- Ability shown: Communication Skills and Adaptability through calm, practical action.
-- Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
+- Who/What: Stella, my former colleague and one of my best friends, who is usually cheerful and enjoys small things.
+- Personality: Warm, humorous, and interested in other people's daily lives.
+- Happiness shown: During our walks, she smiles, jokes, laughs, and shares small moments that made her happy.
+- Background: After a company layoff increased her workload, she asked her manager for help and set healthier boundaries, gradually recovering within a few weeks.
+- Why she is happy: She makes time for friends and enjoys life outside work.
+- Reflection: Her company helps me relax and reminds me to appreciate ordinary moments rather than wait for a major achievement.
 
 ## 4. Useful Collocations
 
-- plan well in advance
-- stay calm and optimistic
-- learn from mistakes
-- express my ideas clearly
-- listen actively
-- avoid misunderstandings
-- build trust
-- understand different perspectives
+- enjoy the small things in life
+- go for walks together
+- end up laughing with her
+- feel relaxed and supported
+- set healthier boundaries
+- enjoy life outside work
+- make time for friends
+- look forward to
+- appreciate my own daily life
+- never treat exhaustion as an achievement

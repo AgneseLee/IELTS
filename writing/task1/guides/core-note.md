@@ -288,6 +288,17 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 
 ---
 
+### 就业数量：单位、排名与历史区间
+
+- ✗ `6 millions` → ✓ `6 million jobs`：具体数字后 `million` 不加 s；泛指才用 `millions of jobs`。
+- ✗ `Agriculture remained the lowest number since 1980.` → ✓ `Agriculture had the fewest jobs from 1980 onwards.`：行业不是数字；比较岗位数用 `had the fewest jobs`，封闭的历史区间用过去时。
+- ✗ `during the former two decades` → ✓ `over the first two decades`：表示全时期最初的二十年用 `first`。
+- ✗ `remained unchanged in 2000` → ✓ `remained unchanged from 1980 to 2000` / `remained unchanged until 2000`：描述平台期须明确区间或承接前文起点。
+- `Employment peaked at 20 million in 1980, up from 15 million in 1960.`：`up from` 可在报告峰值后补充较早的起点。
+- `Healthcare caught up with retail at approximately 16 million jobs.`：`caught up with` 表示由落后到追平；不同于表示反超的 `overtook`。
+
+---
+
 ## Final Checklist
 
 ### Task Achievement

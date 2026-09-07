@@ -10,18 +10,14 @@
 
 > Bank: B4 | Modules: layoff / asking-for-help / healthier-boundaries
 
-## 1. Band 7 Answer (1:40–2:00)
+## 1. Band 7 Answer
 
 <!-- NARRATIVE_START -->
-About three months ago, I made an important decision to talk honestly to my manager and set healthier boundaries at work. My company had gone through a layoff, and I received a much heavier workload. I began sleeping badly at night and feeling overwhelmed. I realized my old habits weren't suitable anymore and I couldn't keep pushing myself like that.
-
-It wasn't an easy decision because I used to think I should handle every challenge on my own. I was worried that my manager would think I wasn't capable enough. However, instead of pretending everything was all right, I asked him for help. I pointed out some unrealistic deadlines and asked him to help me prioritize my workload. I also stopped replying to non-urgent messages at night and broke larger tasks into smaller steps I could handle. By tackling these issues, I gradually recovered both physically and mentally within a few weeks.
+The important decision I made was about three months ago, when my company went through a layoff. I decided to talk honestly to my manager and ask him for help because I was having serious trouble falling asleep. After the layoff, I received a much heavier workload, and I began sleeping badly at night and feeling overwhelmed. At that time, I thought strong people should handle every problem and challenge on their own, so I thought asking for help was a sign of weakness. I was unsure whether I should ask for help. But after several nights of insomnia, I decided to talk honestly to my manager about what I was going through and my concerns about work. I pointed out some unrealistic deadlines and asked him to help me reprioritize my workload. I also stopped replying to non-urgent messages at night and broke larger tasks into smaller steps I could handle. By tackling these issues, I gradually recovered both physically and mentally within a few weeks.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I was happy with the result because I was sleeping better and felt more in control of my work. Having clearer priorities helped me focus on the most important tasks without feeling overwhelmed all the time.
-
-Looking back, this decision changed my view of resilience. I used to think strong people should keep working even under huge pressure, but now I think real strength includes asking for help, accepting support, and changing direction when things don't go as planned. Since then, I've tried to focus on what I can control and take one manageable step at a time. Most importantly, I've learned never to treat exhaustion as an achievement.
+I was happy with the result because I was sleeping better and felt more in control of my work. Having clearer priorities helped me focus on what I could control at the time and what was most important. Looking back, this decision changed my view of resilience. I used to think strong people should keep working even under huge pressure. But now, I think real strength includes asking for help, accepting support, and changing plans when things don't go as planned. Since then, I've tried to focus on what I can control and take one manageable step at a time. Most importantly, I've learned never to treat exhaustion as an achievement.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

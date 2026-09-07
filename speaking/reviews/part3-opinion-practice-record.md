@@ -8,6 +8,7 @@
 
 | 主题                 | 覆盖状态  | 对应练习                        |
 | ------------------ | ----- | --------------------------- |
+| `T01 学习、创造与执行` | 已练习 | 练习与反馈；开放式活动与创造力；清晰规划与决策（22–27） |
 | `T02 健康、习惯与休闲`      | 已提取观点 | 重复与无意义的日常活动导致无聊；有意义的活动改善情绪 |
 | `T03 沟通、关系与合作`      | 已提取观点 | 共同活动和家庭回忆加强情感联系             |
 | `T04 公平、规则与公共资源` | 已练习 | 教育机会正反链；公平与不一致规则；公共投入正反链（17–21） |
@@ -438,6 +439,152 @@
 - [ ] 连续正确说出 `advantages`、`producers`、`businesses`、`consequences`
 - [ ] 熟练使用 `take responsibility for`、`there's no real incentive for...` 和 `be likely to + 动词原形`
 
+### 22. What is the most important factor in learning well?
+
+**主题链：** `T01 学习、创造与执行` — regular practice and feedback → stronger practical skills → better performance
+
+**Your original answer**
+
+> Well, I think the most important factor to learn well is regular practice and useful feedback, which help people build stronger practical skills and behave better. In the end, whereas passive or exam-driven learning has limited application in the real world and they may weaken people's independent and critical thinking.
+
+**主要错误 / 不自然**
+
+- `factor to learn well` → `factor in learning well`；列出两个因素时用 `factors... are`
+- `behave better` 偏“行为更好”，这里用 `perform better / improve their performance`
+- `In the end, whereas...` 连接词冲突，改为 `By contrast`
+- `learning... they may` 指代不一致；用 `it`，或省略重复主语
+- `independent and critical thinking` 可以保留；也可说 `independent thinking and critical-thinking skills`
+
+**Band 7 version（最小改动）**
+
+> Well, I think the most important factors in learning well are regular practice and useful feedback, which help people build stronger practical skills and perform better. By contrast, passive or exam-driven learning has limited application in the real world and may weaken people's independent and critical thinking.
+
+### 23. How should education promote open-mindedness? — Version 1
+
+**主题链：** `T01 学习、创造与执行` — open-ended activities → new perspectives → creativity
+
+**Your original answer**
+
+> Well, I think education should focus on children's open-mindedness and introduce more open-ended activities because they can help children build new perspectives and improve their creativity through those kinds of practices.
+
+**主要错误 / 不自然**
+
+- `focus on children's open-mindedness` 能懂，`foster/promote open-mindedness` 更自然
+- `build new perspectives` → `gain/develop new perspectives`
+- `improve their creativity` 可以，`boost their creativity` 是另一种自然搭配
+- `those kinds of practices` → `those kinds of activities`，与前面的活动保持一致
+
+**Band 7 version（最小改动）**
+
+> Well, I think education should foster open-mindedness and introduce more open-ended activities because they can help children gain new perspectives and boost their creativity through those kinds of activities.
+
+### 24. How should education promote open-mindedness? — Version 2
+
+**主题链：** `T01 学习、创造与执行` — open-ended activities → new perspectives → creativity；rigid instruction → less exploration → weaker creativity
+
+**Your original answer**
+
+> So I think education should foster open-mindedness by offering more open-ended activities. They can help students build new perspectives and boost their creativity. Whereas rigid instruction during school may lead to less exploration because students are putting efforts that are aimed at passing the exams instead of developing the genuine ability to think, to analyze or to solve the real problems. So, as a result, they might end up with weaker creativity.
+
+**主要错误 / 不自然**
+
+- 单独用 `Whereas` 引出从句会使这里的句子不完整；改用 `By contrast`
+- `build new perspectives` → `gain/develop new perspectives`
+- `during school` → `at school / in schools`
+- `are putting efforts that are aimed at...` → `focus their efforts on...`
+- 泛指用 `passing exams` 和 `real problems`，不加 `the`
+- `the genuine ability` → `their genuine ability`
+- 并列结构统一为 `think critically, analyze problems, and solve real problems`
+- `So, as a result` 重复；`weaker creativity` → `become less creative` 更自然
+
+**Band 7 version（最小改动）**
+
+> So, I think education should foster open-mindedness by offering more open-ended activities. They can help students gain new perspectives and boost their creativity. By contrast, rigid instruction at school may limit exploration because students focus their efforts on passing exams instead of developing their genuine ability to think critically, analyze problems, and solve real problems. As a result, they may become less creative.
+
+### 25. How should education promote open-mindedness? — Version 3
+
+**主题链：** `T01 学习、创造与执行` — open-ended activities → new perspectives → creativity；rigid instruction → less exploration → weaker creativity
+
+**Your original answer**
+
+> Okay, I believe education should focus and promote open-mindedness by providing more open-minded activities in schools. Because these activities help students gain new perspectives and spark their creativity. For example, many open-ended activities in schools without a formal answer let students to develop their own perspectives based on their interest or experience. So that may help them develop and explore their real interest. By contrast, rigid instruction during school may limit their exploration as students only focus on passing exams instead of developing their genuine ability to analyze, to think critically or solve real problems. As a result, they may end up with weaker creativity.
+
+**主要错误 / 不自然**
+
+- `focus and promote` → `focus on promoting`，或直接用 `promote`
+- `open-minded activities` → `open-ended activities`；`open-minded` 通常形容人或态度
+- `Because these activities...` 接在前句，避免句子片段
+- `without a formal answer` → `without a fixed/single correct answer`
+- `let students to develop` → `let students develop`
+- `their interest or experience` → `their interests and experiences`
+- `real interest` → `genuine interests`
+- `during school` → `at school / in schools`
+- 并列结构统一为 `think critically, analyze problems, and solve real problems`
+- `weaker creativity` → `less creative` 更自然
+
+**Band 7 version（最小改动）**
+
+> I believe education should promote open-mindedness by providing more open-ended activities in schools because these activities help students gain new perspectives and spark their creativity. For example, many open-ended activities don't have a single correct answer, which allows students to develop their own perspectives based on their interests and experiences. This may help them explore their genuine interests. By contrast, rigid instruction at school may limit their exploration because students focus mainly on passing exams instead of developing their genuine ability to think critically, analyze problems, and solve real problems. As a result, they may become less creative.
+
+### 26. What helps people make an informed decision? — Version 1
+
+**主题链：** `T01 学习、创造与执行` — clear priorities and realistic sequencing → actionable plan → lower risk and better results；unclear priorities or rigid scheduling → impractical plan → delays or poor results
+
+**Your original answer**
+
+> Well, I think if a person want to make a informed decision, it may requires clear priorities and realistic sequencing, which inform a actionable plan, because this benefits can help lower the risks of making poor decision and usually lead to better result at the end. On the other hand, impractical plans usually involves unclear priorities or over-rigid schedule, which may end up with delays or poor results.
+
+**主要错误 / 不自然**
+
+- `a person want` → `a person wants`
+- `a informed decision / a actionable plan` → `an informed decision / an actionable plan`
+- `it may requires` → `it may require`，或改用 `they need`
+- `inform an actionable plan` 可以表示“为计划提供依据”；这里想表达“形成计划”，用 `form/lead to an actionable plan` 更直接
+- `this benefits` → `these benefits / this approach`
+- `the risks of making poor decision` → `the risk of making poor decisions`
+- `better result` → `better results`；`at the end` → `in the end`
+- `plans... involves` → `plans... involve`
+- `over-rigid schedule` → `overly rigid schedules`
+- `which may end up with delays` → `which may lead to delays`
+
+**Band 7 version（最小改动）**
+
+> Well, I think if a person wants to make an informed decision, they need clear priorities and realistic sequencing, which can form an actionable plan. This approach can help lower the risk of making poor decisions and usually lead to better results in the end. On the other hand, impractical plans usually involve unclear priorities or overly rigid schedules, which may lead to delays or poor results.
+
+### 27. What helps people make an informed decision? — Version 2 + example
+
+**主题链：** `T01 学习、创造与执行` — clear priorities and realistic sequencing → actionable plan → lower risk and better results
+
+**Your original answer**
+
+> If you want to make a solid decision, start by ranking what matters and map out realistic steps. For example, if you're choose between two job offers, decide what's most important to you, like growth, salary or location. Then plan the steps. Compare benefits, talk to future teammates. Check commute times. That way, you're less likely to regret it later. When plans are fuzzy or way too rigid, say, “I'll just figure it out,” or “I must follow this timetable no matter what,” you're more likely to hit delays or make a choice that doesn't fit you.
+
+**主要错误 / 不自然**
+
+- `if you're choose` → `if you're choosing`
+- `start by ranking... and map out...` 可理解为两个指令；改为 `start by ranking... and mapping out...`，结构更统一
+- `growth` → `career growth` 更清楚
+- `Compare benefits, talk..., check...` 可用于口语；连接起来更流畅
+- `say` 可以用来举例；这里改成 `for example, if you just say...`，让较长的结构更清楚
+- `hit delays` 可以理解，`face/run into delays` 更自然
+
+**Band 7 version（最小改动）**
+
+> If you want to make a solid decision, start by ranking what matters and mapping out realistic steps. For example, if you're choosing between two job offers, decide what's most important to you, like career growth, salary, or location. Then plan the steps: compare the benefits, talk to future teammates, and check commute times. That way, you're less likely to regret your decision later. On the other hand, when plans are fuzzy or way too rigid—for example, if you just say, “I'll figure it out,” or “I must follow this timetable no matter what”—you're more likely to run into delays or make a choice that doesn't really fit you.
+
+### 最新一批复练（22–27，2026-09-07）
+
+> 本批按用户提供的实际回答版本记录，单纯重复给定 Band 7 版本的部分不单独计入。原答案保持原貌；原表另提到的 `build a stronger practical skills`、`those kind of practices`、`instead of develop` 和 `didn't doesn't fit` 未出现在对应原答案文本中，因此仅作为补充复练提醒，不归入逐句错误记录。
+
+- [ ] 用练习与反馈说明如何提高学习效果，再补充被动学习的局限
+- [ ] 用没有唯一正确答案的活动说明开放思维与创造力，再对比僵化教学
+- [ ] 用两个工作机会的例子说明如何明确优先级并安排实际步骤
+- [ ] 冠词：`an informed decision` / `an actionable plan`
+- [ ] 主谓一致：`a person wants` / `plans involve`；情态动词后用 `may require`
+- [ ] 动词结构：`instead of developing` / `let students develop`
+- [ ] 单复数：`stronger practical skills` / `those kinds of activities` / `poor decisions` / `better results`
+- [ ] 并列结构：`ranking... and mapping out...` / `think critically, analyze problems, and solve real problems`
+
 ## Part 3 可直接复用的口语块
 
 ### 环境
@@ -552,6 +699,17 @@
 - `People are likely to make better decisions when they check independent reviews.`
 - `This is likely to encourage people to use public transport.`
 
+### 学习、开放思维与决策
+
+- `regular practice and useful feedback`
+- `build stronger practical skills and perform better`
+- `gain new perspectives and spark their creativity`
+- `open-ended activities don't have a single correct answer`
+- `focus their efforts on passing exams instead of developing...`
+- `rank what matters and map out realistic steps`
+- `lower the risk of making poor decisions`
+- `run into delays or make a choice that doesn't really fit you`
+
 ## 本轮高频错误
 
 | Pattern | 你的错误 | 正确表达 |
@@ -577,8 +735,14 @@
 | 教育表达 | `resources of education` / `those who are with disadvantaged backgrounds` | `educational resources` / `those from disadvantaged backgrounds` |
 | 情态动词后结构 | `companies may broken` | `companies may fail / go bankrupt` |
 | 意思混淆 | `an equal access` / `feel spoiled` | `unequal access`（不平等的获取机会）/ `see the rules as unfair`（认为规则不公平） |
+| 冠词（22–27） | `a informed decision` / `a actionable plan` | `an informed decision` / `an actionable plan` |
+| 主谓一致（22–27） | `a person want` / `plans involves` | `a person wants` / `plans involve` |
+| 情态动词（22–27） | `may requires` | `may require` |
+| 动词结构（22–27） | `let students to develop` / `if you're choose` | `let students develop` / `if you're choosing` |
+| 单复数（22–27） | `this benefits` / `poor decision` / `better result` | `these benefits` / `poor decisions` / `better results` |
+| 自然搭配（22–27） | `build new perspectives` / `open-minded activities` | `gain new perspectives` / `open-ended activities` |
 
-最新一批最需要优先盯住：**单复数 → 主谓一致 → 词性与搭配**。复杂句里先保证主语与动词一致，再检查 `not only... but also...` 的平行结构。
+最新一批最需要优先盯住：**a/an、第三人称单数、instead of + doing、let + 人 + 动词原形、单复数，以及并列结构的一致性**。先稳定这些基础结构，再考虑换更高级的词。
 
 ## 下次复练顺序
 

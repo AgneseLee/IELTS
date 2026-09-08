@@ -374,3 +374,23 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `AI conversation regularly replaces meaningful human interaction → fewer shared experiences and meaningful conversations → weaker emotional bonds`
 - `practical benefits do not replace the emotional connections formed through human interaction`
 - `coordinate schedules / exchange insights / overcome difficulties together`
+
+
+## 经济发展：收入增长与生态保护
+
+### 新增错误与搭配
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `can contributes` | `can contribute` | 情态动词后使用动词原形。 |
+| `more decent income` | `higher incomes` | decent 表示体面或足够，并不直接表示收入更高。 |
+| `natural protection` | `environmental protection` | 表达环境保护时使用后者。 |
+| `the ecosystem ... derelict and withering` | `the ecosystem ... ecologically degraded` | derelict 多指废弃失修，withering 多指植物枯萎，不适合概括生态系统恶化。 |
+| `at the expense of ecological deterioration` | `at the expense of the natural environment` | at the expense of 后接被牺牲的对象，不能接想避免的负面结果。 |
+| `new facilities without proper maintenance`（解释开发造成栖息地损失） | `new facilities without proper environmental safeguards` | maintenance 是维护；开发阶段避免环境破坏需要 environmental safeguards。 |
+
+### 可复用逻辑链与搭配
+
+- `business expansion → greater demand for labour → employers may offer higher wages to attract staff`
+- `mining and land development without environmental safeguards → habitat destruction → damage to local ecosystems`
+- `clear obligations to limit resource extraction and protect habitats → penalties for non-compliance → a financial incentive to prevent environmental damage`

@@ -34,7 +34,7 @@
 
 > 🧡 表示本季新题。
 
-> 根据 2026-09-06 提供的小问补充：共 41 条原始问法，垃圾回收的两组同义题合并后为 39 组答案。每题以自然的 2–3 句展开。未确认的童年经历、饮食偏好和消费金额为练习用示例细节，可按真实情况替换。
+> 根据 2026-09-06 提供的小问补充：移除 Handwritten Letters 后，现有 10 个新话题、38 条原始问法，垃圾回收的两组同义题合并后为 36 组答案。每题以自然的 2–3 句展开。未确认的童年经历、饮食偏好和消费金额为练习用示例细节，可按真实情况替换。
 
 ## 🧡 Name 🏷️
 
@@ -67,20 +67,6 @@ A: Usually after staring at a screen for several hours or getting too little sle
 **Q3: What do you do when you feel tired?**
 
 A: I normally step away from my screen and take a short walk. If I'm really sleepy, I have a short nap or go to bed earlier. That helps me **recharge** and focus better afterwards.
-
-## 🧡 Handwritten Letters ✉️
-
-**Q1: Do you often write letters?**
-
-A: Not very often these days because I usually message people on my phone. Still, I might write a short letter for a special occasion because it feels **more personal** than a text.
-
-**Q2: Did you receive any handwritten letters when you were a child?**
-
-A: Yes, I received a few from school friends, usually around birthdays. They weren't very long, but seeing their handwriting made them feel special. It was nice to know someone had **taken the time to write to me**.
-
-**Q3: Which do you prefer, writing a letter or sending a message?**
-
-A: For everyday communication, I prefer sending a message because it's quick and convenient. But if I want to thank someone properly or say something meaningful, I'd consider writing a letter. It gives me more time to **put my thoughts into words**.
 
 ## 🧡 Rubbish and Recycling ♻️
 

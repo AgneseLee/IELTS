@@ -144,65 +144,65 @@ A: I liked drawing and folding paper planes. Sometimes I'd try different shapes 
 
 **Q1: Do you remember your first day at secondary school?**
 
-A: Not every detail, but I remember feeling nervous because there were so many unfamiliar faces. I wasn't sure who to sit next to at first. Once I started talking to a classmate, I felt **more at ease**.
+A: Not really. I've got a terrible memory for that sort of thing. I graduated about eight years ago, and even if you ask me about my first day at university, I can hardly remember anything, let alone secondary school.
 
 **Q2: Were there any subjects that you found difficult at secondary school?**
 
-A: Yes, I found physics quite challenging, especially when the questions involved several steps. I sometimes understood the explanation but couldn't solve a similar problem on my own. I needed extra practice to **get the hang of it**.
+A: I found Chinese quite challenging because the questions often asked about the author's feelings, which felt quite subjective and hard to figure out. It sometimes felt more like guessing than problem-solving.
 
 **Q3: What was your favourite subject at secondary school?**
 
-A: English was my favourite, mainly because I had a really encouraging teacher. She explained things clearly and didn't make us feel embarrassed about mistakes. That gave me **the confidence to speak up** in class.
+A: Physics was my favorite. It sparked my curiosity, and I liked the logical steps and calculations involved. I was always fascinated by solving those kinds of problems.
 
 **Q4: Is there anything you miss about your secondary school?**
 
-A: I miss seeing my friends every day without having to arrange anything. We could chat between lessons or have lunch together. Those small moments helped us **build close friendships**, and they're harder to find time for as adults.
+A: I really miss my classmates and teachers from secondary school because I still remember how we chatted between lessons and had lunch together. If I had the chance to organize a reunion and get everyone together, that would be perfect.
 
 ## 🧡 Travelling 🧳
 
 **Q1: Do you prefer sitting by the window when you travel?**
 
-A: Yes, especially on trains, because I enjoy watching the scenery change. It makes a long journey feel less boring, and I can just listen to music and **watch the world go by**.
+A: Yes, especially on trains. I love sitting by the window, listening to music, and watching the scenery go by. It makes the trip feel less boring and more relaxing.
 
 **Q2: Did you ever go on a long journey with your family when you were a child?**
 
-A: Yes, I remember taking a long train journey with my parents to visit relatives. We brought snacks and spent a lot of time looking out of the window. The journey itself felt like **part of the adventure**.
+A: Yes, when I was a kid, my parents and I took a long train trip to visit our relatives. We brought snacks and watched the view from the window. Honestly, the ride felt like part of the adventure.
 
 ## 🧡 Advertisement 📢
 
 **Q1: Do you like advertisements?**
 
-A: Some of them, especially if they introduce something useful or tell an interesting story. But I find it annoying when an advert **interrupts what I'm watching**, particularly if I've already seen it several times.
+A: Well, some of them, especially ones that introduce something useful or tell an interesting story. But I find it annoying when ads interrupt while I'm watching a series, especially if I've seen the same ad over and over again.
 
 **Q2: What kind of advertising do you like?**
 
-A: I like short adverts that show clearly how a product works. For example, if it's a pair of trainers, I'd rather see how comfortable they are than just a famous person wearing them. That helps me decide whether they **meet my needs**.
+A: I like short ads that clearly show how a product works or tell an interesting story because they help me see if the product suits my needs and lifestyle. For example, I'd rather see content showing how comfortable a pair of shoes is than just a famous athlete wearing them.
 
 **Q3: Do you often see advertisements when you are on your phone or computer?**
 
-A: Yes, almost every day, especially when I watch videos or browse social media. Some are related to things I've searched for recently. I usually **scroll past them** unless something catches my attention.
+A: Yes, almost every day. Every time I open Xiaohongshu, a popular social media platform in China, ads pop up right at the start. Constant exposure to so many ads can feel exhausting, especially when I've seen the same ones over and over again.
 
 **Q4: Is there an advertisement that made an impression on you when you were a child?**
 
-A: Yes, I remember a TV advert for a snack that had a really catchy song. I can't remember the exact words now, but I used to sing along whenever it came on. The tune really **stuck in my head**.
+A: Yes, I remember a McDonald's ad from my childhood. Actually, I don't really recall the story, but the golden arches, the bright, happy feeling, and the catchy jingle really stuck in my head.
 
 ## 🧡 Shoes 👟
 
 **Q1: Do you like buying shoes? How often?**
 
-A: I don't buy them very often, usually just when an old pair **wears out**. I mainly look for comfortable trainers that I can wear every day. So I probably buy a pair once or twice a year.
+A: Actually, I don't buy them very often. I just replace them when necessary, so I usually buy a new pair once or twice a year. I prefer comfortable trainers that suit my lifestyle.
 
 **Q2: Have you ever bought shoes online?**
 
-A: Yes, I have, although I once returned a pair because the quality wasn't what I expected. Since then, I've paid more attention to **customer reviews** and the return policy. I still shop online because it's convenient.
+A: Yes, I've bought shoes online, but once I had to return a pair because the quality wasn't what I expected. Since then, I've paid more attention to customer reviews and return policies before buying another pair.
 
 **Q3: How much money do you usually spend on shoes?**
 
-A: Usually around 300 to 500 yuan for a pair of trainers. I'm willing to spend a little more if they're comfortable and likely to last. I mainly look for **good value for money**.
+A: Personally, it's usually around 300 to 500 yuan for a pair of trainers. I'm willing to spend a bit more if they're comfortable and likely to last. I mainly look for good value for money.
 
 **Q4: Which do you prefer, fashionable shoes or comfortable shoes?**
 
-A: Definitely comfortable shoes, because I do quite a bit of walking. A fashionable pair isn't much use to me if it hurts my feet. Ideally, I'd choose something simple that **goes with most of my clothes**.
+A: Definitely comfortable shoes. Since I usually work out and take walks outdoors, fashionable ones don't always fit my lifestyle. On top of that, comfortable shoes don't limit my movement when I'm exercising. So I usually go for something simple and comfortable that matches most of my clothes. Ideally, I'd choose something that's both stylish and comfortable.
 
 
 ## ❤️ Clothing 👕
@@ -716,3 +716,44 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - **offers practical features** 本身可以；无需为了简洁改成不够自然的 offers practicality。
 - **will lose interest** 可表达常见倾向；描述一般习惯时用 **lose interest** 更直接，并非必须纠正的语法错误。
 - 避免 helpful and useful、practical problems in the real world 等重复；Part 1 意思完整后即可收尾。
+
+
+## 亮点高分表达（Shoes, Advertisements, Travelling & Secondary school）
+
+- **Shoes:** good value for money（物有所值）· go for something（选择某物）· suit my lifestyle（适合我的生活方式）· stylish and comfortable（时尚又舒适）。
+- **Advertisements:** tell an interesting story（讲一个有趣的故事）· over and over again（反反复复）· constant exposure to ads（不断接触广告）· a catchy jingle（朗朗上口的广告曲）· stuck in my head（在脑海中挥之不去）。
+- **Travelling:** watch the scenery go by（看沿途风景掠过）· part of the adventure（冒险经历的一部分）。
+- **Secondary school:** a terrible memory for that sort of thing（不擅长记这类事情）· let alone...（更不用说……）· hard to figure out（难以弄明白）· more like guessing than problem-solving（更像是在猜，而不是解题）· spark my curiosity（激发好奇心）· organize a reunion（组织聚会）· get everyone together（把大家聚在一起）。
+
+## 错误复盘（Shoes, Advertisements, Travelling & Secondary school）
+
+### 1. 时态与动词
+
+- 现在看剧时被打断：ads interrupt me **while I'm watching**，不是 *when I was watching*。
+- 明确的过去时间用一般过去时：**I graduated about eight years ago**，不是 *I have graduated ... eight years ago*。
+- 回忆中学经历：the questions **asked**；we **chatted** between lessons and **had** lunch together。
+- **ask me** 表示“问我”，不是 answer me（回答我）。
+- **I still remember** 表示“我仍然记得”；I usually remember 表示通常能记得，不适合这里的意思。
+
+### 2. 单复数、冠词与词性
+
+- need **a new pair**；fit my **lifestyle**，此处不用 lifestyles。
+- **customer reviews** 更自然；**the return policy / return policies** 均可。
+- **ads pop up**，不是 ads pops up；**constant exposure**，不是 constantly exposure。
+- **content** 表示内容时不可数，不能用 contents；表中原回答已用对。
+- **the golden arches** 指麦当劳标志；一个广告中的旋律可说 **a catchy jingle / the catchy jingle**。
+- **watched the view**，不能漏掉 the；**classmates and teachers** 表示多位同学和老师。
+
+### 3. 自然搭配与最小改动
+
+- **comfortable enough** 本身正确，此处直接用 comfortable 更简洁。
+- 鞋子让人舒适可说 **keep me comfortable**；做选择可用 **I usually go for...**。
+- **suits my needs and lifestyle**，避免 meets my needs or lifestyle 的搭配不一致。
+- **I'd rather see A than B**，无需重复 rather。
+- **almost every day** 表示几乎每天，比 mostly every day 自然。
+- **bought snacks** 是买了零食；**brought snacks** 是带了零食，按真实意思选择。
+- **more like guessing than problem-solving**，比 more like guessing rather than problem-solving 更自然。
+- **calculation problems / numerical problems / those kinds of problems**，不用 calculating problems。
+- **Well, some of them** 是口语中可以接受的简短回答，不必强行补成完整句。
+
+本轮优先复练：过去时、单复数、冠词 a/the，以及不可数名词 content。保留已经能主动使用的自然搭配，如 **go for something、good value for money、stuck in my head、let alone、hard to figure out、spark my curiosity**。

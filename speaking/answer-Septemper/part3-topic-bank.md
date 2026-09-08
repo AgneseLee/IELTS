@@ -82,6 +82,7 @@
 
 - **正向：** shared time and mutual support → emotional connection → stronger relationships
 - **反向：** limited interaction or constant distraction → emotional distance → weaker belonging
+weaken connections and reduce the sense of belonging
 
 ### 概括：明确分工促进合作
 
@@ -96,6 +97,7 @@
 - **正向：** wider access to basic resources → narrower opportunity gaps → greater social mobility
 - **反向：** unequal access → fewer opportunities → entrenched disadvantage
 Unequal access to education can limit job opportunities, making it harder for people from disadvantaged backgrounds to escape poverty.
+earn a decent living
 
 ### 概括：公平规则培养责任
 

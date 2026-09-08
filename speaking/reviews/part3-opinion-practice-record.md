@@ -6,18 +6,18 @@
 
 ## 本轮观点覆盖总览
 
-| 主题                 | 覆盖状态  | 对应练习                        |
-| ------------------ | ----- | --------------------------- |
-| `T01 学习、创造与执行` | 已练习 | 练习与反馈；开放式活动与创造力；清晰规划与决策（22–27） |
-| `T02 健康、习惯与休闲`      | 已提取观点 | 重复与无意义的日常活动导致无聊；有意义的活动改善情绪 |
-| `T03 沟通、关系与合作`      | 已提取观点 | 共同活动和家庭回忆加强情感联系             |
-| `T04 公平、规则与公共资源` | 已练习 | 教育机会正反链；公平与不一致规则；公共投入正反链（17–21） |
-| `T05 经济与就业` | 已练习 | 企业创造价值、就业与经济增长；经营失败的影响（16） |
-| `T06 科技、互联网、信息与影响` | 已练习   | 科技提高效率与过度依赖；互联网重塑习惯；广告利弊与信息核实（14–15） |
-| `T07 环境与动物`        | 已完整练习 | 环保制度正反链；宠物的陪伴、责任与长期照顾压力     |
-| `T08 艺术、文化与传统`     | 已完整练习 | 博物馆与艺术参与正反链；历史遗产、国家认同与文化流失  |
-| `T09 年龄与代际`        | 已完整练习 | 年龄群体的经历、数字熟悉度、责任差异；代际差距逐渐缩小 |
-| `T10 地点、建筑与设施`     | 已完整练习 | 实用设计和设施的正向价值；只重外观或维护不善的反向影响 |
+| 主题                 | 覆盖状态  | 对应练习                                             |
+| ------------------ | ----- | ------------------------------------------------ |
+| `T01 学习、创造与执行`     | 已练习   | 练习与反馈；开放式活动与创造力；清晰规划与决策（22–27）                   |
+| `T02 健康、习惯与休闲`     | 已练习   | 无聊与有意义的活动；公园中的运动与放松（38）                          |
+| `T03 沟通、关系与合作`     | 已练习   | 家庭联系；有效沟通与倾听；真实互动；明确分工与团队合作（29–37）               |
+| `T04 公平、规则与公共资源`   | 已练习   | 教育机会正反链；公平与不一致规则；公共投入正反链（17–21）；资源获取不平等（28）      |
+| `T05 经济与就业`        | 已练习   | 企业创造价值、就业与经济增长；经营失败的影响（16）                       |
+| `T06 科技、互联网、信息与影响` | 已练习   | 科技提高效率与过度依赖；互联网重塑习惯；广告利弊与信息核实（14–15）；科技与真实互动（33） |
+| `T07 环境与动物`        | 已完整练习 | 环保制度正反链；宠物的陪伴、责任与长期照顾压力                          |
+| `T08 艺术、文化与传统`     | 已完整练习 | 博物馆与艺术参与正反链；历史遗产、国家认同与文化流失                       |
+| `T09 年龄与代际`        | 已完整练习 | 年龄群体的经历、数字熟悉度、责任差异；代际差距逐渐缩小                      |
+| `T10 地点、建筑与设施`     | 已完整练习 | 实用设计和设施的正向价值；只重外观或维护不善的反向影响；城市公园的益处（38）          |
 
 > `T07–T10` 均已有实际 Part 3 口述记录。原短问答中适合 Part 3 的 boredom、年龄比较、家庭联系和公园观点已提取并聚合到本页，不计入 Part 3 题库原题覆盖。
 
@@ -585,6 +585,226 @@
 - [ ] 单复数：`stronger practical skills` / `those kinds of activities` / `poor decisions` / `better results`
 - [ ] 并列结构：`ranking... and mapping out...` / `think critically, analyze problems, and solve real problems`
 
+### 28. Unequal access to public resources / education 公共资源与教育机会不平等
+
+**主题链：** `T04 公平、规则与公共资源` — unequal access → fewer opportunities → entrenched disadvantage
+
+**Your original answer**
+
+> If governments provide unequal access to resources like education, jobs, and health care, it can limit opportunities and make it harder for people from disadvantaged backgrounds to earn a decent living or escape poverty.
+
+**主要错误 / 不自然**
+
+- 整体正确自然。`it` 可以指代前面描述的情况，并非必须与 `governments` 保持单复数一致；改成 `this` 指代更清楚。
+- `earn a decent living` 表示“维持体面的生活”，贴合这里的意思；`make a better living` 也可以成立，但强调“生计比以前更好”。
+
+**Band 7 version（最小改动）**
+
+> If governments provide unequal access to resources like education, jobs, and health care, this can limit opportunities and make it harder for people from disadvantaged backgrounds to earn a decent living or escape poverty.
+
+### 29. What does effective communication involve? 有效沟通
+
+**主题链：** `T03 沟通、关系与合作` — clear expression and active listening → mutual understanding → trust
+
+**Your original answer**
+
+> Well, I think effective communication often includes both clear expression and active listening. Rather than simply expressing your thoughts clearly, communication also means listening to others carefully.
+
+**主要错误 / 不自然**
+
+- 基本没有语法错误。`Rather than` 偏向“而不是”，这里想补充另一项要素，用 `Besides` 更符合逻辑。
+
+**Band 7 version（最小改动）**
+
+> Well, I think effective communication often includes both clear expression and active listening. Besides simply expressing your thoughts clearly, communication also means listening to others carefully.
+
+### 30. Example of active listening 积极倾听的例子
+
+**主题链：** `T03 沟通、关系与合作` — active listening → understand concerns → useful support
+
+**Your original answer**
+
+> For example, when your friend talking / when someone describe what he was concerned about, then people can just listen to him first carefully. Then gave him your advice based on your experience.
+
+**主要错误 / 不自然**
+
+- `when your friend talking` → `when your friend is talking`；`someone describe` → `someone describes`。
+- `describe what he was concerned about` 可以用于过去情境；这里泛指朋友当前的困扰，用 `talk about something they’re concerned about` 更自然。
+- `listen to him first carefully` → `listen to them carefully first`；统一使用 `you`，避免 `people / your` 切换。
+- `Then gave him` → `Then you can give them`，补全主语并统一时态。
+
+**Band 7 version（最小改动）**
+
+> For example, when your friend is talking about something they’re concerned about, you can just listen to them carefully first. Then, you can give them advice based on your own experience.
+
+### 31. Effects of unclear communication 沟通不清的影响
+
+**主题链：** `T03 沟通、关系与合作` — unclear communication → misunderstandings → weaker trust and relationships
+
+**Your original answer**
+
+> Well, on the other hand, unclear communication is likely to lead to uncertainty and cause misunderstandings between people, which can weaken trust between people and finally undermine their relationships.
+
+**主要错误 / 不自然**
+
+- 语法基本正确。`between people` 重复，可以删去。
+- `finally undermine` 可以理解；这里用 `weakening trust and harming relationships` 表达结果更简洁。
+
+**Band 7 version（最小改动）**
+
+> On the other hand, unclear communication can lead to uncertainty and misunderstandings, weakening trust and harming relationships.
+
+### 32. Example of poor listening 缺乏倾听的例子
+
+**主题链：** `T03 沟通、关系与合作` — advice without listening → feel misunderstood → weaker connection
+
+**Your original answer**
+
+> For example, if someone just simply give you a advice without listening to the details you describe and what you are concerned about, that may feel misunderstood and persuasive, I think.
+
+**主要错误 / 不自然**
+
+- `someone... give` → `someone... gives`。
+- `a advice` → `advice / some advice`，`advice` 不可数。
+- `just simply` 重复，保留一个即可。
+- `that may feel misunderstood` → `you may feel misunderstood`，感到不被理解的是人。
+- `persuasive` 表示“有说服力的”，不符合这里的语境；若想表达“令人气馁”，可用 `discouraging`。
+
+**Band 7 version（最小改动）**
+
+> For example, if someone simply gives you advice without listening to the details you’ve shared or what you’re worried about, you might feel misunderstood, which can be very discouraging.
+
+### 33. Can technology replace real human interaction? 科技能否取代真实互动
+
+**主题链：** `T03 沟通、关系与合作` / `T06 科技、互联网、信息与影响` — shared time, experiences and mutual support → real connection
+
+**Your original answer**
+
+> Well, I don't think any digital tools or technology can replace those kind of real interactions between people because I think real connection usually comes from people share time and shared experience and mutual support. Those kind of things are not gonna be replaced by technology.
+
+**主要错误 / 不自然**
+
+- `those kind` → `those kinds / that kind`。
+- `comes from people share` → `comes from people sharing`；这里用 `people spending time together` 更自然。
+- `shared experience` → `shared experiences`，这里指多次共同经历。
+- `gonna` 是非正式口语形式，并非雅思口语禁用；书面记录可用 `going to`，本版按提供的修改用 `cannot`。
+
+**Band 7 version（最小改动）**
+
+> Well, I don't think any digital tools or technology can replace those kinds of real interactions between people because I think real connection usually comes from people spending time together, shared experiences, and mutual support. Those kinds of things cannot be replaced by technology.
+
+### 34. Why real interaction builds relationships 真实互动如何建立关系
+
+**主题链：** `T03 沟通、关系与合作` — shared time and mutual support → stronger relationships；limited interaction → emotional distance
+
+**Your original answer**
+
+> When people spend time together and share and exchange their ideas and overcome difficulties together, which help them build stronger relationship and stronger trust between them, while limited interaction usually lead to emotional distance and weaken the sense of belonging.
+
+**主要错误 / 不自然**
+
+- `When..., which...` 缺少完整主句；这里改为 `When..., they can build...`。
+- 若 `which` 指前面整件事，应使用 `which helps`；本版直接重建主句。
+- `stronger relationship` → `stronger relationships`。
+- `limited interaction... lead / weaken` → `leads / weakens`。
+- `share and exchange their ideas` 重复，保留 `exchange their ideas`；`stronger trust` 可以理解，`greater trust` 更常见。
+
+**Band 7 version（最小改动）**
+
+> When people spend time together, exchange their ideas, and overcome difficulties together, they can build stronger relationships and greater trust. On the other hand, limited interaction usually leads to emotional distance and weakens the sense of belonging.
+
+### 35. What does effective teamwork mean? 有效团队合作
+
+**主题链：** `T03 沟通、关系与合作` — clear roles and mutual support → smoother coordination → better results
+
+**Your original answer**
+
+> Well, I think effective teamwork usually means clear roles and mutual support. For example, larger tasks can be broken down into smaller parts and each member can take the part according to their strength. In this way, people work together more smoothly and achieve better overall results.
+
+**主要错误 / 不自然**
+
+- `take the part according to their strength` 能理解，但 `take a part that matches their strengths` 更自然；也可以说 `take on a task that matches their strengths`。
+- `strength` → `strengths`，这里指各自的优势。
+
+**Band 7 version（最小改动）**
+
+> Well, I think effective teamwork usually means clear roles and mutual support. For example, larger tasks can be broken down into smaller parts, and each member can take a part that matches their strengths. In this way, people can work together more smoothly and achieve better overall results.
+
+### 36. Why are clear roles important in teamwork? 明确分工的重要性
+
+**主题链：** `T03 沟通、关系与合作` — overlapping responsibilities → duplicated work → lower efficiency
+
+**Your original answer**
+
+> On top of that, clear roles also plays an important role in teamwork because if several people undertake the same roles or same tasks that are repetitive, that may reduce efficiency and thereby reduce the overall results and outcomes. So, I think both clear roles and mutual support are important.
+
+**主要错误 / 不自然**
+
+- `clear roles... plays` → `clear roles... play`。
+- `undertake the same roles` → `undertake the same tasks`；口语里也常用 `take on a task`。
+- `same tasks that are repetitive` 表意重复；这里的低效指不必要的重复劳动。
+- `reduce the overall results and outcomes` → `lead to worse overall outcomes`；`results and outcomes` 重复。
+
+**Band 7 version（最小改动）**
+
+> On top of that, clear roles also play an important role in teamwork because if several people undertake the same tasks, that may reduce efficiency and lead to worse overall outcomes. So, I think both clear roles and mutual support are important.
+
+### 37. What happens when responsibilities aren't clear? 职责不清的后果
+
+**主题链：** `T03 沟通、关系与合作` — unclear responsibilities → weaker coordination → poorer outcomes
+
+**Your original answer**
+
+> On the other hand, when a team doesn't clarify its members responsibilities, that may weaken the teamwork and weaken the coordination within the team. So, overall, collaborative results may become worse.
+
+**主要错误 / 不自然**
+
+- `members responsibilities` → `members’ responsibilities`，书面记录需标出复数所有格。
+- `the teamwork / the coordination` → `teamwork / coordination`，这里省略 `the` 更简洁；特指时使用 `the` 不一定错误。
+- `weaken... weaken...` 重复，可合并。
+- `collaborative results may become worse` 能懂，但 `the collaborative outcome may suffer overall` 更自然。
+
+**Band 7 version（最小改动）**
+
+> On the other hand, when a team doesn't clarify its members’ responsibilities, that may weaken teamwork and coordination within the team. As a result, the collaborative outcome may suffer overall.
+
+### 38. What are the benefits of parks / Why are parks important in cities? 公园的益处
+
+**主题链：** `T10 地点、建筑与设施` / `T02 健康、习惯与休闲` — green spaces → exercise and relaxation → better quality of life
+
+**Your original answer**
+
+> Well, I think parks provide green spaces where people can relax and exercise. That really improve people’s quality of life, especially in crowded urban areas where there are limited spaces for such a function. Also, it appears they appeal to people who want to escape their daily routine and take a break from their work, so visiting parks now and then can help people enjoy some fresh air and relax and unwind.
+
+**主要错误 / 不自然**
+
+- `That really improve` → `That really improves`，`That` 为单数主语；这是本段最主要的语法错误。
+- `spaces for such a function` 语法成立，但偏正式；`spaces for this kind of activity` 更自然。
+- `it appears they appeal to people` 过于间接，可简化为 `they appeal to people`。
+- `take a break from their work` 可以，`take a break from work` 更简洁自然。
+- `help people enjoy some fresh air and relax and unwind` 可以理解；改用 `give people a chance to enjoy some fresh air, relax and unwind` 更流畅。
+
+**Band 7 version（最小改动）**
+
+> Well, I think parks provide green spaces where people can relax and exercise. That really improves people’s quality of life, especially in crowded urban areas where there are limited spaces for this kind of activity. Also, they appeal to people who want to escape their daily routine and take a break from work, so visiting parks now and then can give people a chance to enjoy some fresh air, relax and unwind.
+
+### 最新一批复练（28–38，2026-09-08）
+
+> 本批仅记录用户自己组织的 11 条回答，不单独记录对给定 Band 7 版本的重复。原答案保留提供的措辞；积极倾听例子中的 `/` 保留自我改口痕迹。修改版沿用本次提供的最小改动版本，错误说明区分语法错误与表达偏好。
+
+- [ ] 用不平等的资源获取机会说明谋生和脱贫的困难
+- [ ] 说明有效沟通的两个要素，并分别举出积极倾听和缺乏倾听的例子
+- [ ] 用共同经历、相处时间和相互支持说明真实互动的价值，再对比有限互动
+- [ ] 用明确分工和相互支持说明有效合作，再解释重复劳动与职责不清的后果
+- [ ] 按“益处 → 城市背景 → 另一益处 → 解释”复述公园回答
+- [ ] 第三人称单数：`someone gives` / `limited interaction leads and weakens` / `That really improves`
+- [ ] 复数主语：`clear roles play`；单复数与所有格：`those kinds` / `shared experiences` / `stronger relationships` / `members’ responsibilities`
+- [ ] 动词结构：`when your friend is talking` / `comes from people spending time together` / `Then you can give them advice`
+- [ ] 固定搭配：`earn a decent living` / `give someone advice` / `listen to someone carefully first` / `take on a task` / `lead to worse overall outcomes`
+- [ ] 句子完整性：用 `When..., they can...`，避免 `When..., which...` 缺少主句
+
+本批回答结构已经比较稳定：**观点 → 原因 → 例子/结果 → 对比**。优先稳定第三人称单数、单复数、所有格和固定搭配。
+
 ## Part 3 可直接复用的口语块
 
 ### 环境
@@ -675,7 +895,7 @@
 ### 广告、信息核实与企业价值
 
 - `make products sound better than they really are`
-- `develop the habit of collecting reliable information from varied sources`
+- `develop the habit of collecting reliable information from different places`
 - `make more informed decisions`
 - `This can ultimately lead to better outcomes.`
 - `Companies can drive growth when they create real value.`
@@ -684,6 +904,7 @@
 
 - `wider access to basic educational resources`
 - `people from disadvantaged backgrounds`
+- `earn a decent living`
 - `improve their job prospects and escape poverty`
 - `take responsibility for their behavior`
 - `There's no real incentive for them to behave well.`
@@ -709,6 +930,19 @@
 - `rank what matters and map out realistic steps`
 - `lower the risk of making poor decisions`
 - `run into delays or make a choice that doesn't really fit you`
+
+### 沟通、真实互动与团队合作
+
+- `clear expression and active listening`
+- `listen to someone carefully first`
+- `give someone advice based on your own experience`
+- `feel misunderstood`
+- `shared experiences and mutual support`
+- `build stronger relationships and greater trust`
+- `lead to emotional distance and weaken the sense of belonging`
+- `take on a task that matches their strengths`
+- `clarify its members’ responsibilities`
+- `lead to worse overall outcomes`
 
 ## 本轮高频错误
 
@@ -741,8 +975,16 @@
 | 动词结构（22–27） | `let students to develop` / `if you're choose` | `let students develop` / `if you're choosing` |
 | 单复数（22–27） | `this benefits` / `poor decision` / `better result` | `these benefits` / `poor decisions` / `better results` |
 | 自然搭配（22–27） | `build new perspectives` / `open-minded activities` | `gain new perspectives` / `open-ended activities` |
+| 主谓一致（28–38） | `someone give` / `clear roles plays` / `That really improve` | `someone gives` / `clear roles play` / `That really improves` |
+| 单复数（28–38） | `those kind` / `stronger relationship` | `those kinds` / `stronger relationships` |
+| 不可数名词（28–38） | `a advice` | `advice / some advice` |
+| 所有格（28–38） | `members responsibilities` | `members’ responsibilities` |
+| 动词结构（28–38） | `when your friend talking` / `comes from people share` / `Then gave him` | `when your friend is talking` / `comes from people spending time together` / `Then you can give them` |
+| 句子完整性（28–38） | `When..., which...` 缺少主句 | `When..., they can build...` |
+| 主语与词义（28–38） | `that may feel misunderstood and persuasive` | `you might feel misunderstood, which can be very discouraging` |
+| 自然搭配（28–38） | `reduce the overall results and outcomes` | `lead to worse overall outcomes` |
 
-最新一批最需要优先盯住：**a/an、第三人称单数、instead of + doing、let + 人 + 动词原形、单复数，以及并列结构的一致性**。先稳定这些基础结构，再考虑换更高级的词。
+最新一批最需要优先盯住：**第三人称单数、单复数、所有格、advice 的不可数用法、动词结构，以及完整主句**。先稳定这些基础结构，再考虑换更高级的词。
 
 ## 下次复练顺序
 

@@ -8,42 +8,42 @@
 > - What the book was about
 > - Why you found it exciting
 
-> Bank: B2 | Modules: The-Martian / survival-problems / steady-solutions
+> Bank: B2 | Modules: Counselling-for-Toads / layoff / confidence
 
-> Logic: L1 · sleep pressure → need for change → cue-specific turning point → manageable steps → calmness
+> Logic: 裁员后焦虑 → 被 Toad 的逐步变化吸引 → slow is fast → 放慢节奏、理解情绪 → 更踏实地推进求职
 
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The book is The Martian, a science-fiction novel about an astronaut stranded alone on Mars. I decided to read it after a layoff left me anxious and sleeping badly. The main character survives by solving one immediate problem at a time, such as producing food, repairing equipment, and communicating with Earth. I found it exciting because each solution creates a new risk, but the story never depends only on luck. His calm, practical thinking gave me a model I could copy. I began treating my job search as several small problems instead of one frightening crisis.
+I'd like to talk about *Counselling for Toads*, a book that made me rethink the idea of progress. It's a psychology book told through animal characters. I found it online after losing my software job, when I felt anxious and couldn't sleep well. I chose it because the story sounded easy to follow. It follows Toad's conversations with Heron, a counsellor who helps him understand his feelings. I found it exciting because I recognised myself in Toad. Each conversation made me curious about what he'd discover about himself next.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. The astronaut's step-by-step thinking gave me a simple way to handle my job search. That is why the book felt useful as well as exciting. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+What I took from his gradual change was this: "slow is fast." I used to think I had to find another job immediately. That pressure left me exhausted and made it harder to think clearly.
+
+After reading, I started writing down my feelings instead of pushing them aside. This helped me separate my fear of failure from what I actually needed to do. I could then focus on one job application at a time. Giving myself room to think helped me regain my confidence and make steadier progress. Now, slowing down means taking time to understand what's wrong before acting. That change in perspective is why the book stayed with me.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
-- Primary Ability: Problem-solving Skills
-- Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
-- Secondary Ability: Adaptability
-- Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
+- Primary Ability: Adaptability
+- Reason: I changed my response to the layoff, making room to understand my feelings and working on one application at a time instead of rushing under pressure.
 
 ## 3. Story Bank
 
-- Who/What: The Martian, a science-fiction survival novel.
-- Background: Pressure was affecting my sleep, and I knew the old routine had to change.
-- Main event: Its step-by-step problem solving helped me regain control during insomnia.
-- Ability shown: Problem-solving Skills and Adaptability through calm, practical action.
-- Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
+- Who/What: *Counselling for Toads*, a psychology book featuring Toad and his counsellor, Heron.
+- Background: I found it online after losing my software job, when anxiety was affecting my sleep.
+- Main event: I recognised my own feelings in Toad and wanted to follow his discoveries. His gradual change encouraged me to write down my feelings and approach my job search more steadily.
+- Ability shown: Adaptability through changing my pace and dealing with my feelings before taking practical action.
+- Reflection: "Slow is fast" is my personal takeaway: time spent understanding my feelings helped me think clearly, regain confidence, and make steadier progress.
 
 ## 4. Useful Collocations
 
 - regain my confidence
 - look at setbacks from a different perspective
 - carry emotional value
-- identify problems
-- find practical solutions
-- make informed decisions
-- take effective action
+- adjust my approach
+- deal with uncertainty
 - focus on what I can control
+- understand my feelings
+- make steadier progress

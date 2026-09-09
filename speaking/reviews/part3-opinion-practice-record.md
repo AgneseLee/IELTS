@@ -9,12 +9,12 @@
 | 主题                 | 覆盖状态  | 对应练习                                             |
 | ------------------ | ----- | ------------------------------------------------ |
 | `T01 学习、创造与执行`     | 已练习   | 练习与反馈；开放式活动与创造力；清晰规划与决策（22–27）                   |
-| `T02 健康、习惯与休闲`     | 已练习   | 无聊与有意义的活动；公园中的运动与放松（38）；均衡作息与身心健康（39–51）                          |
+| `T02 健康、习惯与休闲`     | 已练习   | 无聊与有意义的活动；公园中的运动与放松（38）；均衡作息与身心健康（39–51）；早期健康支持（57）                          |
 | `T03 沟通、关系与合作`     | 已练习   | 家庭联系；有效沟通与倾听；真实互动；明确分工与团队合作（29–37）               |
 | `T04 公平、规则与公共资源`   | 已练习   | 教育机会正反链；公平与不一致规则；公共投入正反链（17–21）；资源获取不平等（28）      |
-| `T05 经济与就业`        | 已练习   | 企业创造价值、就业与经济增长；经营失败的影响（16）                       |
-| `T06 科技、互联网、信息与影响` | 已练习   | 科技提高效率与过度依赖；互联网重塑习惯；广告利弊与信息核实（14–15）；科技与真实互动（33） |
-| `T07 环境与动物`        | 已完整练习 | 环保制度正反链；宠物的陪伴、责任与长期照顾压力                          |
+| `T05 经济与就业`        | 已练习   | 企业创造价值、就业与经济增长；经营失败的影响（16）；失业、收入压力与生活水平（55；不平等结果待补）                       |
+| `T06 科技、互联网、信息与影响` | 已练习   | 科技提高效率与过度依赖；互联网重塑习惯；广告利弊与信息核实（14–15）；科技与真实互动（33）；数据隐私与信任（52–53）；名人曝光与压力（56） |
+| `T07 环境与动物`        | 已完整练习 | 环保制度正向链（1）；过度消费与环境损害（54）；宠物的陪伴、责任与长期照顾压力                          |
 | `T08 艺术、文化与传统`     | 已完整练习 | 博物馆与艺术参与正反链；历史遗产、国家认同与文化流失                       |
 | `T09 年龄与代际`        | 已完整练习 | 年龄群体的经历、数字熟悉度、责任差异；代际差距逐渐缩小                      |
 | `T10 地点、建筑与设施`     | 已完整练习 | 实用设计和设施的正向价值；只重外观或维护不善的反向影响；城市公园的益处（38）          |
@@ -992,7 +992,7 @@
 
 > When people experience constant pressure, they may feel tired or overwhelmed. Over time, this may lead to poorer health and well-being.
 
-### 最新一批复练（39–51，2026-09-09）
+### 本批复练（39–51，2026-09-09）
 
 > 本批 13 个口述版本按相似问题合并为 6 组，全部原文（包括重复复练、句子片段与改口痕迹）均保留。每组沿用原答案、主要错误 / 不自然及 Band 7 最小改动版的格式；同题复练归入同组，合并重复纠错与修改版。
 
@@ -1016,7 +1016,153 @@
 - [ ] 分清身体健康、心理健康与人际联系的过渡，避免论点和解释错位
 - [ ] 复述原 48 时减少连接关系的重复表述
 
+### 52. How can technology affect people's privacy/trust?
+
+**主题链：** `T06 科技、互联网、信息与影响` — personal data collection → privacy risks → lower trust
+
+**Your original answer**
+
+> Nowadays, many digital tools or technology usually involves personal data collection, which increases privacy risks and over time it may lead to lower trust if the platform use those data. For example, if they leak my information online or misuse those data for some financial decision, it would lower and weaken the trust between people and those platforms.
+
+**主要错误 / 不自然**
+
+- `tools or technology… involves`：主谓不一致，最好用 `many digital tools collect`。
+- `the platform use` → `platforms use / a platform uses`。
+- `those data`：口语中通常说 `that data`；data 在正式语境中也可作复数，并非一律错误。
+- `lead to lower trust` 可以，`weaken trust` 更自然。
+- `lower and weaken the trust` 重复。
+
+**Band 7 version（最小改动）**
+
+> Nowadays, many digital tools collect personal data, which increases privacy risks and, over time, may weaken trust if platforms leak or misuse that data. For example, if a platform leaks my personal information online or misuses that data for financial purposes, it can weaken the trust between people and those platforms.
+
+### 53. Technology/privacy — developed version
+
+**主题链：** `T06 科技、互联网、信息与影响` — personal data collection → privacy risks → lower trust
+
+**Your original answer**
+
+> Nowadays, many digital tools usually collect personal data, which increases privacy risks and over time may weaken trust if the platform misused or leak that data. For example, if a fitness platform leaks your personal data or use it without permission, make people feel less willing to trust it. So over time, that kind of risk can weaken trust. Overall, we should stay aware of how the platform used our data and keep an eye on it.
+
+**主要错误 / 不自然**
+
+- `platform misused or leak` → `platforms misuse or leak`，统一时态和主谓一致。
+- `use it` → `uses it`。
+- `make people` 缺主语 → `it can make people`。
+- `how the platform used` → `how platforms use`。
+- `usually collect` 中 `usually` 可省。
+
+**Band 7 version（最小改动）**
+
+> Nowadays, many digital tools collect personal data, which increases privacy risks and, over time, may weaken trust if platforms leak or misuse that data. For example, if a fitness platform leaks your personal data or uses it without permission, it can make people less willing to trust it. So, over time, that kind of risk can weaken trust. Overall, we should stay aware of how platforms use our data and keep an eye on it.
+
+### 54. How can advertising lead to excessive consumption?
+
+**主题链：** `T07 环境与动物` — excessive consumption → waste and pollution → long-term environmental damage
+
+**跨题机制：** `M05 社会影响与模仿` — blind imitation or pressure → unsuitable choices → negative results
+
+**Your original answer**
+
+> Some advertisement may be so persuasive that it may induce people to make excessive consumption. Just like if your favorite idol endorse some products, it may encourage people to buy them even if they don't need it. Those kind of excessive consumption may lead to waste resources and produce pollution. People usually buy something they don't actually need or like just because other people buy it or the advertisements are so persuasive and pushy. In the long run, this may cause environmental damage and encourage people to consume beyond their actual needs.
+
+**主要错误 / 不自然**
+
+- `some advertisement` → `some advertisements`。
+- `make excessive consumption` → `consume excessively / spend excessively`。
+- `idol endorse` → `idol endorses`。
+- `don't need it`：products 是复数，应为 `don't need them`。
+- `those kind of` → `that kind of / those kinds of`。
+- `lead to waste resources` → `lead to wasted resources / waste resources`。
+- `pushy advertisements` 能懂，但这里 `persuasive` 已足够。
+
+**Band 7 version（最小改动）**
+
+> Some advertisements can be so persuasive that they may induce people to consume excessively. For example, if your favorite idol endorses a product, it may encourage you to buy it even if you don't actually need it. That kind of excessive consumption may lead to wasted resources and more pollution. People often buy things they don't actually need or even like just because others buy them or because advertisements are so persuasive. In the long run, this may cause environmental damage and encourage people to consume beyond their actual needs.
+
+### 55. How can losing a job affect people's standard of living?
+
+**主题链：** `T05 经济与就业` — job loss → income pressure → lower standard of living
+
+**覆盖说明：** 已补上失业与收入压力，尚未展开题库反向链的 `wider inequality`。
+
+**Your original answer**
+
+> If people lose their jobs, it may create extra financial pressure and make it harder for them to maintain a high standard of living. For example, if they lack a stable decent income, they may feel less willing to pay for something as much as they did before. They might have used to pay like 1000 yuan for a high-quality service, but now may only be willing to pay 500 yuan instead. As a result, they may have to lower their standard of living.
+
+**主要错误 / 不自然**
+
+- `stable decent income` → `stable, decent income`，一般直接用 `stable income` 更自然。
+- `pay for something as much as...` → `pay as much as...`。
+- `might have used to pay` → `used to pay`。
+- `but now may`：补主语 `but now they may` 更清晰。
+- `like 1000 yuan` 是可接受的口语表达；直接说 `1,000 yuan` 更简洁。
+
+**Band 7 version（最小改动）**
+
+> If people lose their jobs, it may create extra financial pressure and make it harder for them to maintain a high standard of living. For example, if they lack a stable income, they may feel less willing to pay as much as they did before. For example, they used to pay 1,000 yuan for a high-quality service, but now they may only be willing to pay 500 yuan instead. As a result, they may have to lower their standard of living.
+
+### 56. What are the disadvantages of being a celebrity?
+
+**主题链：** `T06 科技、互联网、信息与影响` — constant public exposure → loss of privacy → stress
+
+**Your original answer**
+
+> I think celebrities may experience constant public exposure, which leads to their loss of privacy and will make them feel stressed about it. If they experience such constant exposure, especially after the award, in their private life, some people may feel overwhelmed if the photographer always follow them. So overall, I don't want to be a celebrity, if possible.
+
+**主要错误 / 不自然**
+
+- `their loss of privacy` → `a loss of privacy` 更自然。
+- `leads to…and will make`：并列结构最好统一为 `leads to…and can make`。
+- `the photographer always follow` → `photographers always follow`。
+- `after the award` 语义不清；如果指获奖成名后，可说 `after winning an award`。
+
+**Band 7 version（最小改动）**
+
+> I think celebrities may experience constant public exposure, which can lead to a loss of privacy and make them feel stressed. This can be especially difficult in their private lives after winning an award or becoming famous. If photographers constantly follow them, it can feel really overwhelming. So overall, I wouldn't want to be a celebrity if possible.
+
+### 57. How can governments support people's health/well-being?
+
+**主题链：** `T02 健康、习惯与休闲` — early support → timely help and guidance → better long-term well-being
+
+**Your original answer**
+
+> I think the government should offer some public services like procurement and offer some advice about rudimentary health problem. As such, early support from them can assist people from different backgrounds get benefit and support as much as... Early support can help people from all backgrounds get timely help and benefits and clear guidance on basic health issues. So, over time, people can have better long-term well-being with such assistance.
+
+**主要错误 / 不自然**
+
+- `procurement` = 采购，不适合这里。
+- `rudimentary health problem` → `basic health issues` 更自然；rudimentary 不适合修饰 health problems。
+- `assist people…get` → `assist people in getting / help people get`。
+- `get benefit and support as much as` 结构未完成。
+- `have better long-term well-being` → `improve their long-term well-being` 更自然。
+
+**Band 7 version（最小改动）**
+
+> I think the government should provide accessible public services and offer clear guidance on basic health issues. It should also take preventive measures against disease. Early support can help people from all backgrounds get timely help and benefits. Over time, such assistance can improve people's long-term well-being.
+
+### 本批复练（52–57，2026-09-09）
+
+> 只记录本轮自己组织出来的答案；单纯重复刚提供的 Band 7 版本不单独记录。明显的 um / uh、卡顿和自我纠正可适当去掉，但保留原始表达和错误。本批按用户提供的六条记录归档，保留两个自行组织的隐私题版本。
+
+- [ ] 主谓一致：`a platform uses / leaks`、`platforms misuse`、`an idol endorses`。
+- [ ] 完整条件句：`If a platform uses data without permission, it can...`。
+- [ ] 单复数与指代：`some advertisements`、`products → them`、`that kind of consumption`。
+- [ ] 复述失业题时继续展开 `income pressure → wider inequality`。
+
 ## Part 3 可直接复用的口语块
+
+### 隐私、消费、生活水平与早期健康支持（52–57）
+
+**观点链：** personal data collection → privacy risks → lower trust；excessive consumption → waste and pollution → environmental damage；job loss → financial pressure → lower standard of living；constant public exposure → loss of privacy → stress；early support → timely help → better long-term well-being
+
+- `personal data collection / misuse data`
+- `consume beyond their actual needs`
+- `maintain a high standard of living`
+- `constant public exposure / a loss of privacy`
+- `basic health issues`
+- `preventive measures against disease`
+- `long-term well-being`
 
 ### 环境
 

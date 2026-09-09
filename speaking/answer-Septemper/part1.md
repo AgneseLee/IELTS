@@ -86,25 +86,25 @@ A: I separate recyclable paper and plastic from my other rubbish at home. I flat
 
 **Q1: How did you learn to be polite as a child?**
 
-A: Mainly from my parents, who reminded me to say please and thank you. They also taught me not to interrupt people. Watching how they treated others helped me **pick up those habits** naturally.
+A: Well, mainly from my **parents and teachers**, who reminded me to say please, hello, and thank you in my **daily life**. They also taught me not to interrupt others while they were talking. Watching how older people behaved **helped shape my behavior**, too.
 
 **Q2: Do you think being polite is very important?**
 
-A: Yes, because it makes everyday interactions more pleasant and helps people **feel respected**. Even something simple, like thanking a shop assistant, can make a difference. I'm also more willing to help someone who asks politely.
+A: Exactly, because it makes everyday interactions more pleasant and engaging, I think. It also **helps people feel respected**. For example, **something as simple as** thanking a shop assistant when shopping can make a difference.
 
 ## 🧡 Fruit and vegetables 🥦
 
 **Q1: Do you like eating vegetables?**
 
-A: Yes, especially when they're stir-fried rather than boiled for too long. I like them to have **a bit of crunch**, and they help make a meal feel more balanced.
+A: Yes, I do. I **have vegetables with every meal** because it’s a habit I developed in childhood. **I’ve stuck to it ever since**.
 
 **Q2: How often do you eat fruit and vegetables?**
 
-A: I eat vegetables with most meals and usually have some fruit every day. For example, I might have an apple or a banana as a snack. It's an easy way to **keep a balanced diet**.
+A: I eat **fruit and vegetables** almost every day. I usually have some vegetable dishes with each meal. It’s **a habit I developed in childhood**, and I’ve stuck to it ever since.
 
 **Q3: Did you like eating vegetables when you were a child?**
 
-A: Not as much as I do now. I was quite **a picky eater** and preferred meat or anything sweet. As I got older, I started enjoying a wider range of vegetables, especially when they were cooked well.
+A: Well, actually, not as much as I do now. When I was a kid, I **preferred sweets and meat**. But now I prefer to have more vegetables with each meal because I think they’re healthier and **make me feel refreshed**.
 
 **Q4: Were there any kind of fruits and vegetables you disliked as a child?**
 
@@ -112,33 +112,33 @@ A: Yes, I really disliked bitter melon because the taste was too strong for me. 
 
 **Q5: Do people often grow vegetables by themselves?**
 
-A: It depends on where they live. People with a garden sometimes grow their own, but it's harder for people living in flats. Some still grow a few things in pots on their balconies to **make use of the space**.
+A: Well, it depends on where they live. People with a garden can sometimes **grow their own vegetables**, but it’s harder for people living in apartments like me. **If I wanted to grow vegetables, a balcony would be my only option**.
 
 **Q6: Where do you usually buy fruit and vegetables?**
 
-A: Usually at a nearby supermarket because it's convenient and I can buy everything in one trip. I like choosing them in person so I can **check how fresh they are**. If I'm busy, I sometimes order them online.
+A: Well, I usually buy fruit and vegetables at a nearby supermarket or online because it’s convenient. These days, it’s easy to **order groceries and other daily necessities** through different shopping apps, so I can buy almost everything I need without going out. However, when I shop in person, I prefer choosing fruit and vegetables myself so I can **check how fresh they are** and **get good value for money**.
 
 ## 🧡 Paper 📄
 
 **Q1: Have you made any crafts with paper?**
 
-A: Yes, mostly when I was a child. I made paper planes and simple birthday cards, and I enjoyed decorating them with coloured pens. It was a cheap way to **make something of my own**.
+A: Well, not really. When I was a child, I **preferred playing with Lego and reading comic books to making paper crafts**.
 
 **Q2: Do you still write physical letters?**
 
-A: Only occasionally, perhaps to thank someone on a special occasion. Most of the time, I send messages because they're much quicker. A handwritten letter takes more effort, but it can **feel more thoughtful**.
+A: Not really, except occasionally when something formal requires it, like applying to a school. Most things are digital now. But **writing a letter by hand takes more effort** and can **feel more thoughtful and serious**.
 
 **Q3: Do people still keep handwritten letters today?**
 
-A: Yes, I think some people keep letters from close friends or family because they have **sentimental value**. Even if they rarely read them, the handwriting can bring back memories. They're the sort of thing people might keep in a drawer for years.
+A: Well, I think some of them do, because handwritten letters often **bring back happy memories of their family and friends**. They **have sentimental value** and remind people of the strong bonds they have with others. Even if they rarely read them, they may **keep them in a drawer for years**.
 
 **Q4: Do you carry paper and pens with you when you go out?**
 
-A: Not usually, because I can make notes on my phone. But if I'm going to an English class, I'll take a notebook and a pen. Writing things down helps me **pay closer attention**.
+A: Not really, because I can **take notes on my phone or laptop**, which is more convenient than carrying a notebook and pen. But if I’m going to an English class, I usually take a notebook and pen because they help me take more detailed notes. Writing things down also helps me **pay closer attention and focus in class**.
 
 **Q5: What did you like to do with paper as a child?**
 
-A: I liked drawing and folding paper planes. Sometimes I'd try different shapes to see which plane flew furthest. It was a simple activity, but it **kept me entertained** for quite a while.
+A: When I was a kid, I liked **drawing on paper**. I tried different layouts and colors, drawing both real things **I had seen** and imaginary things. I found it fascinating.
 
 ## 🧡 Secondary school 🏫
 
@@ -757,3 +757,60 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - **Well, some of them** 是口语中可以接受的简短回答，不必强行补成完整句。
 
 本轮优先复练：过去时、单复数、冠词 a/the，以及不可数名词 content。保留已经能主动使用的自然搭配，如 **go for something、good value for money、stuck in my head、let alone、hard to figure out、spark my curiosity**。
+## 亮点高分表达（Paper, Fruit and vegetables & Politeness）
+
+- **Paper:** prefer A to B（比起 B 更喜欢 A）· make paper crafts（做纸手工）· write a letter by hand（手写信）· feel more thoughtful（显得更用心）· have sentimental value（具有情感价值）· bring back happy memories（唤起美好回忆）· keep them in a drawer for years（把它们在抽屉里保存多年）· take detailed notes（做详细笔记）· pay closer attention（更加专心）· try different layouts and colors（尝试不同的布局和颜色）。
+- **Fruit and vegetables:** have vegetables with every meal（每餐都吃蔬菜）· a habit I developed in childhood（童年养成的习惯）· have stuck to it ever since（从那以后一直坚持）· grow their own vegetables（自己种菜）· order groceries and other daily necessities（购买食品杂货和其他日用品）· check how fresh they are（检查新鲜程度）· get good value for money（买得物有所值）。
+- **Politeness:** help shape my behavior（帮助塑造我的行为习惯）· make everyday interactions more pleasant（让日常交流更愉快）· help people feel respected（让人感到被尊重）· something as simple as...（像……这样简单的事）· make a real difference（带来实际影响）。
+
+## 错误复盘（Paper, Fruit and vegetables & Politeness）
+
+### 1. 时态、主谓一致与动词形式
+
+- 回忆童年：**I preferred** Lego / sweets and meat，不是 I prefer；**older people behaved** 与过去叙述一致。
+- 画的是当时已经见过的事物：**things I had seen**，比 I've seen 更符合童年叙述的时间关系。
+- 情态动词后用原形：**can feel**，不是 can feels；**I’d rather have / I prefer to have**，不是 I rather have。
+- it makes... and **helps** people feel respected，两个并列动词都与 it 一致。
+- 蔬菜作主语：**they’re healthier and make me feel refreshed**，避免用 it 后又接 make 造成主语混乱。
+- 从童年持续到现在：**It’s a habit I developed in childhood, and I’ve stuck to it ever since**，不用 stick to it by now。
+- 日常习惯可说 **If I’m going to an English class, I usually take... because they help...**，避免无必要地混用 would / will。
+- 假设种菜：**If I wanted to grow vegetables, a balcony would be my only option**；If I have to... 本身可以表示真实条件，但与这里“假如想种菜”的意思不同。
+- 过去叙述中用 **while they were talking**；表达至今适用的礼貌原则时，when they are talking 也可成立，不是一概错误。
+
+### 2. 单复数、不可数名词与词性
+
+- **a handwritten letter**，不是 a hand-writing letter；也可用 **writing a letter by hand** 作主语。
+- **draw on paper**：表示纸这种材料时不可数，不用 papers。
+- **fruit and vegetables**，不是 fruit and vegetable；**one green vegetable / some green vegetables**，不是 one green vegetables。
+- **stuff** 不可数，不用 stuffs；买日用品可说 **daily necessities / everyday items**。
+- **vegetables** 是蔬菜；vegan dishes 是纯素菜肴，不等于蔬菜。
+- **treated others**，不是 treated other；**parents and teachers, who...**，不用 schools, who...。
+- **a balcony / my balcony**，这里不能直接省略限定词。
+- **going to English classes** 本身正确，表示上英语课；**going to an English class** 指去上一节课，按语境选择。
+
+### 3. 自然搭配与句子结构
+
+- **preferred playing with Lego and reading comic books to making paper crafts**：prefer A to B，并列部分都用动名词。
+- **applying to a school / applying for school admission**，比 applying for some school admissions 自然。
+- **Most things can be done online**，避免 daily life and services can be done online 的搭配混乱。
+- **physical letters** 强调实体信件，**handwritten letters** 强调手写；两者并非完全同义，也不必一律替换。
+- **have sentimental value**，不用 including sentimental value；**create a sense of emotional connection / remind people of the strong bonds they have with others**，不用 Something build a strong bond。
+- **memories of their family and friends**，比 memories of families or their friends 指代清楚。
+- **take notes / make notes** 都正确；比较方便程度用 **more convenient than**，不用 more convenient instead of。
+- **tried different layouts and colors and drew things...**，避免 a different layout, color and things 的不平行结构。
+- **with every meal / with each meal** 表示“每餐搭配着吃”；with a meal 本身正确，只是没有“每餐”的意思。
+- **can sometimes grow their own vegetables** 语序自然；at least some 并非语法错误，此处直接说 some vegetable dishes 更简洁。
+- **order groceries** 贴合买水果蔬菜的语境；**get good value for money**，不是 made good value。
+- **in my daily life**，不是 in my day life；**helped shape my behavior** 比 helped me shape my behavior 更简洁。
+- **make a real difference**，不是 make it real difference；举例用 **something as simple as thanking a shop assistant**，避免 Even like something simple, like...。
+
+### 4. 避免重复与未完成的句子
+
+- making crafts with paper was a cheap way to make something... 未说完，最小修改版保留前面的完整观点即可。
+- **on paper, by drawing them on the paper** 重复，保留一次；**interesting and fascinating** 通常保留 fascinating 即可。
+- **in person** 和 offline 在此重复；直接用 when I shop in person。
+- **which plane flew furthest / the furthest** 都可接受，副词最高级前的 the 可省略。
+- Because 引出的原因在口语中可以单独补充，整理答案时与前句合并通常更顺畅。
+- 同题采用最新完整版本，补充想法并入对应答案；错误复盘仅依据本批提供的自主组织版本，不另收单纯复述的版本。
+
+本轮优先复练：童年经历的过去时、情态动词后用原形、paper / stuff 的不可数用法，以及 **prefer A to B、have sentimental value、have stuck to it ever since、make a real difference**。

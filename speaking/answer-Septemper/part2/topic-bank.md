@@ -2,7 +2,7 @@
 
 > **Status: current Part 2 question source.** Generate one answer file per cue card in this directory; Part 3 questions remain source material only.
 
-> 共 56 个主题：人物 18 · 地点 8 · 经历 20 · 事物 10。
+> 共 57 个主题：人物 18 · 地点 8 · 经历 21 · 事物 10。
 >
 > `❤️` = 新话题；`🧡` = 本月新题。
 
@@ -546,7 +546,7 @@
 
 ---
 
-## 经历（20/20）
+## 经历（21/21）
 
 ### 印象深刻的聚会🧡
 
@@ -960,6 +960,27 @@
 4. Do you think advertisements can influence our decisions when shopping?
 5. Do you think the influence of advertising is good?
 6. How do people usually make important decision?
+
+### 节约时间的方法/改变🧡
+
+#### Part 2
+
+**Describe a way/change that helps you save a lot of time**
+
+> **You should say:**
+> - What it is
+> - How you implement it
+> - How difficult it is
+> - And explain how you feel about the way/change
+
+#### Part 3
+
+1. Is it necessary for children to learn time management?
+2. What can schools do to help students learn time management?
+3. What can people do to save time?
+4. Does technology help people save time? How and why?
+5. Do you think parents should be responsible for teaching children to save time?
+6. Do people who can manage time well become successful more easily?
 
 ## 事物（10/10）
 

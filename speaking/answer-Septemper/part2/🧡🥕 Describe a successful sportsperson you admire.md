@@ -14,27 +14,29 @@
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-I'd like to talk about a Chinese badminton player I watched in a final in Beijing last year. Stella and I were in the arena. I know him mainly through badminton, so I can't say much about his private life. In person, he seemed calm and focused rather than interested in showing off. He lost the first game but changed his tactics, moving his opponent around before attacking. He won the next two games and took the title. That comeback is the achievement I remember most clearly.
+I'd like to describe a famous Chinese badminton player. Stella and I watched him in a final in Beijing last May. I'd seen him before, but that was my first time seeing him in person. He seemed calm and focused rather than interested in showing off. He lost the first game, but changed his tactics, made his opponent run around, and waited for the right chance to attack. Finally, he won the second and third games and took the title. That comeback is the achievement I remember most clearly.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I admire him because he responded to a setback with practical changes. He didn't just try harder using the same unsuccessful approach. Watching him reminded me to learn from experience and adjust my approach when something isn't working. I sometimes panic when a work problem takes longer than expected. His performance encouraged me to pause, look at what went wrong, and try a different solution. I also realised how much patient practice must go into making those changes during a match. To me, success isn't simply winning a trophy. It's being willing to learn while you're still under pressure, instead of letting one mistake decide everything.
+I admire him because he responded to a setback with practical changes. His performance encouraged me to pause, look at what went wrong, and try a different solution.
+
+About three months ago, I had trouble falling asleep and kept worrying about my career and future. Remembering his comeback, I reflected on what made my sleep problems worse and what I could do differently. I tried switching off my phone earlier and creating a wind-down routine.
+
+Looking back, for me, success isn't simply about winning a trophy. It's about being able to adapt and change direction when things don't go as planned. His example helped me look at my own problems from a different perspective.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
 - Primary Ability: Adaptability
-- Reason: The player changed tactics, encouraging me to reconsider unsuccessful approaches at work.
-- Secondary Ability: Learning Ability
-- Reason: I learned to use mistakes as feedback rather than continue without reflection.
+- Reason: I applied the player's willingness to change tactics to my sleep problems, trying an earlier phone cut-off and a wind-down routine.
 
 ## 3. Story Bank
 
-- Who/What: An unnamed Chinese badminton player from the existing Beijing final story.
-- Background: Stella and I watched him play in person last year.
-- Main event: He lost the first game, adjusted his tactics, and won the final.
-- Ability shown: Learning from mistakes and adapting under pressure.
-- Reflection: I admire his response to setbacks and want to apply it to work.
+- Who/What: A famous Chinese badminton player I admire for his response to setbacks.
+- Background: Stella and I watched a final in Beijing last May. About three months ago, I struggled with sleep and worried about my career and future.
+- Main event: He lost the first game, adjusted his tactics, and won the next two games to take the title.
+- Ability shown: I reflected on my sleep problems and tried practical changes, including switching off my phone earlier and creating a wind-down routine.
+- Reflection: Success includes adapting when things do not go as planned; I could apply that idea to my own situation.
 
 ## 4. Useful Collocations
 
@@ -43,6 +45,6 @@ I admire him because he responded to a setback with practical changes. He didn't
 - warm and relaxed atmosphere
 - learn from experience
 - adjust my approach
-- improve through practice
-- change his tactics
-- take the title
+- remain calm under pressure
+- make a comeback
+- create a wind-down routine

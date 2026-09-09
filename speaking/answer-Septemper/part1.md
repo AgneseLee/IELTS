@@ -34,51 +34,59 @@
 
 > 🧡 表示本季新题。
 
-> 根据 2026-09-06 提供的小问补充：移除 Handwritten Letters 后，现有 10 个新话题、38 条原始问法，垃圾回收的两组同义题合并后为 36 组答案。每题以自然的 2–3 句展开。未确认的童年经历、饮食偏好和消费金额为练习用示例细节，可按真实情况替换。
+> 根据 2026-09-06 提供的小问补充，并于 2026-09-09 将 Rubbish and Recycling、Tiredness 与 Politeness 更新为各四道题：移除 Handwritten Letters 后，现有 10 个新话题、41 组问答。每题以自然的 2–3 句展开。未确认的童年经历、饮食偏好和消费金额为练习用示例细节，可按真实情况替换。
 
 ## 🧡 Name 🏷️
 
 **Q1: Is it easy for you to remember people's names?**
 
-A: Not always, especially when I meet several people at once. I tend to **remember faces better than names**, so I sometimes need to hear a name a few times before it sticks.
+A: Not really. It depends on the name. If it sounds familiar or similar to one I've heard before, I tend to remember it **more easily**.
 
 **Q2: How do you remember people's names?**
 
-A: I usually repeat their name during our conversation and connect it with something about them. For example, I might remember someone as Linda from my English class. That makes the name **easier to recall**.
+A: I usually remember names by **linking them to something familiar**. For example, I might remember someone called Linda from my workplace by thinking of the color of the clothes she wore when we met. That makes it easier to recall.
 
 **Q3: How do you feel when people can't remember your name?**
 
-A: I don't really mind, especially if we've only met once. I forget names myself, so I usually just remind them and **carry on with the conversation**.
+A: Actually, I don't really mind, **especially if we've only met once**. I might not remember their name either, so I just remind them directly and **carry on with the conversation**. It's not a big deal.
 
 **Q4: Do you often forget people's names?**
 
-A: Occasionally, particularly if I haven't seen someone for a long time. I might recognise their face straight away but **struggle to remember their name**, which can be a little awkward.
+A: Well, occasionally, because I have **a poor memory for things like names**. It can feel a bit awkward when we meet again and I don't recall their name.
 
 ## 🧡 Tiredness 🥱
 
 **Q1: Do you often feel tired?**
 
-A: Quite often, especially when I spend a lot of time working or studying English. By the evening, I sometimes find it **hard to concentrate**, so I try to take regular breaks during the day.
+A: Not really. I **keep a pretty balanced routine**. I usually get up early and exercise regularly, so I usually feel energetic **during the day**.
 
 **Q2: When would you feel tired?**
 
-A: Usually after staring at a screen for several hours or getting too little sleep. I feel mentally tired even if I haven't done much physical activity, and simple tasks start to **take more effort**.
+A: I usually feel tired when I **haven't slept well the night before**. You know, poor sleep often leads to poor concentration and tiredness. But if I sleep well, I feel much less likely to get tired.
 
 **Q3: What do you do when you feel tired?**
 
-A: I normally step away from my screen and take a short walk. If I'm really sleepy, I have a short nap or go to bed earlier. That helps me **recharge** and focus better afterwards.
+A: Well, I normally **step away from my screen** or have a cup of coffee. If I'm really sleepy, I'll go to bed early that night. That helps me **recharge and focus better afterwards**.
+
+**Q4: When you feel tired, do you still go out with your friends?**
+
+A: I think it depends on how tired I am. If I'm just mentally tired after work, I would **prefer to meet a friend and have a meal** because that helps me recharge and unwind. But if I'm completely exhausted, **both mentally and physically**, then I'd prefer to stay at home and get more rest.
 
 ## 🧡 Rubbish and Recycling ♻️
 
-**Q1: What do you do when you see rubbish in the street?**
+**Q1: Is waste sorting common in your country?**
 
-**同义问法（原 Q3）：What do you do when you see rubbish on the street?**
+A: Yes, I'd say it's fairly common, **at least where I live**. We have **separate bins for different types of waste** in my neighborhood. But people don't always use them correctly, and I'm still sometimes confused about which one to use.
 
-A: If it's something easy to pick up, like a plastic bottle, I usually put it in a nearby bin. I wouldn't touch anything sharp or dirty with my bare hands, though. It's a small way to **keep the neighbourhood clean**.
+**Q2: Did you recycle when you were a kid?**
 
-**Q2: How do you recycle materials such as paper and plastic?**
+A: Yes. My parents and teachers taught me how to **sort different kinds of waste**. But as a kid, I **could hardly remember the rules**, so I think I made a lot of mistakes.
 
-**同义问法（原 Q4）：How do you recycle things like paper and plastic?**
+**Q3: What do you do when you see rubbish on the street?**
+
+A: If it's easy to pick up, like a plastic bottle, I'll pick it up and put it in **a nearby bin**. But if it's messy, like a stain or liquid, I wouldn't touch it. I'd probably just leave it.
+
+**Q4: How do you recycle things like paper and plastic?**
 
 A: I separate recyclable paper and plastic from my other rubbish at home. I flatten cardboard boxes and empty bottles before putting them in the **appropriate recycling bins**. It's quite easy once it becomes a habit.
 
@@ -91,6 +99,14 @@ A: Well, mainly from my **parents and teachers**, who reminded me to say please,
 **Q2: Do you think being polite is very important?**
 
 A: Exactly, because it makes everyday interactions more pleasant and engaging, I think. It also **helps people feel respected**. For example, **something as simple as** thanking a shop assistant when shopping can make a difference.
+
+**Q3: On what occasions should we be polite?**
+
+A: I think we should be polite in everyday situations, whether we're talking to friends or asking a stranger for help. It's especially important when we **disagree with someone**, because a calm, respectful tone can stop things from turning into an argument. Even at home, a simple please or thank you matters.
+
+**Q4: What did you do to show your politeness as a child?**
+
+A: I used to **greet my teachers** when I arrived at school and say thank you whenever someone helped me. At home, I tried to **wait my turn to speak** instead of interrupting adults. I sometimes needed a reminder, but those habits gradually became natural.
 
 ## 🧡 Fruit and vegetables 🥦
 
@@ -814,3 +830,79 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - 同题采用最新完整版本，补充想法并入对应答案；错误复盘仅依据本批提供的自主组织版本，不另收单纯复述的版本。
 
 本轮优先复练：童年经历的过去时、情态动词后用原形、paper / stuff 的不可数用法，以及 **prefer A to B、have sentimental value、have stuck to it ever since、make a real difference**。
+
+
+## 亮点高分表达（Tiredness, Rubbish and Recycling & Name）
+
+> 2026-09-09：对应本轮 23 条自主组织记录。同题正文采用最新 Band 7 最小改动版，Tiredness Q2 合并补充结尾；错误与亮点从自主组织版本中归纳，不另收单纯复述的版本。
+
+| 表达 | 含义 / 用法 |
+| --- | --- |
+| **have / keep a balanced routine** | 保持均衡的作息；原回答的 have 也正确 |
+| **feel energetic during the day** | 白天精力充沛；during the day 为纠错后搭配 |
+| **poor sleep leads to poor concentration and tiredness** | 用“原因 → 结果”解释疲惫 |
+| **be less likely to get tired** | 不太容易疲惫；替换原回答的 have less opportunity to feel tired |
+| **step away from my screen** | 暂时离开屏幕、休息一下 |
+| **recharge and focus better afterwards** | 恢复精力，之后更能集中注意力 |
+| **It depends on how tired I am** | 根据疲惫程度分情况回答 |
+| **recharge and unwind** | 恢复精力、放松身心 |
+| **completely exhausted, both mentally and physically** | 身心都非常疲惫 |
+| **at least where I live** | 限定到自己的生活范围，避免过度概括 |
+| **separate bins for different types of waste** | 不同种类的垃圾使用不同的桶；types 用复数 |
+| **be confused about which one to use** | 不确定该使用哪一个 |
+| **link names to something familiar** | 把名字与熟悉的事物联系起来帮助记忆 |
+| **someone called Linda** | 一个叫 Linda 的人，口语自然 |
+| **make it easier to recall** | 让它更容易被回想起来 |
+| **I might not remember their name either** | 我也可能记不住对方的名字；否定句用 either |
+| **carry on with the conversation** | 继续聊天 |
+| **It's not a big deal** | 没什么大不了的 |
+| **have a poor memory for things like names** | 不擅长记名字这类信息；注意冠词 a |
+
+## 错误复盘（Tiredness, Rubbish and Recycling & Name）
+
+### 1. 时态与条件句
+
+- *when I don't sleep well last night* → **when I haven't slept well the night before**；若明确说昨晚，可说 **because I didn't sleep well last night**。
+- 童年经历：*I hardly remember the rules* → **I could hardly remember the rules / I hardly remembered the rules**。
+- *I hardly could remember them* → **I could hardly remember the rules**：调整副词位置，并说清记不住的是规则。
+- 假设见朋友后的效果：*which helped me relax* → **which would help me relax**。
+- *That was not big deal* → **It's not a big deal**：这里是在表达现在的态度，同时补上 a。
+- **If it's easy to pick up, I'll pick it up...** 清楚表达遇到这种情况会怎么做；if + 现在时搭配 would 在口语中也可表达委婉意愿，不应一概判错。
+
+### 2. 单复数、冠词与词性
+
+- *different type / kind of waste* → **different types / kinds of waste**。
+- *have bad / poor memory* → **have a bad / poor memory**，这里需要 a。
+- *that sort of things* → **that sort of thing / those sorts of things**；本题直接说 **things like names** 更简洁。
+- *every trivial stuff* → **every little thing / small details**；stuff 不可数，不能直接接在 every 后。
+- *more easier* → **more easily**：不能重复比较级，修饰 remember 用副词 easily。
+- *if possibly* → **if possible**。
+- **a nearby bin** 适合首次提到附近某个垃圾桶；**the nearby bin** 在双方知道具体指哪个时也正确。
+
+### 3. 动词搭配、平行结构与指代
+
+- *prefer meet* → **prefer to meet**。
+- *prefer staying at home and have more rest* → **prefer to stay at home and get more rest**；也可用 **prefer staying at home and getting more rest**，保持并列形式一致。
+- *is similar or resemble to* → **is similar to / resembles**；resemble 后不加 to，单数主语用 resembles。
+- *similar to someone I've heard before* → **similar to one I've heard before**：名字应与另一个名字比较。
+- *because it relaxes it* → **because the conversation would help me relax**，明确是什么让我放松。
+- *have less opportunity to feel tired* → **be less likely to get tired**，表达可能性而非机会。
+- *make many mistakes over it* → **make a lot of mistakes / make mistakes when sorting waste**。
+- **connect names with something familiar** 本身正确；**link names to something familiar** 也自然。
+- 想表达某个人叫 Linda，用 **someone called / named Linda**；**remember someone as Linda** 容易变成“记得那个人叫 Linda”的意思。
+
+### 4. 自然表达与衔接
+
+- *in my daytime* → **during the day**。
+- *I can't remember theirs as well* → **I might not remember their name either**，表达“我也可能记不住”。
+- *especially we've just met once* → **especially if we've only met once**，这里需要 if；only 更清楚地强调“只见过一次”。
+- *when people meet the next time* → **when we meet again**，保持人称明确。
+- 泛指居民用 **people**；若确实强调成年人，用 **adults**，adult people 并非绝对语法错误，但通常多余。
+- **meet my friend / meet a friend** 都正确，按是否指特定朋友选择；**get some / more rest** 是自然搭配。
+- **I'm still sometimes confused** 与 **sometimes I'm still confused** 都可以，不必把副词位置的偏好当作语法错误。
+- *something liquid or fluid* 意思重复，可简化为 **liquid / a spill**；普通街头垃圾语境下，call some professionals 显得笼统，是否联系清洁人员取决于实际情况。
+- 开头先说 take a nap，后面再说 have a short nap 会重复；正文采用最新的“离开屏幕或喝咖啡，太困则早点睡”版本。
+- **if possible** 接在喝咖啡后语法正确，只是没有必要强调限制时可以删去。
+- Because 引出的原因可以在口语中单独补充；整理答案时与前句合并通常更顺，不把口语停顿一概判成语法错误。
+
+本轮优先复练：**different types / kinds of waste、a poor memory、that sort of thing、prefer to meet / stay、more easily、could hardly remember、especially if we've only met once、during the day**。

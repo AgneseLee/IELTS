@@ -8,40 +8,42 @@
 > - When and where you watched the interview
 > - And explain how you felt about the interview
 
-> Bank: B6 | Modules: badminton-player / online-interview / patient-training
+> Bank: B6 | Modules: badminton-player / TV-interview / tactical-adjustment
 
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-I'd like to talk about an interview with a famous Chinese badminton player. I watched it at home on a video platform a few days after seeing him play in a final in Beijing last year. The interviewer asked about his comeback from an injury, his daily training and the pressure of major competitions. The player explained that his recovery improved only after he stopped rushing and followed a simple routine. He also described in detail how he changed tactics after losing the first game of the final.
+About three months ago, I had trouble falling asleep. I lay in bed worrying about my career and future. One night at home, I turned on the TV and came across an interview with a famous Chinese badminton player. I was totally immersed in what he said. He recalled a final in Beijing last year. He lost the first game, but changed his tactics and won the next two games to take the title. He explained how he waited for the right moment to make a comeback.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I found the interview honest and surprisingly useful. He didn't present success as a matter of talent or confidence alone. Instead, he spoke about missed shots, patient practice and learning from feedback. That made his performance feel more real to me. It also changed how I respond to pressure at work. When a task goes badly, I now slow down, identify one problem and take a manageable step. His calm way of explaining difficult moments also showed strong communication skills. The interview left a lasting impression because it gave me practical advice instead of empty motivational lines. After watching it, I understood why he had performed so well, and I felt encouraged to be more patient with my own progress.
+I found the interview fascinating and surprisingly useful. His account reminded me that I could make changes based on my own situation, just as he'd done in that match.
+
+I wondered whether I could follow a similar strategy to deal with my sleep problems. I realised I was always in a rush and anxious about everything. Instead of pushing myself harder, I needed to pause and think about what I could do differently. That helped me see my situation from a different perspective.
+
+The interview left a lasting impression on me because it gave me something practical to try. I felt encouraged to adjust my approach instead of expecting the same habits to produce different results.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
-- Primary Ability: Learning Ability
-- Reason: I turned the player's comments about patient practice and feedback into a practical approach to my own work.
-- Secondary Ability: Communication Skills
-- Reason: I noticed how clearly and honestly he explained pressure, failure and recovery.
+- Primary Ability: Adaptability
+- Reason: I used the player's tactical changes as a reminder to reconsider my rushed approach to my own sleep problems.
 
 ## 3. Story Bank
 
-- Who/What: An online interview with a famous Chinese badminton player.
-- Background: I watched it at home after seeing the player compete in a Beijing final.
-- Main event: He discussed injury recovery, patient training and the tactical changes behind his comeback.
-- Ability shown: I learned from his experience and noticed how clear communication made his advice convincing.
-- Reflection: The interview helped me respond to pressure with smaller, more manageable steps.
+- Who/What: A TV interview with a famous Chinese badminton player.
+- Background: About three months ago, I watched it at home one night when I was struggling to sleep and worrying about my career and future.
+- Main event: He recalled losing the first game of a Beijing final, changing tactics, and winning the next two games.
+- Ability shown: I recognised my habit of rushing and considered how I could respond differently to my own situation.
+- Reflection: The interview felt fascinating, encouraging, and useful because it offered a practical idea I could apply.
 
 ## 4. Useful Collocations
 
 - a genuine sense of achievement
 - shared family memory
 - warm and relaxed atmosphere
-- express my ideas clearly
-- listen actively
 - learn from experience
-- give a thoughtful answer
-- handle public pressure
+- adjust my approach
+- deal with uncertainty
+- come across an interview
+- wait for the right moment

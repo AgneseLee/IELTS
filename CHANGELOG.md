@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### 更新
+- 将 Speaking Part 3 第 39–51 次复练合并为 6 组，完整保留 13 次原始口述，合并纠错与修改版，并按原格式补齐四组观点链和可复用口语块
+- 更新聚会与运动员两篇 Speaking Part 2 答案及重点表达，并添加文件名复练标记
+
 ### 移除
 - 移除 Speaking Part 1 本季题库中的 Handwritten Letters 话题及三组答案，同步更新新题数量说明
 

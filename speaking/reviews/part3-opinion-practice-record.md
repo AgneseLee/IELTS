@@ -805,13 +805,19 @@
 
 本批回答结构已经比较稳定：**观点 → 原因 → 例子/结果 → 对比**。优先稳定第三人称单数、单复数、所有格和固定搭配。
 
-### 39. Balanced routines and health 均衡作息与健康
+### 39、40. Balanced routines and health 均衡作息与健康
 
 **主题链：** `T02 健康、习惯与休闲` — healthy habits → better health and long-term well-being
 
 **Your original answer**
 
+原 39：
+
 > I think a balanced and healthy routine does matter because developing healthy habits can prevent illness from beginning. And it's less likely to have fewer serious problems. So, as a result, people can have a better long-term well-being in future. On top of that, besides physical health, mental health does matter as well. Because if people have chronic pressure and anxiety or depression or frustration, they may lead to poor sleep at night. Yeah, you know how important sleeping is. So, in the long run, it may cause illness or burnout over time.
+
+原 40：
+
+> I think a balanced and healthy routine does matter because developing healthy habits can prevent illness from developing. For example, people who exercise regular are less likely to have... to have... to suffer illness. As a result, people are less likely to develop serious health problems. So, they can enjoy better long-term well-being. On top of that, besides physical health, mental health matters as well. If people experience chronic stress, anxiety, depression or frustration, these problems may lead to poor sleep. We all know how important sleep is. In the long run, poor sleep can lead to illness or burnout.
 
 **主要错误 / 不自然**
 
@@ -823,35 +829,25 @@
 - they may lead to poor sleep：改为 these problems，避免指代 people。
 - how important sleeping is → how important sleep is 更自然。
 - in the long run 与 over time 重复，保留一个。
-
-**Band 7 version（最小改动）**
-
-> I think a balanced and healthy routine does matter because developing healthy habits can prevent illnesses from developing. As a result, people are less likely to develop serious health problems, so they can enjoy better long-term well-being. On top of that, besides physical health, mental health matters as well. If people experience chronic stress, anxiety, depression, or frustration, these problems may lead to poor sleep. We all know how important sleep is. In the long run, poor sleep can lead to illness or burnout. |
-
-### 40. Regular exercise and health 规律运动与健康
-
-**主题链：** `T02 健康、习惯与休闲` — healthy habits → better health and long-term well-being
-
-**Your original answer**
-
-> I think a balanced and healthy routine does matter because developing healthy habits can prevent illness from developing. For example, people who exercise regular are less likely to have... to have... to suffer illness. As a result, people are less likely to develop serious health problems. So, they can enjoy better long-term well-being. On top of that, besides physical health, mental health matters as well. If people experience chronic stress, anxiety, depression or frustration, these problems may lead to poor sleep. We all know how important sleep is. In the long run, poor sleep can lead to illness or burnout.
-
-**主要错误 / 不自然**
-
 - prevent illness 语法成立；泛指多种疾病也可用 prevent illnesses。
 - exercise regular → exercise regularly，副词修饰动词。
 - to have... to suffer illness：改口后直接说 suffer from illnesses 更顺畅。
-- 后半部分基本正确。
 
 **Band 7 version（最小改动）**
 
-> I think a balanced and healthy routine does matter because developing healthy habits can prevent illnesses from developing. For example, people who exercise regularly are less likely to suffer from illnesses. As a result, they are less likely to develop serious health problems, so they can enjoy better long-term well-being. On top of that, besides physical health, mental health matters as well. If people experience chronic stress, anxiety, depression, or frustration, these problems may lead to poor sleep. We all know how important sleep is. In the long run, poor sleep can lead to illness or burnout. |
+> I think a balanced and healthy routine does matter because developing healthy habits can prevent illnesses from developing. For example, people who exercise regularly are less likely to suffer from illnesses. As a result, they are less likely to develop serious health problems, so they can enjoy better long-term well-being. On top of that, besides physical health, mental health matters as well. If people experience chronic stress, anxiety, depression, or frustration, these problems may lead to poor sleep. We all know how important sleep is. In the long run, poor sleep can lead to illness or burnout.
 
-### 41. Exercise and long-term well-being 运动与长期幸福感
+### 41、43. Exercise and long-term well-being 运动与长期幸福感
 
 **主题链：** `T02 健康、习惯与休闲` — healthy habits → better health and long-term well-being
 
 **Your original answer**
+
+原 41：
+
+> I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy a long-term well-being.
+
+原 43：
 
 > I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy a long-term well-being.
 
@@ -859,18 +855,33 @@
 
 - a long-term well-being → long-term well-being，well-being 不可数。
 - enjoy better long-term well-being 更符合前后的比较逻辑。
+- 加 better 更符合前后的比较逻辑。
 
 **Band 7 version（最小改动）**
 
-> I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy better long-term well-being. |
+> I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy better long-term well-being.
 
-### 42. Inactivity and physical health 缺乏运动与身体健康
+### 42、44、45、47. Inactivity and health risks 缺乏运动与健康风险
 
 **主题链：** `T02 健康、习惯与休闲` — inactivity → a sedentary lifestyle → greater health risks
 
 **Your original answer**
 
+原 42：
+
 > I think people who exercise regularly are less likely to suffer from illnesses. As a result, they may have a long-term well-being in future. On top of that, mental health matters as well. Because people who lack regular exercise may suffer from... suffer from sedentary lifestyle... may got... may become obesity or some like diabetes, something, some illness like that.
+
+原 44：
+
+> They may enjoy long-term well-being. On top of that, mental health matters as well. People who don't exercise regularly may lead a sedentary lifestyle, which can increase the risks of obesity and disease such as diabetes.
+
+原 45：
+
+> Increase the risk of obesity and disease such as diabetes.
+
+原 47：
+
+> People don't exercise regularly may lead a sedentary lifestyle, feel bored or tired more and may increase the risk of obesity and disease such as diabetes.
 
 **主要错误 / 不自然**
 
@@ -882,69 +893,32 @@
 - may got → may get，情态动词后用原形。
 - become obesity → become obese / develop obesity。
 - some like diabetes / some illness like that → diseases such as diabetes。
-
-**Band 7 version（最小改动）**
-
-> I think people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy better long-term well-being. On top of that, mental health matters as well. People who don't exercise regularly may lead a sedentary lifestyle, which can increase the risk of obesity and diseases such as diabetes. |
-
-### 43. Exercise and long-term well-being 运动与长期幸福感（复练）
-
-**主题链：** `T02 健康、习惯与休闲` — healthy habits → better health and long-term well-being
-
-**Your original answer**
-
-> I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy a long-term well-being.
-
-**主要错误 / 不自然**
-
-- a long-term well-being：去掉 a。
-- 加 better 更符合前后的比较逻辑。
-
-**Band 7 version（最小改动）**
-
-> I'd say people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy better long-term well-being. |
-
-### 44. A sedentary lifestyle 久坐的生活方式
-
-**主题链：** `T02 健康、习惯与休闲` — inactivity → a sedentary lifestyle → greater health risks
-
-**Your original answer**
-
-> They may enjoy long-term well-being. On top of that, mental health matters as well. People who don't exercise regularly may lead a sedentary lifestyle, which can increase the risks of obesity and disease such as diabetes.
-
-**主要错误 / 不自然**
-
 - increase the risks of 可以成立；这里通常用 increase the risk of。
 - disease 可不可数泛指；此处用 diseases such as diabetes 表示多种疾病更清楚。
 - enjoy long-term well-being 语法正确；better 更符合语境。
+- People don't exercise regularly → People who don't exercise regularly，补关系代词。
+- feel bored or tired more → feel bored or tired more often / feel more bored or tired。
+- may increase the risk：让生活方式作主语，因果关系更清楚；people increase their risk 本身可以成立。
+- disease such as diabetes → diseases such as diabetes，泛指多种疾病更清楚。
+- mental health matters as well 后接的是身体健康风险，过渡改为 On the other hand。
 
 **Band 7 version（最小改动）**
 
-> They may enjoy better long-term well-being. On top of that, mental health matters as well. People who don't exercise regularly may lead a sedentary lifestyle, which can increase the risk of obesity and diseases such as diabetes. |
+> I think people who exercise regularly are less likely to suffer from illnesses. As a result, they may enjoy better long-term well-being. On the other hand, people who don't exercise regularly may lead a sedentary lifestyle and feel bored or tired more often. This can increase the risk of obesity and diseases such as diabetes.
 
-### 45. Health risks 健康风险（短句复练）
-
-**主题链：** `T02 健康、习惯与休闲` — inactivity → a sedentary lifestyle → greater health risks
-
-**Your original answer**
-
-> Increase the risk of obesity and disease such as diabetes.
-
-**主要错误 / 不自然**
-
-- disease such as diabetes → diseases such as diabetes，泛指多种疾病时复数更清楚。
-
-**Band 7 version（最小改动）**
-
-> Increase the risk of obesity and diseases such as diabetes. |
-
-### 46. Exercise, mood and concentration 运动、情绪与专注力
+### 46、49. Exercise, mood and concentration 运动、情绪与专注力
 
 **主题链：** `T02 健康、习惯与休闲` — regular exercise → better mood and concentration → better outcomes
 
 **Your original answer**
 
+原 46：
+
 > I think a balanced routine help people lower stress and maintain good health. People who exercise regularly are more likely to have a better mood, be more optimistic, and concentrate more easily on their tasks, which help them generate the better outcomes at the end. That said, inactivity... people who usually... have a daily routine of inactivity often lead a sedentary lifestyle, may easily suffer from boredom or fatigue because they lack active effort to put in.
+
+原 49：
+
+> As a result, they can achieve better outcomes at works and in their day life.
 
 **主要错误 / 不自然**
 
@@ -957,29 +931,12 @@
 - often lead a sedentary lifestyle 本身正确，但前面改口使结构混乱。
 - suffer from boredom or fatigue 可以；feel bored or tired 更口语化。
 - lack active effort to put in → lack physical activity。
+- at works → at work。
+- in their day life → in their daily lives。
 
 **Band 7 version（最小改动）**
 
-> I think a balanced routine helps people lower stress and maintain good health. People who exercise regularly are more likely to be in a better mood, be more optimistic, and concentrate more easily on their tasks, which helps them achieve better outcomes. That said, people who don't exercise regularly may lead a sedentary lifestyle and feel bored or tired because they lack physical activity. |
-
-### 47. Inactivity and health risks 缺乏运动与健康风险
-
-**主题链：** `T02 健康、习惯与休闲` — inactivity → a sedentary lifestyle → greater health risks
-
-**Your original answer**
-
-> People don't exercise regularly may lead a sedentary lifestyle, feel bored or tired more and may increase the risk of obesity and disease such as diabetes.
-
-**主要错误 / 不自然**
-
-- People don't exercise regularly → People who don't exercise regularly，补关系代词。
-- feel bored or tired more → feel bored or tired more often / feel more bored or tired。
-- may increase the risk：让生活方式作主语，因果关系更清楚；people increase their risk 本身可以成立。
-- disease such as diabetes → diseases such as diabetes，泛指多种疾病更清楚。
-
-**Band 7 version（最小改动）**
-
-> People who don't exercise regularly may lead a sedentary lifestyle and feel bored or tired more often. This can increase the risk of obesity and diseases such as diabetes. |
+> I think a balanced routine helps people lower stress and maintain good health. People who exercise regularly are more likely to be in a better mood, be more optimistic, and concentrate more easily on their tasks, which helps them achieve better outcomes at work and in their daily lives. That said, people who don't exercise regularly may lead a sedentary lifestyle and feel bored or tired because they lack physical activity.
 
 ### 48. Balanced routines and social connection 均衡作息与人际联系
 
@@ -1006,32 +963,21 @@
 
 **Band 7 version（最小改动）**
 
-> When people keep a balanced routine, including regular exercise and other meaningful activities, they are more likely to have better concentration and a more positive mood because those kinds of activities help them lower stress and engage with more people, helping them build connections with others and with the community. As a result, they may feel more connected to others, and having friendly relationships can improve their mood. |
+> When people keep a balanced routine, including regular exercise and other meaningful activities, they are more likely to have better concentration and a more positive mood because those kinds of activities help them lower stress and engage with more people, helping them build connections with others and with the community. As a result, they may feel more connected to others, and having friendly relationships can improve their mood.
 
-### 49. Better outcomes at work and in daily life 工作与日常生活的更好结果
-
-**主题链：** `T02 健康、习惯与休闲` — regular exercise → better mood and concentration → better outcomes
-
-**Your original answer**
-
-> As a result, they can achieve better outcomes at works and in their day life.
-
-**主要错误 / 不自然**
-
-- at works → at work。
-- in their day life → in their daily lives。
-
-**Band 7 version（最小改动）**
-
-> As a result, they can achieve better outcomes at work and in their daily lives. |
-
-### 50. Constant pressure and well-being 持续压力与身心健康
+### 50、51. Constant pressure and well-being 持续压力与身心健康
 
 **主题链：** `T02 健康、习惯与休闲` — constant pressure → fatigue and overwhelm → poorer well-being
 
 **Your original answer**
 
+原 50：
+
 > While a constant exposure to pressure, people may feel bored and tired. Over time, it may lead to poorer well-being in the long run.
+
+原 51：
+
+> When people experience constant pressure, they may feel bored and tired or overwhelmed. Over time, this may lead to poorer health and well-being in the long run.
 
 **主要错误 / 不自然**
 
@@ -1040,32 +986,15 @@
 - it 指代不清，可用 this。
 - Over time 与 in the long run 重复，留一个。
 - bored 与 pressure 的逻辑较弱，tired or overwhelmed 更贴切。
-
-**Band 7 version（最小改动）**
-
-> When people are constantly exposed to pressure, they may feel tired or overwhelmed. Over time, this may lead to poorer health and well-being. |
-
-### 51. Constant pressure and well-being 持续压力与身心健康（复练）
-
-**主题链：** `T02 健康、习惯与休闲` — constant pressure → fatigue and overwhelm → poorer well-being
-
-**Your original answer**
-
-> When people experience constant pressure, they may feel bored and tired or overwhelmed. Over time, this may lead to poorer health and well-being in the long run.
-
-**主要错误 / 不自然**
-
 - bored and tired or overwhelmed 排列稍乱；tired or overwhelmed 更贴切，若保留 bored 可说 bored, tired, or overwhelmed。
-- Over time 与 in the long run 重复，二选一。
-- 其余语法正确。
 
 **Band 7 version（最小改动）**
 
-> When people experience constant pressure, they may feel tired or overwhelmed. Over time, this may lead to poorer health and well-being. |
+> When people experience constant pressure, they may feel tired or overwhelmed. Over time, this may lead to poorer health and well-being.
 
 ### 最新一批复练（39–51，2026-09-09）
 
-> 本批保留全部 13 个口述版本，包括重复复练、句子片段与改口痕迹。后续每次说 Done 后，继续沿用本页已有格式，每个版本单独编号，记录原答案、主要错误 / 不自然及 Band 7 最小改动版。
+> 本批 13 个口述版本按相似问题合并为 6 组，全部原文（包括重复复练、句子片段与改口痕迹）均保留。每组沿用原答案、主要错误 / 不自然及 Band 7 最小改动版的格式；同题复练归入同组，合并重复纠错与修改版。
 
 **本轮反复出现的核心错误**
 
@@ -1077,7 +1006,7 @@
 6. 情感联系：`feel bond with others` → `feel connected to others / feel bonded to others`。
 7. 避免重复：`Over time` 与 `in the long run` 通常保留一个。
 
-**衔接提醒：** 本轮第 4、6 个版本提到 mental health 后直接转向肥胖和糖尿病，后文没有展开心理健康；原提供的修改版在对应条目中保留，复练时可把该过渡改为 `On the other hand, people who don't exercise regularly...`，或接上减压、情绪等相关解释。
+**衔接提醒：** 原 42、44 提到 mental health 后直接转向肥胖和糖尿病，后文没有展开心理健康；合并修改版已用 `On the other hand, people who don't exercise regularly...` 衔接，避免论点与解释错位。
 
 **复练**
 
@@ -1085,7 +1014,7 @@
 - [ ] 正确使用 `helps`、`regularly`、`obese`、`may get` 和 `help them build`
 - [ ] 完整说出 `People who don't exercise regularly...` 和 `When people experience constant pressure, they...`
 - [ ] 分清身体健康、心理健康与人际联系的过渡，避免论点和解释错位
-- [ ] 复述第 10 个版本时减少连接关系的重复表述
+- [ ] 复述原 48 时减少连接关系的重复表述
 
 ## Part 3 可直接复用的口语块
 
@@ -1153,6 +1082,48 @@
 - `stick to a balanced routine`
 - `take a break from the daily routine`
 - `relax and unwind`
+
+### 健康作息与身体健康
+
+**观点链：** healthy habits → better health and long-term well-being；inactivity → a sedentary lifestyle → greater health risks
+
+- `develop healthy habits`
+- `enjoy better long-term well-being`
+- `be less likely to develop serious health problems`
+- `people who exercise regularly`
+- `lead a sedentary lifestyle`
+- `increase the risk of obesity and diseases such as diabetes`
+
+### 运动、情绪与专注力
+
+**观点链：** regular exercise → better mood and concentration → better outcomes；inactivity → boredom and fatigue → poorer mood
+
+- `keep a balanced routine`
+- `lower stress and maintain good health`
+- `be in a better mood`
+- `concentrate more easily on their tasks`
+- `have better concentration`
+- `feel bored or tired more often`
+- `achieve better outcomes at work and in their daily lives`
+
+### 活动与人际联系
+
+**观点链：** meaningful activities and social interaction → stronger connections → better mood
+
+- `engage with more people`
+- `build connections with others and with the community`
+- `feel more connected to others`
+- `Having friendly relationships can improve their mood.`
+
+### 持续压力与身心健康
+
+**观点链：** chronic stress → poor sleep → illness or burnout；constant pressure → fatigue and overwhelm → poorer well-being
+
+- `experience chronic stress`
+- `experience constant pressure`
+- `lead to poor sleep`
+- `feel tired or overwhelmed`
+- `lead to poorer health and well-being`
 
 ### 家庭陪伴与共同记忆
 

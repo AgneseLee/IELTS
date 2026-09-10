@@ -593,7 +593,9 @@ A: Not regularly. We last exchanged messages several years ago, but we gradually
 
 A: She encouraged me to express different opinions and gave me constructive feedback. Her advice still helps me communicate more confidently at work. <!-- T01 T03 -->
 
-## 亮点高分表达（Shopping, Public Gardens and Parks & Feeling Bored）
+## 亮点高分表达
+
+### Shopping, Public Gardens and Parks & Feeling Bored
 
 | 表达 | 含义 / 用法 |
 | --- | --- |
@@ -621,54 +623,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 
 优先练成固定语块：**good value for money** · **on impulse** · **make an informed decision** · **feel fulfilled** · **over and over** · **stick to my routine** · **relax and unwind** · **build shared memories** · **appeal to me** · **bring back happy memories**。
 
-## 错误复盘（Shopping, Public Gardens and Parks & Feeling Bored）
-
-### 1. 单复数与主谓一致
-
-- something that **offers**，不是 *something that offer*
-- compare **products**，不是 *compare product*
-- cheaper products **are not**，不是 *cheaper products does not*
-- whether it meets my **needs**，不是 *meets my need*
-- those **activities**，不是 *those activity*
-- **work** 是不可数名词，不能说 *works*（表示“工作”时）
-- **public gardens**，不是 *a public gardens*
-- childhood **gives** us more time，不能说 *childhood give / have more time*
-- which **helps** me relax，不能说 *which help*
-- that **makes** me feel fulfilled，不能说 *that's makes / that make*
-
-### 2. 动词形式与平行结构
-
-- avoid **spending**，不是 *avoid spend*
-- help me **feel**，不是 *help me feeling / getting*
-- help me **relax**，不是 *help me I'm relaxed*
-- work out or **paint**，不是 *work out and painting*
-- read, **learn**, exercise or work：并列动词保持同一形式
-- have to wait or **repeat** the same routine，不能说 *repeated the same routine*
-- 讲童年经历时使用过去时：drawing or painting **felt** interesting，不能说 *feels interesting*
-
-### 3. 冠词与固定搭配
-
-- **an** informed decision，不能说 *a informed decision*
-- make **a** purchase
-- lie **on** the sofa，不能说 *lie in the sofa*
-- because **of** my work，不能说 *because my work*
-- **the same routine**，不是 *a same routine*
-- go to **the park** / visit **a park**，不能省略冠词
-- enjoy **a peaceful environment**，*environment* 在这里需要冠词
-- something **appeals to me**，不能说 *appeals me*
-
-### 4. 避免重复和过度延伸
-
-- *once a month* 和 *once every few weeks* 只保留一个频率。
-- 避免在一句中重复 *repetitive / routine / repeatedly*；可简化为 **do the same routine over and over**。
-- **build shared memories** 比 *develop memories* 更自然。
-- **more space and variety** 比 *various scenery* 更自然。
-- 避免 *enjoy themselves and relax themselves* 的重复；可直接说 **unwind** 或 **enjoy some fresh air**。
-- 表达暂时离开城市生活时，**escape from my daily routine** 比 *escape from my city life* 更自然。
-- Part 1 用 2–3 句即可：先直接回答，再补一个原因或个人例子。第一层意思说清楚后，不必为了“拔高”而继续堆复杂表达。
-
-
-## 亮点高分表达（Cars, Outer Space and Stars & Science）
+### Cars, Outer Space and Stars & Science
 
 | 表达 | 含义 / 用法 |
 | --- | --- |
@@ -687,152 +642,20 @@ A: She encouraged me to express different opinions and gave me constructive feed
 
 优先练成固定语块：**spark my creativity** · **broaden my horizons** · **good value for money** · **real-world problem-solving** · **turn my ideas into real solutions** · **in an easy-to-understand way** · **take the risk myself**。
 
-## 错误复盘（Cars, Outer Space and Stars & Science）
-
-### 1. 主谓一致与时态
-
-- it **satisfies** my curiosity and **sparks** my creativity，不能说 *it satisfy / spark*。
-- one that **offers** good value for money；that **makes** me feel fulfilled。
-- What I learnt in primary school **was** mostly basic scientific knowledge，不能用 *are*。
-- 童年经历：I **enjoyed family trips**；so I **could** build shared memories；the scenery **kept** changing。
-- 现在的喜好：**That's fascinating to me**，不是 *That was fascinating to me*。
-- only if space travel **becomes** safer，不能漏掉第三人称单数词尾。
-- Cars Q2 原文件是 **What types of cars do you like?**，因此正文保留现在偏好。若实际问 **did you like**，应改答过去喜欢的车型，不能只用现在偏好代替。
-
-### 2. 单复数、不可数名词与冠词
-
-- **family trips / shared memories / other passengers / people's interests**：此处通常用复数。
-- **the universe**，但表示外太空时用 **space**，不加 the。
-- **that basic knowledge**，不是 *those basic knowledge*；knowledge 不可数。
-- **real-world problem-solving**，不是 *a real-world problem-solving*。
-- 泛指科技用 **technology**；表示不同技术时才可用 technologies。
-- **a car's functions**；**the excitement** of seeing new scenery。
-
-### 3. 动词形式与固定搭配
-
-- **I can't afford one**，不是 *I'm not afford one*。
-- **I really enjoy creating products**，不是 *I'm really enjoyed creating products*。
-- **haven't taken any formal courses**，不是 *haven't take professionally lessons*。
-- **help make the time pass more quickly**，不是 *help made the time go faster*。
-- **make everyday travel easier**，比 *help people to transport more easily* 自然。
-- **As a practical person**，不是 *I think practical person*；As I'm a practical person 也正确。
-- **value A more than B** 表示更看重 A；**weigh up A and B** 表示权衡两者。
-- **I'd rather explore space through technology than take the risk myself**：would rather 后用动词原形，than 后保持平行。
-- **take the risk / take risks**，不能说 *taking risk*。
-
-### 4. 句子后半段与用词
-
-- **Though / Although ..., ...**，不要再用 but 连接同一主句。
-- 单独补充“现在买不起”可说 **I can't afford one right now**；though 应有明确的让步关系，不能机械加在任何结尾。
-- **in a way that's difficult to understand**，不是 *in a difficult way to understand*。
-- **I find it fulfilling and engaging** / **It makes me feel fulfilled and engaged**，不是 *that make me fulfilled and engaging*。
-- **It's an interesting thing to learn about**，不是 *In my daily life is...*；句子需要主语。
-- **fun** 表示有趣，**funny** 通常表示好笑或奇怪；此处用 interesting 或 fun。
-- **imaginative ideas** 比 imaginary ideas 更符合“有想象力的想法”；形容汽车外观可用 **stylish**。
-- **offers practical features** 本身可以；无需为了简洁改成不够自然的 offers practicality。
-- **will lose interest** 可表达常见倾向；描述一般习惯时用 **lose interest** 更直接，并非必须纠正的语法错误。
-- 避免 helpful and useful、practical problems in the real world 等重复；Part 1 意思完整后即可收尾。
-
-
-## 亮点高分表达（Shoes, Advertisements, Travelling & Secondary school）
+### Shoes, Advertisements, Travelling & Secondary school
 
 - **Shoes:** good value for money（物有所值）· go for something（选择某物）· suit my lifestyle（适合我的生活方式）· stylish and comfortable（时尚又舒适）。
 - **Advertisements:** tell an interesting story（讲一个有趣的故事）· over and over again（反反复复）· constant exposure to ads（不断接触广告）· a catchy jingle（朗朗上口的广告曲）· stuck in my head（在脑海中挥之不去）。
 - **Travelling:** watch the scenery go by（看沿途风景掠过）· part of the adventure（冒险经历的一部分）。
 - **Secondary school:** a terrible memory for that sort of thing（不擅长记这类事情）· let alone...（更不用说……）· hard to figure out（难以弄明白）· more like guessing than problem-solving（更像是在猜，而不是解题）· spark my curiosity（激发好奇心）· organize a reunion（组织聚会）· get everyone together（把大家聚在一起）。
 
-## 错误复盘（Shoes, Advertisements, Travelling & Secondary school）
-
-### 1. 时态与动词
-
-- 现在看剧时被打断：ads interrupt me **while I'm watching**，不是 *when I was watching*。
-- 明确的过去时间用一般过去时：**I graduated about eight years ago**，不是 *I have graduated ... eight years ago*。
-- 回忆中学经历：the questions **asked**；we **chatted** between lessons and **had** lunch together。
-- **ask me** 表示“问我”，不是 answer me（回答我）。
-- **I still remember** 表示“我仍然记得”；I usually remember 表示通常能记得，不适合这里的意思。
-
-### 2. 单复数、冠词与词性
-
-- need **a new pair**；fit my **lifestyle**，此处不用 lifestyles。
-- **customer reviews** 更自然；**the return policy / return policies** 均可。
-- **ads pop up**，不是 ads pops up；**constant exposure**，不是 constantly exposure。
-- **content** 表示内容时不可数，不能用 contents；表中原回答已用对。
-- **the golden arches** 指麦当劳标志；一个广告中的旋律可说 **a catchy jingle / the catchy jingle**。
-- **watched the view**，不能漏掉 the；**classmates and teachers** 表示多位同学和老师。
-
-### 3. 自然搭配与最小改动
-
-- **comfortable enough** 本身正确，此处直接用 comfortable 更简洁。
-- 鞋子让人舒适可说 **keep me comfortable**；做选择可用 **I usually go for...**。
-- **suits my needs and lifestyle**，避免 meets my needs or lifestyle 的搭配不一致。
-- **I'd rather see A than B**，无需重复 rather。
-- **almost every day** 表示几乎每天，比 mostly every day 自然。
-- **bought snacks** 是买了零食；**brought snacks** 是带了零食，按真实意思选择。
-- **more like guessing than problem-solving**，比 more like guessing rather than problem-solving 更自然。
-- **calculation problems / numerical problems / those kinds of problems**，不用 calculating problems。
-- **Well, some of them** 是口语中可以接受的简短回答，不必强行补成完整句。
-
-本轮优先复练：过去时、单复数、冠词 a/the，以及不可数名词 content。保留已经能主动使用的自然搭配，如 **go for something、good value for money、stuck in my head、let alone、hard to figure out、spark my curiosity**。
-## 亮点高分表达（Paper, Fruit and vegetables & Politeness）
+### Paper, Fruit and vegetables & Politeness
 
 - **Paper:** prefer A to B（比起 B 更喜欢 A）· make paper crafts（做纸手工）· write a letter by hand（手写信）· feel more thoughtful（显得更用心）· have sentimental value（具有情感价值）· bring back happy memories（唤起美好回忆）· keep them in a drawer for years（把它们在抽屉里保存多年）· take detailed notes（做详细笔记）· pay closer attention（更加专心）· try different layouts and colors（尝试不同的布局和颜色）。
 - **Fruit and vegetables:** have vegetables with every meal（每餐都吃蔬菜）· a habit I developed in childhood（童年养成的习惯）· have stuck to it ever since（从那以后一直坚持）· grow their own vegetables（自己种菜）· order groceries and other daily necessities（购买食品杂货和其他日用品）· check how fresh they are（检查新鲜程度）· get good value for money（买得物有所值）。
 - **Politeness:** help shape my behavior（帮助塑造我的行为习惯）· make everyday interactions more pleasant（让日常交流更愉快）· help people feel respected（让人感到被尊重）· something as simple as...（像……这样简单的事）· make a real difference（带来实际影响）。
 
-## 错误复盘（Paper, Fruit and vegetables & Politeness）
-
-### 1. 时态、主谓一致与动词形式
-
-- 回忆童年：**I preferred** Lego / sweets and meat，不是 I prefer；**older people behaved** 与过去叙述一致。
-- 画的是当时已经见过的事物：**things I had seen**，比 I've seen 更符合童年叙述的时间关系。
-- 情态动词后用原形：**can feel**，不是 can feels；**I’d rather have / I prefer to have**，不是 I rather have。
-- it makes... and **helps** people feel respected，两个并列动词都与 it 一致。
-- 蔬菜作主语：**they’re healthier and make me feel refreshed**，避免用 it 后又接 make 造成主语混乱。
-- 从童年持续到现在：**It’s a habit I developed in childhood, and I’ve stuck to it ever since**，不用 stick to it by now。
-- 日常习惯可说 **If I’m going to an English class, I usually take... because they help...**，避免无必要地混用 would / will。
-- 假设种菜：**If I wanted to grow vegetables, a balcony would be my only option**；If I have to... 本身可以表示真实条件，但与这里“假如想种菜”的意思不同。
-- 过去叙述中用 **while they were talking**；表达至今适用的礼貌原则时，when they are talking 也可成立，不是一概错误。
-
-### 2. 单复数、不可数名词与词性
-
-- **a handwritten letter**，不是 a hand-writing letter；也可用 **writing a letter by hand** 作主语。
-- **draw on paper**：表示纸这种材料时不可数，不用 papers。
-- **fruit and vegetables**，不是 fruit and vegetable；**one green vegetable / some green vegetables**，不是 one green vegetables。
-- **stuff** 不可数，不用 stuffs；买日用品可说 **daily necessities / everyday items**。
-- **vegetables** 是蔬菜；vegan dishes 是纯素菜肴，不等于蔬菜。
-- **treated others**，不是 treated other；**parents and teachers, who...**，不用 schools, who...。
-- **a balcony / my balcony**，这里不能直接省略限定词。
-- **going to English classes** 本身正确，表示上英语课；**going to an English class** 指去上一节课，按语境选择。
-
-### 3. 自然搭配与句子结构
-
-- **preferred playing with Lego and reading comic books to making paper crafts**：prefer A to B，并列部分都用动名词。
-- **applying to a school / applying for school admission**，比 applying for some school admissions 自然。
-- **Most things can be done online**，避免 daily life and services can be done online 的搭配混乱。
-- **physical letters** 强调实体信件，**handwritten letters** 强调手写；两者并非完全同义，也不必一律替换。
-- **have sentimental value**，不用 including sentimental value；**create a sense of emotional connection / remind people of the strong bonds they have with others**，不用 Something build a strong bond。
-- **memories of their family and friends**，比 memories of families or their friends 指代清楚。
-- **take notes / make notes** 都正确；比较方便程度用 **more convenient than**，不用 more convenient instead of。
-- **tried different layouts and colors and drew things...**，避免 a different layout, color and things 的不平行结构。
-- **with every meal / with each meal** 表示“每餐搭配着吃”；with a meal 本身正确，只是没有“每餐”的意思。
-- **can sometimes grow their own vegetables** 语序自然；at least some 并非语法错误，此处直接说 some vegetable dishes 更简洁。
-- **order groceries** 贴合买水果蔬菜的语境；**get good value for money**，不是 made good value。
-- **in my daily life**，不是 in my day life；**helped shape my behavior** 比 helped me shape my behavior 更简洁。
-- **make a real difference**，不是 make it real difference；举例用 **something as simple as thanking a shop assistant**，避免 Even like something simple, like...。
-
-### 4. 避免重复与未完成的句子
-
-- making crafts with paper was a cheap way to make something... 未说完，最小修改版保留前面的完整观点即可。
-- **on paper, by drawing them on the paper** 重复，保留一次；**interesting and fascinating** 通常保留 fascinating 即可。
-- **in person** 和 offline 在此重复；直接用 when I shop in person。
-- **which plane flew furthest / the furthest** 都可接受，副词最高级前的 the 可省略。
-- Because 引出的原因在口语中可以单独补充，整理答案时与前句合并通常更顺畅。
-- 同题采用最新完整版本，补充想法并入对应答案；错误复盘仅依据本批提供的自主组织版本，不另收单纯复述的版本。
-
-本轮优先复练：童年经历的过去时、情态动词后用原形、paper / stuff 的不可数用法，以及 **prefer A to B、have sentimental value、have stuck to it ever since、make a real difference**。
-
-
-## 亮点高分表达（Tiredness, Rubbish and Recycling & Name）
+### Tiredness, Rubbish and Recycling & Name
 
 > 2026-09-09：对应本轮 23 条自主组织记录。同题正文采用最新 Band 7 最小改动版，Tiredness Q2 合并补充结尾；错误与亮点从自主组织版本中归纳，不另收单纯复述的版本。
 
@@ -858,9 +681,188 @@ A: She encouraged me to express different opinions and gave me constructive feed
 | **It's not a big deal** | 没什么大不了的 |
 | **have a poor memory for things like names** | 不擅长记名字这类信息；注意冠词 a |
 
-## 错误复盘（Tiredness, Rubbish and Recycling & Name）
+## 错误复盘
 
-### 1. 时态与条件句
+### Shopping, Public Gardens and Parks & Feeling Bored
+
+#### 1. 单复数与主谓一致
+
+- something that **offers**，不是 *something that offer*
+- compare **products**，不是 *compare product*
+- cheaper products **are not**，不是 *cheaper products does not*
+- whether it meets my **needs**，不是 *meets my need*
+- those **activities**，不是 *those activity*
+- **work** 是不可数名词，不能说 *works*（表示“工作”时）
+- **public gardens**，不是 *a public gardens*
+- childhood **gives** us more time，不能说 *childhood give / have more time*
+- which **helps** me relax，不能说 *which help*
+- that **makes** me feel fulfilled，不能说 *that's makes / that make*
+
+#### 2. 动词形式与平行结构
+
+- avoid **spending**，不是 *avoid spend*
+- help me **feel**，不是 *help me feeling / getting*
+- help me **relax**，不是 *help me I'm relaxed*
+- work out or **paint**，不是 *work out and painting*
+- read, **learn**, exercise or work：并列动词保持同一形式
+- have to wait or **repeat** the same routine，不能说 *repeated the same routine*
+- 讲童年经历时使用过去时：drawing or painting **felt** interesting，不能说 *feels interesting*
+
+#### 3. 冠词与固定搭配
+
+- **an** informed decision，不能说 *a informed decision*
+- make **a** purchase
+- lie **on** the sofa，不能说 *lie in the sofa*
+- because **of** my work，不能说 *because my work*
+- **the same routine**，不是 *a same routine*
+- go to **the park** / visit **a park**，不能省略冠词
+- enjoy **a peaceful environment**，*environment* 在这里需要冠词
+- something **appeals to me**，不能说 *appeals me*
+
+#### 4. 避免重复和过度延伸
+
+- *once a month* 和 *once every few weeks* 只保留一个频率。
+- 避免在一句中重复 *repetitive / routine / repeatedly*；可简化为 **do the same routine over and over**。
+- **build shared memories** 比 *develop memories* 更自然。
+- **more space and variety** 比 *various scenery* 更自然。
+- 避免 *enjoy themselves and relax themselves* 的重复；可直接说 **unwind** 或 **enjoy some fresh air**。
+- 表达暂时离开城市生活时，**escape from my daily routine** 比 *escape from my city life* 更自然。
+- Part 1 用 2–3 句即可：先直接回答，再补一个原因或个人例子。第一层意思说清楚后，不必为了“拔高”而继续堆复杂表达。
+
+### Cars, Outer Space and Stars & Science
+
+#### 1. 主谓一致与时态
+
+- it **satisfies** my curiosity and **sparks** my creativity，不能说 *it satisfy / spark*。
+- one that **offers** good value for money；that **makes** me feel fulfilled。
+- What I learnt in primary school **was** mostly basic scientific knowledge，不能用 *are*。
+- 童年经历：I **enjoyed family trips**；so I **could** build shared memories；the scenery **kept** changing。
+- 现在的喜好：**That's fascinating to me**，不是 *That was fascinating to me*。
+- only if space travel **becomes** safer，不能漏掉第三人称单数词尾。
+- Cars Q2 原文件是 **What types of cars do you like?**，因此正文保留现在偏好。若实际问 **did you like**，应改答过去喜欢的车型，不能只用现在偏好代替。
+
+#### 2. 单复数、不可数名词与冠词
+
+- **family trips / shared memories / other passengers / people's interests**：此处通常用复数。
+- **the universe**，但表示外太空时用 **space**，不加 the。
+- **that basic knowledge**，不是 *those basic knowledge*；knowledge 不可数。
+- **real-world problem-solving**，不是 *a real-world problem-solving*。
+- 泛指科技用 **technology**；表示不同技术时才可用 technologies。
+- **a car's functions**；**the excitement** of seeing new scenery。
+
+#### 3. 动词形式与固定搭配
+
+- **I can't afford one**，不是 *I'm not afford one*。
+- **I really enjoy creating products**，不是 *I'm really enjoyed creating products*。
+- **haven't taken any formal courses**，不是 *haven't take professionally lessons*。
+- **help make the time pass more quickly**，不是 *help made the time go faster*。
+- **make everyday travel easier**，比 *help people to transport more easily* 自然。
+- **As a practical person**，不是 *I think practical person*；As I'm a practical person 也正确。
+- **value A more than B** 表示更看重 A；**weigh up A and B** 表示权衡两者。
+- **I'd rather explore space through technology than take the risk myself**：would rather 后用动词原形，than 后保持平行。
+- **take the risk / take risks**，不能说 *taking risk*。
+
+#### 4. 句子后半段与用词
+
+- **Though / Although ..., ...**，不要再用 but 连接同一主句。
+- 单独补充“现在买不起”可说 **I can't afford one right now**；though 应有明确的让步关系，不能机械加在任何结尾。
+- **in a way that's difficult to understand**，不是 *in a difficult way to understand*。
+- **I find it fulfilling and engaging** / **It makes me feel fulfilled and engaged**，不是 *that make me fulfilled and engaging*。
+- **It's an interesting thing to learn about**，不是 *In my daily life is...*；句子需要主语。
+- **fun** 表示有趣，**funny** 通常表示好笑或奇怪；此处用 interesting 或 fun。
+- **imaginative ideas** 比 imaginary ideas 更符合“有想象力的想法”；形容汽车外观可用 **stylish**。
+- **offers practical features** 本身可以；无需为了简洁改成不够自然的 offers practicality。
+- **will lose interest** 可表达常见倾向；描述一般习惯时用 **lose interest** 更直接，并非必须纠正的语法错误。
+- 避免 helpful and useful、practical problems in the real world 等重复；Part 1 意思完整后即可收尾。
+
+### Shoes, Advertisements, Travelling & Secondary school
+
+#### 1. 时态与动词
+
+- 现在看剧时被打断：ads interrupt me **while I'm watching**，不是 *when I was watching*。
+- 明确的过去时间用一般过去时：**I graduated about eight years ago**，不是 *I have graduated ... eight years ago*。
+- 回忆中学经历：the questions **asked**；we **chatted** between lessons and **had** lunch together。
+- **ask me** 表示“问我”，不是 answer me（回答我）。
+- **I still remember** 表示“我仍然记得”；I usually remember 表示通常能记得，不适合这里的意思。
+
+#### 2. 单复数、冠词与词性
+
+- need **a new pair**；fit my **lifestyle**，此处不用 lifestyles。
+- **customer reviews** 更自然；**the return policy / return policies** 均可。
+- **ads pop up**，不是 ads pops up；**constant exposure**，不是 constantly exposure。
+- **content** 表示内容时不可数，不能用 contents；表中原回答已用对。
+- **the golden arches** 指麦当劳标志；一个广告中的旋律可说 **a catchy jingle / the catchy jingle**。
+- **watched the view**，不能漏掉 the；**classmates and teachers** 表示多位同学和老师。
+
+#### 3. 自然搭配与最小改动
+
+- **comfortable enough** 本身正确，此处直接用 comfortable 更简洁。
+- 鞋子让人舒适可说 **keep me comfortable**；做选择可用 **I usually go for...**。
+- **suits my needs and lifestyle**，避免 meets my needs or lifestyle 的搭配不一致。
+- **I'd rather see A than B**，无需重复 rather。
+- **almost every day** 表示几乎每天，比 mostly every day 自然。
+- **bought snacks** 是买了零食；**brought snacks** 是带了零食，按真实意思选择。
+- **more like guessing than problem-solving**，比 more like guessing rather than problem-solving 更自然。
+- **calculation problems / numerical problems / those kinds of problems**，不用 calculating problems。
+- **Well, some of them** 是口语中可以接受的简短回答，不必强行补成完整句。
+
+本轮优先复练：过去时、单复数、冠词 a/the，以及不可数名词 content。保留已经能主动使用的自然搭配，如 **go for something、good value for money、stuck in my head、let alone、hard to figure out、spark my curiosity**。
+
+### Paper, Fruit and vegetables & Politeness
+
+#### 1. 时态、主谓一致与动词形式
+
+- 回忆童年：**I preferred** Lego / sweets and meat，不是 I prefer；**older people behaved** 与过去叙述一致。
+- 画的是当时已经见过的事物：**things I had seen**，比 I've seen 更符合童年叙述的时间关系。
+- 情态动词后用原形：**can feel**，不是 can feels；**I’d rather have / I prefer to have**，不是 I rather have。
+- it makes... and **helps** people feel respected，两个并列动词都与 it 一致。
+- 蔬菜作主语：**they’re healthier and make me feel refreshed**，避免用 it 后又接 make 造成主语混乱。
+- 从童年持续到现在：**It’s a habit I developed in childhood, and I’ve stuck to it ever since**，不用 stick to it by now。
+- 日常习惯可说 **If I’m going to an English class, I usually take... because they help...**，避免无必要地混用 would / will。
+- 假设种菜：**If I wanted to grow vegetables, a balcony would be my only option**；If I have to... 本身可以表示真实条件，但与这里“假如想种菜”的意思不同。
+- 过去叙述中用 **while they were talking**；表达至今适用的礼貌原则时，when they are talking 也可成立，不是一概错误。
+
+#### 2. 单复数、不可数名词与词性
+
+- **a handwritten letter**，不是 a hand-writing letter；也可用 **writing a letter by hand** 作主语。
+- **draw on paper**：表示纸这种材料时不可数，不用 papers。
+- **fruit and vegetables**，不是 fruit and vegetable；**one green vegetable / some green vegetables**，不是 one green vegetables。
+- **stuff** 不可数，不用 stuffs；买日用品可说 **daily necessities / everyday items**。
+- **vegetables** 是蔬菜；vegan dishes 是纯素菜肴，不等于蔬菜。
+- **treated others**，不是 treated other；**parents and teachers, who...**，不用 schools, who...。
+- **a balcony / my balcony**，这里不能直接省略限定词。
+- **going to English classes** 本身正确，表示上英语课；**going to an English class** 指去上一节课，按语境选择。
+
+#### 3. 自然搭配与句子结构
+
+- **preferred playing with Lego and reading comic books to making paper crafts**：prefer A to B，并列部分都用动名词。
+- **applying to a school / applying for school admission**，比 applying for some school admissions 自然。
+- **Most things can be done online**，避免 daily life and services can be done online 的搭配混乱。
+- **physical letters** 强调实体信件，**handwritten letters** 强调手写；两者并非完全同义，也不必一律替换。
+- **have sentimental value**，不用 including sentimental value；**create a sense of emotional connection / remind people of the strong bonds they have with others**，不用 Something build a strong bond。
+- **memories of their family and friends**，比 memories of families or their friends 指代清楚。
+- **take notes / make notes** 都正确；比较方便程度用 **more convenient than**，不用 more convenient instead of。
+- **tried different layouts and colors and drew things...**，避免 a different layout, color and things 的不平行结构。
+- **with every meal / with each meal** 表示“每餐搭配着吃”；with a meal 本身正确，只是没有“每餐”的意思。
+- **can sometimes grow their own vegetables** 语序自然；at least some 并非语法错误，此处直接说 some vegetable dishes 更简洁。
+- **order groceries** 贴合买水果蔬菜的语境；**get good value for money**，不是 made good value。
+- **in my daily life**，不是 in my day life；**helped shape my behavior** 比 helped me shape my behavior 更简洁。
+- **make a real difference**，不是 make it real difference；举例用 **something as simple as thanking a shop assistant**，避免 Even like something simple, like...。
+
+#### 4. 避免重复与未完成的句子
+
+- making crafts with paper was a cheap way to make something... 未说完，最小修改版保留前面的完整观点即可。
+- **on paper, by drawing them on the paper** 重复，保留一次；**interesting and fascinating** 通常保留 fascinating 即可。
+- **in person** 和 offline 在此重复；直接用 when I shop in person。
+- **which plane flew furthest / the furthest** 都可接受，副词最高级前的 the 可省略。
+- Because 引出的原因在口语中可以单独补充，整理答案时与前句合并通常更顺畅。
+- 同题采用最新完整版本，补充想法并入对应答案；错误复盘仅依据本批提供的自主组织版本，不另收单纯复述的版本。
+
+本轮优先复练：童年经历的过去时、情态动词后用原形、paper / stuff 的不可数用法，以及 **prefer A to B、have sentimental value、have stuck to it ever since、make a real difference**。
+
+### Tiredness, Rubbish and Recycling & Name
+
+#### 1. 时态与条件句
 
 - *when I don't sleep well last night* → **when I haven't slept well the night before**；若明确说昨晚，可说 **because I didn't sleep well last night**。
 - 童年经历：*I hardly remember the rules* → **I could hardly remember the rules / I hardly remembered the rules**。
@@ -869,7 +871,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - *That was not big deal* → **It's not a big deal**：这里是在表达现在的态度，同时补上 a。
 - **If it's easy to pick up, I'll pick it up...** 清楚表达遇到这种情况会怎么做；if + 现在时搭配 would 在口语中也可表达委婉意愿，不应一概判错。
 
-### 2. 单复数、冠词与词性
+#### 2. 单复数、冠词与词性
 
 - *different type / kind of waste* → **different types / kinds of waste**。
 - *have bad / poor memory* → **have a bad / poor memory**，这里需要 a。
@@ -879,7 +881,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - *if possibly* → **if possible**。
 - **a nearby bin** 适合首次提到附近某个垃圾桶；**the nearby bin** 在双方知道具体指哪个时也正确。
 
-### 3. 动词搭配、平行结构与指代
+#### 3. 动词搭配、平行结构与指代
 
 - *prefer meet* → **prefer to meet**。
 - *prefer staying at home and have more rest* → **prefer to stay at home and get more rest**；也可用 **prefer staying at home and getting more rest**，保持并列形式一致。
@@ -891,7 +893,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 - **connect names with something familiar** 本身正确；**link names to something familiar** 也自然。
 - 想表达某个人叫 Linda，用 **someone called / named Linda**；**remember someone as Linda** 容易变成“记得那个人叫 Linda”的意思。
 
-### 4. 自然表达与衔接
+#### 4. 自然表达与衔接
 
 - *in my daytime* → **during the day**。
 - *I can't remember theirs as well* → **I might not remember their name either**，表达“我也可能记不住”。

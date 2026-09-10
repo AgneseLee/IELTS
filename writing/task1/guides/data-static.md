@@ -18,14 +18,14 @@ Navigation: [Task 1 hub](../README.md) · [Dynamic charts](data-dynamic.md)
 
 适用于没有时间变化、重点在类别排名和组间差异的饼图、柱图与表格。先看单位：百分比优先使用 1–3，人数等绝对数量优先使用 4–6。
 
-| # | 功能 | 句型 | 示例 |
-|---:|---|---|---|
-| 1 | 占比 + 第二名 | `A accounted for X%, followed by B at Y%.` | `Private studios accounted for 48%, followed by school halls at 24%.` |
-| 2 | 倍数比较 | `The figure for A was twice that for B.` | `The figure for private studios was twice that for school halls.` |
-| 3 | 两项分别占比 | `A and B represented X% and Y%, respectively.` | `Community halls and college-based studios represented 18% and 10%, respectively.` |
-| 4 | 同一类别中的两组人数 | `A attracted X participants, compared with Y in Group B.` | `Ballet attracted 600 under-11s, compared with 300 11–16-year-olds.` |
-| 5 | 人数差 | `Group A outnumbered Group B by X.` | `In modern dance, 11–16-year-olds outnumbered under-11s by approximately 220 students.` |
-| 6 | 两组数值接近 | `Participation was relatively even, at X versus Y.` / `The figures for A and B were relatively close, at X and Y, respectively.` | `Participation in tap was relatively even, at 450 versus approximately 420.` / `The figures for the two age groups were relatively close, at 450 and approximately 420, respectively.` |
+|   # | 功能         | 句型                                                                                                                               | 示例                                                                                                                                                                                     |
+| --: | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | 占比 + 第二名   | `A accounted for X%, followed by B at Y%.`                                                                                       | `Private studios accounted for 48%, followed by school halls at 24%.`                                                                                                                  |
+|   2 | 倍数比较       | `The figure for A was twice that for B.`                                                                                         | `The figure for private studios was twice that for school halls.`                                                                                                                      |
+|   3 | 两项分别占比     | `A and B represented X% and Y%, respectively.`                                                                                   | `Community halls and college-based studios represented 18% and 10%, respectively.`                                                                                                     |
+|   4 | 同一类别中的两组人数 | `A attracted X participants, compared with Y in Group B.`                                                                        | `Ballet attracted 600 under-11s, compared with 300 11–16-year-olds.`                                                                                                                   |
+|   5 | 人数差        | `Group A outnumbered Group B by X.`                                                                                              | `In modern dance, 11–16-year-olds outnumbered under-11s by approximately 220 students.`                                                                                                |
+|   6 | 两组数值接近     | `Participation was relatively even, at X versus Y.` / `The figures for A and B were relatively close, at X and Y, respectively.` | `Participation in tap was relatively even, at 450 versus approximately 420.` / `The figures for the two age groups were relatively close, at 450 and approximately 420, respectively.` |
 
 ### 使用限制与易错点
 

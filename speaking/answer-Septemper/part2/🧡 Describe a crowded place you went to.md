@@ -9,42 +9,42 @@
 > - What you did there
 > - And how you felt about it
 
-> Bank: B3 | Modules: airport / delayed-flight / calm-response
+> Bank: B7 | Modules: shopping-mall / crowded-outing / change-of-plan
 
-> Logic: L1 · sleep pressure → need for change → cue-specific turning point → manageable steps → calmness
+> Logic: shopping with Stella → crowded mall → frustration → quieter café → more flexible plans
 
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The crowded place was Beijing airport, where Stella and I began our trip to Malaysia last summer. I had slept badly before travelling because I worried about the schedule. At the terminal, long queues filled the check-in area, families blocked the walkways, and our flight was delayed. I initially kept checking the screen and became more anxious. Stella suggested finding two seats and reviewing only the next step. We had a quiet drink and waited for the gate number. I still found the airport tiring, but slowing down stopped the crowd from ruining the trip.
+The crowded place was a shopping mall in Beijing. I went there with my best friend Stella one weekend last summer. We wanted to buy some clothes and have dinner together. But when we arrived, it was packed. There were queues outside the restaurants, and we could barely move around the popular shops. We looked around a couple of clothing stores, but I soon felt overwhelmed by the noise. So we decided to skip the busiest shops and found a quieter café upstairs, where we sat down and had a drink.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. At the airport, focusing only on the next step stopped the delay from taking over. It helped me enjoy the trip once we finally boarded. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+At first, I was quite frustrated because I'd wanted to **take a break from my busy daily routine**. Instead, walking through the crowds made me feel even more tired. Sitting down with Stella helped me **clear my head**, though. We could finally hear each other properly and enjoy a chat.
+
+Looking back, I'm glad we changed our plan instead of forcing ourselves to visit every shop. I realised that spending time together mattered more to me than buying anything. I still don't enjoy crowded places, but I've learned to be more flexible. Next time, I'd go earlier in the day and leave some room in our plan for a quiet break.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
 - Primary Ability: Adaptability
-- Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
-- Secondary Ability: Problem-solving Skills
-- Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
+- Reason: I changed our shopping plan when the crowds made the outing stressful and found a more enjoyable way to spend time with Stella.
 
 ## 3. Story Bank
 
-- Who/What: Beijing airport before a trip to Malaysia.
-- Background: Pressure was affecting my sleep, and I knew the old routine had to change.
-- Main event: A crowded delay taught me to pause rather than add more pressure.
-- Ability shown: Adaptability and Problem-solving Skills through calm, practical action.
-- Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
+- Who/What: A shopping mall in Beijing, visited with my best friend Stella.
+- Background: We went one weekend last summer to buy clothes and have dinner.
+- Main event: After visiting a couple of crowded clothing stores, we skipped the busiest shops and had a drink at a quieter café upstairs.
+- Ability shown: Adaptability through changing the plan when shopping became overwhelming.
+- Reflection: Spending time together mattered more than buying things; a flexible plan made the outing more enjoyable.
 
 ## 4. Useful Collocations
 
-- broaden my horizons
-- leave a lasting impression
-- step outside my comfort zone
+- clear my head
+- take a break from my busy daily routine
+- practical comfort
 - adapt to changes
 - adjust my approach
 - remain flexible
-- deal with uncertainty
-- identify problems
+- feel overwhelmed by the noise
+- leave some room in our plan

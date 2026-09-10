@@ -146,6 +146,14 @@ Related templates:
 | `recorded at 30m`          | ✗ `recorded` 是及物动词，缺宾语 |
 | `recorded a figure of 30m` | ✓ 补上宾语即可               |
 
+**记住 `record` 的两个主动结构：**
+
+- `record + 数值`：`recorded 65%`，不用 `recorded at 65%`。上下文应明确该比例对应的指标；被动结构 `was recorded at 65%` 则正确。
+- `record figures of + 数值 + for + 类别`：明确数字对应什么，多个数字与类别用 `respectively` 一一对应。
+  > Library opening hours recorded figures of 65%, 35% and 0% for “very satisfied”, “fairly satisfied” and “not satisfied” responses, respectively.
+
+满意度表格中，评价类别用 `for … responses` 比 `at … levels` 更自然；`very satisfied` 不加连字符。
+
 #### `figure` / `proportion` / `allocation` 正确用法
 
 | 词 | 用于 | 例句 |
@@ -187,28 +195,6 @@ Related templates:
 - `Government employees had the highest proportion earning $100,000 or more.`
 
 第一种结构 `group/sector + had the highest proportion of people doing...` 指代最清晰；第二种更简洁，但上下文必须明确比较的是各就业群体内部的比例。
-
----
-
-## Structure, Introduction & Overview
-
-### 段落逻辑框架（写之前先分组！）
-
-```
-Overall（整体趋势 + 最大对比，两句）
-  └─ 段落2：Group A（同向数据放一起）
-  └─ 段落3：Group B（对比组）
-       └─ 例外在段末处理
-```
-
-分组示例（Test3 bar chart）：
-- 上升组：leisure 9→22%，housing 10→19%，transport 8→14%
-- 下降组：food 35→17%，clothing 10→5%，personal goods 8→4%，fuel & power 6→4%
-- 不变：household goods ~8%
-
-衔接词是辅助，不是救场工具。分组清晰后衔接自然到位。
-
-分组并非只有一种正确答案。若原文已形成可理解的顺序，修改稿可以保留该顺序，并用准确的对比关系说明组内不同走势；只有当混合分组明显妨碍理解或关键比较时，才需要重排正文。
 
 ---
 
@@ -297,28 +283,14 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - `Employment peaked at 20 million in 1980, up from 15 million in 1960.`：`up from` 可在报告峰值后补充较早的起点。
 - `Healthcare caught up with retail at approximately 16 million jobs.`：`caught up with` 表示由落后到追平；不同于表示反超的 `overtook`。
 
----
-
-## Final Checklist
-
-### Task Achievement
-
-- [ ] 题型、时间、单位、比较对象判断正确。
-- [ ] Introduction 准确改写题目。
-- [ ] Overview 概括主要特征；不堆细节。
-- [ ] 正文覆盖关键信息；不加入图中没有的内容。
-
-### Coherence & Cohesion
-
-- [ ] 四段：Introduction / Overview / Body 1 / Body 2。
-- [ ] 数据按规律分组；地图按区域分组；流程按阶段分组。
-- [ ] 连接词表示真实关系，不机械堆叠。
-
-### Language
-
-- [ ] 时态、主谓、单复数、冠词正确。
-- [ ] 数据名词匹配单位：`number / proportion / spending / rate of change`。
-- [ ] 比较对象同类；`respectively` 前后一一对应。
-- [ ] 流程图优先一般现在时与被动语态。
 
 ---
+
+## 满意度表格：指标、评价对象与分母
+
+- 区分 `very satisfied` 与 `very satisfied + fairly satisfied`。例如 opening hours 为 65/35/0，staff helpfulness 为 95/5/0：两者总满意度同为 100%，但 staff 的 very satisfied 比例更高。不能不指明指标就写 `opening hours took the lead`。
+- `Neither service attracted dissatisfaction.` 可概括两项服务的 not satisfied 均为 0%；`Staff helpfulness received the highest proportion of very satisfied responses.` 明确最高项的比较指标。
+- ✗ `Users showed satisfied` → ✓ `Users were satisfied with the service` / `Users expressed satisfaction with the service`。
+- ✗ `unsatisfied categories` → ✓ `services with the highest dissatisfaction rates`：不满意的是用户，服务获得评价。
+- ✗ `7% of academic staff`（要表达学术人员占全部用户 7% 时）→ ✓ `7% for academic staff` / `Academic staff accounted for 7% of users.`：检查 of 是否改变了百分比的分母。
+- 此处 `academic staff` 是集合称谓，不写 `academic staffs`；学生与工作人员合并分类用 `user categories`，不宜笼统称为 `education status`。

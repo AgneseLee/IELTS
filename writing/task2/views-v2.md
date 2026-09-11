@@ -283,6 +283,22 @@ Nevertheless, excessive government intervention may **have harmful effects on th
 - 正：媒体提高信息效率和社会监督。
 - 反：媒体可能传播虚假信息、侵犯隐私、影响心理健康。
 
+
+
+I believe it is an overall positive trend.
+
+First of all, advertisements undoubtedly bring substantial benefits both for individuals and companies. One key strength is its ability to help consumers to make informed decisions by providing as much information as possible through advertising. Individuals can compare prices, qualities, and features of products among multiple choices, allowing them to select and purchase one that is most suitable for them. Moreover, aiming for winning consumers’ favor, such competition encourages companies to produce products that are cheaper yet with better quality, thereby improving basic technology involved and making much profits for people. As a result, advertisements not only help consumers obtain sufficient information but also contribute to sustainable long-term improvement in commercial business. 
+
+However, opponents may argue that advertisements produce harmful effects on consumers by leading to excessive consumption. When people are constantly exposed to repeated advertisements, they may be induced to buy something they don’t truly need. In some cases, they make purchases on account of appealing prices and exaggerating functions products don’t have. Nevertheless, a viable solution is to introduce and strictly enforce advertising regulations, which limit the number of advertisements showing. Furthermore, regulators should supervise whether advertisements present with emotional words or mislead people with fake data. If implemented properly, it can address the problem of misleading context while curbing excessive consumption in the long run.
+
+#### 批改版
+
+I believe **advertising is broadly beneficial**.
+
+First of all, advertisements **can bring** substantial benefits **to both** individuals and companies. One key strength is **their** ability to help consumers to make informed decisions by providing **relevant product information**. Individuals can compare **the prices, quality, and features of different products**, allowing them to select and purchase **the** one that is most suitable for them. Moreover, **when consumers can compare competing offers, companies have an incentive to win their favour by offering products that are cheaper yet of better quality**. **This can encourage improvements in production technology, helping firms reduce costs and attract more buyers, which may increase their profits**. As a result, advertisements not only help consumers obtain **useful** information but also contribute to **long-term improvements in business performance**.
+
+However, opponents may argue that advertisements produce harmful effects on consumers by leading to excessive consumption. When people are constantly exposed to repeated advertisements, they may be induced to buy something they don’t truly need. In some cases, they make purchases **because of attractive prices and false claims about product features**. Nevertheless, a viable solution is to introduce and strictly enforce advertising regulations, which limit **how often the same advertisements are shown to consumers, reducing repeated pressure to buy**. Furthermore, regulators should **require advertisers to remove misleading claims and support statements about product performance with verifiable evidence**. If implemented properly, **these measures can reduce misleading content and help curb excessive consumption, allowing consumers to retain the informational benefits of advertising with less pressure to make unnecessary purchases**.
+
 ### 扩写任务
 
 写 `media literacy` 和 `misinformation`。

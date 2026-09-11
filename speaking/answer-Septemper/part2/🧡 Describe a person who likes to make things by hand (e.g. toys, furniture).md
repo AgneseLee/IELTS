@@ -8,42 +8,42 @@
 > - How you know this person is good at making things
 > - And explain why you admire this person's skills
 
-> Bank: B8 | Modules: woodwork / small-stool / patient-craft
+> Bank: B1 | Modules: childhood friend / plans
 
-> Logic: L1 · sleep pressure → need for change → cue-specific turning point → manageable steps → calmness
+> Logic: handmade journal → careful planning → fewer mistakes → slow is fast
 
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The person is my uncle Chen, who makes shelves, stools, and small wooden boxes in his garage. I knew he was skilled after watching him repair a stool that everyone else wanted to throw away. During that period, work stress was affecting my sleep, so I spent an afternoon in his workshop. He measured each piece twice, sanded it slowly, and corrected one loose joint at a time. The finished stool looked simple but felt completely solid. I admire him because his patience turns damaged materials into useful objects without unnecessary waste.
+I'd like to talk about Ming, my childhood friend from Zhanjiang. He loves <mark style="background: #ABF7F7A6;">making personalised journals </mark>by hand. He draws weekly layouts, adds little illustrations, and puts photos and tickets on the pages. Once, he showed me how he made a page for his travel memories. He arranged everything before gluing it down, checking the spacing and colours carefully. The finished page looked beautiful, and every detail had a purpose. I admire his skill because he can turn ordinary paper into something personal. He clearly enjoys the process as much as the result.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. My uncle's careful repair reminded me that solid work takes patience. Like that stool, a routine can be rebuilt piece by piece. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+Watching him made me think about the idea that "slow is fast." I used to rush through tasks because I thought speed meant progress. But I often made mistakes and had to start again. Ming showed me that taking a little time to plan can save time later.
+
+He also encouraged me to think creatively when making my own journal. I tried different layouts in pencil before choosing one that worked for me. Now I apply that habit to work too: I pause, organise my thoughts, and then begin. I still want to finish things quickly, but I've learned that a steady pace often gets me there sooner.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping
 
 - Primary Ability: Creativity & Innovation
-- Reason: The cue-specific turning point led to a practical action instead of more anxious rushing.
-- Secondary Ability: Adaptability
-- Reason: I adjusted my routine and used manageable steps when the previous approach harmed my sleep.
+- Reason: I experimented with pencil layouts and chose a journal design that suited my needs.
 
 ## 3. Story Bank
 
-- Who/What: My uncle Chen, who makes small pieces of wooden furniture.
-- Background: Pressure was affecting my sleep, and I knew the old routine had to change.
-- Main event: Watching him repair a stool slowly changed how I responded to work pressure.
-- Ability shown: Creativity & Innovation and Adaptability through calm, practical action.
-- Reflection: Slowing down restored control, confidence, sleep, and enjoyment.
+- Who/What: Ming, my childhood friend from Zhanjiang, who makes personalised journals by hand.
+- Background: He enjoys drawing layouts and decorating pages with illustrations, photos, and tickets.
+- Main event: I watched him arrange a travel-memory page carefully before gluing anything down.
+- Ability shown: Creativity & Innovation through trying different layouts in my own journal.
+- Reflection: "Slow is fast": planning before acting reduces mistakes and saves time spent redoing work.
 
 ## 4. Useful Collocations
 
-- remain calm under pressure
-- make a meaningful practical difference
-- a visible community result
+- plan well in advance
+- stay calm and optimistic
+- learn from mistakes
 - think creatively
 - explore possibilities
-- find innovative solutions
 - turn ideas into reality
-- improve existing methods
+- make personalised journals
+- arrange everything before gluing it down

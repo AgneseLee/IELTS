@@ -294,3 +294,14 @@ Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和�
 - ✗ `unsatisfied categories` → ✓ `services with the highest dissatisfaction rates`：不满意的是用户，服务获得评价。
 - ✗ `7% of academic staff`（要表达学术人员占全部用户 7% 时）→ ✓ `7% for academic staff` / `Academic staff accounted for 7% of users.`：检查 of 是否改变了百分比的分母。
 - 此处 `academic staff` 是集合称谓，不写 `academic staffs`；学生与工作人员合并分类用 `user categories`，不宜笼统称为 `education status`。
+
+
+---
+
+## 预算混合图：资金来源、份额与金额
+
+- 总预算变化时，某项占比不变不代表其金额不变。✗ `Buildings and transport remained unchanged.` → ✓ `The share allocated to buildings and transport remained unchanged at 17%.`
+- `Salaries for officers and staff` 保留完整类别；不要只写 officers。`Buildings and transport` 中 buildings 用复数。
+- ✗ `The other sources saw a small ease from £38m to £38.5m.` → ✓ `Funding from other sources edged up from £38m to £38.5m.`：ease 在趋势描述中通常表示下降或缓和。
+- `Local taxes recorded the largest increase, while national government remained the largest funding source.`：区分增长幅度与资金规模。不要在地方税后用 `followed by national government`，否则暗示政府资金排名较低。
+- 增长率可以依据起终点计算，但要明确指标：本题地方税的金额增量（£11.1m）和相对增幅（约 12.2%）均最大。`highest increasing rate` 应改为 `highest growth rate`；比较绝对增量用 `largest increase`。

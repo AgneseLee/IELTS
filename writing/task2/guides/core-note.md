@@ -394,3 +394,27 @@ Task 2 不需要硬造统计数据。虚假的调查会让论证显得不可信�
 - `business expansion → greater demand for labour → employers may offer higher wages to attract staff`
 - `mining and land development without environmental safeguards → habitat destruction → damage to local ecosystems`
 - `clear obligations to limit resource extraction and protect habitats → penalties for non-compliance → a financial incentive to prevent environmental damage`
+
+
+## 广告：知情选择、市场竞争与过度消费
+
+### 新增错误与表达辨析
+
+| 错误 | 修正 | 原因 |
+|---|---|---|
+| `advertisements ... its ability` | `advertisements ... their ability` | 代词必须与复数先行词一致。 |
+| `aiming for winning consumers’ favor, such competition...` | `competition to win consumers’ favour...` | 原分词短语的意图主体应为企业，避免让 competition 承担人的意图。 |
+| `prices, qualities, and features` | `prices, quality, and features` | 产品质量用不可数的 quality；qualities 通常指多种特质。 |
+| `advertisements showing` | `advertisements shown` | 被展示的广告用过去分词表示被动。 |
+| `exaggerating functions products don’t have` | `false claims about product features` | 不存在的功能是 false claims；夸大已有性能是 exaggerated claims。 |
+| `advertisements present with emotional words` | `advertisements use emotive language` | 原谓语结构不成立；情绪化语言本身并不等于误导。 |
+| `misleading context` | `misleading content` | context 指语境，content 指内容。 |
+
+### 可复用逻辑链与搭配
+
+- `relevant product information → compare competing offers → make informed purchasing decisions`
+- `easier comparison → stronger incentives to offer better value → improved production technology → lower costs and more buyers → potentially greater profits`
+- `limit how often the same advertisements are shown → reduce repeated pressure to buy → help curb unnecessary purchases`
+- `remove misleading claims and require verifiable evidence for product performance → help consumers judge products more accurately`
+- `offer products of better quality / generate greater profits for businesses / preserve the informational benefits of advertising`
+- 正负评价题中，监管措施应解释为何风险可控、收益仍可保留；不能仅用“有监管”代替总体判断。信息更多不必然更可靠，价格更低也不必然使利润增加。

@@ -13,17 +13,11 @@
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The person I'd like to talk about is Stella, my former colleague and one of my best friends. She's usually cheerful and enjoys the small things in life. We met at work, and we often go for walks together and talk about work and life.
-
-During our walks, she smiles a lot, makes little jokes, and tells me about small things that made her happy that day. It might be a nice lunch or a funny conversation with a colleague. She often laughs while telling these stories, and I usually end up laughing with her. She's also interested in hearing about my day, so our conversations feel relaxed and enjoyable.
-
-About three months ago, my previous company went through a layoff, and Stella received a much heavier workload. She began sleeping badly and feeling overwhelmed. She honestly talked to her manager, asked him for help, and stopped replying to non-urgent messages at night. Within a few weeks, she was sleeping better and enjoying her daily life again.
+It was about three months ago. I had trouble falling asleep. I was basically worrying about my future and my career, and I couldn't stop thinking about everything that was bothering me. After several nights of sleeping badly, I felt like I couldn't live like that anymore. Anyway, that's why I talked to my friend Stella. She's the kind of person who always seems happy and makes people around her feel happy and at peace. I invited her to my apartment, and we just lay on the sofa talking about literature, movies, and music—not about cars, houses, or money, those kinds of boring things. Then our conversation drifted to what I was concerned about, like my work and life. She comforted me by telling me that everyone is going to die someday, so we should live a happy life instead of always trying to behave perfectly or correctly.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I think she's a happy person because she has learned to set healthier boundaries and enjoy life outside work. She makes time for friends and notices small things she can look forward to, even during a busy week.
-
-I really enjoy spending time with her because I feel more relaxed after our walks. Her example changed my view of happiness. I used to think I had to achieve something important before I could feel satisfied, but seeing her enjoy an ordinary evening reminds me to appreciate my own daily life. I admire the way she takes care of herself and shares her happiness with people around her. Most importantly, she taught me never to treat exhaustion as an achievement.
+What she said stuck with me. It made me realize that my old belief was probably wrong. I used to think I had to finish everything and handle every challenge on my own. That made me feel overwhelmed sometimes, but I thought it would prove how powerful and capable I was, so I stuck to it for years. But eventually, I just couldn't stand it anymore, and what Stella said helped me rethink it. She's the kind of person who truly enjoys the breeze and appreciates the sun, the moon, and the stars—just those regular things around us. I think that's why she's more likely to be happy, because the things she appreciates are regular and common. I think that's a really optimistic and powerful mindset.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

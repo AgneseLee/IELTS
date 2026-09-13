@@ -15,11 +15,11 @@
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-The skill was riding a bicycle, which I learned at age nine. My father taught me near our home. He first held the back of the seat while I practised balancing, and then he let go briefly. I fell twice, but he asked me to focus only on the next short distance. Years later, when work stress began affecting my sleep, I remembered that process. The memory reminded me that confidence usually comes after repeated attempts, not before them. Learning the skill felt frightening at first but deeply satisfying.
+When I was ten years old, my dad taught me how to ride a bicycle near our home. First, he held the back of the seat while I practiced balancing, and then he let go briefly. I fell several times, but he asked me to focus on a short distance, like just five meters instead of a hundred meters. So I started to focus more on what I could control, especially my balance. After several weeks of practice, I finally learned the skill.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. Learning to cycle still reminds me that balance comes through practice, not overthinking. That childhood lesson became surprisingly useful again. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+Looking back, the experience helped me more than I expected. I used to be the kind of person who rushed to finish everything immediately because I thought it would somehow prove that I was competent and strong enough. So when I fell the first couple of times, I got frustrated and upset. But my dad told me to break the challenge into smaller and more manageable steps that I could handle, and that made it easier for me to get through it. Looking back, the experience reminds me not to rush, especially when I'm feeling stressed out, whether in my life or at work, because rushing can easily make things worse. What truly matters is confidence, and confidence usually comes through consistent practice rather than overthinking. If we keep hesitating about something we're not good at, or keep considering something a huge challenge, we may end up doing nothing but hesitating. That could become a huge regret when we look back.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

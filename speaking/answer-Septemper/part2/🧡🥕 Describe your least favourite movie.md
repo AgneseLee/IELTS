@@ -15,11 +15,11 @@
 ## 1. Band 7 Answer (1:40–2:00)
 
 <!-- NARRATIVE_START -->
-My least favourite movie is a loud action film that I watched at home last winter. I chose it because I wanted a distraction after a stressful workday, but I was already sleeping badly. The story followed a police officer chasing criminals through one explosion after another. The editing was fast, the characters barely spoke, and I never cared about them. Instead of helping me relax, it made me feel more restless. I stopped halfway through and chose a short walk without my phone. That contrast became the useful part of the experience.
+About three months ago, I had trouble falling asleep. I just couldn't fall asleep naturally. I was literally lying in bed and couldn't stop thinking about my career and my future. I was basically worried about everything that was bothering me. Anyway, one night I stayed up late and couldn't fall asleep again, so I turned on my laptop and randomly chose a movie to watch to help me relax. And that turned out to be the least favorite movie I've ever watched. Actually, I can hardly remember what the story was mainly about. I just remember some scenes and some parts of the plot. It was about a man who launched his own business, and a series of lucky things happened to him. That's what led him to success.
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, that experience helped me more than I expected. Ironically, that terrible film helped me notice how much noise and speed were <mark style="background: #ABF7F7A6;">draining</mark> me. At least stopping it led to a better choice. I didn't suddenly fix everything. I just stopped pushing so hard and focused on one small thing at a time. Gradually, my head felt clearer and I started sleeping better. I used to think slowing down meant falling behind, but now I see it differently. When I'm stressed, rushing usually makes things worse. A steady pace helps me move forward and enjoy the process. I still have bad days, but I don't feel completely lost anymore.
+I didn't like the movie because I didn't agree with the idea it tried to convey: that success simply comes from luck. And that's something people cannot control. It seems like people can achieve something big without putting much effort into it, but only by waiting for someone else to help them. And I don't think that's a correct idea. So that's why it's the least favorite movie I've ever watched.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

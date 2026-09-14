@@ -12,7 +12,49 @@ Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 
 ---
 
+## 冲 7.5 的两个关键改进
+
+### 1. Introduction — 真正改写，不要抄题目
+
+✗ `The graph illustrates the number of shop closures and openings between 2011 and 2018.`
+✓ `The line graph illustrates how the number of new shop openings and closures changed in one country over a seven-year period from 2011 to 2018.`
+
+改写三步：① 指明图表类型（line graph / bar chart / pie chart）② 用 `how... changed` 替换 `illustrates the number of` ③ `over a seven-year period` 替换 `between X and Y`
+
+### 2. Overall — 去掉具体数据，抓分析视角
+
+Overall 段不放具体数字，那是 body 的工作。Overall 讲**规律和对比**。
+
+✗ `While the number of openings began with the lion's share at 8,500 in 2011...` ← 有具体数字
+✓ `Most notably, the two categories reversed their relative positions over the period, with openings initially dominant but ultimately surpassed by closures by 2018.`
+
+关键句型：`reversed their relative positions` — 比单纯说 "surpassed" 更有分析感，直接拉高分数。
+
+---
+
+
+### Overall 段公式
+
+`Overall, [整体方向A] while/whereas [对比方向B]. By [终点年], [最显著的结果].`
+
+共用表达：[衔接词](data-static.md#cohesion) · [占比、数值与数据名词](data-static.md#data--comparison-language)
+
+---
+
 ## Trend Language
+
+### 多组数值与峰值
+
+**救命词 `respectively`**：
+> `Leisure and housing soared from 9% and 10% to 22% and 19%, respectively.`
+
+**描述多组数据的峰值与变化：**
+- `recorded the two highest figures` — 记录了最高的两个数值（绝对数量，不用 proportion）
+  > `The lowest two brackets recorded the two highest figures of 28m and 30m in 2011.`
+- `recorded peaks of X and Y in [year]` — 在某年分别达到峰值（配合 respectively）
+  > `...recorded peaks of 28m and 30m in 2011, before dropping to 28m and 29m by 2015, respectively.`
+
+注意：`peaks of X` 引入数值；`peaked at X` 描述单一峰值 — 两者均正确，场景不同。
 
 ### 趋势动词 × 程度副词（成对记，不要拆开）
 
@@ -66,6 +108,16 @@ Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 | `percentage change` | 强调单位 |
 | `growth rate` | 仅用于正值区间 |
 
+#### 环比变化率：线下降不等于价格下降
+
+当纵轴表示 `percentage change compared with the previous month` 时，线条显示的是**变化率**而不是实际价格：
+
+- 变化率从 `6%` 降到 `1%`：价格仍较上月上涨，只是 `the rate of increase slowed`；不能直接写 `the price fell`。
+- 变化率为 `0%`：价格与上月相同。
+- 变化率为 `-3%`：价格较上月下降 3%，可写 `the price fell by 3% compared with the previous month`。
+
+因此，描述线本身时优先用 `the rate of change fell to...`；只有数值跌破零后，才能据此说当月实际价格下降。
+
 #### 峰谷与稳定
 
 | 句型 | 例句 |
@@ -113,6 +165,16 @@ Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 - ✓ `An almost opposite pattern occurred in table tennis.`
 - ✓ `Table tennis followed an almost opposite pattern.`
 
+### 变化幅度与“增长率”不要混用
+
+图表只给出人数或数值时，通常比较的是**绝对变化幅度**，不要自行写成 `rate`：
+
+- ✗ `Table tennis soared at the highest rate.`
+- ✓ `Table tennis recorded the strongest growth.`
+- ✓ `Table-tennis participation saw the largest increase.`
+
+排名始终领先时用 `remained the most popular` 或 `consistently recorded the highest figure`。`overtook` 只用于原本落后、后来反超的交叉走势。
+
 ### Ownership：电器拥有率与家务时间
 
 | 错误 | 修正 | 原因 |
@@ -138,3 +200,12 @@ Navigation: [Task 1 hub](../README.md) · [Static charts](data-static.md)
 | `allocation for new shops` | `number of shop openings` | 店铺开关数量是绝对数量，不是预算分配 |
 | `the closing number` | `the number of closures` | 名词修饰顺序不自然 |
 | `peaked at the highest position` | `peaked at about 7,100` | `peak at` 后直接接数值 |
+
+### 就业数量：单位、排名与历史区间
+
+- ✗ `6 millions` → ✓ `6 million jobs`：具体数字后 `million` 不加 s；泛指才用 `millions of jobs`。
+- ✗ `Agriculture remained the lowest number since 1980.` → ✓ `Agriculture had the fewest jobs from 1980 onwards.`：行业不是数字；比较岗位数用 `had the fewest jobs`，封闭的历史区间用过去时。
+- ✗ `during the former two decades` → ✓ `over the first two decades`：表示全时期最初的二十年用 `first`。
+- ✗ `remained unchanged in 2000` → ✓ `remained unchanged from 1980 to 2000` / `remained unchanged until 2000`：描述平台期须明确区间或承接前文起点。
+- `Employment peaked at 20 million in 1980, up from 15 million in 1960.`：`up from` 可在报告峰值后补充较早的起点。
+- `Healthcare caught up with retail at approximately 16 million jobs.`：`caught up with` 表示由落后到追平；不同于表示反超的 `overtook`。

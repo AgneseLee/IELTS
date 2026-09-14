@@ -189,6 +189,16 @@ Use only when A and B clearly match C and D.
 
 > A cafe and a lecture room are now located in the south-eastern and north-eastern corners, respectively.
 
+
+### 6.3 地图题的过去时间标记
+
+`before` 和 `ago` 不要重复使用：
+
+- ✗ `Before 20 years ago, the seating area...`
+- ✓ `Twenty years ago, the seating area...`
+- ✓ `In the previous layout, the seating area...`
+
+若写 `before`，后面应接另一个过去时间点或事件，例如 `before the library was renovated`。
 ---
 
 ## 7. Cohesion

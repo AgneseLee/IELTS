@@ -4,13 +4,6 @@
 
 Navigation: [Task 1 hub](../README.md)
 
-## Writing Route
-
-1. Identify the map type and time frame.
-2. Overview: largest transformation plus one stable feature.
-3. Group details by area or transformation type.
-4. Keep one spatial order; do not jump around the map.
-
 ---
 
 ## 1. Map Types & Tense
@@ -27,12 +20,6 @@ Navigation: [Task 1 hub](../README.md)
 
 Only report visible layout, function, replacement and preservation.
 
-| Avoid | Prefer | Reason |
-|---|---|---|
-| `make way for accessibility for people` | `the central area has been cleared of tables and chairs` | Accessibility is not shown. |
-| `the library experienced a significant development` | `the library has been modernised and reorganised` | More specific and natural. |
-| `a digital media room` | `a room for CDs, videos and computer games` | Use the label shown. |
-
 Reusable pattern:
 
 > Overall, [place] has been [main transformation], with [major replacement/addition]. One feature that has remained unchanged is [stable feature].
@@ -43,28 +30,15 @@ Example:
 
 功能变化：`modernised` 强调现代化，`reorganised` 强调重新布局，`converted to new uses` 明确强调用途变化。
 
-> Overall, the library has been reorganised, with several areas converted to new uses, while the entrance has remained unchanged.
-
-若图中明确显示整体用途转变，可进一步概括：
-
-> Overall, the library has shifted from mainly providing space for books and reading to offering a wider range of services.
-
 ---
 
-## 3. Spatial Order
+## 3. Body Paragraph Patterns
 
-Recommended order for an indoor plan:
+### 3.1 Past-map pattern
 
-1. Centre.
-2. West and east of the centre.
-3. Four corners.
-4. Entrance and unchanged features.
+> Twenty years ago, X was situated at the centre. Immediately to its west and east, there were A and B, respectively. C <mark style="background: #ABF7F7A6;">occupied</mark> the north-western corner, with D in the south-western corner. Meanwhile, E and F were positioned in the north-eastern and south-eastern corners, respectively.
 
-Past-map pattern:
-
-> Twenty years ago, X was situated at the centre. Immediately to its west and east, there were A and B, respectively. C occupied the north-western corner, with D in the south-western corner. Meanwhile, E and F were positioned in the north-eastern and south-eastern corners, respectively.
-
-Present-map pattern:
+### 3.2 Present-map pattern
 
 > Today, the former A has been transformed into B. C has been created where D used to be, while E and F are now located in the south-eastern and north-eastern corners, respectively. X and Y are positioned on either side of the main hall, with the entrance maintaining its original position.
 
@@ -72,260 +46,94 @@ Present-map pattern:
 
 ## 4. Position Language
 
-### 4.1 Boundaries & Areas
+### 4.1 Position Verbs
 
 | Function | Expression |
 |---|---|
-| Edge | `along the northern/southern edge of...` |
-| Within an area | `within the confines of...` |
-| Corner | `in the north-western corner` |
-| End of a route | `at the eastern end of...` |
+| 位于 | `was situated / positioned / located ...` |
+| 占据某区域 | `occupied ...` |
+| 位于（主动） | `lay ...`（现在时 `lies ...`） |
+| 被包围 | `was encircled by / surrounded by ...` |
 
-Examples:
+`lie` 表示“位于”时，过去式是 `lay`；`lied` 表示“撒谎了”。
 
-- `Along the northern edge of the site, a river separates the industrial zone from farmland.`
-- `Various factory buildings are arranged within the confines of the industrial park.`
-
-### 4.2 Adjacency & Coordinates
+### 4.2 Directions & Relative Position
 
 | Function | Expression |
 |---|---|
-| Adjacent | `adjacent to...` |
-| Exact direction | `immediately to the east/west of...` |
-| Two sides | `on either side of...` / `flanking...` |
+| 中央 | `at the centre` |
+| 相对方位 | `to the north of X` |
+| 边缘 | `along the northern edge of ...` |
+| 角落 | `in the north-western corner` |
+| 道路端点 | `at the eastern end of X Road` |
+| 紧邻某方向 | `immediately to the east of X / immediately to its east` |
+| 相邻 | `adjacent to ...` |
+| 两侧 | `on either side of X / flanking X` |
 
-Examples:
+---
 
-- `A playground will be established adjacent to the new school.`
-- `A school will be built immediately to the east of the central roundabout.`
-- `Two lakes will flank the original bridge.`
-
-#### `to the north of` vs `in the north of`
-
-| Expression | Meaning | Example |
-|---|---|---|
-| `to the north of X` | 位于 X 的北面；强调两个地点的相对方位 | `The countryside lies to the north of the main road.` |
-| `in the north of X` | 位于 X 内部的北部 | `The bus station will be built in the north of the town centre.` |
-
-`the countryside to the north` 是 `the countryside which lies to the north` 的简化形式，其中 `to the north` 修饰 `the countryside`。
-
-### 4.3 Routes & Connectivity
+## 5. Change Language
 
 | Function | Expression |
 |---|---|
-| Extension | `extending northwards from...` |
+| 新增 | `was constructed / built / established / added` |
+| 用途转换 | `was converted into / transformed into / repurposed as ...` |
+| 移除并替换 | `was removed and replaced by ...` |
+| 拆除以腾出空间 | `was demolished to make way for ...` |
+| 位置不变 | `remained in its original position / retained its original position` |
+| 互换位置 | `exchanged positions` |
+
+`converted into` 强调用途改变；`transformed into` 强调整体转变；`repurposed as` 表示重新利用为某种用途。
+
+> The café has been converted into a bookshop.
+
+> The café has been transformed into a bookshop.
+
+若图中展示三个先后阶段：
+
+> The café was transformed into a bookshop and later into a general store.
+
+店铺类型按图中标签填写；已结束的历史变化用过去时。
+
+---
+
+## 6. Routes & Connectivity
+
+| Function | Expression |
+|---|---|
+| Extension | `extending northwards from ...` |
 | Crossing | `crossing the river via a bridge` |
 | Expansion from a centre | `radiating from the city centre` |
+| Ring shape | `a ring-shaped road` |
+| Junction | `formed the junction with ...` |
 
 Examples:
 
 - `The road network will be expanded, with a main road extending northwards from the roundabout.`
 - `The extended road will cross the river via a newly constructed bridge.`
 - `The network has developed into a grid system radiating from the city centre.`
+- `A ring-shaped road will encircle the town centre.`
+- `The southern roundabout formed the junction with the main road.`
 
-### 4.4 Surrounding & Distribution
+### 6.1 Direction vs Position
 
-| Function | Expression |
+| Expression | Meaning |
 |---|---|
-| Surrounded | `encircled by...` / `surrounded by...` |
-| Linear distribution | `positioned along...` |
-| Opposite sides | `positioned on either side of...` |
+| `extends northwards from the roundabout` | 从环岛向北延伸：说明道路走向，且连接环岛 |
+| `is to the north of the roundabout` | 位于环岛北边：只说明位置，不说明走向或连接关系 |
 
-> The business district, once on the edge, is now encircled by a much larger residential area.
+`extending` 本身不明确表示全新修建；若图中是新增道路：
+
+> A new main road will be built, extending northwards from the roundabout.
 
 ---
 
-## 5. Change Language
+## 7. Complex Sentences & Comparison
 
-| Function | Safe expression |
+| Function | Pattern |
 |---|---|
-| Preserve | `remained in its original position` / `retained its original position` |
-| Add | `was constructed` / `has been created` / `will be built` |
-| Demolish | `was demolished to make way for...` |
-| Replace | `has been replaced by...` |
-| Transform | `has been transformed into...` |
-| Integrate | `has been integrated into...` |
-
-Examples:
-
-- `Existing factories will be demolished to make way for housing.`
-- `The former factory site will be replaced by shops to the south-west of the centre.`
-- `The farmland will be transformed into a residential area.`
-- `The airport has remained in its original position at the eastern edge.`
-
-#### Describing a change of use
-
-| Expression | Use | Example |
-|---|---|---|
-| `be converted into ...` | 改作……用途 | `The reading room has been converted into a café.` |
-| `be repurposed as ...` | 重新利用为…… | `The former book storage area has been repurposed as a computer room.` |
-
-用于原有房间或区域改作其他用途；若原建筑被拆除并新建另一设施，用 `be demolished to make way for ...`。
-
-#### Describing an unchanged position
-
-| Expression | Use |
-|---|---|
-| `remain in its original position` | 地图题中最自然，强调某设施继续位于原处 |
-| `retain its original position` | 正式且自然，强调保留原来的位置 |
-| `maintain its position` | 语法正确，但通常暗示主体主动保持位置，更常用于人、车辆或船只 |
-
-For static features, prefer:
-
-- `The school will remain in its original position.`
-- `The school will retain its original position.`
-
-Although `The school will maintain its original position` is understandable, it is less idiomatic for a building because the school is not actively holding its position.
-
----
-
-## 6. Grammar
-
-### 6.1 Passive Structures
-
-| Error | Correction |
-|---|---|
-| `has been undergone` | `has undergone` / `has been modernised` |
-| `the seating area situated` | `the seating area was situated` |
-| `a cafe and lecture room located` | `a cafe and a lecture room are located` |
-| `is constructed in where...` | `has been created where...` |
-
-Core patterns:
-
-- `X was situated at the centre.`
-- `X was located in the north-western corner.`
-- `The former X has been replaced by Y.`
-- `X has been transformed into Y.`
-- `Y has been created where X used to be.`
-
-### 6.2 `respectively`
-
-Use only when A and B clearly match C and D.
-
-> A and B were positioned in the north-eastern and south-eastern corners, respectively.
-
-> A cafe and a lecture room are now located in the south-eastern and north-eastern corners, respectively.
-
-
-### 6.3 地图题的过去时间标记
-
-`before` 和 `ago` 不要重复使用：
-
-- ✗ `Before 20 years ago, the seating area...`
-- ✓ `Twenty years ago, the seating area...`
-- ✓ `In the previous layout, the seating area...`
-
-若写 `before`，后面应接另一个过去时间点或事件，例如 `before the library was renovated`。
----
-
-## 7. Cohesion
-
-Prefer spatial language to heavy argumentative linkers.
-
-| Use less | Prefer |
-|---|---|
-| `In stark contrast` | `Today, ...` |
-| `Furthermore` | `Meanwhile` / `On the eastern side` |
-| `experienced a significant development` | `has been modernised and reorganised` |
-
-Long-sentence pattern:
+| 在原位置新设设施 | `Y has been created where X used to be.` |
+| 补充两个设施的共同位置 | `A ..., both of which will be positioned ...` |
+| 与现有布局比较 | `compared with its present layout` |
 
 > A medical centre will be built adjacent to the shops, both of which will be positioned at the eastern end of the road.
-
----
-
-## 8. Final Checklist
-
-- [ ] Overview contains only visible changes.
-- [ ] Tense matches Past / Present / Proposed.
-- [ ] Every `situated / located / positioned` has a form of `be`.
-- [ ] Directions and corners are accurate.
-- [ ] `respectively` forms a clear A–B / C–D match.
-- [ ] Body paragraphs follow one stable spatial order.
-- [ ] No unsupported purpose or impact is added.
-
----
-
-## 9. Harbour Map Language
-
-### Common errors
-
-| Error | Correction | Reason |
-|---|---|---|
-| `at the north to the car park` | `to the north of the car park` | 方位固定结构是 `to the north of`。 |
-| `a private yachts called Marina` | `a marina for private yachts` | `marina` 指游艇停泊区，不是游艇本身。 |
-| `the areas have switched their positions` | `the areas have exchanged positions` | 描述两个区域互换位置时，`exchange positions` 更自然。 |
-| `the number of docks has increased double` | `the number of docks has doubled` | `double` 可直接作动词。 |
-
-### Useful phrases
-
-| Function | Expression |
-|---|---|
-| 设施互换 | `the marina and fishing-boat areas have exchanged positions` |
-| 海滩用途改变 | `the public beach has become private for hotel guests` |
-| 港口扩建 | `a second dock has been constructed` |
-| 数量增加一个 | `the number of passenger ferries has risen from two to three` |
-
----
-
-## 10. Proposed Redevelopment Language
-
-### Common errors
-
-| Error | Correction | Reason |
-|---|---|---|
-| `compared with in the present day` | `compared with its present layout` | `compare A with B` 后需要完整的名词比较对象。 |
-| `factories are constructed along the road` | `factories are located along the road` | 描述现状位置用 `located`；`constructed` 表示建造动作。 |
-| `only single road serve the area` | `only a single road serves the area` | 单数可数名词需要冠词，第三人称单数动词加 `-s`。 |
-| `main load` | `main road` | `load` 表示负载；道路应写作 `road`。 |
-| `in the center part of the area` | `at the centre of the site` | 后者更简洁自然，且符合地图方位表达。 |
-| `housing sections` | `housing` / `residential areas` | `housing` 通常为不可数名词；`housing sections` 搭配不自然。 |
-| `is planned to expanded` | `is planned to be expanded` | 计划被扩建需要完整的被动结构。 |
-| `nearby the residential areas` | `near the residential areas` | `near` 可作介词；`nearby` 不能按此结构直接接宾语。 |
-
-### Useful phrases
-
-| Function | Expression |
-|---|---|
-| 规划改造 | `the site is planned to be redeveloped` |
-| 环岛增设 | `a second roundabout will be added on the main road` |
-| 住宅分布 | `housing will be positioned around the roundabout and along the eastern road` |
-
----
-
-## 11. Road-access Maps
-
-### Common errors
-
-| Error | Correction | Reason |
-|---|---|---|
-| `roads accessing to a hospital` | `roads providing access to a hospital` | `access` 作动词时不接 `to`；此处用名词结构更自然。 |
-| `available for staffs and public` | `for staff and the public` | `staff` 作集体名词时通常不加 `-s`；`the public` 为固定表达。 |
-| `remained its original position` | `remained in its original position` | `remain` 后接位置名词时需要介词 `in`。 |
-| `bus stops were integrated into a bus station` | `bus stops were removed and replaced by a bus station` | 站点与车站是设施替换，不是实体合并。 |
-
-### Useful phrases
-
-- `roundabouts were constructed at both ends of the road`
-- `the southern roundabout formed the junction with the main road`
-- `the shared car park was replaced by separate parking areas for staff and the public`
-
----
-
-## 12. Town-centre Redevelopment
-
-### Common errors
-
-| Error | Correction | Reason |
-|---|---|---|
-| `a circled road` / `a circled layout` | `a ring-shaped road` / `a centre encircled by a road` | `circled` describes an action or a marked item, not the shape of a road. |
-| `a facility connects southwards to the main road` | `a facility lies to the south of the main road` | A position does not imply a direct road connection. |
-| `the part of shops will remain unchanged` | `the southern row of shops will remain unchanged` | Name the visible group precisely rather than using `the part of`. |
-| `a feature will maintain its position` | `a feature will remain in its original position` | The feature itself remains; `maintain` normally takes a direct object. |
-
-### Useful phrases
-
-- `a ring-shaped dual carriageway will encircle the town centre`
-- `the central section of the main road will be converted into a pedestrian precinct`
-- `the northern row of shops will be replaced by new public facilities`
-- `the park will be reduced in size to accommodate housing`

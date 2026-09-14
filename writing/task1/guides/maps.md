@@ -41,6 +41,14 @@ Example:
 
 > Overall, the library has been modernised and reorganised, with several former book and reading areas replaced by facilities for technology, events and refreshments. One feature that has remained unchanged is the entrance.
 
+功能变化：`modernised` 强调现代化，`reorganised` 强调重新布局，`converted to new uses` 明确强调用途变化。
+
+> Overall, the library has been reorganised, with several areas converted to new uses, while the entrance has remained unchanged.
+
+若图中明确显示整体用途转变，可进一步概括：
+
+> Overall, the library has shifted from mainly providing space for books and reading to offering a wider range of services.
+
 ---
 
 ## 3. Spatial Order
@@ -144,6 +152,15 @@ Examples:
 - `The former factory site will be replaced by shops to the south-west of the centre.`
 - `The farmland will be transformed into a residential area.`
 - `The airport has remained in its original position at the eastern edge.`
+
+#### Describing a change of use
+
+| Expression | Use | Example |
+|---|---|---|
+| `be converted into ...` | 改作……用途 | `The reading room has been converted into a café.` |
+| `be repurposed as ...` | 重新利用为…… | `The former book storage area has been repurposed as a computer room.` |
+
+用于原有房间或区域改作其他用途；若原建筑被拆除并新建另一设施，用 `be demolished to make way for ...`。
 
 #### Describing an unchanged position
 

@@ -21,7 +21,7 @@ I followed her advice and asked my manager to help me prioritize my workload. I 
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I felt relieved and supported because she took my concerns seriously and gave me practical steps I could follow. Her support changed my view of resilience. I used to think strong people should solve problems on their own and keep working even under huge pressure, but now I think strength includes asking for help, accepting support, and changing direction when things don't go as planned. Since then, I've tried to focus on what I can control and never treat exhaustion as an achievement.
+I felt relieved and supported because she took my concerns seriously and gave me practical steps I could follow. Her support changed my view of resilience. I used to think strong people should solve problems on their own and keep working even under huge pressure, but now I think strength includes asking for help, accepting support, and changing direction when things don't go as planned. <mark style="background: #ABF7F7A6;">Since then, I've tried to focus on what I can control and never treat exhaustion as an achievement.</mark>
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

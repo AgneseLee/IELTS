@@ -17,7 +17,9 @@ The important decision I made was about three months ago, when my company went t
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-I was happy with the result because I was sleeping better and felt more in control of my work. Having clearer priorities helped me focus on what I could control at the time and what was most important. Looking back, this decision changed my view of resilience. I used to think strong people should keep working even under huge pressure. But now, I think real strength includes asking for help, accepting support, and changing plans when things don't go as planned. Since then, I've tried to focus on what I can control and take one manageable step at a time. Most importantly, I've learned never to treat exhaustion as an achievement.
+I was happy with the result because I was sleeping better and <mark style="background: #ABF7F7A6;">felt more in control of my work.</mark> Having clearer priorities helped me focus on what I could control at the time and what was most important.
+
+Looking back, this decision changed my view of resilience. I used to think strong people should keep working even under huge pressure. But now, I think real strength includes asking for help, accepting support, and changing plans when things don't go as planned. Since then, I've tried to focus on what I can control and take one manageable step at a time. Most importantly, I've learned never to treat exhaustion as an achievement.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

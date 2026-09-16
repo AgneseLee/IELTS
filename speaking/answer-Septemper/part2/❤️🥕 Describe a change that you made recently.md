@@ -17,7 +17,7 @@ About three months ago, my company went through a layoff, and suddenly I was giv
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-Looking back, the experience changed my view of resilience because I used to think strong and capable people should continue working even under huge pressure and handle every challenge on their own. But now my view has changed. I believe that strength can also include asking for help, accepting support, and most importantly, changing direction, especially when things don't go as planned. Now I feel more confident when facing uncertainty, and if I face any career challenges in the future, I'll be more confident dealing with them.
+Looking back, the experience changed my view of resilience because I used to think strong and capable people should <mark style="background: #ABF7F7A6;">continue working even under huge pressure </mark>and handle every challenge on their own. But now my view has changed. I believe that strength can also include asking for help, accepting support, and most importantly, changing direction, especially when things don't go as planned. Now I feel more confident when facing uncertainty, and if I face any career challenges in the future, I'll be more confident dealing with them.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

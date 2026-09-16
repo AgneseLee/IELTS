@@ -19,7 +19,7 @@ About three months ago, I had trouble falling asleep. I just couldn't fall aslee
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-When she said that, I suddenly realized how small my worries seemed in that bigger context. My concerns suddenly seemed quite trivial. Somehow, that perspective helped me calm down and ease up a bit. After that night, my sleeping problem eased a little. Although it didn't fix everything right away, it turned out to be quite helpful. I learned to look at things from a different angle. Compared with the massive scale of history, many things I was concerned about seemed small and trivial. So I gradually stopped being as anxious and frustrated as before. Overall, that's something I really appreciate about Stella. Her interest in history gave me a different perspective on my own life, and that was really helpful.
+<mark style="background: #ABF7F7A6;">When she said that, I suddenly realized how small my worries seemed in that bigger context. My concerns suddenly seemed quite trivial. Somehow, that perspective helped me calm down and ease up a bit.</mark> After that night, my sleeping problem eased a little. Although it didn't fix everything right away, <mark style="background: #ABF7F7A6;">it turned out to be quite helpful. </mark>I learned to look at things from a different angle. Compared with the <mark style="background: #ABF7F7A6;">massive scale of history</mark>, many things I was concerned about seemed small and trivial. So I gradually stopped being as anxious and frustrated as before. Overall, that's something I really appreciate about Stella. Her interest in history gave me a different perspective on my own life, and that was really helpful.
 <!-- REFLECTION_END -->
 
 ## 2. Core Ability Mapping

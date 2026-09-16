@@ -13,7 +13,7 @@
 
 About three months ago, I had trouble falling asleep. I would lie in bed and couldn't stop thinking about my career and my future. I was basically worried about everything that was bothering me. After several nights of sleeping badly, I felt like I couldn't live like that anymore. Anyway, that's why I talked to my best friend Stella and invited her to hang out with me at a nearby park, where we sometimes go after work or on weekends.
 
-**The park isn't far from my apartment. There's a large pond in the center, and in summer there are lotus flowers, although now they seem to have withered.** That afternoon, we just hung out and took a walk there. It helped me reset my mind and take a break from my daily routine. Somehow, being in that natural setting relieved some of my stress.
+**The park isn't far from my apartment. There's a large pond in the center, and in summer there are lotus flowers, although now they seem to have withered.** That afternoon, we just hung out and took a walk there. It helped me<mark style="background: #ABF7F7A6;"> reset my mind and take a break from my daily routine.</mark> <mark style="background: #ABF7F7A6;">Somehow, being in that natural setting relieved some of my stress.</mark>
 
 When I was talking to Stella about what I was concerned about, like what if AI replaced our jobs, Stella comforted me by telling me to slow down and not push myself so hard. She also told me that she would always stand by my side whenever I needed her. I used to think I had to complete every task and handle every challenge immediately because I thought that would prove that I was capable and strong enough. But after hearing what Stella said, I really felt understood and supported.
 

@@ -42,7 +42,7 @@
 
 A: Not really. It depends on the name. If it sounds familiar or similar to one I've heard before, I tend to remember it **more easily**.
 
-**Q2: How do you remember people's names?**
+**Q2: How do you remember people's names?🥕**
 
 A: I usually remember names by **linking them to something familiar**. For example, I might remember someone called Linda from my workplace by thinking of the color of the clothes she wore when we met. That makes it easier to recall.
 
@@ -74,7 +74,7 @@ A: I think it depends on how tired I am. If I'm just mentally tired after work, 
 
 ## 🧡 Rubbish and Recycling ♻️
 
-**Q1: Is waste sorting common in your country?**
+**Q1: Is waste sorting common in your country🥕?**
 
 A: Yes, I'd say it's fairly common, **at least where I live**. We have **separate bins for different types of waste** in my neighborhood. But people don't always use them correctly, and I'm still sometimes confused about which one to use.
 
@@ -82,13 +82,13 @@ A: Yes, I'd say it's fairly common, **at least where I live**. We have **separat
 
 A: Yes. My parents and teachers taught me how to **sort different kinds of waste**. But as a kid, I **could hardly remember the rules**, so I think I made a lot of mistakes.
 
-**Q3: What do you do when you see rubbish on the street?**
+**Q3: What do you do when you see rubbish on the street🥕?**
 
 A: If it's easy to pick up, like a plastic bottle, I'll pick it up and put it in **a nearby bin**. But if it's messy, like a stain or liquid, I wouldn't touch it. I'd probably just leave it.
 
-**Q4: How do you recycle things like paper and plastic?**
+**Q4: How do you recycle things like paper and plastic🥕?**
 
-A: I separate recyclable paper and plastic from my other rubbish at home. I flatten cardboard boxes and empty bottles before putting them in the **appropriate recycling bins**. It's quite easy once it becomes a habit.
+A: I usually press boxes flat and empty bottles, then put them in the appropriate bins. Once it's a habit, it's quite easy.
 
 ## 🧡 Politeness 🤝
 
@@ -96,23 +96,23 @@ A: I separate recyclable paper and plastic from my other rubbish at home. I flat
 
 A: Well, mainly from my **parents and teachers**, who reminded me to say please, hello, and thank you in my **daily life**. They also taught me not to interrupt others while they were talking. Watching how older people behaved **helped shape my behavior**, too.
 
-**Q2: Do you think being polite is very important?**
+**Q2: Do you think being polite is very important🥕?**
 
-A: Exactly, because it makes everyday interactions more pleasant and engaging, I think. It also **helps people feel respected**. For example, **something as simple as** thanking a shop assistant when shopping can make a difference.
+A: Exactly, because it makes everyday interactions more pleasant and smoother, I think. It also **helps people feel respected**. For example, **something as simple as** thanking a shop assistant when shopping can make a difference.
 
 **Q3: On what occasions should we be polite?**
 
-A: I think we should be polite in everyday situations, whether we're talking to friends or asking a stranger for help. It's especially important when we **disagree with someone**, because a calm, respectful tone can stop things from turning into an argument. Even at home, a simple please or thank you matters.
+A: I think we should be polite in everyday situations, whether we're talking to friends or asking a stranger for help. It's when we want to build a strong bond with others.
 
 **Q4: What did you do to show your politeness as a child?**
 
-A: I used to **greet my teachers** when I arrived at school and say thank you whenever someone helped me. At home, I tried to **wait my turn to speak** instead of interrupting adults. I sometimes needed a reminder, but those habits gradually became natural.
+A: As a child, I did small things like thanking shop assistants or saying good morning to my teachers before class. Those little things helped me practice being polite in daily life.
 
 ## 🧡 Fruit and vegetables 🥦
 
 **Q1: Do you like eating vegetables?**
 
-A: Yes, I do. I **have vegetables with every meal** because it’s a habit I developed in childhood. **I’ve stuck to it ever since**.
+A: Yes, I do. I **have vegetables with every meal** because it’s a habit I developed in childhood. **I’ve stuck to doing it ever since**.
 
 **Q2: How often do you eat fruit and vegetables?**
 
@@ -579,7 +579,7 @@ A: Yes, most of them do. We mainly use it to exchange updates and **stay connect
 
 A: They usually share photographs, follow news and message friends. Many also use it to find useful <mark style="background: #ABF7F7A6;">information</mark>, although not everything online is reliable. <!-- T06 -->
 
-## Teachers 🧑‍🏫
+## ❤️ Teachers 🧑‍🏫
 
 **Q: Do you have a favourite teacher?**
 
@@ -603,7 +603,7 @@ A: She encouraged me to express different opinions and gave me constructive feed
 
 > 以下五个话题沿用旧答案中的北京、湛江、独居及软件工程师背景；新增的居住经历、家庭、社区和工作环境细节为练习示例，请按真实情况调整。Work 保留原题 1、14–26，并重新连续编号。
 
-## The city you live in 🏙️
+## ❤️ The city you live in 🏙️
 
 **Q1: What city do you live in?**
 
@@ -629,7 +629,7 @@ A: For now, it's where I live and work, but I haven't decided whether I'll settl
 
 A: Yes, definitely. I see lots of young professionals on the metro, families in the parks and older people exercising in my neighbourhood. There's a real mix of age groups.
 
-## Home/Accommodation 🏠
+## ❤️ Home/Accommodation 🏠
 
 **Q1: Do you live in a house or an apartment?**
 
@@ -703,57 +703,57 @@ A: I live in an apartment in Beijing. It's a really practical choice for me beca
 
 A: My bedroom is fairly simple. There's a bed, a wardrobe, and a desk for my laptop. It's where I usually spend time relaxing and reading. That's it.
 
-## Hometown 🌊
+## ❤️ Hometown 🌊
 
 **Q1: Where is your hometown?**
 
-A: My hometown is Zhanjiang, a coastal city in Guangdong, in southern China. It's known for its fresh seafood and lovely coastal scenery.
+A: My hometown is Zhanjiang, a coastal city in Southern China. It's known for its fresh seafood and lovely coastal scenery. If you ever get a chance to visit there, I would recommend some seafood such as shrimp and crab.
 
 **Q2: What kind of place is it?**
 
-A: It's a coastal city with a fairly relaxed atmosphere. Compared with Beijing, life feels slower there, and people can spend more time enjoying food and being outdoors.
+A: It's a coastal city with a relaxed vibe, and people there are warm and welcoming. Compared with Beijing, where I live now, life feels slower there.
 
 **Q3: How long have you lived there?**
 
-A: I grew up there and lived there until I left for university. I don't live there now, but it's still the place I feel most attached to.
+A: I grew up there and lived there until leaving for university. I don't live there anymore, but it still feels like home to me.
 
 **Q4: What is one of the best things about living there?**
 
-A: One of the best things is being close to the sea. I love walking along the coast and enjoying the sea breeze, especially when I need to clear my head.
+A: One of the best things was being close to the sea. I loved walking by the coast and enjoying the sea breeze, especially when I wanted to clear my head.
 
 **Q5: Is there anything you dislike about it?**
 
-A: Yes, the summers can be really hot and humid. I tend to avoid going out in the middle of the day because even a short walk can leave me feeling sweaty and tired.
+A: Honestly, I'm quite satisfied with my hometown's infrastructure, transportation, weather, and food, so I don't think there is anything I dislike.
 
-**Q6: Do you know many people who live nearby?**
+**Q6: Do you know many people who live nearby?🥕**
 
-A: Yes, I still know some of the neighbours around my family home. We've known each other for years, so whenever I go back, we usually stop for a quick chat.
+A: Yes, I still know some neighbors around my family home. We've known each other for years, since I was a child. So whenever I go back, we usually stop for a quick chat.
 
 **Q7: Do you have any relatives who still live in your hometown? Why/Why not?**
 
-A: Yes, my parents and some other relatives still live there. They're used to the lifestyle and have friends nearby, so they don't really feel the need to move.
+A: Yes, my parents and some other relatives still live in my hometown. They are used to the lifestyle there and have lots of local friends, so they have no plans to move elsewhere.
 
 **Q8: Do you often go back to visit your hometown? Why/Why not?**
 
-A: Not as often as I'd like, because I work in Beijing and it's quite a long journey. I usually try to go back during longer holidays to spend time with my family.
+A: Not really, because I work in Beijing, which is pretty far from my hometown. One is in the north and the other is in the south, so they're really far apart.
 
 **Q9: Can you describe your hometown a little bit?**
 
-A: Zhanjiang is a coastal city with lots of seafood and a relaxed feel. What I remember most is the sea breeze and walking along the coast with my family.
+A: Zhanjiang is a coastal city in Southern China. People there are warm and welcoming. If you ever get a chance to visit there, I would recommend some seafood such as shrimp and crab.
 
 **Q10: Do you like it?**
 
-A: Yes, very much. Apart from the food and the sea, it's where my family and many of my childhood memories are. Going back always makes me feel at home.
+A: Yes, very much. Apart from the food and the sea, it's where my family is and where I grew up. Many of my childhood memories are there.
 
 **Q11: Did you like living there?**
 
-A: Yes, I did. I enjoyed being close to my family and spending time outdoors. I didn't think much about it as a child, but now I really appreciate that slower pace of life.
+A: Yes, I did. I enjoyed being close to my family and childhood friends. Spending time with them by the coast was really relaxing and unforgettable.
 
 **Q12: Do you think you'll continue living there for a long time?**
 
-A: I don't live there anymore because I'm working in Beijing. I might move back when I'm older, though, because I'd enjoy being closer to my family and living at a slower pace.
+A: Not really. Right now, I'm working in Beijing, so I probably won't move back to my hometown in the near future.
 
-## The area you live in 🌳
+## ❤️ The area you live in 🌳
 
 **Q1: Where are you living at the moment?**
 
@@ -787,7 +787,7 @@ A: I'm quite satisfied with my residential neighborhood, so I don't think anythi
 
 A: I think it depends on whether I change jobs. If I keep my job, I don't think I'll move, because it's quite convenient for me right now.
 
-## Work 💻
+## ❤️ Work 💻
 
 **Q1: Do you work or are you a student?**
 
@@ -1016,6 +1016,24 @@ A: Sometimes. I miss spending time with classmates and having longer holidays. B
 | **I've always been fascinated by coding and computer science** | 我一直对编程和计算机科学很着迷          |
 | **You might have heard of it**                                 | 你可能听说过它                  |
 
+### Hometown
+
+> 2026-09-16：根据本轮提供的 12 组问答更新，正文采用 Band 7 最小改动版；错误从原回答中归纳。
+
+| 表达 | 含义 / 用法 |
+| --- | --- |
+| **a relaxed vibe / warm and welcoming** | 轻松的氛围 / 热情友好 |
+| **It still feels like home to me** | 对我来说，那里仍有家的感觉 |
+| **enjoy the sea breeze / clear my head** | 享受海风 / 理清思绪、放松头脑 |
+| **We've known each other for years** | 我们认识很多年了 |
+| **stop for a quick chat** | 停下来聊几句 |
+| **be used to the lifestyle there** | 习惯那里的生活方式 |
+| **have no plans to move elsewhere** | 没有搬去别处的打算 |
+| **One is in the north and the other is in the south** | 一个在北方，另一个在南方 |
+| **They're really far apart** | 两地相距很远 |
+| **I probably won't move back ... in the near future** | 我近期大概不会搬回…… |
+| **recommend some seafood / recommend trying some seafood** | 推荐一些海鲜 / 推荐尝尝海鲜 |
+
 ## 错误复盘
 
 > 按共同问题归纳；同一规则只记一次。标注“可优化”的原表达并非语法错误；新增复盘优先补入已有规则。
@@ -1027,11 +1045,11 @@ A: Sometimes. I miss spending time with classmates and having longer holidays. B
 | 单数主语漏 -s    | something that offer → something that **offers**；person who enjoy → **person who enjoys**；it makes... and help... → it makes... and **helps**...     | 主句、定语从句及并列谓语都检查主语；space travel **becomes** 同理。                                                                                |
 | 复数主语误用单数谓语  | ads pops up → **ads pop up**；cheaper products does not... → cheaper products **are not**...                 | 先确认主语单复数，再按句子结构选择谓语。                                                                                                          |
 | 主语从句的一致性    | What I learnt ... are ... → What I learnt in primary school **was** mostly basic scientific knowledge       | 此处主语从句按单数；过去经历用 was。                                                                                                          |
-| 童年经历混入现在时   | I prefer（童年）→ **I preferred**；I hardly remember the rules → **I could hardly remember the rules**           | 回忆过去，整段保持过去时：enjoyed、chatted、had、kept。                                                                                        |
+| 童年经历混入现在时   | I prefer（童年）→ **I preferred**；I hardly remember the rules → **I could hardly remember the rules**；I enjoy（回忆家乡生活）→ **I enjoyed** | 回忆过去，整段保持过去时：enjoyed、chatted、had、kept。                                                                                        |
 | 当前态度误用过去时   | That was fascinating to me → **That's fascinating to me**；That was not big deal → **It's not a big deal**   | 现在喜好用现在时；看剧时被打断：**while I'm watching**。                                                                                       |
 | 明确过去时间误用完成时 | I have graduated ... eight years ago → **I graduated about eight years ago**                                | eight years ago、last night 等明确过去时间用一般过去时。                                                                                     |
 | 睡眠经历的时间参照混乱 | when I don't sleep well last night → **when I haven't slept well the night before**                         | 泛指前一晚用 the night before；明确昨晚则用 **because I didn't sleep well last night**。                                                    |
-| 完成时形式与时间关系  | I've always fascinated by → **I've always been fascinated by**；haven't take... → **haven't taken any formal courses**；stick to it by now → **I've stuck to it ever since** | have + 过去分词；持续到现在用现在完成时，过去之前已见过用 **things I had seen**。                                                                       |
+| 完成时形式与时间关系  | I've always fascinated by → **I've always been fascinated by**；haven't take... → **haven't taken any formal courses**；stick to it by now → **I've stuck to it ever since**；have know → **have known** | have + 过去分词；持续到现在用现在完成时，过去之前已见过用 **things I had seen**。                                                                       |
 | 真实习惯与假设混用   | which helped me relax（假设）→ **which would help me relax**                                                    | 日常习惯：**If I'm going to a class, I usually take...**；假设：**If I wanted to grow vegetables, a balcony would be my only option**。 |
 | 时态必须结合语境判断  | do you like → 现在偏好；did you like → 过去偏好                                                                      | 过去叙述用 **while they were talking**；至今适用的原则也可用 when they are talking。                                                           |
 | 可用形式不必硬改    | will lose interest → **lose interest**（一般习惯更直接）                                                             | will 可表常见倾向；**If it's easy to pick up, I'll pick it up** 表行动，if + 现在时搭配 would 也可表达委婉意愿。                                       |
@@ -1049,11 +1067,12 @@ A: Sometimes. I miss spending time with classmates and having longer holidays. B
 | 单数名词缺限定词 | have poor memory → **have a poor memory**；make it real difference → **make a real difference** | 同类：**a metro station、a supermarket、a hospital、a wardrobe and a desk、make a purchase、a peaceful environment、a balcony / my balcony、a new pair**。 |
 | a / an 与复数冲突 | a informed decision → **an informed decision**；a public gardens → **public gardens** | a / an 按后接音素选择；复数名词前不用 a。 |
 | a / the 未区分特指 | nearby bin → **a nearby bin / the nearby bin** | 首次提某个对象用 a，双方明确具体对象可用 the；**visit a park / go to the park、a / the catchy jingle** 同理。 |
-| 固定冠词与零冠词 | a same routine → **the same routine**；the space（外太空）→ **space** | 成块记忆：**the universe、the golden arches、watched the view、the excitement of...、a car's functions**。 |
+| 固定冠词与零冠词 | a same routine → **the same routine**；the space（外太空）→ **space**；used to lifestyle → **used to the lifestyle there** | 成块记忆：**the universe、the golden arches、watched the view、the excitement of...、a car's functions**。 |
 | 形容词、副词与比较级 | constantly exposure → **constant exposure**；more easier → **more easily**；if possibly → **if possible** | very less time → **very little time**；形容词修饰名词，副词修饰 remember；比较级不叠加。 |
 | 分词形容词形式不当 | a hand-writing letter → **a handwritten letter**；make me fulfilled and engaging → **make me feel fulfilled and engaged** | 此处事物令人 **fulfilled / engaged**，事物本身 **fulfilling / engaging**；手写也可说 **writing a letter by hand**。 |
 | other 缺少名词却未变形 | treated other → **treated others** | other 通常修饰名词，others 可独立指“其他人”。 |
 | 合法形式误判为错误 | going to English classes / going to an English class → **两者均可** | 前者泛指上英语课，后者指一节课；副词最高级 **flew furthest / the furthest** 的 the 也可省略。 |
+| 相互关系与两者指代 | each others → **each other**；one...another → **one...the other** | each other 不加 -s；明确两个对象时用 one...the other。 |
 
 ### 3. 动词搭配、介词
 
@@ -1068,12 +1087,13 @@ A: Sometimes. I miss spending time with classmates and having longer holidays. B
 | 申请对象与目标混淆          | applying for some school admissions → **applying to a school / applying for school admission**                                                 | apply to + 学校；apply for + 申请获得的资格等。                                                                             |
 | 高频名词搭配不自然          | taking risk → **take the risk / take risks**；made good value → **get good value for money**；develop memories → **build shared memories**       | having chat → **chat / have a chat**；enjoy me time → **enjoy some me time**；连同冠词、介词一起记；其他常用块：**order groceries、get some / more rest、make mistakes when sorting waste**。                     |
 | 情感与体验搭配不自然         | including sentimental value → **have sentimental value**；Something build a strong bond → **create a sense of emotional connection**🥕          | 也可说 **remind people of the strong bonds they have with others**；舒适感用 **keep me comfortable**，选择用 **go for...**。 |
-| 名词与时间搭配生硬          | calculating problems → **calculation / numerical problems**；in my day life → **in my daily life**；in my daytime → **during the day**           | 也可说 **those kinds of problems**；“几乎每天”用 **almost every day**。                                                   |
+| 名词与时间搭配生硬          | calculating problems → **calculation / numerical problems**；in my day life → **in my daily life**；in my daytime → **during the day**；in a short term → **in the near future** | 也可说 **those kinds of problems**；“几乎每天”用 **almost every day**。                                                   |
 | 动词无法同时搭配两个宾语       | meets my needs or lifestyle → **suits my needs and lifestyle**；daily life and services can be done online → **Most things can be done online** | 检查同一谓语是否适合所有并列内容。                                                                                               |
 | 直译造成意思偏差           | help people to transport more easily → **make everyday travel easier**；have less opportunity to feel tired → **be less likely to get tired**   | 前者说出行便利；后者说可能性，不是机会。                                                                                            |
 | 正确搭配无需替换           | connect names with something familiar → **原表达可保留**                                                                                             | **link names to something familiar、take notes / make notes、offers practical features** 都自然。                     |
 | 通勤与花费时间的结构 | which costs me very less time on it → **It takes me very little time to commute** | **spend less time commuting、convenient for commuting、use it for commuting** 均正确，无需强改为 to commute。 |
 | 换工作与职业身份 | software student（想表达职业）→ **software engineer**；whether I gonna change my work → **whether I change jobs** | 表示换工作常用 change jobs；change my job 并非所有语境都错。描述美团时可用 **a food delivery platform called Meituan**。 |
+| recommend 的宾语结构 | recommend you some seafood → **recommend some seafood / recommend trying some seafood** | recommend sth. to sb. 或 recommend doing sth.；不使用 recommend sb. sth. 这一双宾语结构。 |
 
 ### 4. 平行结构、指代、衔接
 
@@ -1082,28 +1102,29 @@ A: Sometimes. I miss spending time with classmates and having longer holidays. B
 | 并列动词形式不一致 | work out and painting → **work out and paint**；prefer staying... and have... → **prefer staying... and getting...** | 并列项保持形式一致；也可用 **prefer to stay... and get...**；have to wait or **repeat** 同理。 |
 | 偏好与比较结构混搭 | more convenient instead of → **more convenient than**；more like guessing rather than... → **more like guessing than...** | 固定结构：**prefer doing A to doing B、would rather do A than do B**；不重复 rather。 |
 | 并列名词与动作混杂 | a different layout, color and things → **tried different layouts and colors and drew things...** | 同类内容并列；不同动作分开表达。 |
-| 主语、代词或比较对象不清 | because it relaxes it → **because the conversation would help me relax**；similar to someone...（比较名字）→ **similar to one I've heard before** | 明确谁做什么；同类对象比较。vegetables 对应 **they're healthier and make me feel refreshed**。 |
+| 主语、代词或比较对象不清 | because it relaxes it → **because the conversation would help me relax**；similar to someone...（比较名字）→ **similar to one I've heard before**；that's very far from each other → **they're really far apart** | 明确谁做什么；同类对象比较。vegetables 对应 **they're healthier and make me feel refreshed**。 |
 | 人称与关系词指错对象 | when people meet the next time → **when we meet again**；schools, who... → **parents and teachers, who...** | 保持人称一致，who 指人；回忆对象可用 **memories of their family and friends**。 |
-| 句子缺主语或多出 be | In my daily life is... → **It's an interesting thing to learn about**；that's makes → **that makes** | is a bed → **there's a bed**；there is anything needs to be changed → **anything needs to change / anything needs to be changed**；完整句需要主语与谓语；不要在实义动词前多加 is。 |
+| 句子缺主语或多出 be | In my daily life is... → **It's an interesting thing to learn about**；that's makes → **that makes**；is where my family and where I grew up → **it's where my family is and where I grew up** | is a bed → **there's a bed**；there is anything needs to be changed → **anything needs to change / anything needs to be changed**；完整句需要主语与谓语；不要在实义动词前多加 is。 |
 | 身份表达结构残缺 | I think practical person → **As a practical person / As I'm a practical person** | as + 名词短语，或 as + 完整从句。 |
 | 修饰语位置生硬 | in a difficult way to understand → **in a way that's difficult to understand**；I hardly could remember them → **I could hardly remember the rules** | 用从句修饰 way；hardly 通常放在情态动词后。 |
 | 让步连接词重复或无逻辑 | Though... but... → **Though / Although ..., ...** | 不再加 but；无让步关系时直接说 **I can't afford one right now**，不机械加 though。 |
 | 条件与否定衔接缺失 | especially we've just met once → **especially if we've only met once**；I can't remember theirs as well → **I might not remember their name either** | if 引出条件，only 强调次数；否定句中“也”用 either。 |
 | 举例结构重复 | Even like something simple, like... → **something as simple as thanking a shop assistant** | 保留一套举例结构。 |
 | 口语停顿与语序偏好误判 | Because 单独补原因 → **整理时可并入前句** | 口语允许补充原因及 **Well, some of them** 这类短答；**I'm still sometimes confused / sometimes I'm still confused** 均可。 |
+| 并列形容词与名词混用 | welcoming and hospitality → **warm and welcoming / welcoming and hospitable** | 描述人时并列形容词；hospitality 是名词。 |
 
 ### 5. 重复、冗长、自然度
 
 | 共同问题       | 原表达 → 推荐表达                                                                                                                  | 简短规则                                                                                                                                                 |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 同一意思反复表达   | interesting and fascinating → **fascinating**；in person + offline → **in person**；liquid or fluid → **liquid / a spill**    | a solution to solve → **a solution to the problem**；just simply → **just / simply**；一个意思保留一次；on paper 重复、helpful and useful、重复说 nap 同理。              |
+| 同一意思反复表达   | interesting and fascinating → **fascinating**；in person + offline → **in person**；liquid or fluid → **liquid / a spill**；working and having a job → **working**；同段重复 coastal city → **保留一次** | a solution to solve → **a solution to the problem**；just simply → **just / simply**；一个意思保留一次；on paper 重复、helpful and useful、重复说 nap 同理。              |
 | 频率或“重复”堆叠  | once a month + once every few weeks → **选一个实际频率**；repetitive / routine / repeatedly → **do the same routine over and over** | 不重复交代同一信息。                                                                                                                                           |
 | 自然度优化      | enjoy themselves and relax themselves → **unwind / enjoy some fresh air**；various scenery → **more space and variety**      | 按本题意思选词；表达日常抽离可用 **escape from my daily routine**。                                                                                                   |
-| 可删赘词误当语法错误 | comfortable enough → **comfortable**；helped me shape my behavior → **helped shape my behavior**                             | **very near my workplace、figuring out something difficult、on the higher floors** 本身也可用，按语境决定是否调整；原表达本身正确；if possible 无需强调限制时可删，at least some 也非语法错误。 |
+| 可删赘词误当语法错误 | comfortable enough → **comfortable**；helped me shape my behavior → **helped shape my behavior**；relaxed atmosphere / by the coastline **均可保留**；relaxed vibe / by the coast 为可选表达 | **very near my workplace、figuring out something difficult、on the higher floors** 本身也可用，按语境决定是否调整；原表达本身正确；if possible 无需强调限制时可删，at least some 也非语法错误。 |
 | 近义词意思不同    | answer me → **ask me**（问我）；usually remember → **still remember**（仍记得）；bought / brought snacks → **买 / 带零食**                 | 按真实意思选，不机械互换。                                                                                                                                        |
-| 描述词语义不准    | funny → **fun / interesting**（有趣）；imaginary ideas → **imaginative ideas**（有想象力）                                             | funny 通常指好笑或奇怪；汽车外观可用 **stylish**。                                                                                                                   |
+| 描述词语义不准    | funny → **fun / interesting**（有趣）；imaginary ideas → **imaginative ideas**（有想象力）；equipment setup（城市设施）→ **infrastructure** | funny 通常指好笑或奇怪；汽车外观可用 **stylish**。                                                                                                                   |
 | 概念或范围混淆    | vegan dishes → **vegetables**（蔬菜）；physical / handwritten letters → **实体信 / 手写信**                                            | 概念并非同义；泛指居民用 **people**，强调成年人用 **adults**，adult people 通常多余。                                                                                         |
-| 表达与意图不一致   | remember someone as Linda → **someone called / named Linda**；with a meal → **with every / each meal**（每餐）                   | 原表达未必错，但意思不同；**value A more than B** 是更看重 A，**weigh up A and B** 是权衡。                                                                                |
+| 表达与意图不一致   | remember someone as Linda → **someone called / named Linda**；with a meal → **with every / each meal**（每餐）；would rather move anywhere（想说不搬走）→ **have no plans to move elsewhere** | 原表达未必错，但意思不同；**value A more than B** 是更看重 A，**weigh up A and B** 是权衡。                                                                                |
 | 对象与行动过于笼统  | call some professionals → **按实际情况说明是否联系清洁人员**                                                                               | **I don't live with my family, so I can't really say** 可直接回答，不补写家人习惯；不无依据补行动；**meet my friend / a friend** 按是否特指选择。                                  |
 | 未完成句与过度延伸  | making crafts... was a cheap way to make something... → **保留已说完整的观点**                                                       | 通常 2–3 句：直接回答 + 原因或个人例子；意思完整即可收尾。                                                                                                                    |
 | 语境中的可选调整   | cannot meet often → **don't meet often**；we have a busy daily schedule → **we all have busy schedules**                     | cannot 表示无法，don't 表示频率低；we 配 a busy schedule 也可成立，复数更清楚地表示各自的日程。                                                                                     |

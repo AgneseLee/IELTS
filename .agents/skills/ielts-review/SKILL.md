@@ -14,7 +14,7 @@ User shares an essay inline, via a named file, or alongside an image of the task
 ### Phase 1 — Assessment
 
 Read the essay and its corresponding note:
-- Task 1: start with `writing/task1/README.md`, then read the relevant guide in `writing/task1/guides/`: `data-static.md`, `data-dynamic.md`, `maps.md` or `process-diagrams.md`. Choose static/dynamic by the time dimension; mixed charts may need both. Follow relevant shared-language links and consult `common-errors.md` for recurring language errors.
+- Task 1: start with `writing/task1/README.md`, then read the relevant guide in `writing/task1/guides/`: `chart-dynamic-static.md`, `maps.md` or `process-diagrams.md`. For data charts, distinguish static/dynamic by the time dimension within the combined chart guide. Follow relevant shared-language links and consult `common-errors.md` for recurring language errors.
 - Task 2: `writing/task2/guides/core-note.md`
 
 Score across four IELTS criteria:
@@ -59,7 +59,7 @@ After the revision, append new patterns to the corresponding note that are **not
 
 Do not duplicate existing entries. Add only what is genuinely new.
 
-For Task 1, update the relevant task-type guide selected in Phase 1; put general language-error patterns in `writing/task1/guides/common-errors.md`. Keep shared chart expressions in `data-static.md` and link from `data-dynamic.md` when needed. Keep `writing/task1/README.md` limited to navigation and the universal structure.
+For Task 1, update the relevant task-type guide selected in Phase 1; put general language-error patterns in `writing/task1/guides/common-errors.md`. Keep shared chart expressions in `chart-dynamic-static.md`. Keep `writing/task1/README.md` limited to navigation and the universal structure.
 
 ### Phase 4 — Create or update the essay document
 

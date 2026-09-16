@@ -44,7 +44,7 @@ Present-map pattern:
 
 动词
 was situated / positioned / located ... 
-occupied ... / lied ...
+occupied ... / lay ...
 was encircled by / surrounded by 
 
 新增
@@ -55,7 +55,9 @@ was converted / transformed into / repurposed as a ... /
 was removed and replaced by / was demolished to make way for ...
 
 不变
-remained in its original position / retain its original position
+remained in its original position /
+retain its original position
+remained unchanged
 
 复杂句
 has been created where X used to be
@@ -74,6 +76,8 @@ on either side of xx / flanking
 其它
 compared with its present layout
 exchanged positions
+the proposed redevelopment of somewhere
+was substantially reorganized
 
 ---
 
@@ -86,6 +90,8 @@ exchanged positions
 | Expansion from a centre | `radiating from the city centre`  |
 |                         | a ring-shaped road                |
 |                         | formed the junction               |
+a road ran east past sth towards sth
+was connected southwards to 哪里 via xx road.
 
 Examples:
 

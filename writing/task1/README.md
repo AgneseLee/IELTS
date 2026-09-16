@@ -6,8 +6,8 @@
 
 | Task type | Guide | Main decision |
 |---|---|---|
-| Static data | [Static data](guides/data-static.md) | Ranking, gap, proportion or spending |
-| Dynamic data | [Dynamic data](guides/data-dynamic.md) | Direction, peak, reversal or stability |
+| Static data | [Static data](guides/chart-dynamic-static.md) | Ranking, gap, proportion or spending |
+| Dynamic data | [Dynamic data](guides/chart-dynamic-static.md) | Direction, peak, reversal or stability |
 | Map | [Maps](guides/maps.md) | Past, present or proposed layout |
 | Process | [Processes](guides/process-diagrams.md) | Linear or cyclical; start and endpoint |
 

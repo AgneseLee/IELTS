@@ -19,7 +19,7 @@ So that night, I called her and described what I was going through at the moment
 <!-- NARRATIVE_END -->
 
 <!-- REFLECTION_START -->
-After hearing what she said, I felt really understood and supported. She's the kind of person who always stays calm, whatever the situation is. She's also such a charming and optimistic person, and that's what I've always liked about her.
+After hearing what she said, I felt really understood and supported.
 
 What she said made me realize that slowing down doesn't mean falling behind. Instead, it allows us to focus on what we can control and realize what truly matters at the moment, so that we can focus our efforts without distractions. Anyway, somehow some of my stress was relieved. The <mark style="background: #ABF7F7A6;">conversation</mark> was kind of magical. After having that talk with her, my sleep improved a bit. Even though it didn't fix everything right away, I felt more confident when facing difficulties at work and in life, because Stella told me that she would always <mark style="background: #ABF7F7A6;">support</mark> me. That's why I like her so much.
 <!-- REFLECTION_END -->
